@@ -77,10 +77,10 @@ EndBel
 
     if (ob2) {
 	tmp = environment(ob2);
-	if (living(ob1)) 
+	if (living(ob2)) 
 	    tell_object(tmp, "Bel recalls his axe to aid him.\n");
 
-	ob1->move(this_object());
+	ob2->move(this_object());
     } else {    
 	ob2 = clone_object (BAATOR+"items/molyaxe") ;
     }
