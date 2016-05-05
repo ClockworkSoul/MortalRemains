@@ -1,0 +1,5 @@
+u/o/omicron/hom/ent.c line 10: parse error before the end of line
+u/o/omicron/hom/ent.c line 18: Undefined variable 'RM' before "m3.c",
+u/o/omicron/hom/r4.c line 30: parse error before ) );
+u/o/omicron/hom/r4.c line 30: parse error before ) );
+u/o/omicron/hom/l.c line 10: parse error before  1);

@@ -1,0 +1,9 @@
+u/i/islair/wolf.c line 2: parse error before the end of line
+u/i/islair/wolf.c line 5: parse error before the end of line
+u/i/islair/wolf.c line 31: parse error before the end of file
+u/i/islair/wolf.c line 6: parse error before the end of line
+u/i/islair/wolf.c line 11: parse error before ("id", ({ "wolf" }) 
+u/i/islair/wolf.c line 11: parse error before ("id", ({ "wolf" }) 
+u/i/islair/wolf.c line 11: parse error before ", ({ "wolf" }) );"
+u/i/islair/wolf.c line 11: parse error before ", ({ "wolf" }) );"
+u/i/islair/wolf.c line 11: parse error before ("id" ({ "wolf" }) )

@@ -1,0 +1,8 @@
+u/p/penumbra/oroom.c line 10: Redeclaration of function create. before the end of line
+std/user.c line 1044: Warning: Value of conditional expression is unused before the end of line
+u/p/penumbra/workroom.c line 1: Cannot #include /u/c/cyanide/workroom.c before the end of file
+u/p/penumbra/workroom.c line 1: Cannot #include /u/c/cyanide/workroom.c before the end of file
+u/p/penumbra/workroom.c line 1: Cannot #include /u/c/cyanide/workroom.c before the end of file
+u/p/penumbra/workroom.c line 1: Cannot #include /u/c/cyanide/workroom.c before the end of file
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line

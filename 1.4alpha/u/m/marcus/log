@@ -1,0 +1,14 @@
+u/m/marcus/test/mob/mirror.c line 10: "#pragma strict_types" requires type of function before str){
+u/m/marcus/test/mob/mirror.c line 10: Missing type for argument before ){
+u/m/marcus/test/mob/mirror.c line 10: Missing type for argument before ){
+u/m/marcus/test/mob/mirror.c line 11: "#pragma strict_types" requires type of function before string str){
+u/m/marcus/test/mob/mirror.c line 11: parse error before (string str){
+u/m/marcus/test/mob/mirror.c line 11: parse error before (str){
+u/m/marcus/test/mob/mirror.c line 11: parse error before (str){
+u/m/marcus/test/mob/mirror.c line 11: "#pragma strict_types" requires type of function before ){
+u/m/marcus/test/mob/mirror.c line 12: Reserved type name unexpected. before ){
+u/m/marcus/test/mob/mirror.c line 12: parse error before ){
+u/m/marcus/test/mob/mirror.c line 11: "#pragma strict_types" requires type of function before ){
+u/m/marcus/test/mob/mirror.c line 12: Reserved type name unexpected. before ){
+u/m/marcus/test/mob/mirror.c line 12: parse error before ){
+u/m/marcus/test/mob/mirror.c line 11: Missing type for argument before ){

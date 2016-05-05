@@ -1,0 +1,30 @@
+u/a/aurora/rooms/go_away.c line 6: Cannot #include std.h before inherit ROOM;
+u/a/aurora/rooms/go_away.c line 13: Undefined function set_property before ;
+u/a/aurora/rooms/go_away.c line 15: Undefined function set_short before ;
+u/a/aurora/rooms/go_away.c line 28: Undefined function set_exits before ;
+u/a/aurora/rooms/go_away.c line 34: No such inherited function ::init before ;
+u/a/aurora/rooms/bedroom.c line 4: Cannot #include std.h before inherit ROOM;
+u/a/aurora/rooms/bedroom.c line 12: Undefined function set_property before ;
+u/a/aurora/rooms/bedroom.c line 33: Undefined function set_exits before ;
+u/a/aurora/rooms/bedroom.c line 40: Undefined function set_items before ;
+u/a/aurora/rooms/bedroom.c line 43: "#pragma strict_types" requires type of function before ) {
+u/a/aurora/rooms/bedroom.c line 44: No such inherited function ::init before ;
+u/a/aurora/rooms/jail.c line 6: No such inherited function ::init before ;
+u/a/aurora/rooms/jail.c line 14: Undefined function set_property before ;
+u/a/aurora/rooms/jail.c line 19: Undefined function skip_obvious before ;
+u/a/aurora/rooms/storage.c line 6: Cannot #include std.h before inherit ROOM;
+u/a/aurora/rooms/storage.c line 13: Undefined function set_property before ;
+u/a/aurora/rooms/storage.c line 15: Undefined function set_short before ;
+u/a/aurora/rooms/storage.c line 25: Undefined function set_items before ;
+u/a/aurora/rooms/storage.c line 29: Undefined function set_exits before ;
+u/a/aurora/rooms/storage.c line 30: Undefined function set_invis_exits before ;
+u/a/aurora/rooms/box.c line 6: Cannot #include std.h before inherit ROOM;
+u/a/aurora/rooms/box.c line 13: Undefined function set_property before ;
+u/a/aurora/rooms/box.c line 15: Undefined function set_short before ;
+u/a/aurora/rooms/box.c line 28: Undefined function set_exits before ;
+u/a/aurora/rooms/box.c line 34: No such inherited function ::init before ;
+u/a/aurora/rooms/gateway.c line 1: Cannot #include std.h before the end of line
+u/a/aurora/rooms/gateway.c line 6: No such inherited function ::init before ;
+u/a/aurora/rooms/gateway.c line 12: Undefined function set_property before ;
+u/a/aurora/rooms/gateway.c line 22: Undefined function set_items before ;
+u/a/aurora/rooms/gateway.c line 35: Undefined function set_exits before ;

@@ -1,0 +1,64 @@
+d/Planar/Baator/phlegethos/pit6.c line 11: Cannot #include c_deathdealer.h before #include <config.h>
+d/Planar/Baator/phlegethos/pit6.c line 17: Cannot #include /d/Outer/Sigil/sigil.h before #include "baator.h"
+d/Planar/Baator/phlegethos/pit6.c line 11: Cannot #include c_deathdealer.h before #include <config.h>
+d/Planar/Baator/phlegethos/pit6.c line 17: Cannot #include /d/Outer/Sigil/sigil.h before #include "baator.h"
+d/Planar/Baator/maldomini/gren6.c line 22: End of file in string before .c"
+d/Planar/Baator/maldomini/gren6.c line 22: parse error before .c"
+d/Planar/Baator/maldomini/gren6.c line 22: End of file in string before .c"
+d/Planar/Baator/maldomini/gren6.c line 22: parse error before .c"
+d/Planar/Baator/maldomini/gren6.c line 22: End of file in string before .c"
+d/Planar/Baator/maldomini/gren6.c line 22: parse error before .c"
+d/Planar/Abyss/Nazi/room/nazi10.c line 50: parse error before the end of file
+d/Planar/Baator/minauros/city9.c line 15: parse error before  ("exits", ([   
+d/Planar/Baator/minauros/city9.c line 28: Illegal LHS before the end of line
+d/Planar/Baator/minauros/city9.c line 28: parse error before the end of line
+d/Planar/Baator/minauros/city9.c line 30: Illegal LHS before the end of line
+d/Planar/Baator/minauros/city9.c line 30: parse error before the end of line
+d/Planar/Baator/minauros/city9.c line 32: Illegal LHS before the end of line
+d/Planar/Baator/minauros/city28.c line 11: Undefined variable 'EndLong' before  are before the entr
+d/Planar/Baator/minauros/city28.c line 11: parse error before  are before the entr
+d/Planar/Baator/minauros/city28.c line 49: Illegal LHS before  i < 3; i++) {    
+d/Planar/Baator/minauros/city28.c line 50: Illegal LHS before the end of line
+d/Planar/Baator/minauros/city28.c line 50: parse error before the end of line
+d/Planar/Baator/minauros/city22.c line 16: parse error before  ("short","Throne Ro
+d/Planar/Baator/minauros/hiter13.c line 13: parse error before  ("exits", ([       
+d/Planar/Baator/minauros/hiter13.c line 20: Undefined function acc_action before ;
+d/Planar/Baator/minauros/hiter13.c line 25: Undefined function query_sign before );
+d/Planar/Baator/minauros/hiter13.c line 41: Redeclaration of function query_sign. before the end of file
+d/Planar/Baator/minauros/hiter7.c line 42: parse error before the end of file
+d/Planar/Baator/minauros/hiter7.c line 42: parse error before the end of file
+d/Planar/Baator/minauros/hiter7.c line 42: parse error before the end of file
+d/Planar/Baator/minauros/hiter13.c line 13: parse error before  ("exits", ([       
+d/Planar/Baator/minauros/hiter13.c line 20: Undefined function acc_action before ;
+d/Planar/Baator/minauros/hiter13.c line 25: Undefined function query_sign before );
+d/Planar/Baator/minauros/hiter13.c line 41: Redeclaration of function query_sign. before the end of file
+d/Planar/Baator/minauros/hiter13.c line 13: parse error before  ("exits", ([       
+d/Planar/Baator/minauros/hiter13.c line 20: Undefined function acc_action before ;
+d/Planar/Baator/minauros/hiter13.c line 25: Undefined function query_sign before );
+d/Planar/Baator/minauros/hiter13.c line 41: Redeclaration of function query_sign. before the end of file
+d/Planar/Baator/minauros/hiter13.c line 13: parse error before  ("exits", ([       
+d/Planar/Baator/minauros/hiter13.c line 20: Undefined function acc_action before ;
+d/Planar/Baator/minauros/hiter13.c line 25: Undefined function query_sign before );
+d/Planar/Baator/minauros/hiter13.c line 41: Redeclaration of function query_sign. before the end of file
+d/Planar/Baator/minauros/hiter13.c line 13: parse error before  ("exits", ([       
+d/Planar/Baator/minauros/hiter13.c line 20: Undefined function acc_action before ;
+d/Planar/Baator/minauros/hiter13.c line 25: Undefined function query_sign before );
+d/Planar/Baator/minauros/hiter13.c line 41: Redeclaration of function query_sign. before the end of file
+d/Planar/Baator/minauros/hiter13.c line 13: parse error before  ("exits", ([       
+d/Planar/Baator/minauros/hiter13.c line 20: Undefined function acc_action before ;
+d/Planar/Baator/minauros/hiter13.c line 25: Undefined function query_sign before );
+d/Planar/Baator/minauros/hiter13.c line 41: Redeclaration of function query_sign. before the end of file
+d/Planar/Baator/minauros/hiter8.c line 22: Undefined variable 'ob' before  clone_object(BAATOR
+d/Planar/Baator/minauros/hiter8.c line 22: Undefined variable 'ob' before  clone_object(BAATOR
+d/Planar/Baator/minauros/hiter8.c line 22: Undefined variable 'ob' before  clone_object(BAATOR
+d/Planar/Baator/minauros/hiter8.c line 22: Undefined variable 'ob' before  clone_object(BAATOR
+d/Planar/Baator/minauros/hiter8.c line 22: Undefined variable 'ob' before  clone_object(BAATOR
+d/Planar/Baator/monsters/osyluth.c line 51: Undefined variable 'MSG_COMBAT' before  "The osyluth bites 
+d/Planar/Baator/monsters/pit_fiend.c line 51: Undefined variable 'MSG_COMBAT' before  "The pit fiend bite
+d/Planar/Baator/monsters/pit_fiend.c line 66: parse error before  {
+d/Planar/Baator/monsters/pit_fiend.c line 51: Undefined variable 'MSG_COMBAT' before  "The pit fiend bite
+d/Planar/Baator/monsters/pit_fiend.c line 66: parse error before  {
+d/Planar/Baator/phlegethos/out02.c line 24: parse error before  "It is the edge of 
+d/Planar/Baator/phlegethos/out03.c line 26: parse error before  "It is the edge of 
+d/Planar/Abyss/Nazi/room/nazi7.c line 51: Reserved type name unexpected. before () {
+d/Planar/Abyss/Nazi/room/nazi7.c line 51: parse error before () {

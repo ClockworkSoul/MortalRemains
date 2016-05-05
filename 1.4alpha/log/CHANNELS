@@ -1,0 +1,504 @@
+0-07-25 0 std/user#184 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-26 0 std/user#168 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-27 0 std/user#49 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-27 0 std/user#49 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-27 0 std/user#1067 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-28 0 std/user#5607 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-28 0 std/user#105 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-28 0 std/user#3577 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-28 0 std/user#3815 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-29 0 std/user#1047 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-29 0 std/user#1113 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-29 0 std/user#2267 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-29 0 std/user#2267 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-29 0 std/user#2367 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-29 0 std/user#2367 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-29 0 std/user#2430 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-29 0 std/user#2430 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-29 0 std/user#2468 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-29 0 std/user#2566 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-29 0 std/user#2599 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-29 0 std/user#2599 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-29 0 std/user#2624 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-30 0 std/user#2624 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-30 0 std/user#6 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-30 0 std/user#6 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-30 0 std/user#148 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-30 0 std/user#181 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-30 0 std/user#228 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-30 0 std/user#566 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-30 0 std/user#2649 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-30 0 std/user#2837 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-30 0 std/user#3165 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-30 0 std/user#3165 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-30 0 std/user#3170 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-30 0 std/user#3170 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-30 0 std/user#3177 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-30 0 std/user#3177 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-30 0 std/user#3183 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-30 0 std/user#3183 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-30 0 std/user#3290 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-30 0 std/user#3290 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-30 0 std/user#3324 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-31 0 std/user#4187 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-31 0 std/user#4319 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-31 0 std/user#4319 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-31 0 std/user#46 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-31 0 std/user#46 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-31 0 std/user#68 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-31 0 std/user#68 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-31 0 std/user#153 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-31 0 std/user#153 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-31 0 std/user#437 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-31 0 std/user#437 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-07-31 0 std/user#517 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-1 0 std/user#53 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-1 0 cmds/std/_tune - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-1 0 cmds/std/_tune - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-1 0 cmds/std/_tune - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-1 0 std/user#718 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-2 0 std/user#2838 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-2 0 std/user#6 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-2 0 cmds/std/_tune - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-2 0 cmds/std/_tune - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-2 0 cmds/std/_tune - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-2 0 std/user#150 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-2 0 cmds/std/_tune - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-2 0 std/user#376 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-3 0 std/user#3 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-3 0 std/user#3 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-3 0 std/user#450 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-4 0 std/user#18 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-4 0 std/user#18 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-4 0 std/user#33 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-5 0 std/user#1406 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-5 0 std/user#8 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-5 0 std/user#3 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-5 0 std/user#1514 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-5 0 std/user#1610 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-5 0 std/user#3 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-6 0 std/user#74 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-6 0 std/user#3 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-6 0 std/user#3 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-6 0 std/user#6 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-6 0 std/user#6 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-6 0 std/user#13 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-7 0 std/user#6 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-7 0 std/user#6 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-7 0 std/user#11 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-7 0 std/user#11 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-7 0 std/user#15 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-7 0 std/user#15 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-7 0 std/user#33 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-7 0 std/user#33 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-7 0 std/user#311 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-8 0 std/user#54 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-9 0 std/user#13 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-9 0 std/user#23 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-9 0 std/user#25 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-9 0 std/user#27 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-9 0 std/user#31 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-9 0 std/user#33 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-9 0 std/user#37 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-9 0 std/user#45 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-9 0 std/user#48 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-9 0 std/user#51 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-9 0 std/user#55 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-9 0 std/user#61 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-9 0 std/user#63 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-9 0 std/user#72 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-9 0 std/user#75 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-9 0 std/user#79 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-9 0 std/user#112 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-9 0 std/user#123 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-9 0 std/user#123 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-9 0 std/user#123 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-9 0 std/user#123 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-9 0 std/user#123 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-9 0 std/user#123 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-9 0 std/user#123 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-9 0 cmds/std/_tune - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-9 0 0 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-10 0 std/user#11 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-11 0 std/user#925 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-11 0 std/user#4 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-11 0 std/user#4 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+0-08-11 0 std/user#431 - parse_channel:	Error in /adm/daemons/network/I3/channel.c:
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+

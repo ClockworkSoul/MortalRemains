@@ -1,0 +1,55 @@
+u/d/dragoon/baator/npc/erinyes.c line 9: Cannot #include /d/baator/npc/path.h before #include <mudlib.h>
+u/d/dragoon/baator/npc/erinyes.c line 10: Cannot #include /d/baator/npc/path.h before #include "/u/d/drago
+u/d/dragoon/baator/npc/erinyes.c line 11: Cannot #include /d/baator/npc/path.h before the end of line
+u/d/dragoon/include/format.h line 1: "#pragma strict_types" requires type of function before arg) {
+u/d/dragoon/include/format.h line 1: Missing type for argument before ) {
+u/d/dragoon/include/format.h line 2: Undefined variable 'width' before txt);
+u/d/dragoon/include/format.h line 2: Undefined variable 'txt' before ;
+u/d/dragoon/include/format.h line 1: "#pragma strict_types" requires type of function before arg) {
+u/d/dragoon/include/format.h line 1: Missing type for argument before ) {
+u/d/dragoon/room.c line 7: Cannot #include ../ww.h before #include "/u/d/drago
+u/d/dragoon/room.c line 7: Cannot #include ../ww.h before the end of line
+u/d/dragoon/room.c line 15: parse error before ;
+u/d/dragoon/room.c line 15: parse error before )) ;
+u/d/dragoon/room.c line 14: Undefined function set_short before ;
+u/d/dragoon/test.c line 34: "#pragma strict_types" requires type of function before ) {
+u/d/dragoon/test.c line 35: No such inherited function ::init before ;
+u/d/dragoon/test.c line 36: Undefined function turn_on before ;
+u/d/dragoon/test.c line 38: "#pragma strict_types" requires type of function before ) {
+u/d/dragoon/test.c line 40: Undefined variable 'TIMER' before ;
+u/d/dragoon/test.c line 43: Redeclaration of function turn_on. before the end of line
+u/d/dragoon/test.c line 35: No such inherited function ::init before ;
+u/d/dragoon/test.c line 36: Undefined function turn_on before ;
+u/d/dragoon/test.c line 40: Undefined variable 'TIMER' before ;
+u/d/dragoon/test.c line 43: Redeclaration of function turn_on. before the end of line
+u/d/dragoon/test.c line 44: parse error before a
+u/d/dragoon/test.c line 35: Undefined function turn_on before ;
+u/d/dragoon/test.c line 39: Undefined variable 'TIMER' before ;
+u/d/dragoon/test.c line 42: Redeclaration of function turn_on. before the end of line
+u/d/dragoon/test.c line 43: parse error before a
+u/d/dragoon/test.c line 35: Undefined function turn_on before ;
+u/d/dragoon/test.c line 39: Undefined variable 'TIMER' before ;
+u/d/dragoon/test.c line 42: Redeclaration of function turn_on. before the end of line
+u/d/dragoon/test.c line 47: != always true because of incompatible types ( object vs string ). before  {
+u/d/dragoon/test.c line 48: Undefined variable 'ITEM' before inv)) {
+u/d/dragoon/test.c line 49: Undefined variable 'DAMAGE' before ;
+u/d/dragoon/test.c line 37: Undefined function turn_on before ;
+u/d/dragoon/test.c line 41: Undefined variable 'TIMER' before ;
+u/d/dragoon/test.c line 44: Redeclaration of function turn_on. before the end of line
+u/d/dragoon/test.c line 49: != always true because of incompatible types ( object vs string ). before  {
+u/d/dragoon/test.c line 37: Undefined function turn_on before ;
+u/d/dragoon/test.c line 41: Undefined variable 'TIMER' before ;
+u/d/dragoon/test.c line 44: Redeclaration of function turn_on. before the end of line
+u/d/dragoon/test.c line 38: Undefined function turn_on before ;
+u/d/dragoon/test.c line 45: Redeclaration of function turn_on. before the end of line
+u/d/dragoon/test.c line 54: "#pragma strict_types" requires type of function before ) {
+u/d/dragoon/test.c line 52: Undefined function next_invetory before ;
+u/d/dragoon/test.c line 52: Bad assignment ( unknown vs object ). before the end of line
+u/d/dragoon/test.c line 60: Reserved type name unexpected. before () {
+u/d/dragoon/test.c line 60: parse error before () {
+u/d/dragoon/misc/stats.c line 3: No such inherited function ::create before ;
+u/d/dragoon/misc/stats.c line 7: "#pragma strict_types" requires type of function before ) {
+u/d/dragoon/misc/stats.c line 10: Missing type for argument before  ) {
+u/d/dragoon/misc/stats.c line 6: "#pragma strict_types" requires type of function before ) {
+u/d/dragoon/misc/stats.c line 9: Missing type for argument before  ) {
+u/d/dragoon/misc/stats.c line 9: Missing type for argument before  ) {

@@ -1,0 +1,1869 @@
+[Jan 24 16:19] blood connected from 199.171.167.13.
+[Jan 24 16:19] blood cd to /u/n/nsd.
+[Jan 24 16:19] blood retr /u/n/nsd/pool.c (ASCII).
+[Jan 24 16:19] blood logged out from deity.loa.com.
+[Jan 24 16:29] blood connected from deity.loa.com.
+[Jan 24 16:29] blood retr /u/b/blood/rose.c (ASCII).
+[Jan 24 16:30] blood logged out from deity.loa.com.
+[Jan 24 17:01] blood connected from deity.loa.com.
+[Jan 24 17:01] blood stor /u/b/blood/fluit.c (ASCII).
+[Jan 24 17:01] blood logged out from deity.loa.com.
+[Jan 24 18:15] blood connected from deity.loa.com.
+[Jan 24 18:15] blood retr /u/b/blood/flute.c (ASCII).
+[Jan 24 18:15] blood logged out from deity.loa.com.
+[Jan 24 23:17] dalceon connected from user-2ivf56p.dialup.mindspring.com.
+[Jan 24 23:17] dalceon cd to /u/d/dalceon/ronin.
+[Jan 24 23:17] dalceon retr /u/d/dalceon/ronin/wildbonus.c (ASCII).
+[Jan 24 23:34] dalceon stor /u/d/dalceon/ronin/wildbonus.c (ASCII).
+[Jan 25 00:21] dalceon logged out from user-2ivf56p.dialup.mindspring.com.
+[Jan 25 13:05] blood connected from deity.loa.com.
+[Jan 25 13:05] blood retr /u/b/blood/flute.c (BINARY).
+[Jan 25 13:05] blood logged out from deity.loa.com.
+[Jan 25 13:09] blood connected from deity.loa.com.
+[Jan 25 13:09] blood cd to /open.
+[Jan 25 13:09] blood stor /open/flute.c (ASCII).
+[Jan 25 13:09] blood logged out from deity.loa.com.
+[Jan 25 13:45] blood connected from deity.loa.com.
+[Jan 25 13:45] blood retr /u/b/blood/slashring.c (ASCII).
+[Jan 25 13:46] blood logged out from deity.loa.com.
+[Jan 25 13:48] blood connected from deity.loa.com.
+[Jan 25 13:48] blood cd to /u/b/blood/newbie.
+[Jan 25 13:48] blood cd to /u/b/blood/newbie/items.
+[Jan 25 13:48] blood stor /u/b/blood/newbie/items/slashring.c (ASCII).
+[Jan 25 13:48] blood logged out from deity.loa.com.
+[Jan 25 15:10] blood connected from deity.loa.com.
+[Jan 25 15:10] blood cd to /open.
+[Jan 25 15:10] blood stor /open/x.c (ASCII).
+[Jan 25 15:10] blood logged out from deity.loa.com.
+[Jan 25 18:51] blood connected from deity.loa.com.
+[Jan 25 18:51] blood stor /u/b/blood/cm.c (ASCII).
+[Jan 25 18:51] blood logged out from deity.loa.com.
+[Jan 25 19:46] blood connected from deity.loa.com.
+[Jan 25 19:46] blood cd to /cmds.
+[Jan 25 19:46] blood cd to /cmds/wiz.
+[Jan 25 19:46] blood retr /cmds/wiz/_summon.c (ASCII).
+[Jan 25 19:46] blood logged out from deity.loa.com.
+[Jan 25 20:33] blood connected from deity.loa.com.
+[Jan 25 20:33] blood cd to /open.
+[Jan 25 20:34] blood stor /open/cm.c (ASCII).
+[Jan 25 20:34] blood logged out from deity.loa.com.
+[Jan 25 23:11] dalceon connected from user-2ivf6m5.dialup.mindspring.com.
+[Jan 25 23:11] dalceon cd to /u/d/dalceon/ronin.
+[Jan 25 23:11] dalceon stor /u/d/dalceon/ronin/wildbonus.C (ASCII).
+[Jan 25 23:12] dalceon dele /u/d/dalceon/ronin/wildbonus.C.
+[Jan 25 23:12] dalceon stor /u/d/dalceon/ronin/wildbonus.c (ASCII).
+[Jan 26 00:00] dalceon logged out from user-2ivf6m5.dialup.mindspring.com.
+[Jan 26 01:46] dalceon connected from user-2ivf2j6.dialup.mindspring.com.
+[Jan 26 01:46] dalceon cd to /u/d/dalceon.
+[Jan 26 01:47] dalceon cd to /u/d/dalceon/realms/forest.
+[Jan 26 01:47] dalceon retr /u/d/dalceon/realms/forest/forestent.c (ASCII).
+[Jan 26 02:33] dalceon logged out from user-2ivf2j6.dialup.mindspring.com.
+[Jan 27 03:15] dalceon connected from user-2ivf291.dialup.mindspring.com.
+[Jan 27 03:15] dalceon cd to /u/d/dalceon/realms/forest.
+[Jan 27 03:16] dalceon cd to /u/d/dalceon/realms/tokyo.
+[Jan 27 03:16] dalceon stor /u/d/dalceon/realms/tokyo/city1.c (ASCII).
+[Jan 27 03:16] dalceon stor /u/d/dalceon/realms/tokyo/city2.c (ASCII).
+[Jan 27 03:17] dalceon stor /u/d/dalceon/realms/tokyo/cityent.c (ASCII).
+[Jan 27 03:42] dalceon logged out from user-2ivf291.dialup.mindspring.com.
+[Jan 27 13:05] dalceon connected from 165.247.161.85.
+[Jan 27 13:05] dalceon cd to /u/d/dalceon.
+[Jan 27 13:05] dalceon logged out from user-2ivf8al.dialup.mindspring.com.
+[Jan 27 13:05] dalceon connected from user-2ivf8al.dialup.mindspring.com.
+[Jan 27 13:05] dalceon cd to /u/d/dalceon/realms/tokyo.
+[Jan 27 13:51] dalceon logged out from user-2ivf8al.dialup.mindspring.com.
+[Jan 27 21:12] dalceon connected from user-2ivf8al.dialup.mindspring.com.
+[Jan 27 21:12] dalceon cd to /u/d/dalceon/realms/tokyo.
+[Jan 27 21:12] dalceon stor /u/d/dalceon/realms/tokyo/city3.c (ASCII).
+[Jan 27 21:14] dalceon cd to /u/d/dalceon/realms/tokyo/items.
+[Jan 27 21:14] dalceon retr /u/d/dalceon/realms/tokyo/items/diamond.c (ASCII).
+[Jan 27 22:00] dalceon logged out from user-2ivf8al.dialup.mindspring.com.
+[Jan 28 00:19] dalceon connected from user-2ivf8al.dialup.mindspring.com.
+[Jan 28 00:19] dalceon cd to /u/d/dalceon/realms/tokyo/items.
+[Jan 28 00:20] dalceon stor /u/d/dalceon/realms/tokyo/items/sorb.c (ASCII).
+[Jan 28 00:41] dalceon retr /u/d/dalceon/realms/tokyo/items/sorb.c (ASCII).
+[Jan 28 00:43] dalceon stor /u/d/dalceon/realms/tokyo/items/sorb.c (ASCII).
+[Jan 28 01:21] dalceon logged out from user-2ivf8al.dialup.mindspring.com.
+[Jan 28 02:35] dalceon connected from user-2ivf1bq.dialup.mindspring.com.
+[Jan 28 02:35] dalceon cd to /u/d/dalceon/realms/tokyo/items.
+[Jan 28 03:21] dalceon logged out from user-2ivf1bq.dialup.mindspring.com.
+[Jan 28 16:52] dalceon connected from user-2ivf711.dialup.mindspring.com.
+[Jan 28 16:52] dalceon cd to /u/d/dalceon/realms/tokyo/items.
+[Jan 28 16:52] dalceon retr /u/d/dalceon/realms/tokyo/items/sorb.c (ASCII).
+[Jan 28 16:57] dalceon appe /u/d/dalceon/realms/tokyo/items/sorb.c (ASCII).
+[Jan 28 16:58] dalceon stor /u/d/dalceon/realms/tokyo/items/sorb.c (ASCII).
+[Jan 28 17:24] dalceon stor /u/d/dalceon/realms/tokyo/items/sorb.c (ASCII).
+[Jan 28 18:12] dalceon logged out from user-2ivf711.dialup.mindspring.com.
+[Jan 28 20:10] raven connected from boombox.me.umn.edu.
+[Jan 28 20:10] raven cd to /.
+[Jan 28 20:10] raven cd to /www.
+[Jan 28 20:10] raven retr /www/MR_001.jpg (ASCII).
+[Jan 28 20:14] raven retr /www/MR_002.jpg (ASCII).
+[Jan 28 20:19] raven retr /www/MR_003.jpg (ASCII).
+[Jan 28 20:20] raven retr /www/NSD_troll.jpg (ASCII).
+[Jan 28 20:21] raven logged out from boombox.me.umn.edu.
+[Jan 28 22:09] blood connected from deity.loa.com.
+[Jan 28 22:09] blood stor /u/b/blood/glass.c (ASCII).
+[Jan 28 22:09] blood logged out from deity.loa.com.
+[Jan 29 01:41] dalceon connected from user-2ivf711.dialup.mindspring.com.
+[Jan 29 01:41] dalceon cd to /u/d/dalceon/realms/tokyo/items.
+[Jan 29 01:41] dalceon stor /u/d/dalceon/realms/tokyo/items/orbtag.c (ASCII).
+[Jan 29 01:41] dalceon stor /u/d/dalceon/realms/tokyo/items/sorb.c (ASCII).
+[Jan 29 01:50] dalceon stor /u/d/dalceon/realms/tokyo/items/sorb.c (ASCII).
+[Jan 29 02:36] dalceon logged out from user-2ivf711.dialup.mindspring.com.
+[Jan 29 12:25] blood connected from deity.loa.com.
+[Jan 29 12:25] blood retr /u/b/blood/amulet.c (ASCII).
+[Jan 29 12:26] blood logged out from deity.loa.com.
+[Jan 29 12:35] blood connected from deity.loa.com.
+[Jan 29 12:35] blood stor /u/b/blood/am.c (ASCII).
+[Jan 29 12:35] blood logged out from deity.loa.com.
+[Jan 29 15:50] blood connected from deity.loa.com.
+[Jan 29 15:51] blood cd to /u/b/blood/newbie.
+[Jan 29 15:51] blood cd to /u/b/blood/newbie/items.
+[Jan 29 15:51] blood stor /u/b/blood/newbie/items/acidring.c (ASCII).
+[Jan 29 15:51] blood logged out from deity.loa.com.
+[Jan 29 15:58] blood connected from deity.loa.com.
+[Jan 29 15:58] blood cd to /u/b/blood/newbie.
+[Jan 29 15:58] blood cd to /u/b/blood/newbie/items.
+[Jan 29 15:58] blood stor /u/b/blood/newbie/items/acidring.c (ASCII).
+[Jan 29 15:58] blood logged out from deity.loa.com.
+[Jan 29 19:22] raven connected from dialupV150.mpls.uswest.net.
+[Jan 29 19:22] raven logged out from dialupV150.mpls.uswest.net.
+[Jan 29 19:23] raven connected from dialupV150.mpls.uswest.net.
+[Jan 29 19:24] raven cd to /www.
+[Jan 29 19:24] raven logged out from dialupV150.mpls.uswest.net.
+[Jan 29 19:24] raven failed/incorrect login from dialupV150.mpls.uswest.net.
+[Jan 29 19:25] raven connected from dialupV150.mpls.uswest.net.
+[Jan 29 19:26] raven cd to /www.
+[Jan 29 19:26] raven retr /www/MR_001.jpg (BINARY).
+[Jan 29 19:27] raven retr /www/MR_002.jpg (BINARY).
+[Jan 29 19:30] raven retr /www/MR_003.jpg (BINARY).
+[Jan 29 19:32] raven retr /www/NSD_troll.jpg (BINARY).
+[Jan 29 19:36] raven retr /www/index.html (BINARY).
+[Jan 29 19:37] raven logged out from dialupV150.mpls.uswest.net.
+[Jan 29 19:54] valkyrie connected from adsl-216-102-93-13.dsl.snfc21.pacbell.net.
+[Jan 29 19:54] valkyrie cd to /u/v/valkyrie.
+[Jan 29 19:55] valkyrie cd to /.
+[Jan 29 19:56] valkyrie cd to /www.
+[Jan 29 19:57] raven connected from dialupV150.mpls.uswest.net.
+[Jan 29 19:58] raven cd to /www.
+[Jan 29 19:58] blood connected from deity.loa.com.
+[Jan 29 19:59] blood cd to /www.
+[Jan 29 19:59] valkyrie cd to /u/v/valkyrie.
+[Jan 29 19:59] blood retr /www/NSD_troll.jpg (BINARY).
+[Jan 29 19:59] blood logged out from deity.loa.com.
+[Jan 29 20:02] valkyrie logged out from adsl-216-102-93-13.dsl.snfc21.pacbell.net.
+[Jan 29 20:03] raven logged out from dialupV150.mpls.uswest.net.
+[Jan 29 20:03] valkyrie connected from adsl-216-102-93-13.dsl.snfc21.pacbell.net.
+[Jan 29 20:03] valkyrie cd to /u/v/valkyrie.
+[Jan 29 20:03] valkyrie logged out from adsl-216-102-93-13.dsl.snfc21.pacbell.net.
+[Jan 29 20:06] raven connected from dialupV150.mpls.uswest.net.
+[Jan 29 20:06] raven cd to /www.
+[Jan 29 20:08] valkyrie connected from adsl-216-102-93-13.dsl.snfc21.pacbell.net.
+[Jan 29 20:08] valkyrie cd to /u/v/valkyrie.
+[Jan 29 20:08] valkyrie logged out from adsl-216-102-93-13.dsl.snfc21.pacbell.net.
+[Jan 29 20:09] raven cd to /u/r/raven.
+[Jan 29 20:09] raven stor /u/r/raven/index.html (BINARY).
+[Jan 29 20:18] raven stor /u/r/raven/index.html (BINARY).
+[Jan 29 20:19] raven logged out from dialupV150.mpls.uswest.net.
+[Jan 29 20:20] reven denied access from dialupV150.mpls.uswest.net.
+[Jan 29 20:21] raven connected from dialupV150.mpls.uswest.net.
+[Jan 29 20:21] raven stor /u/r/raven/index.html (BINARY).
+[Jan 29 20:24] raven stor /u/r/raven/index.html (BINARY).
+[Jan 29 20:25] raven stor /u/r/raven/index.html (ASCII).
+[Jan 29 20:27] raven logged out from dialupV150.mpls.uswest.net.
+[Jan 30 20:38] dalceon connected from user-2ivf7kj.dialup.mindspring.com.
+[Jan 30 20:38] dalceon cd to /u/d/dalceon/realms/tokyo/items.
+[Jan 30 20:39] dalceon retr /u/d/dalceon/realms/tokyo/items/orbtag.c (ASCII).
+[Jan 30 20:39] dalceon retr /u/d/dalceon/realms/tokyo/items/sorb.c (ASCII).
+[Jan 30 20:53] dalceon stor /u/d/dalceon/realms/tokyo/items/sorb.c (ASCII).
+[Jan 30 20:54] dalceon stor /u/d/dalceon/realms/tokyo/items/orbtag.c (ASCII).
+[Jan 30 21:39] dalceon logged out from user-2ivf7kj.dialup.mindspring.com.
+[Jan 30 22:08] dalceon connected from user-2ivf7kj.dialup.mindspring.com.
+[Jan 30 22:08] dalceon cd to /u/d/dalceon/realms/tokyo/items.
+[Jan 30 22:09] dalceon stor /u/d/dalceon/realms/tokyo/items/sorb.c (ASCII).
+[Jan 30 22:15] dalceon retr /u/d/dalceon/realms/tokyo/items/sorb.c (ASCII).
+[Jan 30 22:28] dalceon stor /u/d/dalceon/realms/tokyo/items/sorb.c (ASCII).
+[Jan 30 23:15] dalceon logged out from user-2ivf7kj.dialup.mindspring.com.
+[Jan 31 18:35] jyd connected from toy.demon.co.uk.
+[Jan 31 18:36] jyd cd to /u/d/dalceon/realms/tokyo/items.
+[Jan 31 18:37] jyd cd to /u/j/jyd.
+[Jan 31 18:38] jyd retr /u/j/jyd/mydefines.h (ASCII).
+[Jan 31 18:38] jyd retr /u/j/jyd/orbtag.c (ASCII).
+[Jan 31 18:38] jyd retr /u/j/jyd/sorb.c (ASCII).
+[Jan 31 18:38] jyd logged out from toy.demon.co.uk.
+[Jan 31 22:32] dalceon connected from user-2ivf70c.dialup.mindspring.com.
+[Jan 31 22:32] dalceon cd to /u/d/dalceon/realms/tokyo/items.
+[Jan 31 22:33] dalceon cd to /u/d/dalceon/realms/tokyo.
+[Jan 31 22:33] dalceon retr /u/d/dalceon/realms/tokyo/cityent.c (ASCII).
+[Jan 31 22:33] dalceon retr /u/d/dalceon/realms/tokyo/city3.c (ASCII).
+[Jan 31 22:33] dalceon retr /u/d/dalceon/realms/tokyo/city2.c (ASCII).
+[Jan 31 22:34] dalceon retr /u/d/dalceon/realms/tokyo/city1.c (ASCII).
+[Jan 31 22:35] dalceon cd to /d/Prime/Tokyo/city.
+[Jan 31 23:02] dalceon cd to /u/d/dalceon/realms/tokyo.
+[Jan 31 23:02] dalceon retr /u/d/dalceon/realms/tokyo/city3.c (ASCII).
+[Jan 31 23:42] dalceon stor /u/d/dalceon/realms/tokyo/city4.c (ASCII).
+[Feb  1 00:30] dalceon logged out from user-2ivf70c.dialup.mindspring.com.
+[Feb  1 00:45] dalceon connected from user-2ivf70c.dialup.mindspring.com.
+[Feb  1 00:45] dalceon cd to /u/d/dalceon/realms/tokyo.
+[Feb  1 00:45] dalceon stor /u/d/dalceon/realms/tokyo/city5.c (ASCII).
+[Feb  1 01:33] dalceon logged out from user-2ivf70c.dialup.mindspring.com.
+[Feb  1 22:30] raven connected from boombox.me.umn.edu.
+[Feb  1 22:30] raven stor /u/r/raven/IBM.gif (ASCII).
+[Feb  1 22:31] raven stor /u/r/raven/IBM.gif (BINARY).
+[Feb  1 22:32] raven logged out from boombox.me.umn.edu.
+[Feb  1 22:33] raven failed/incorrect login from boombox.me.umn.edu.
+[Feb  1 22:33] raven connected from boombox.me.umn.edu.
+[Feb  1 22:33] raven cd to /www.
+[Feb  1 22:34] raven cd to /u/r/raven.
+[Feb  1 22:34] raven stor /u/r/raven/ibm2.gif (ASCII).
+[Feb  1 22:35] raven cd to /www.
+[Feb  1 22:42] raven logged out from boombox.me.umn.edu.
+[Feb  1 23:09] raven connected from boombox.me.umn.edu.
+[Feb  1 23:09] raven logged out from boombox.me.umn.edu.
+[Feb  1 23:10] raven connected from boombox.me.umn.edu.
+[Feb  1 23:10] raven stor /u/r/raven/404.html (ASCII).
+[Feb  1 23:19] raven stor /u/r/raven/error404.gif (ASCII).
+[Feb  1 23:19] raven stor /u/r/raven/error404.gif (BINARY).
+[Feb  1 23:23] raven logged out from boombox.me.umn.edu.
+[Feb  1 23:39] raven connected from boombox.me.umn.edu.
+[Feb  1 23:39] raven cd to /u/r/raven/public_html.
+[Feb  1 23:40] raven stor /u/r/raven/public_html/error404.gif (BINARY).
+[Feb  1 23:40] raven logged out from boombox.me.umn.edu.
+[Feb  3 02:01] dalceon connected from user-2ivf0hf.dialup.mindspring.com.
+[Feb  3 02:01] dalceon cd to /u/d/dalceon/realms/tokyo.
+[Feb  3 02:02] dalceon cd to /open.
+[Feb  3 02:02] dalceon stor /open/monitems.c (ASCII).
+[Feb  3 02:27] dalceon logged out from user-2ivf0hf.dialup.mindspring.com.
+[Feb  4 13:31] blood connected from deity.loa.com.
+[Feb  4 13:31] blood cd to /obj/obj.
+[Feb  4 13:31] blood retr /obj/obj/chest.c (ASCII).
+[Feb  4 13:31] blood logged out from deity.loa.com.
+[Feb  4 13:48] blood connected from deity.loa.com.
+[Feb  4 13:48] blood logged out from deity.loa.com.
+[Feb  4 13:49] blood connected from deity.loa.com.
+[Feb  4 13:49] blood stor /u/b/blood/hole.c (ASCII).
+[Feb  4 13:49] blood logged out from deity.loa.com.
+[Feb  9 14:19] blood connected from deity.loa.com.
+[Feb  9 14:19] blood cd to /d/Prime/Magehouse.
+[Feb  9 14:19] blood cd to /d/Prime/Magehouse/monsters.
+[Feb  9 14:19] blood retr /d/Prime/Magehouse/monsters/firebug.c (ASCII).
+[Feb  9 14:19] blood logged out from deity.loa.com.
+[Feb  9 15:33] blood connected from deity.loa.com.
+[Feb  9 15:33] blood stor /u/b/blood/z.c (ASCII).
+[Feb  9 15:33] blood logged out from deity.loa.com.
+[Feb  9 15:38] blood connected from deity.loa.com.
+[Feb  9 15:39] blood stor /u/b/blood/z.c (ASCII).
+[Feb  9 15:39] blood logged out from deity.loa.com.
+[Feb  9 15:42] blood failed/incorrect login from deity.loa.com.
+[Feb  9 15:43] blood connected from deity.loa.com.
+[Feb  9 15:43] blood stor /u/b/blood/z.c (ASCII).
+[Feb  9 15:43] blood logged out from deity.loa.com.
+[Feb  9 22:42] dalceon connected from user-2ivf6fb.dialup.mindspring.com.
+[Feb  9 22:42] dalceon cd to /u/d/dalceon/realms/tokyo.
+[Feb  9 22:42] dalceon cd to /u/d/dalceon.
+[Feb  9 22:42] dalceon retr /u/d/dalceon/lagg.c (ASCII).
+[Feb  9 22:44] dalceon cd to /u/d/dalceon.
+[Feb  9 22:44] dalceon cd to /u/d/dalceon/realms/tokyo.
+[Feb  9 22:44] dalceon cd to /u/d/dalceon.
+[Feb  9 22:45] dalceon cd to /u/d.
+[Feb  9 22:45] dalceon cd to /u.
+[Feb  9 22:45] dalceon cd to /u/d/dalceon.
+[Feb  9 22:46] dalceon retr /u/d/dalceon/lagob.c (BINARY).
+[Feb  9 23:12] dalceon stor /u/d/dalceon/lagg.c (ASCII).
+[Feb  9 23:13] dalceon stor /u/d/dalceon/lagob.c (ASCII).
+[Feb  9 23:17] dalceon stor /u/d/dalceon/lagob.c (ASCII).
+[Feb  9 23:17] dalceon stor /u/d/dalceon/lagg.c (ASCII).
+[Feb  9 23:49] dalceon retr /u/d/dalceon/lagob.c (ASCII).
+[Feb  9 23:49] dalceon retr /u/d/dalceon/lagg.c (ASCII).
+[Feb 10 00:37] dalceon logged out from user-2ivf6fb.dialup.mindspring.com.
+[Feb 10 01:29] dalceon connected from user-2ivf6fb.dialup.mindspring.com.
+[Feb 10 01:29] dalceon cd to /u/d/dalceon.
+[Feb 10 01:29] dalceon stor /u/d/dalceon/lagg.c (ASCII).
+[Feb 10 01:29] dalceon stor /u/d/dalceon/lagob.c (ASCII).
+[Feb 10 01:32] dalceon stor /u/d/dalceon/lagg.c (ASCII).
+[Feb 10 01:42] dalceon connected from user-2ivf6fb.dialup.mindspring.com.
+[Feb 10 01:42] dalceon cd to /u/d/dalceon.
+[Feb 10 01:42] dalceon appe /u/d/dalceon/lagob.c (ASCII).
+[Feb 10 01:43] dalceon logged out from user-2ivf6fb.dialup.mindspring.com.
+[Feb 10 01:44] dalceon stor /u/d/dalceon/lagob.c (ASCII).
+[Feb 10 02:31] dalceon logged out from user-2ivf6fb.dialup.mindspring.com.
+[Feb 10 02:57] dalceon connected from user-2ivf6fb.dialup.mindspring.com.
+[Feb 10 02:57] dalceon cd to /u/d/dalceon.
+[Feb 10 02:57] dalceon retr /u/d/dalceon/lagob.c (ASCII).
+[Feb 10 03:05] dalceon logged out from user-2ivf6fb.dialup.mindspring.com.
+[Feb 10 03:05] dalceon connected from user-2ivf6fb.dialup.mindspring.com.
+[Feb 10 03:05] dalceon cd to /u/d/dalceon.
+[Feb 10 03:05] dalceon stor /u/d/dalceon/lagg.c (ASCII).
+[Feb 10 03:06] dalceon stor /u/d/dalceon/lagob.c (ASCII).
+[Feb 10 03:52] dalceon logged out from user-2ivf6fb.dialup.mindspring.com.
+[Feb 11 21:42] blood connected from deity.loa.com.
+[Feb 11 21:42] blood cd to /u/v/valkyrie.
+[Feb 11 21:43] blood retr /u/v/valkyrie/basement.c (ASCII).
+[Feb 11 21:43] blood logged out from deity.loa.com.
+[Feb 11 21:45] blood connected from deity.loa.com.
+[Feb 11 21:45] blood stor /u/b/blood/basement.c (ASCII).
+[Feb 11 21:45] blood logged out from deity.loa.com.
+[Feb 11 21:47] blood connected from deity.loa.com.
+[Feb 11 21:47] blood stor /u/b/blood/base1.c (ASCII).
+[Feb 11 21:47] blood logged out from deity.loa.com.
+[Feb 11 21:54] blood connected from deity.loa.com.
+[Feb 11 21:54] blood cd to /u/b/blood/newbie.
+[Feb 11 21:54] blood stor /u/b/blood/newbie/base1.c (ASCII).
+[Feb 11 21:54] blood logged out from deity.loa.com.
+[Feb 11 23:30] dalceon connected from user-2ivf5am.dialup.mindspring.com.
+[Feb 11 23:30] dalceon cd to /u/d/dalceon.
+[Feb 11 23:30] dalceon retr /u/d/dalceon/lagob.c (ASCII).
+[Feb 11 23:32] dalceon stor /u/d/dalceon/lagob.c (ASCII).
+[Feb 12 00:20] dalceon logged out from user-2ivf5am.dialup.mindspring.com.
+[Feb 12 01:56] dalceon connected from user-2ivf5am.dialup.mindspring.com.
+[Feb 12 01:56] dalceon cd to /u/d/dalceon.
+[Feb 12 01:56] dalceon stor /u/d/dalceon/city6.c (ASCII).
+[Feb 12 02:44] dalceon logged out from user-2ivf5am.dialup.mindspring.com.
+[Feb 13 18:32] blood connected from deity.loa.com.
+[Feb 13 18:32] blood cd to /d/Prime/Magehouse.
+[Feb 13 18:33] blood retr /d/Prime/Magehouse/cheesy_key.c (ASCII).
+[Feb 13 18:33] blood logged out from deity.loa.com.
+[Feb 13 18:41] blood connected from deity.loa.com.
+[Feb 13 18:41] blood stor /u/b/blood/mk.c (ASCII).
+[Feb 13 18:41] blood logged out from deity.loa.com.
+[Feb 14 02:39] blood connected from deity.loa.com.
+[Feb 14 02:39] blood cd to /u/v/valkyrie.
+[Feb 14 02:39] blood logged out from deity.loa.com.
+[Feb 14 02:39] blood connected from deity.loa.com.
+[Feb 14 02:39] blood cd to /u/v/valkyrie.
+[Feb 14 02:40] blood cd to /u/b/blood/.
+[Feb 14 02:40] blood stor /u/b/blood/foryou.c (ASCII).
+[Feb 14 02:40] blood logged out from deity.loa.com.
+[Feb 14 03:57] blood connected from deity.loa.com.
+[Feb 14 03:57] blood stor /u/b/blood/dragonkey.c (ASCII).
+[Feb 14 03:57] blood logged out from deity.loa.com.
+[Feb 15 22:30] blood connected from deity.loa.com.
+[Feb 15 22:30] blood retr /u/b/blood/weapamulet.c (ASCII).
+[Feb 15 22:30] blood retr /u/b/blood/amulet.c (ASCII).
+[Feb 15 22:30] blood logged out from deity.loa.com.
+[Feb 15 22:35] blood connected from deity.loa.com.
+[Feb 15 22:35] blood stor /u/b/blood/weapamul.c (ASCII).
+[Feb 15 22:35] blood logged out from deity.loa.com.
+[Feb 16 23:02] dalceon connected from user-2ivf2h3.dialup.mindspring.com.
+[Feb 16 23:02] dalceon cd to /u/d/dalceon/realms/tokyo.
+[Feb 16 23:02] dalceon cd to /u/d/dalceon.
+[Feb 16 23:02] dalceon retr /u/d/dalceon/displacer.c (ASCII).
+[Feb 16 23:48] dalceon logged out from user-2ivf2h3.dialup.mindspring.com.
+[Feb 17 03:41] dalceon connected from user-2ivf696.dialup.mindspring.com.
+[Feb 17 03:41] dalceon cd to /u/d/dalceon.
+[Feb 17 03:41] dalceon stor /u/d/dalceon/buddy.c (ASCII).
+[Feb 17 03:53] dalceon retr /u/d/dalceon/buddy.c (ASCII).
+[Feb 17 03:54] dalceon stor /u/d/dalceon/buddy.c (ASCII).
+[Feb 17 03:59] dalceon retr /u/d/dalceon/buddy.c (ASCII).
+[Feb 17 04:45] dalceon logged out from user-2ivf696.dialup.mindspring.com.
+[Feb 21 01:22] sophia connected from cgowave-42-47.cgocable.net.
+[Feb 21 01:24] sophia stor /u/s/sophia/work.c.doc (ASCII).
+[Feb 21 01:42] sophia logged out from cgowave-42-47.cgocable.net.
+[Feb 21 01:50] sophia connected from cgowave-42-47.cgocable.net.
+[Feb 21 01:54] sophia stor /u/s/sophia/work.c (ASCII).
+[Feb 21 01:57] sophia stor /u/s/sophia/work.c (ASCII).
+[Feb 21 01:59] sophia logged out from cgowave-42-47.cgocable.net.
+[Feb 21 02:07] sophia connected from cgowave-42-47.cgocable.net.
+[Feb 21 02:07] sophia stor /u/s/sophia/work.c (ASCII).
+[Feb 21 02:12] sophia stor /u/s/sophia/work.c (ASCII).
+[Feb 21 02:14] sophia logged out from cgowave-42-47.cgocable.net.
+[Feb 22 04:39] mortal_remains denied access from dialupAA216.mpls.uswest.net.
+[Feb 22 04:39] mortal_remains denied access from dialupAA216.mpls.uswest.net.
+[Feb 23 03:02] sophia connected from cgowave-42-47.cgocable.net.
+[Feb 23 03:18] sophia logged out from cgowave-42-47.cgocable.net.
+[Feb 28 04:44] cyanide connected from pri-dial140.suffolk.lib.ny.us.
+[Feb 28 04:44] cyanide logged out from pri-dial140.suffolk.lib.ny.us.
+[Mar  1 23:03] mortal_remains denied access from boombox.me.umn.edu.
+[Mar  6 04:58] anonymous (IE30User@) connected from 204.141.99.90.
+[Mar  6 04:58] anonymous cd to /ftp/.
+[Mar  6 04:58] nightmask connected from 204.141.99.90.
+[Mar  6 04:58] nightmask cd to /u/n.
+[Mar  6 04:58] nightmask connected from 204.141.99.90.
+[Mar  6 04:58] anonymous logged out from 204.141.99.90.
+[Mar  6 04:58] nightmask cd to /u/n.
+[Mar  6 04:58] nightmask logged out from 204.141.99.90.
+[Mar  6 04:58] nightmask connected from 204.141.99.90.
+[Mar  6 04:58] nightmask connected from 204.141.99.90.
+[Mar  6 04:58] nightmask logged out from 204.141.99.90.
+[Mar  6 04:58] nightmask logged out from 204.141.99.90.
+[Mar  6 04:58] nightmask connected from 204.141.99.90.
+[Mar  6 04:59] anonymous (IE30User@) connected from 204.141.99.90.
+[Mar  6 04:59] anonymous (IE30User@) connected from 204.141.99.90.
+[Mar  6 04:59] anonymous logged out from 204.141.99.90.
+[Mar  6 04:59] anonymous (IE30User@) connected from 204.141.99.90.
+[Mar  6 04:59] anonymous logged out from 204.141.99.90.
+[Mar  6 04:59] anonymous (IE30User@) connected from 204.141.99.90.
+[Mar  6 04:59] anonymous logged out from 204.141.99.90.
+[Mar  6 05:01] nightmask connected from 204.141.99.90.
+[Mar  6 05:01] nightmask retr /u/n/nightmask/_xp.c (BINARY).
+[Mar  6 05:04] nightmask cd to /u/n/nightmask.
+[Mar  6 05:04] nightmask logged out from 204.141.99.90.
+[Mar  6 05:09] nightmask logged out from 204.141.99.90.
+[Mar  6 05:09] nightmask logged out from 204.141.99.90.
+[Mar  6 05:09] anonymous logged out from 204.141.99.90.
+[Mar  6 14:08] grull connected from ext-37145.rational.com.
+[Mar  6 14:09] grull cd to /.
+[Mar  6 14:11] grull cd to /u/g/grull.
+[Mar  6 14:16] grull logged out from ext-37145.rational.com.
+[Mar 20 20:02] blood connected from deity.loa.com.
+[Mar 20 20:02] blood cd to /obj/examples.
+[Mar 20 20:02] blood retr /obj/examples/rose.c (BINARY).
+[Mar 20 20:02] blood logged out from deity.loa.com.
+[Mar 20 20:10] blood connected from deity.loa.com.
+[Mar 20 20:10] blood stor /u/b/blood/violet.c (ASCII).
+[Mar 20 20:11] blood logged out from deity.loa.com.
+[Mar 20 20:43] blood connected from deity.loa.com.
+[Mar 20 20:43] blood cd to /d/Prime/Magehouse.
+[Mar 20 20:43] blood retr /d/Prime/Magehouse/havenob.c (ASCII).
+[Mar 20 20:43] blood logged out from deity.loa.com.
+[Mar 23 20:15] cattt failed/incorrect login from ext-38140.rational.com.
+[Mar 23 20:15] cattt failed/incorrect login from ext-38140.rational.com.
+[Mar 23 20:16] cattt failed/incorrect login from ext-38140.rational.com.
+[Mar 23 20:16] cattt failed/incorrect login from ext-38140.rational.com.
+[Mar 23 20:16] cattt failed/incorrect login from ext-38140.rational.com.
+[Mar 23 20:16] cattt failed/incorrect login from ext-38140.rational.com.
+[Mar 23 20:17] cattt connected from ext-38140.rational.com.
+[Mar 23 20:20] cattt logged out from ext-38140.rational.com.
+[Mar 23 20:20] cattt connected from ext-38140.rational.com.
+[Mar 23 20:23] cattt logged out from ext-38140.rational.com.
+[Mar 23 20:24] cattt connected from ext-38140.rational.com.
+[Mar 23 20:31] cattt logged out from ext-38140.rational.com.
+[Mar 25 20:24] grull connected from adsl-151-203-67-0.bellatlantic.net.
+[Mar 25 20:25] grull logged out from adsl-151-203-67-0.bellatlantic.net.
+[Mar 30 22:01] blood connected from deity.loa.com.
+[Mar 30 22:01] blood cd to /obj/obj.
+[Mar 30 22:01] blood retr /obj/obj/elixir.c (ASCII).
+[Mar 30 22:01] blood logged out from deity.loa.com.
+[Mar 30 22:10] blood connected from deity.loa.com.
+[Mar 30 22:10] blood stor /u/b/blood/potion.c (ASCII).
+[Mar 30 22:10] blood logged out from deity.loa.com.
+[Mar 31 21:30] blood connected from deity.loa.com.
+[Mar 31 21:30] blood stor /u/b/blood/plan (ASCII).
+[Mar 31 21:30] blood logged out from deity.loa.com.
+[Apr  4 01:16] blood connected from deity.loa.com.
+[Apr  4 01:16] blood cd to /obj/examples.
+[Apr  4 01:17] blood retr /obj/examples/elastic.c (BINARY).
+[Apr  4 01:17] blood logged out from deity.loa.com.
+[Apr  4 01:31] blood connected from deity.loa.com.
+[Apr  4 01:32] blood stor /u/b/blood/pie.c (ASCII).
+[Apr  4 01:32] blood logged out from deity.loa.com.
+[Apr 11 20:40] raven failed/incorrect login from boombox.me.umn.edu.
+[Apr 11 20:41] raven connected from boombox.me.umn.edu.
+[Apr 11 20:41] raven retr /u/r/raven/20 (BINARY).
+[Apr 11 20:42] raven cd to /u/n/nsd.
+[Apr 11 20:42] raven retr /u/n/nsd/pool.c (BINARY).
+[Apr 11 20:42] raven retr /u/n/nsd/bathroom.c (BINARY).
+[Apr 11 20:42] raven cd to /u/r/raven.
+[Apr 11 20:42] raven retr /u/r/raven/workroom.c (BINARY).
+[Apr 11 20:42] raven logged out from boombox.me.umn.edu.
+[Apr 11 21:36] raven connected from boombox.me.umn.edu.
+[Apr 11 21:38] raven stor /u/r/raven/entrance.c (BINARY).
+[Apr 11 21:54] raven logged out from boombox.me.umn.edu.
+[Apr 11 22:00] raven connected from boombox.me.umn.edu.
+[Apr 11 22:00] raven stor /u/r/raven/test.c (ASCII).
+[Apr 11 22:11] raven stor /u/r/raven/test.c (ASCII).
+[Apr 11 22:12] raven logged out from boombox.me.umn.edu.
+[Apr 11 22:17] raven connected from boombox.me.umn.edu.
+[Apr 11 22:17] raven retr /u/r/raven/test.c (ASCII).
+[Apr 11 22:21] raven retr /u/r/raven/test.c (ASCII).
+[Apr 11 22:22] raven stor /u/r/raven/test.c (ASCII).
+[Apr 11 22:23] raven logged out from boombox.me.umn.edu.
+[Apr 11 23:07] raven connected from boombox.me.umn.edu.
+[Apr 11 23:08] raven stor /u/r/raven/test.c (ASCII).
+[Apr 11 23:08] raven stor /u/r/raven/test.c (ASCII).
+[Apr 11 23:11] raven logged out from boombox.me.umn.edu.
+[Apr 12 00:25] shya connected from osiris.vr.net.
+[Apr 12 00:26] shya stor /u/s/shya/eh1.c (ASCII).
+[Apr 12 00:27] shya cd to /u/s/shya/test.
+[Apr 12 00:27] shya stor /u/s/shya/test/eh2.c.doc (ASCII).
+[Apr 12 00:29] shya logged out from osiris.vr.net.
+[Apr 12 00:57] shya connected from osiris.vr.net.
+[Apr 12 00:57] shya cd to /u/s/shya/rooms.
+[Apr 12 00:57] shya mkd /u/s/shya/rooms/castle.
+[Apr 12 00:57] shya cd to /u/s/shya/rooms/castle.
+[Apr 12 00:58] shya stor /u/s/shya/rooms/castle/eh1.c (ASCII).
+[Apr 12 01:06] shya stor /u/s/shya/rooms/castle/eh1.c (ASCII).
+[Apr 12 01:08] shya dele /u/s/shya/rooms/castle/eh1.c.
+[Apr 12 01:08] shya stor /u/s/shya/rooms/castle/eh1.c (ASCII).
+[Apr 12 01:10] shya stor /u/s/shya/rooms/castle/eh1.c (ASCII).
+[Apr 12 01:12] shya stor /u/s/shya/rooms/castle/eh1.c (ASCII).
+[Apr 12 01:13] shya stor /u/s/shya/rooms/castle/eh1.c (ASCII).
+[Apr 12 01:14] shya stor /u/s/shya/rooms/castle/eh1.c (ASCII).
+[Apr 12 01:16] shya failed/incorrect login from osiris.vr.net.
+[Apr 12 01:16] shya failed/incorrect login from osiris.vr.net.
+[Apr 12 01:16] shya failed/incorrect login from osiris.vr.net.
+[Apr 12 01:16] shya connected from osiris.vr.net.
+[Apr 12 01:16] shya connected from osiris.vr.net.
+[Apr 12 01:16] shya cd to /u/s/shya/rooms.
+[Apr 12 01:16] shya cd to /u/s/shya/rooms/castle.
+[Apr 12 01:16] shya logged out from osiris.vr.net.
+[Apr 12 01:17] shya connected from osiris.vr.net.
+[Apr 12 01:17] shya cd to /u/s/shya/rooms/castle.
+[Apr 12 01:17] shya stor /u/s/shya/rooms/castle/maxwell.c (BINARY).
+[Apr 12 01:17] shya logged out from osiris.vr.net.
+[Apr 12 01:18] shya logged out from osiris.vr.net.
+[Apr 12 01:18] shya connected from osiris.vr.net.
+[Apr 12 01:18] shya cd to /u/s/shya/rooms/castle.
+[Apr 12 01:18] shya logged out from osiris.vr.net.
+[Apr 12 01:18] shya logged out from osiris.vr.net.
+[Apr 12 01:19] shya failed/incorrect login from osiris.vr.net.
+[Apr 12 01:19] shya failed/incorrect login from osiris.vr.net.
+[Apr 12 01:19] shya connected from osiris.vr.net.
+[Apr 12 01:19] shya connected from osiris.vr.net.
+[Apr 12 01:19] shya logged out from osiris.vr.net.
+[Apr 12 01:19] shya connected from osiris.vr.net.
+[Apr 12 01:19] shya cd to /u/s/shya/rooms.
+[Apr 12 01:19] shya cd to /u/s/shya/rooms/castle.
+[Apr 12 01:19] shya logged out from osiris.vr.net.
+[Apr 12 01:19] shya connected from osiris.vr.net.
+[Apr 12 01:19] shya size /u/s/shya/rooms/icehouse1.c.
+[Apr 12 01:19] shya retr /u/s/shya/rooms/icehouse1.c (BINARY).
+[Apr 12 01:20] shya logged out from osiris.vr.net.
+[Apr 12 01:20] shya connected from osiris.vr.net.
+[Apr 12 01:20] shya size /u/s/shya/rooms/icehouse2.c.
+[Apr 12 01:20] shya retr /u/s/shya/rooms/icehouse2.c (BINARY).
+[Apr 12 01:21] shya connected from osiris.vr.net.
+[Apr 12 01:21] shya cd to /u/s/shya/rooms.
+[Apr 12 01:21] shya size /u/s/shya/rooms/icehouse1.c.
+[Apr 12 01:21] shya retr /u/s/shya/rooms/icehouse1.c (BINARY).
+[Apr 12 01:21] shya logged out from osiris.vr.net.
+[Apr 12 01:22] shya connected from osiris.vr.net.
+[Apr 12 01:22] shya cd to /u/s/shya/rooms.
+[Apr 12 01:22] shya logged out from osiris.vr.net.
+[Apr 12 01:23] shya connected from osiris.vr.net.
+[Apr 12 01:23] shya cd to /u/s/shya/rooms.
+[Apr 12 01:23] shya logged out from osiris.vr.net.
+[Apr 12 01:23] shya connected from osiris.vr.net.
+[Apr 12 01:23] shya cd to /u/s/shya/rooms.
+[Apr 12 01:23] shya size /u/s/shya/rooms/icehouse3.c.
+[Apr 12 01:23] shya retr /u/s/shya/rooms/icehouse3.c (BINARY).
+[Apr 12 01:23] shya size /u/s/shya/rooms/pond.c.
+[Apr 12 01:23] shya retr /u/s/shya/rooms/pond.c (BINARY).
+[Apr 12 01:24] shya size /u/s/shya/rooms/room1.c.
+[Apr 12 01:24] shya retr /u/s/shya/rooms/room1.c (BINARY).
+[Apr 12 01:24] shya size /u/s/shya/rooms/room2.c.
+[Apr 12 01:24] shya retr /u/s/shya/rooms/room2.c (BINARY).
+[Apr 12 01:24] shya size /u/s/shya/rooms/room3.c.
+[Apr 12 01:24] shya retr /u/s/shya/rooms/room3.c (BINARY).
+[Apr 12 01:24] shya size /u/s/shya/rooms/shoreline.c.
+[Apr 12 01:24] shya retr /u/s/shya/rooms/shoreline.c (BINARY).
+[Apr 12 01:24] shya logged out from osiris.vr.net.
+[Apr 12 01:25] shya connected from osiris.vr.net.
+[Apr 12 01:25] shya cd to /u/s/shya/rooms.
+[Apr 12 01:25] shya logged out from osiris.vr.net.
+[Apr 12 01:28] shya connected from osiris.vr.net.
+[Apr 12 01:28] shya cd to /u/s/shya/rooms/castle.
+[Apr 12 01:28] shya stor /u/s/shya/rooms/castle/fhall.c (BINARY).
+[Apr 12 01:28] shya logged out from osiris.vr.net.
+[Apr 12 01:29] shya connected from osiris.vr.net.
+[Apr 12 01:29] shya cd to /u/s/shya/rooms/castle.
+[Apr 12 01:29] shya cd to /u/s/shya/rooms/castle.
+[Apr 12 01:29] shya cd to /u/s/shya.
+[Apr 12 01:29] shya logged out from osiris.vr.net.
+[Apr 12 01:30] shya logged out from osiris.vr.net.
+[Apr 12 01:30] shya connected from osiris.vr.net.
+[Apr 12 01:30] shya size /u/s/shya/log.
+[Apr 12 01:30] shya retr /u/s/shya/log (BINARY).
+[Apr 12 01:30] shya logged out from osiris.vr.net.
+[Apr 12 01:31] shya failed/incorrect login from osiris.vr.net.
+[Apr 12 01:31] shya logged out from osiris.vr.net.
+[Apr 12 01:32] shya failed/incorrect login from osiris.vr.net.
+[Apr 12 01:32] shya failed/incorrect login from osiris.vr.net.
+[Apr 12 01:32] shya failed/incorrect login from osiris.vr.net.
+[Apr 12 01:32] shya connected from osiris.vr.net.
+[Apr 12 01:32] shya connected from osiris.vr.net.
+[Apr 12 01:32] shya logged out from osiris.vr.net.
+[Apr 12 01:32] shya logged out from osiris.vr.net.
+[Apr 12 01:32] shya failed/incorrect login from osiris.vr.net.
+[Apr 12 01:32] shya failed/incorrect login from osiris.vr.net.
+[Apr 12 01:32] shya connected from osiris.vr.net.
+[Apr 12 01:32] shya connected from osiris.vr.net.
+[Apr 12 01:33] shya cd to /u/s/shya/rooms.
+[Apr 12 01:33] shya cd to /u/s/shya/rooms/castle.
+[Apr 12 01:33] shya logged out from osiris.vr.net.
+[Apr 12 01:33] shya logged out from osiris.vr.net.
+[Apr 12 01:49] shya failed/incorrect login from osiris.vr.net.
+[Apr 12 01:49] shya failed/incorrect login from osiris.vr.net.
+[Apr 12 01:49] shya connected from osiris.vr.net.
+[Apr 12 01:49] shya connected from osiris.vr.net.
+[Apr 12 01:49] shya logged out from osiris.vr.net.
+[Apr 12 01:49] shya logged out from osiris.vr.net.
+[Apr 12 01:49] shya failed/incorrect login from osiris.vr.net.
+[Apr 12 01:49] shya failed/incorrect login from osiris.vr.net.
+[Apr 12 01:49] shya connected from osiris.vr.net.
+[Apr 12 01:49] shya connected from osiris.vr.net.
+[Apr 12 01:49] shya cd to /u/s/shya/rooms.
+[Apr 12 01:50] shya cd to /u/s/shya/rooms/castle.
+[Apr 12 01:50] shya logged out from osiris.vr.net.
+[Apr 12 01:50] shya connected from osiris.vr.net.
+[Apr 12 01:50] shya cd to /u/s/shya/rooms/castle.
+[Apr 12 01:50] shya stor /u/s/shya/rooms/castle/eh1.c (BINARY).
+[Apr 12 01:50] shya logged out from osiris.vr.net.
+[Apr 12 02:06] shya logged out from osiris.vr.net.
+[Apr 12 02:09] shya connected from osiris.vr.net.
+[Apr 12 02:09] shya size /u/s/shya/rooms/castle/eh1.c.
+[Apr 12 02:09] shya retr /u/s/shya/rooms/castle/eh1.c (BINARY).
+[Apr 12 02:11] shya connected from osiris.vr.net.
+[Apr 12 02:11] shya cd to /u/s/shya/rooms/castle.
+[Apr 12 02:11] shya stor /u/s/shya/rooms/castle/eh2.c (BINARY).
+[Apr 12 02:11] shya logged out from osiris.vr.net.
+[Apr 12 02:25] shya connected from osiris.vr.net.
+[Apr 12 02:25] shya cd to /u/s/shya/rooms/castle.
+[Apr 12 02:25] shya stor /u/s/shya/rooms/castle/eh2.c (BINARY).
+[Apr 12 02:25] shya stor /u/s/shya/rooms/castle/eh3.c (BINARY).
+[Apr 12 02:26] shya logged out from osiris.vr.net.
+[Apr 12 02:27] shya logged out from osiris.vr.net.
+[Apr 12 02:30] shya connected from osiris.vr.net.
+[Apr 12 02:30] shya cd to /u/s/shya/rooms/castle.
+[Apr 12 02:30] shya stor /u/s/shya/rooms/castle/eh2.c (BINARY).
+[Apr 12 02:30] shya logged out from osiris.vr.net.
+[Apr 12 02:49] shya connected from osiris.vr.net.
+[Apr 12 02:49] shya size /u/s/shya/rooms/castle/eh2.c.
+[Apr 12 02:49] shya retr /u/s/shya/rooms/castle/eh2.c (BINARY).
+[Apr 12 02:56] shya logged out from osiris.vr.net.
+[Apr 12 03:25] shya connected from gaia.vr.net.
+[Apr 12 03:25] shya logged out from gaia.vr.net.
+[Apr 12 03:37] shya connected from osiris.vr.net.
+[Apr 12 03:37] shya cd to /.
+[Apr 12 03:37] shya cd to /.
+[Apr 12 03:38] shya logged out from osiris.vr.net.
+[Apr 12 03:38] shya connected from osiris.vr.net.
+[Apr 12 03:39] shya cd to /u/s/shya/rooms.
+[Apr 12 03:46] shya logged out from osiris.vr.net.
+[Apr 12 03:46] shya connected from osiris.vr.net.
+[Apr 12 03:47] shya logged out from osiris.vr.net.
+[Apr 12 03:47] shya connected from osiris.vr.net.
+[Apr 12 03:47] shya cd to /u/s/shya.
+[Apr 12 03:47] shya cd to /u/s/shya.
+[Apr 12 03:47] shya logged out from osiris.vr.net.
+[Apr 12 03:47] shya connected from osiris.vr.net.
+[Apr 12 03:47] shya cd to /u/s/shya.
+[Apr 12 03:47] shya cd to /u/s/shya.
+[Apr 12 03:47] shya logged out from osiris.vr.net.
+[Apr 12 03:47] shya connected from osiris.vr.net.
+[Apr 12 03:48] shya cd to /u/s/shya.
+[Apr 12 03:48] shya cd to /u/s/shya.
+[Apr 12 03:48] shya logged out from osiris.vr.net.
+[Apr 12 03:48] shya connected from osiris.vr.net.
+[Apr 12 03:48] shya cd to /u/s/shya.
+[Apr 12 03:48] shya cd to /u/s/shya.
+[Apr 12 03:48] shya logged out from osiris.vr.net.
+[Apr 12 03:48] shya connected from osiris.vr.net.
+[Apr 12 03:48] shya cd to /u/s/shya.
+[Apr 12 03:48] shya cd to /u/s/shya.
+[Apr 12 03:48] shya logged out from osiris.vr.net.
+[Apr 12 03:48] shya connected from osiris.vr.net.
+[Apr 12 03:49] shya cd to /u/s/shya.
+[Apr 12 03:49] shya logged out from osiris.vr.net.
+[Apr 12 03:49] shya connected from osiris.vr.net.
+[Apr 12 03:51] shya logged out from osiris.vr.net.
+[Apr 12 03:51] shya connected from osiris.vr.net.
+[Apr 12 03:52] shya retr /u/s/shya/log (ASCII).
+[Apr 12 03:53] shya cd to /u/s/shya/rooms/castle.
+[Apr 12 03:55] shya cd to /u/s/shya.
+[Apr 12 03:55] shya logged out from osiris.vr.net.
+[Apr 12 03:55] shya connected from osiris.vr.net.
+[Apr 12 03:55] shya cd to /u/s/shya.
+[Apr 12 03:55] shya cd to /u/s/shya.
+[Apr 12 03:55] shya logged out from osiris.vr.net.
+[Apr 12 03:55] shya connected from osiris.vr.net.
+[Apr 12 03:56] shya connected from osiris.vr.net.
+[Apr 12 03:56] shya cd to /u/s/shya.
+[Apr 12 03:56] shya logged out from osiris.vr.net.
+[Apr 12 03:57] shya cd to /u/s/shya/rooms/castle.
+[Apr 12 03:57] shya cd to /u/s/shya.
+[Apr 12 03:57] shya logged out from osiris.vr.net.
+[Apr 12 03:57] shya connected from osiris.vr.net.
+[Apr 12 03:57] shya logged out from osiris.vr.net.
+[Apr 12 04:01] shya connected from osiris.vr.net.
+[Apr 12 04:01] shya cd to /u/s/shya/rooms/castle.
+[Apr 12 04:01] shya stor /u/s/shya/rooms/castle/eh1.c (ASCII).
+[Apr 12 04:02] shya stor /u/s/shya/rooms/castle/eh2.c (ASCII).
+[Apr 12 04:02] shya stor /u/s/shya/rooms/castle/eh3.c (ASCII).
+[Apr 12 04:08] shya stor /u/s/shya/rooms/castle/eh3.c (ASCII).
+[Apr 12 04:13] shya stor /u/s/shya/rooms/castle/eh3.c (ASCII).
+[Apr 12 04:13] shya retr /u/s/shya/rooms/castle/eh3.c (ASCII).
+[Apr 12 04:15] shya retr /u/s/shya/rooms/castle/eh3.c (ASCII).
+[Apr 12 04:16] shya retr /u/s/shya/rooms/castle/eh3.c (ASCII).
+[Apr 12 04:16] shya retr /u/s/shya/rooms/castle/eh3.c (ASCII).
+[Apr 12 04:17] shya cd to /u/s/shya/rooms.
+[Apr 12 04:18] shya cd to /u/s/shya/rooms/castle.
+[Apr 12 04:20] shya stor /u/s/shya/rooms/castle/wall1.c (ASCII).
+[Apr 12 04:20] shya dele /u/s/shya/rooms/castle/wall1.c.
+[Apr 12 04:32] shya stor /u/s/shya/rooms/castle/guardroom.c (ASCII).
+[Apr 12 04:32] shya dele /u/s/shya/rooms/castle/guardroom.c.
+[Apr 12 04:48] shya logged out from osiris.vr.net.
+[Apr 12 06:24] shya connected from osiris.vr.net.
+[Apr 12 06:24] shya cd to /u/s/shya/private.
+[Apr 12 06:24] shya retr /u/s/shya/private/handcuffs.c (ASCII).
+[Apr 12 06:28] shya stor /u/s/shya/private/handcuffs.c (ASCII).
+[Apr 12 06:30] shya cd to /u/s/shya/private.
+[Apr 12 06:35] shya retr /u/s/shya/private/rose.c (ASCII).
+[Apr 12 06:37] shya dele /u/s/shya/private/handcuffs.c.
+[Apr 12 06:37] shya cd to /u/n/nsd/obj.
+[Apr 12 06:37] shya retr /u/n/nsd/obj/table.c (ASCII).
+[Apr 12 06:40] shya cd to /u/s/shya/private.
+[Apr 12 06:40] shya retr /u/s/shya/private/rose.c (ASCII).
+[Apr 12 06:40] shya retr /u/s/shya/private/snowball.c (ASCII).
+[Apr 12 06:40] shya retr /u/s/shya/private/rose.c (ASCII).
+[Apr 12 06:43] shya retr /u/s/shya/private/snowball.c (ASCII).
+[Apr 12 06:55] shya stor /u/s/shya/private/handcuffs.c (ASCII).
+[Apr 12 07:01] shya stor /u/s/shya/private/handcuffs.c (ASCII).
+[Apr 12 07:03] shya stor /u/s/shya/private/handcuffs.c (ASCII).
+[Apr 12 07:04] shya retr /u/s/shya/private/handcuffs.c (ASCII).
+[Apr 12 07:10] shya retr /u/s/shya/private/whip.c (ASCII).
+[Apr 12 07:12] shya stor /u/s/shya/private/handcuffs.c (ASCII).
+[Apr 12 07:16] shya stor /u/s/shya/private/handcuffs.c (ASCII).
+[Apr 12 07:19] shya retr /u/s/shya/private/whip.c (ASCII).
+[Apr 12 07:21] shya stor /u/s/shya/private/handcuffs.c (ASCII).
+[Apr 12 07:28] shya stor /u/s/shya/private/handcuffs.c (ASCII).
+[Apr 12 07:31] shya stor /u/s/shya/private/handcuffs.c (ASCII).
+[Apr 12 07:33] shya stor /u/s/shya/private/handcuffs.c (ASCII).
+[Apr 12 07:37] shya cd to /u/n/nsd/obj.
+[Apr 12 07:37] shya retr /u/n/nsd/obj/rose_key.c (ASCII).
+[Apr 12 07:37] shya retr /u/n/nsd/obj/table.c (ASCII).
+[Apr 12 07:40] shya cd to /u/s/shya/private.
+[Apr 12 07:40] shya retr /u/s/shya/private/handcuff_key.c (ASCII).
+[Apr 12 07:42] shya cd to /u/n/nsd/obj.
+[Apr 12 07:42] shya retr /u/n/nsd/obj/rose_key.c (ASCII).
+[Apr 12 07:43] shya cd to /u/s/shya/private.
+[Apr 12 07:43] shya retr /u/s/shya/private/handcuff_key.c (ASCII).
+[Apr 12 07:44] shya stor /u/s/shya/private/handcuff_key.c (ASCII).
+[Apr 12 07:55] shya stor /u/s/shya/private/handcuffs.c (ASCII).
+[Apr 12 07:56] shya stor /u/s/shya/private/handcuffs.c (ASCII).
+[Apr 12 07:57] shya stor /u/s/shya/private/handcuffs.c (ASCII).
+[Apr 12 07:59] shya stor /u/s/shya/private/handcuffs.c (ASCII).
+[Apr 12 08:00] shya stor /u/s/shya/private/handcuffs.c (ASCII).
+[Apr 12 08:00] shya stor /u/s/shya/private/handcuffs.c (ASCII).
+[Apr 12 08:01] shya stor /u/s/shya/private/handcuffs.c (ASCII).
+[Apr 12 08:04] shya stor /u/s/shya/private/handcuffs.c (ASCII).
+[Apr 12 08:05] shya stor /u/s/shya/private/handcuffs.c (ASCII).
+[Apr 12 08:06] shya stor /u/s/shya/private/handcuffs.c (ASCII).
+[Apr 12 08:09] shya stor /u/s/shya/private/handcuffs.c (ASCII).
+[Apr 12 08:11] shya cd to /std.
+[Apr 12 08:11] shya retr /std/lock.c (ASCII).
+[Apr 12 08:19] shya logged out from osiris.vr.net.
+[Apr 12 08:22] shya connected from osiris.vr.net.
+[Apr 12 08:22] shya cd to /u/s/shya.
+[Apr 12 08:22] shya cd to /std.
+[Apr 12 08:23] shya retr /std/monster.c (ASCII).
+[Apr 12 08:31] shya retr /std/user.c (ASCII).
+[Apr 12 08:35] shya retr /std/pub.c (ASCII).
+[Apr 12 08:37] shya retr /std/profroom.c (ASCII).
+[Apr 12 08:37] shya retr /std/private_room.c (ASCII).
+[Apr 12 08:40] shya retr /std/priv.c (ASCII).
+[Apr 12 08:40] shya retr /std/rn.c (ASCII).
+[Apr 12 08:41] shya retr /std/smartmonster.c (ASCII).
+[Apr 12 08:41] shya retr /std/spell.c (ASCII).
+[Apr 12 08:43] shya logged out from osiris.vr.net.
+[Apr 12 17:57] shya connected from osiris.vr.net.
+[Apr 12 17:58] shya cd to /u/s.
+[Apr 12 17:58] shya cd to /u.
+[Apr 12 17:58] shya logged out from osiris.vr.net.
+[Apr 12 17:59] shya connected from osiris.vr.net.
+[Apr 12 17:59] shya cd to /u/s/shya.
+[Apr 12 17:59] shya cd to /u/s/shya.
+[Apr 12 17:59] shya cd to /u/s/shya/private.
+[Apr 12 17:59] shya retr /u/s/shya/private/handcuffs.c (ASCII).
+[Apr 12 18:04] shya retr /u/s/shya/private/handcuffs.c (ASCII).
+[Apr 12 18:04] shya stor /u/s/shya/private/handcuffs.c (ASCII).
+[Apr 12 18:11] shya stor /u/s/shya/private/handcuffs.c (ASCII).
+[Apr 12 18:11] shya retr /u/s/shya/private/handcuffs.c (ASCII).
+[Apr 12 18:25] shya cd to /u/s/shya.
+[Apr 12 18:25] shya cd to /u/s/shya/rooms.
+[Apr 12 18:25] shya cd to /u/s/shya.
+[Apr 12 18:25] shya retr /u/s/shya/workroom.c (ASCII).
+[Apr 12 18:27] shya stor /u/s/shya/workroom.c (ASCII).
+[Apr 12 18:45] shya logged out from osiris.vr.net.
+[Apr 12 23:45] shya connected from osiris.vr.net.
+[Apr 12 23:45] shya cd to /u/s/shya/private.
+[Apr 12 23:45] shya retr /u/s/shya/private/bedroom.c (ASCII).
+[Apr 12 23:50] shya retr /u/s/shya/private/bedroom.c (ASCII).
+[Apr 12 23:51] shya stor /u/s/shya/private/bedroom.c (ASCII).
+[Apr 12 23:54] shya logged out from osiris.vr.net.
+[Apr 14 15:36] shya connected from osiris.vr.net.
+[Apr 14 15:36] shya cd to /u/s/shya/rooms.
+[Apr 14 15:36] shya retr /u/s/shya/rooms/room1.c (ASCII).
+[Apr 14 15:38] shya stor /u/s/shya/rooms/eh1.c (ASCII).
+[Apr 14 15:39] shya dele /u/s/shya/rooms/eh1.c.
+[Apr 14 15:39] shya cd to /u/s/shya/rooms/castle.
+[Apr 14 15:39] shya stor /u/s/shya/rooms/castle/eh1.c (ASCII).
+[Apr 14 15:41] shya stor /u/s/shya/rooms/castle/eh2.c (ASCII).
+[Apr 14 15:42] shya stor /u/s/shya/rooms/castle/eh3.c (ASCII).
+[Apr 14 16:00] shya logged out from osiris.vr.net.
+[Apr 15 03:59] shya connected from osiris.vr.net.
+[Apr 15 03:59] shya cd to /u/s/shya/rooms/castle.
+[Apr 15 04:00] shya stor /u/s/shya/rooms/castle/guardroom.c (ASCII).
+[Apr 15 04:00] shya stor /u/s/shya/rooms/castle/guardroom.c (ASCII).
+[Apr 15 04:00] shya stor /u/s/shya/rooms/castle/guardroom.c (ASCII).
+[Apr 15 04:15] shya logged out from osiris.vr.net.
+[Apr 15 04:35] shya connected from osiris.vr.net.
+[Apr 15 04:35] shya cd to /u/s/shya/rooms.
+[Apr 15 04:35] shya retr /u/s/shya/rooms/room1.c (ASCII).
+[Apr 15 04:43] shya cd to /u/s/shya/rooms.
+[Apr 15 04:43] shya cd to /u/s/shya/rooms.
+[Apr 15 04:43] shya cd to /u/s/shya/rooms/castle.
+[Apr 15 04:43] shya stor /u/s/shya/rooms/castle/recroom.c (ASCII).
+[Apr 15 05:00] shya logged out from osiris.vr.net.
+[Apr 15 05:08] shya connected from osiris.vr.net.
+[Apr 15 05:08] shya cd to /u/s/shya/rooms/castle.
+[Apr 15 05:11] shya stor /u/s/shya/rooms/castle/guardroom.c (ASCII).
+[Apr 15 05:13] shya stor /u/s/shya/rooms/castle/guardroom.c (ASCII).
+[Apr 15 05:13] shya stor /u/s/shya/rooms/castle/guardroom.c (ASCII).
+[Apr 15 05:15] shya stor /u/s/shya/rooms/castle/guardroom.c (ASCII).
+[Apr 15 05:19] shya stor /u/s/shya/rooms/castle/recroom.c (ASCII).
+[Apr 15 05:23] shya cd to /obj/obj.
+[Apr 15 05:24] shya retr /obj/obj/chest.c (ASCII).
+[Apr 15 05:24] shya retr /obj/obj/skeleton_key.c (ASCII).
+[Apr 15 05:30] shya cd to /u/s/shya/rooms/castle.
+[Apr 15 05:30] shya stor /u/s/shya/rooms/castle/chest.c (ASCII).
+[Apr 15 05:30] shya logged out from osiris.vr.net.
+[Apr 15 05:54] shya connected from osiris.vr.net.
+[Apr 15 05:55] shya cd to /u/s/shya/rooms/castle.
+[Apr 15 05:55] shya stor /u/s/shya/rooms/castle/recroom.c (ASCII).
+[Apr 15 06:03] shya retr /u/s/shya/rooms/castle/recroom.c (ASCII).
+[Apr 15 06:07] shya stor /u/s/shya/rooms/castle/recroom.c (ASCII).
+[Apr 15 06:07] shya stor /u/s/shya/rooms/castle/recroom.c (ASCII).
+[Apr 15 06:15] shya cd to /obj/obj.
+[Apr 15 06:15] shya retr /obj/obj/gold_key.c (ASCII).
+[Apr 15 06:15] shya cd to /u/s/shya/rooms/castle.
+[Apr 15 06:16] shya stor /u/s/shya/rooms/castle/chest.c (ASCII).
+[Apr 15 06:18] shya stor /u/s/shya/rooms/castle/gold_key.c (ASCII).
+[Apr 15 06:26] shya stor /u/s/shya/rooms/castle/recroom.c (ASCII).
+[Apr 15 06:28] shya cd to /u/s/shya/rooms.
+[Apr 15 06:28] shya retr /u/s/shya/rooms/room1.c (ASCII).
+[Apr 15 06:29] shya cd to /u/s/shya/rooms/castle.
+[Apr 15 06:29] shya cd to /u/s/shya.
+[Apr 15 06:29] shya retr /u/s/shya/workroom.c (ASCII).
+[Apr 15 06:32] shya cd to /u/s/shya/rooms/castle.
+[Apr 15 06:33] shya stor /u/s/shya/rooms/castle/recroom.c (ASCII).
+[Apr 15 06:34] shya stor /u/s/shya/rooms/castle/recroom.c (ASCII).
+[Apr 15 06:40] shya stor /u/s/shya/rooms/castle/wall1.c (ASCII).
+[Apr 15 06:42] shya stor /u/s/shya/rooms/castle/wall1.c (ASCII).
+[Apr 15 06:54] shya stor /u/s/shya/rooms/castle/wall1.c (ASCII).
+[Apr 15 06:55] shya stor /u/s/shya/rooms/castle/wall1.c (ASCII).
+[Apr 15 06:57] shya stor /u/s/shya/rooms/castle/wall1.c (ASCII).
+[Apr 15 07:06] shya stor /u/s/shya/rooms/castle/wall1.c (ASCII).
+[Apr 15 07:13] shya stor /u/s/shya/rooms/castle/wall2.c (ASCII).
+[Apr 15 07:19] shya stor /u/s/shya/rooms/castle/wall2.c (ASCII).
+[Apr 15 07:36] shya logged out from osiris.vr.net.
+[Apr 15 19:35] shya connected from osiris.vr.net.
+[Apr 15 19:36] shya cd to /u/s/shya/rooms/castle.
+[Apr 15 19:51] shya logged out from osiris.vr.net.
+[Apr 15 19:57] shya connected from osiris.vr.net.
+[Apr 15 19:57] shya cd to /.
+[Apr 15 19:58] shya cd to /attic.
+[Apr 15 19:58] shya cd to /data.
+[Apr 15 20:15] shya logged out from osiris.vr.net.
+[Apr 16 04:40] shya connected from osiris.vr.net.
+[Apr 16 04:42] shya cd to /u/s/shya/rooms/castle.
+[Apr 16 04:42] shya retr /u/s/shya/rooms/castle/wall1.c (ASCII).
+[Apr 16 04:42] shya stor /u/s/shya/rooms/castle/wall1.c (ASCII).
+[Apr 16 04:54] shya stor /u/s/shya/rooms/castle/wall1.c (ASCII).
+[Apr 16 04:54] shya retr /u/s/shya/rooms/castle/wall2.c (ASCII).
+[Apr 16 04:55] shya stor /u/s/shya/rooms/castle/wall2.c (ASCII).
+[Apr 16 04:58] shya stor /u/s/shya/rooms/castle/wall2.c (ASCII).
+[Apr 16 04:59] shya stor /u/s/shya/rooms/castle/wall2.c (ASCII).
+[Apr 16 05:01] shya stor /u/s/shya/rooms/castle/wall2.c (ASCII).
+[Apr 16 05:02] shya stor /u/s/shya/rooms/castle/wall2.c (ASCII).
+[Apr 16 05:03] shya stor /u/s/shya/rooms/castle/wall2.c (ASCII).
+[Apr 16 05:07] shya stor /u/s/shya/rooms/castle/wall3.c (ASCII).
+[Apr 16 05:10] shya stor /u/s/shya/rooms/castle/wall4.c (ASCII).
+[Apr 16 05:11] shya stor /u/s/shya/rooms/castle/wall3.c (ASCII).
+[Apr 16 05:12] shya stor /u/s/shya/rooms/castle/wall5.c (ASCII).
+[Apr 16 05:22] shya stor /u/s/shya/rooms/castle/wall6.c (ASCII).
+[Apr 16 05:22] shya stor /u/s/shya/rooms/castle/wall7.c (ASCII).
+[Apr 16 05:25] shya stor /u/s/shya/rooms/castle/wall7.c (ASCII).
+[Apr 16 05:27] shya stor /u/s/shya/rooms/castle/wall7.c (ASCII).
+[Apr 16 05:27] shya stor /u/s/shya/rooms/castle/wall8.c (ASCII).
+[Apr 16 05:29] shya stor /u/s/shya/rooms/castle/wall9.c (ASCII).
+[Apr 16 05:35] shya stor /u/s/shya/rooms/castle/wall10.c (ASCII).
+[Apr 16 05:35] shya stor /u/s/shya/rooms/castle/wall10.c (ASCII).
+[Apr 16 05:36] shya logged out from osiris.vr.net.
+[Apr 19 01:16] shya connected from osiris.vr.net.
+[Apr 19 01:19] shya cd to /u/s/shya/rooms.
+[Apr 19 01:19] shya retr /u/s/shya/rooms/room2.c (ASCII).
+[Apr 19 01:22] shya retr /u/s/shya/rooms/room2.c (ASCII).
+[Apr 19 01:23] shya stor /u/s/shya/rooms/room2.c (ASCII).
+[Apr 19 01:23] shya retr /u/s/shya/rooms/room1.c (ASCII).
+[Apr 19 01:24] shya stor /u/s/shya/rooms/room1.c (ASCII).
+[Apr 19 01:24] shya retr /u/s/shya/rooms/room3.c (ASCII).
+[Apr 19 01:25] shya stor /u/s/shya/rooms/room3.c (ASCII).
+[Apr 19 01:25] shya retr /u/s/shya/rooms/shoreline.c (ASCII).
+[Apr 19 01:26] shya stor /u/s/shya/rooms/shoreline.c (ASCII).
+[Apr 19 01:26] shya retr /u/s/shya/rooms/icehouse3.c (ASCII).
+[Apr 19 01:30] shya stor /u/s/shya/rooms/icehouse3.c (ASCII).
+[Apr 19 01:30] shya retr /u/s/shya/rooms/icehouse2.c (ASCII).
+[Apr 19 01:31] shya stor /u/s/shya/rooms/icehouse2.c (ASCII).
+[Apr 19 01:31] shya retr /u/s/shya/rooms/icehouse1.c (ASCII).
+[Apr 19 01:32] shya stor /u/s/shya/rooms/icehouse1.c (ASCII).
+[Apr 19 01:32] shya cd to /u/s/shya.
+[Apr 19 01:32] shya cd to /u/s/shya/private.
+[Apr 19 01:32] shya retr /u/s/shya/private/whip.c (ASCII).
+[Apr 19 01:32] shya retr /u/s/shya/private/snowman.c (ASCII).
+[Apr 19 01:32] shya retr /u/s/shya/private/snowcat.c (ASCII).
+[Apr 19 01:32] shya retr /u/s/shya/private/snowball.c (ASCII).
+[Apr 19 01:32] shya retr /u/s/shya/private/rose.c (ASCII).
+[Apr 19 01:32] shya retr /u/s/shya/private/pie.c (ASCII).
+[Apr 19 01:32] shya retr /u/s/shya/private/icepick.c (ASCII).
+[Apr 19 01:32] shya retr /u/s/shya/private/icegolem.c (ASCII).
+[Apr 19 01:32] shya retr /u/s/shya/private/iceblade.c (ASCII).
+[Apr 19 01:33] shya retr /u/s/shya/private/h_key.c (ASCII).
+[Apr 19 01:33] shya retr /u/s/shya/private/frozenaxe.c (ASCII).
+[Apr 19 01:33] shya retr /u/s/shya/private/frostshield.c (ASCII).
+[Apr 19 01:33] shya retr /u/s/shya/private/frostguard.c (ASCII).
+[Apr 19 01:33] shya retr /u/s/shya/private/dagger.c (ASCII).
+[Apr 19 01:33] shya retr /u/s/shya/private/chainmail.c (ASCII).
+[Apr 19 01:33] shya retr /u/s/shya/private/blackdog.c (ASCII).
+[Apr 19 01:33] shya retr /u/s/shya/private/blackcat.c (ASCII).
+[Apr 19 01:34] shya cd to /u/s/shya/rooms.
+[Apr 19 01:34] shya cd to /u/s/shya/rooms/castle.
+[Apr 19 01:45] shya cd to /d/Arctic.
+[Apr 19 01:46] shya cd to /d/Arctic/Shya.
+[Apr 19 02:06] shya logged out from osiris.vr.net.
+[Apr 19 02:36] shya connected from osiris.vr.net.
+[Apr 19 02:36] shya cd to /u/s/shya/rooms.
+[Apr 19 02:36] shya cd to /u/s/shya/rooms/castle.
+[Apr 19 02:36] shya stor /u/s/shya/rooms/castle/stables.c (ASCII).
+[Apr 19 02:37] shya stor /u/s/shya/rooms/castle/wall3.c (ASCII).
+[Apr 19 02:37] shya stor /u/s/shya/rooms/castle/wall8.c (ASCII).
+[Apr 19 02:37] shya stor /u/s/shya/rooms/castle/wall9.c (ASCII).
+[Apr 19 02:37] shya stor /u/s/shya/rooms/castle/wall1.c (ASCII).
+[Apr 19 02:38] shya stor /u/s/shya/rooms/castle/wall5.c (ASCII).
+[Apr 19 02:38] shya stor /u/s/shya/rooms/castle/wall4.c (ASCII).
+[Apr 19 02:38] shya stor /u/s/shya/rooms/castle/wall7.c (ASCII).
+[Apr 19 02:38] shya stor /u/s/shya/rooms/castle/guardroom.c (ASCII).
+[Apr 19 02:38] shya stor /u/s/shya/rooms/castle/wall6.c (ASCII).
+[Apr 19 02:38] shya stor /u/s/shya/rooms/castle/eh2.c (ASCII).
+[Apr 19 02:38] shya stor /u/s/shya/rooms/castle/wall2.c (ASCII).
+[Apr 19 02:38] shya stor /u/s/shya/rooms/castle/wall10.c (ASCII).
+[Apr 19 02:39] shya stor /u/s/shya/rooms/castle/eh3.c (ASCII).
+[Apr 19 02:39] shya stor /u/s/shya/rooms/castle/eh1.c (ASCII).
+[Apr 19 02:40] shya cd to /u/s/shya/rooms.
+[Apr 19 02:41] shya stor /u/s/shya/rooms/icehouse2.c (ASCII).
+[Apr 19 02:41] shya stor /u/s/shya/rooms/icehouse3.c (ASCII).
+[Apr 19 02:41] shya stor /u/s/shya/rooms/icehouse1.c (ASCII).
+[Apr 19 02:41] shya stor /u/s/shya/rooms/room3.c (ASCII).
+[Apr 19 02:41] shya stor /u/s/shya/rooms/room1.c (ASCII).
+[Apr 19 02:42] shya stor /u/s/shya/rooms/room2.c (ASCII).
+[Apr 19 02:42] shya stor /u/s/shya/rooms/shoreline.c (ASCII).
+[Apr 19 02:46] shya stor /u/s/shya/rooms/shoreline.c (ASCII).
+[Apr 19 02:46] shya stor /u/s/shya/rooms/handcuffs.c (ASCII).
+[Apr 19 02:46] shya stor /u/s/shya/rooms/pie.c (ASCII).
+[Apr 19 02:46] shya stor /u/s/shya/rooms/whip.c (ASCII).
+[Apr 19 02:47] shya stor /u/s/shya/rooms/blackdog.c (ASCII).
+[Apr 19 02:47] shya stor /u/s/shya/rooms/rose.c (ASCII).
+[Apr 19 02:47] shya stor /u/s/shya/rooms/frostguard.c (ASCII).
+[Apr 19 02:47] shya stor /u/s/shya/rooms/snowman.c (ASCII).
+[Apr 19 02:47] shya stor /u/s/shya/rooms/icegolem.c (ASCII).
+[Apr 19 02:47] shya stor /u/s/shya/rooms/blackcat.c (ASCII).
+[Apr 19 02:47] shya stor /u/s/shya/rooms/snowcat.c (ASCII).
+[Apr 19 02:47] shya stor /u/s/shya/rooms/icepick.c (ASCII).
+[Apr 19 02:47] shya stor /u/s/shya/rooms/h_key.c (ASCII).
+[Apr 19 02:48] shya stor /u/s/shya/rooms/frostshield.c (ASCII).
+[Apr 19 02:49] shya stor /u/s/shya/rooms/frozenaxe.c (ASCII).
+[Apr 19 02:50] shya stor /u/s/shya/rooms/frozenaxe.c (ASCII).
+[Apr 19 02:52] shya stor /u/s/shya/rooms/frozenaxe.c (ASCII).
+[Apr 19 03:00] shya retr /u/s/shya/rooms/frozenaxe.c (ASCII).
+[Apr 19 03:05] shya stor /u/s/shya/rooms/icehouse2.c (ASCII).
+[Apr 19 03:05] shya stor /u/s/shya/rooms/icehouse3.c (ASCII).
+[Apr 19 03:06] shya stor /u/s/shya/rooms/icehouse1.c (ASCII).
+[Apr 19 03:06] shya stor /u/s/shya/rooms/snowcat.c (ASCII).
+[Apr 19 03:07] shya stor /u/s/shya/rooms/snowcat.c (ASCII).
+[Apr 19 03:07] shya stor /u/s/shya/rooms/blackcat.c (ASCII).
+[Apr 19 03:07] shya stor /u/s/shya/rooms/room3.c (ASCII).
+[Apr 19 03:07] shya stor /u/s/shya/rooms/icegolem.c (ASCII).
+[Apr 19 03:07] shya stor /u/s/shya/rooms/snowman.c (ASCII).
+[Apr 19 03:07] shya stor /u/s/shya/rooms/frostguard.c (ASCII).
+[Apr 19 03:08] shya stor /u/s/shya/rooms/rose.c (ASCII).
+[Apr 19 03:08] shya stor /u/s/shya/rooms/room1.c (ASCII).
+[Apr 19 03:08] shya stor /u/s/shya/rooms/blackdog.c (ASCII).
+[Apr 19 03:08] shya stor /u/s/shya/rooms/room2.c (ASCII).
+[Apr 19 03:08] shya stor /u/s/shya/rooms/shoreline.c (ASCII).
+[Apr 19 03:09] shya stor /u/s/shya/rooms/whip.c (ASCII).
+[Apr 19 03:09] shya stor /u/s/shya/rooms/whip.c (ASCII).
+[Apr 19 03:17] shya cd to /u/s/shya/rooms/castle.
+[Apr 19 03:29] shya cd to /.
+[Apr 19 03:30] shya cd to /obj/obj.
+[Apr 19 03:30] shya retr /obj/obj/note.c (ASCII).
+[Apr 19 03:31] shya retr /obj/obj/note.c (ASCII).
+[Apr 19 03:40] shya cd to /u/s/shya/rooms/castle.
+[Apr 19 03:40] shya stor /u/s/shya/rooms/castle/library.c (ASCII).
+[Apr 19 03:41] shya stor /u/s/shya/rooms/castle/library.c (ASCII).
+[Apr 19 03:51] shya cd to /u/s/shya/rooms.
+[Apr 19 03:51] shya retr /u/s/shya/rooms/pond.c (ASCII).
+[Apr 19 03:54] shya stor /u/s/shya/rooms/pond.c (ASCII).
+[Apr 19 03:59] shya stor /u/s/shya/rooms/room3.c (ASCII).
+[Apr 19 04:01] shya cd to /u/s/shya.
+[Apr 19 04:01] shya cd to /u/s/shya/rooms.
+[Apr 19 04:02] shya retr /u/s/shya/rooms/room4.c (ASCII).
+[Apr 19 04:04] shya stor /u/s/shya/rooms/room4.c (ASCII).
+[Apr 19 04:05] shya stor /u/s/shya/rooms/eh1.c (ASCII).
+[Apr 19 04:06] shya stor /u/s/shya/rooms/eh1.c (ASCII).
+[Apr 19 04:12] shya stor /u/s/shya/rooms/recroom.c (ASCII).
+[Apr 19 04:13] shya stor /u/s/shya/rooms/recroom.c (ASCII).
+[Apr 19 04:15] shya stor /u/s/shya/rooms/recroom.c (ASCII).
+[Apr 19 04:16] shya cd to /u/s/shya/rooms/castle.
+[Apr 19 04:16] shya stor /u/s/shya/rooms/castle/recroom.c (ASCII).
+[Apr 19 04:17] shya stor /u/s/shya/rooms/castle/recroom.c (ASCII).
+[Apr 19 04:20] shya logged out from osiris.vr.net.
+[Apr 19 04:40] shya connected from osiris.vr.net.
+[Apr 19 04:40] shya cd to /u/s/shya/private.
+[Apr 19 04:57] shya logged out from osiris.vr.net.
+[Apr 19 05:01] shya connected from osiris.vr.net.
+[Apr 19 05:01] shya cd to /u/s/shya/private.
+[Apr 19 05:02] shya stor /u/s/shya/private/handcuffs.c (ASCII).
+[Apr 19 05:02] shya stor /u/s/shya/private/handcuffs.c (ASCII).
+[Apr 19 05:02] shya logged out from osiris.vr.net.
+[Apr 22 00:01] shya connected from osiris.vr.net.
+[Apr 22 00:02] shya cd to /u/s/shya/rooms/castle.
+[Apr 22 00:02] shya logged out from osiris.vr.net.
+[Apr 22 17:11] shya connected from osiris.vr.net.
+[Apr 22 17:11] shya cd to /u/s/shya/rooms/castle.
+[Apr 22 17:15] shya stor /u/s/shya/rooms/castle/wall11.c (ASCII).
+[Apr 22 17:16] shya stor /u/s/shya/rooms/castle/wall12.c (ASCII).
+[Apr 22 17:17] shya stor /u/s/shya/rooms/castle/wall13.c (ASCII).
+[Apr 22 17:28] shya stor /u/s/shya/rooms/castle/wall14.c (ASCII).
+[Apr 22 17:30] shya stor /u/s/shya/rooms/castle/wall15.c (ASCII).
+[Apr 22 17:37] shya stor /u/s/shya/rooms/castle/eh2.c (ASCII).
+[Apr 22 17:42] shya stor /u/s/shya/rooms/castle/guardroom.c (ASCII).
+[Apr 22 17:44] shya logged out from osiris.vr.net.
+[Apr 22 17:45] shya connected from osiris.vr.net.
+[Apr 22 17:46] shya cd to /u/s/shya/rooms/castle.
+[Apr 22 18:03] shya logged out from osiris.vr.net.
+[Apr 22 18:17] shya connected from osiris.vr.net.
+[Apr 22 18:17] shya cd to /u/s/shya/rooms/castle.
+[Apr 22 18:17] shya stor /u/s/shya/rooms/castle/guardroom.c (ASCII).
+[Apr 22 18:17] shya stor /u/s/shya/rooms/castle/guardroom.c (ASCII).
+[Apr 22 18:18] shya stor /u/s/shya/rooms/castle/eh2.c (ASCII).
+[Apr 22 18:18] shya stor /u/s/shya/rooms/castle/eh3.c (ASCII).
+[Apr 22 18:18] shya stor /u/s/shya/rooms/castle/library.c (ASCII).
+[Apr 22 18:18] shya stor /u/s/shya/rooms/castle/recroom.c (ASCII).
+[Apr 22 18:18] shya stor /u/s/shya/rooms/castle/eh1.c (ASCII).
+[Apr 22 18:31] shya stor /u/s/shya/rooms/castle/library.c (ASCII).
+[Apr 22 18:34] shya stor /u/s/shya/rooms/castle/eh1.c (ASCII).
+[Apr 22 18:51] shya logged out from osiris.vr.net.
+[Apr 22 18:57] shya connected from osiris.vr.net.
+[Apr 22 18:58] shya cd to /u/s/shya/rooms/castle.
+[Apr 22 18:58] shya stor /u/s/shya/rooms/castle/fhall.c (ASCII).
+[Apr 22 19:01] shya stor /u/s/shya/rooms/castle/fhall.c (ASCII).
+[Apr 22 19:02] shya stor /u/s/shya/rooms/castle/fhall.c (ASCII).
+[Apr 22 19:03] shya stor /u/s/shya/rooms/castle/fhall.c (ASCII).
+[Apr 22 19:04] shya stor /u/s/shya/rooms/castle/fhall.c (ASCII).
+[Apr 22 19:04] shya stor /u/s/shya/rooms/castle/fhall.c (ASCII).
+[Apr 22 19:05] shya stor /u/s/shya/rooms/castle/fhall.c (ASCII).
+[Apr 22 19:07] shya stor /u/s/shya/rooms/castle/frostguard.c (ASCII).
+[Apr 22 19:07] shya cd to /u/s/shya.
+[Apr 22 19:07] shya cd to /u/s/shya/private.
+[Apr 22 19:07] shya stor /u/s/shya/private/frostguard.c (ASCII).
+[Apr 22 19:08] shya cd to /u/s/shya/rooms/castle.
+[Apr 22 19:08] shya dele /u/s/shya/rooms/castle/frostguard.c.
+[Apr 22 19:12] shya stor /u/s/shya/rooms/castle/recroom.c (ASCII).
+[Apr 22 19:13] shya stor /u/s/shya/rooms/castle/eh1.c (ASCII).
+[Apr 22 19:13] shya stor /u/s/shya/rooms/castle/recroom.c (ASCII).
+[Apr 22 19:13] shya stor /u/s/shya/rooms/castle/fhall.c (ASCII).
+[Apr 22 19:14] shya logged out from osiris.vr.net.
+[Apr 22 19:15] shya connected from osiris.vr.net.
+[Apr 22 19:15] shya cd to /u/s/shya/rooms/castle.
+[Apr 22 19:16] shya stor /u/s/shya/rooms/castle/eh1.c (ASCII).
+[Apr 22 19:19] shya stor /u/s/shya/rooms/castle/recroom.c (ASCII).
+[Apr 22 19:23] shya stor /u/s/shya/rooms/castle/recroom.c (ASCII).
+[Apr 22 19:25] shya stor /u/s/shya/rooms/castle/fhall.c (ASCII).
+[Apr 22 19:25] shya stor /u/s/shya/rooms/castle/library.c (ASCII).
+[Apr 22 19:25] shya stor /u/s/shya/rooms/castle/library.c (ASCII).
+[Apr 22 19:28] shya stor /u/s/shya/rooms/castle/fhall.c (ASCII).
+[Apr 22 19:30] shya stor /u/s/shya/rooms/castle/guardroom.c (ASCII).
+[Apr 22 19:32] shya stor /u/s/shya/rooms/castle/guardroom.c (ASCII).
+[Apr 22 19:34] shya stor /u/s/shya/rooms/castle/guardroom.c (ASCII).
+[Apr 22 19:36] shya stor /u/s/shya/rooms/castle/guardroom.c (ASCII).
+[Apr 22 19:46] shya stor /u/s/shya/rooms/castle/recroom.c (ASCII).
+[Apr 22 19:48] shya stor /u/s/shya/rooms/castle/recroom.c (ASCII).
+[Apr 22 20:04] shya stor /u/s/shya/rooms/castle/recroom.c (ASCII).
+[Apr 22 20:05] shya stor /u/s/shya/rooms/castle/recroom.c (ASCII).
+[Apr 22 20:05] shya stor /u/s/shya/rooms/castle/recroom.c (ASCII).
+[Apr 22 20:14] shya retr /u/s/shya/rooms/castle/greg.c (ASCII).
+[Apr 22 20:15] shya stor /u/s/shya/rooms/castle/greg.c (ASCII).
+[Apr 22 20:16] shya logged out from osiris.vr.net.
+[Apr 22 20:24] shya connected from osiris.vr.net.
+[Apr 22 20:24] shya cd to /u/s/shya/rooms/castle.
+[Apr 22 20:24] shya cd to /u/s/shya.
+[Apr 22 20:24] shya cd to /u/s/shya/rooms.
+[Apr 22 20:26] shya stor /u/s/shya/rooms/pond.c (ASCII).
+[Apr 22 20:29] shya stor /u/s/shya/rooms/icehouse1.c (ASCII).
+[Apr 22 20:40] shya cd to /d/Arctic/Shya.
+[Apr 22 20:40] shya cd to /d/Arctic/Shya/rooms.
+[Apr 22 20:41] shya retr /d/Arctic/Shya/rooms/snowman.c (ASCII).
+[Apr 22 20:48] shya cd to /u/s/shya/rooms.
+[Apr 22 20:48] shya stor /u/s/shya/rooms/snowman.c (ASCII).
+[Apr 22 20:51] shya cd to /u/s/shya/rooms/castle.
+[Apr 22 20:51] shya stor /u/s/shya/rooms/castle/wall3.c (ASCII).
+[Apr 22 20:52] shya stor /u/s/shya/rooms/castle/wall11.c (ASCII).
+[Apr 22 20:53] shya stor /u/s/shya/rooms/castle/wall8.c (ASCII).
+[Apr 22 20:56] shya stor /u/s/shya/rooms/castle/wall15.c (ASCII).
+[Apr 22 20:56] shya stor /u/s/shya/rooms/castle/wall8.c (ASCII).
+[Apr 22 21:01] shya stor /u/s/shya/rooms/castle/eh1.c (ASCII).
+[Apr 22 21:02] shya stor /u/s/shya/rooms/castle/eh2.c (ASCII).
+[Apr 22 21:05] shya stor /u/s/shya/rooms/castle/fhall.c (ASCII).
+[Apr 22 21:06] shya stor /u/s/shya/rooms/castle/guardroom.c (ASCII).
+[Apr 22 21:07] shya stor /u/s/shya/rooms/castle/icehouse1.c (ASCII).
+[Apr 22 21:08] shya dele /u/s/shya/rooms/castle/icehouse1.c.
+[Apr 22 21:09] shya stor /u/s/shya/rooms/castle/library.c (ASCII).
+[Apr 22 21:16] shya stor /u/s/shya/rooms/castle/room1.c (ASCII).
+[Apr 22 21:16] shya dele /u/s/shya/rooms/castle/room1.c.
+[Apr 22 21:22] shya stor /u/s/shya/rooms/castle/stables.c (ASCII).
+[Apr 22 21:23] shya stor /u/s/shya/rooms/castle/wall1.c (ASCII).
+[Apr 22 21:25] shya stor /u/s/shya/rooms/castle/shoreline.c (ASCII).
+[Apr 22 21:26] shya dele /u/s/shya/rooms/castle/shoreline.c.
+[Apr 22 21:27] shya stor /u/s/shya/rooms/castle/wall10.c (ASCII).
+[Apr 22 21:27] shya stor /u/s/shya/rooms/castle/wall11.c (ASCII).
+[Apr 22 21:28] shya stor /u/s/shya/rooms/castle/wall12.c (ASCII).
+[Apr 22 21:29] shya stor /u/s/shya/rooms/castle/wall13.c (ASCII).
+[Apr 22 21:30] shya stor /u/s/shya/rooms/castle/wall14.c (ASCII).
+[Apr 22 21:31] shya stor /u/s/shya/rooms/castle/wall15.c (ASCII).
+[Apr 22 21:32] shya stor /u/s/shya/rooms/castle/wall2.c (ASCII).
+[Apr 22 21:32] shya stor /u/s/shya/rooms/castle/wall3.c (ASCII).
+[Apr 22 21:33] shya stor /u/s/shya/rooms/castle/wall4.c (ASCII).
+[Apr 22 21:38] shya stor /u/s/shya/rooms/castle/wall4.c (ASCII).
+[Apr 22 21:38] shya stor /u/s/shya/rooms/castle/wall5.c (ASCII).
+[Apr 22 21:40] shya stor /u/s/shya/rooms/castle/wall7.c (ASCII).
+[Apr 22 21:40] shya stor /u/s/shya/rooms/castle/wall6.c (ASCII).
+[Apr 22 21:40] shya stor /u/s/shya/rooms/castle/wall8.c (ASCII).
+[Apr 22 21:41] shya stor /u/s/shya/rooms/castle/wall9.c (ASCII).
+[Apr 22 21:41] shya cd to /u/s/shya/rooms.
+[Apr 22 21:42] shya stor /u/s/shya/rooms/icehouse1.c (ASCII).
+[Apr 22 21:42] shya stor /u/s/shya/rooms/icehouse2.c (ASCII).
+[Apr 22 21:42] shya stor /u/s/shya/rooms/icehouse3.c (ASCII).
+[Apr 22 21:42] shya stor /u/s/shya/rooms/pond.c (ASCII).
+[Apr 22 21:42] shya stor /u/s/shya/rooms/recroom.c (ASCII).
+[Apr 22 21:42] shya stor /u/s/shya/rooms/room1.c (ASCII).
+[Apr 22 21:43] shya stor /u/s/shya/rooms/room2.c (ASCII).
+[Apr 22 21:43] shya stor /u/s/shya/rooms/room3.c (ASCII).
+[Apr 22 21:43] shya stor /u/s/shya/rooms/room4.c (ASCII).
+[Apr 22 21:43] shya stor /u/s/shya/rooms/shoreline.c (ASCII).
+[Apr 22 21:43] shya dele /u/s/shya/rooms/recroom.c.
+[Apr 22 21:56] shya logged out from osiris.vr.net.
+[Apr 22 21:57] shya connected from osiris.vr.net.
+[Apr 22 21:57] shya cd to /d/Arctic/Shya/rooms.
+[Apr 22 22:00] shya cd to /d/Arctic/Shya/rooms.
+[Apr 22 22:00] shya cd to /u/s/shya.
+[Apr 22 22:00] shya cd to /d/Arctic/Shya/rooms.
+[Apr 22 22:01] shya retr /d/Arctic/Shya/rooms/igloo.c (ASCII).
+[Apr 22 22:18] shya logged out from osiris.vr.net.
+[Apr 22 23:28] shya connected from osiris.vr.net.
+[Apr 22 23:31] shya cd to /d/Arctic/Shya/monsters.
+[Apr 22 23:32] shya retr /d/Arctic/Shya/monsters/icegolem.c (ASCII).
+[Apr 22 23:33] shya retr /d/Arctic/Shya/monsters/frostguard.c (ASCII).
+[Apr 22 23:38] shya cd to /d/Arctic/Shya/rooms.
+[Apr 23 00:03] shya logged out from osiris.vr.net.
+[Apr 23 00:12] shya connected from osiris.vr.net.
+[Apr 23 00:13] shya cd to /d/Arctic/Shya/monsters.
+[Apr 23 00:22] shya cd to /d/Arctic/Shya/rooms/castle.
+[Apr 23 00:30] shya cd to /u/s/shya.
+[Apr 23 00:30] shya cd to /u/s/shya.
+[Apr 23 00:31] shya cd to /u/s/shya/private.
+[Apr 23 00:31] shya stor /u/s/shya/private/eh3.c (ASCII).
+[Apr 23 00:37] shya logged out from osiris.vr.net.
+[Apr 23 00:38] shya connected from osiris.vr.net.
+[Apr 23 00:38] shya stor /u/s/shya/room4.c (ASCII).
+[Apr 23 00:44] shya stor /u/s/shya/eh3.c (ASCII).
+[Apr 23 00:50] shya stor /u/s/shya/eh1.c (ASCII).
+[Apr 23 00:50] shya stor /u/s/shya/room3.c (ASCII).
+[Apr 23 00:50] shya stor /u/s/shya/room4.c (ASCII).
+[Apr 23 00:53] shya logged out from osiris.vr.net.
+[Apr 24 01:37] shya connected from osiris.vr.net.
+[Apr 24 01:37] shya cd to /d/Arctic/Shya/rooms.
+[Apr 24 01:43] shya cd to /u/s/shya.
+[Apr 24 01:43] shya stor /u/s/shya/pond.c (ASCII).
+[Apr 24 01:50] shya stor /u/s/shya/icehouse1.c (ASCII).
+[Apr 24 01:58] shya stor /u/s/shya/wall2.c (ASCII).
+[Apr 24 02:01] shya stor /u/s/shya/stables.c (ASCII).
+[Apr 24 02:02] shya logged out from osiris.vr.net.
+[Apr 24 02:20] shya connected from osiris.vr.net.
+[Apr 24 02:21] shya stor /u/s/shya/wall11.c (ASCII).
+[Apr 24 02:26] shya stor /u/s/shya/wall14.c (ASCII).
+[Apr 24 02:26] shya stor /u/s/shya/wall13.c (ASCII).
+[Apr 24 02:30] shya logged out from osiris.vr.net.
+[Apr 24 02:30] shya connected from osiris.vr.net.
+[Apr 24 02:31] shya stor /u/s/shya/wall14.c (ASCII).
+[Apr 24 02:33] shya stor /u/s/shya/wall15.c (ASCII).
+[Apr 24 02:34] shya stor /u/s/shya/room3.c (ASCII).
+[Apr 24 02:36] shya stor /u/s/shya/igloo.c (ASCII).
+[Apr 24 02:39] shya stor /u/s/shya/icehouse2.c (ASCII).
+[Apr 24 02:40] shya stor /u/s/shya/igloo.c (ASCII).
+[Apr 24 02:42] shya stor /u/s/shya/fhall.c (ASCII).
+[Apr 24 02:45] shya stor /u/s/shya/room3.c (ASCII).
+[Apr 24 02:48] shya stor /u/s/shya/eh1.c (ASCII).
+[Apr 24 02:48] shya stor /u/s/shya/eh3.c (ASCII).
+[Apr 24 02:48] shya stor /u/s/shya/eh3.c (ASCII).
+[Apr 24 02:53] shya stor /u/s/shya/room3.c (ASCII).
+[Apr 24 02:54] shya stor /u/s/shya/room3.c (ASCII).
+[Apr 24 02:58] shya stor /u/s/shya/room4.c (ASCII).
+[Apr 24 03:01] shya stor /u/s/shya/recroom.c (ASCII).
+[Apr 24 03:18] shya logged out from osiris.vr.net.
+[Apr 28 01:26] shya connected from osiris.vr.net.
+[Apr 28 01:42] shya logged out from osiris.vr.net.
+[Apr 28 01:56] shya connected from osiris.vr.net.
+[Apr 28 01:56] shya stor /u/s/shya/frostguard.c (ASCII).
+[Apr 28 02:12] shya logged out from osiris.vr.net.
+[Apr 28 02:25] shya connected from osiris.vr.net.
+[Apr 28 02:25] shya stor /u/s/shya/throneroom.c (ASCII).
+[Apr 28 02:26] shya stor /u/s/shya/frostguard.c (ASCII).
+[Apr 28 02:27] shya retr /u/s/shya/king.c (ASCII).
+[Apr 28 02:35] shya stor /u/s/shya/king.c (ASCII).
+[Apr 28 02:38] shya stor /u/s/shya/throneroom.c (ASCII).
+[Apr 28 02:39] shya stor /u/s/shya/library.c (ASCII).
+[Apr 28 02:44] shya stor /u/s/shya/throneroom.c (ASCII).
+[Apr 28 02:54] shya stor /u/s/shya/throneroom.c (ASCII).
+[Apr 28 02:54] shya stor /u/s/shya/throneroom.c (ASCII).
+[Apr 28 02:59] shya stor /u/s/shya/throneroom.c (ASCII).
+[Apr 28 03:00] shya stor /u/s/shya/throneroom.c (ASCII).
+[Apr 28 03:01] shya stor /u/s/shya/throneroom.c (ASCII).
+[Apr 28 03:03] shya stor /u/s/shya/throneroom.c (ASCII).
+[Apr 28 03:05] shya stor /u/s/shya/throneroom.c (ASCII).
+[Apr 28 03:07] shya stor /u/s/shya/throneroom.c (ASCII).
+[Apr 28 03:09] shya stor /u/s/shya/throneroom.c (ASCII).
+[Apr 28 03:09] shya stor /u/s/shya/throneroom.c (ASCII).
+[Apr 28 03:10] shya stor /u/s/shya/throneroom.c (ASCII).
+[Apr 28 03:10] shya stor /u/s/shya/throneroom.c (ASCII).
+[Apr 28 03:27] shya logged out from osiris.vr.net.
+[Apr 30 16:29] shya connected from osiris.vr.net.
+[Apr 30 16:29] shya stor /u/s/shya/frostguard.c (ASCII).
+[Apr 30 16:29] shya rnfr /u/s/shya/frostguard.c rnto /u/s/shya/frostguard1.c.
+[Apr 30 16:29] shya retr /u/s/shya/frostguard1.c (ASCII).
+[Apr 30 16:32] shya stor /u/s/shya/frostguard1.c (ASCII).
+[Apr 30 16:33] shya stor /u/s/shya/throneroom.c (ASCII).
+[Apr 30 16:41] shya stor /u/s/shya/throneroom.c (ASCII).
+[Apr 30 16:56] shya stor /u/s/shya/throneroom.c (ASCII).
+[Apr 30 17:00] shya stor /u/s/shya/throneroom.c (ASCII).
+[Apr 30 17:02] shya stor /u/s/shya/throneroom.c (ASCII).
+[Apr 30 17:04] shya stor /u/s/shya/throneroom.c (ASCII).
+[Apr 30 17:14] shya stor /u/s/shya/throneroom.c (ASCII).
+[Apr 30 17:17] shya stor /u/s/shya/throneroom.c (ASCII).
+[Apr 30 17:17] shya stor /u/s/shya/throneroom.c (ASCII).
+[Apr 30 17:18] shya stor /u/s/shya/throneroom.c (ASCII).
+[Apr 30 17:19] shya stor /u/s/shya/throneroom.c (ASCII).
+[Apr 30 17:24] shya stor /u/s/shya/throneroom.c (ASCII).
+[Apr 30 17:41] shya logged out from osiris.vr.net.
+[Apr 30 18:12] shya connected from osiris.vr.net.
+[Apr 30 18:13] shya cd to /d/Prime/Magehouse.
+[Apr 30 18:13] shya retr /d/Prime/Magehouse/stair1.c (ASCII).
+[Apr 30 18:13] shya cd to /u/s/shya.
+[Apr 30 18:22] shya stor /u/s/shya/library.c (ASCII).
+[Apr 30 18:23] shya stor /u/s/shya/library.c (ASCII).
+[Apr 30 18:25] shya stor /u/s/shya/library.c (ASCII).
+[Apr 30 18:26] shya stor /u/s/shya/library.c (ASCII).
+[Apr 30 18:30] shya stor /u/s/shya/blackcat.c (ASCII).
+[Apr 30 18:36] shya stor /u/s/shya/library.c (ASCII).
+[Apr 30 18:53] shya logged out from osiris.vr.net.
+[Apr 30 18:54] shya connected from osiris.vr.net.
+[Apr 30 18:54] shya cd to /u/s/shya.
+[Apr 30 18:55] shya stor /u/s/shya/library.c (ASCII).
+[Apr 30 18:55] shya stor /u/s/shya/library.c (ASCII).
+[Apr 30 18:55] shya stor /u/s/shya/library.c (ASCII).
+[Apr 30 18:57] shya stor /u/s/shya/library.c (ASCII).
+[Apr 30 18:58] shya stor /u/s/shya/blackcat.c (ASCII).
+[Apr 30 19:00] shya stor /u/s/shya/blackcat.c (ASCII).
+[Apr 30 19:02] shya stor /u/s/shya/library.c (ASCII).
+[Apr 30 19:03] shya stor /u/s/shya/blackcat.c (ASCII).
+[Apr 30 19:18] shya logged out from osiris.vr.net.
+[Apr 30 22:50] shya connected from osiris.vr.net.
+[Apr 30 22:57] shya stor /u/s/shya/droom.c (ASCII).
+[Apr 30 22:57] shya stor /u/s/shya/guild.c (ASCII).
+[Apr 30 22:58] shya stor /u/s/shya/guild_room.c (ASCII).
+[Apr 30 22:58] shya stor /u/s/shya/krec.c (ASCII).
+[Apr 30 22:58] shya stor /u/s/shya/kshop.c (ASCII).
+[Apr 30 22:59] shya stor /u/s/shya/recsign.txt (ASCII).
+[Apr 30 22:59] shya stor /u/s/shya/shopsign.txt (ASCII).
+[Apr 30 22:59] shya stor /u/s/shya/sign.txt (ASCII).
+[Apr 30 23:13] shya stor /u/s/shya/droom.c (ASCII).
+[Apr 30 23:15] shya stor /u/s/shya/frostguard.c (ASCII).
+[Apr 30 23:15] shya rnfr /u/s/shya/frostguard.c rnto /u/s/shya/knight.c.
+[Apr 30 23:15] shya retr /u/s/shya/knight.c (ASCII).
+[Apr 30 23:18] shya stor /u/s/shya/knight.c (ASCII).
+[Apr 30 23:20] shya stor /u/s/shya/knight.c (ASCII).
+[Apr 30 23:22] shya stor /u/s/shya/droom.c (ASCII).
+[Apr 30 23:24] shya stor /u/s/shya/droom.c (ASCII).
+[Apr 30 23:41] shya logged out from osiris.vr.net.
+[Apr 30 23:04] shya connected from osiris.vr.net.
+[Apr 30 23:21] shya logged out from osiris.vr.net.
+[Apr 30 23:25] shya connected from osiris.vr.net.
+[Apr 30 23:26] shya stor /u/s/shya/handcuffs.c (ASCII).
+[Apr 30 23:26] shya rnfr /u/s/shya/handcuffs.c rnto /u/s/shya/handcuffs1.c.
+[Apr 30 23:26] shya retr /u/s/shya/handcuffs1.c (ASCII).
+[Apr 30 23:32] shya stor /u/s/shya/handcuffs1.c (ASCII).
+[Apr 30 23:48] shya retr /u/s/shya/handcuffs1.c (ASCII).
+[Apr 30 23:50] shya stor /u/s/shya/handcuffs1.c (ASCII).
+[Apr 30 23:51] shya stor /u/s/shya/handcuffs1.c (ASCII).
+[Apr 30 23:52] shya stor /u/s/shya/handcuffs1.c (ASCII).
+[Apr 30 23:57] shya retr /u/s/shya/a_cuffs.c (ASCII).
+[May  1 00:12] shya logged out from osiris.vr.net.
+[May  2 01:08] shya connected from 205.133.13.9.
+[May  2 01:11] shya stor /u/s/shya/a_cuffs.c (ASCII).
+[May  2 01:19] shya logged out from 205.133.13.9.
+[May  3 01:42] shya connected from osiris.vr.net.
+[May  3 01:46] shya logged out from osiris.vr.net.
+[May  3 01:57] shya connected from osiris.vr.net.
+[May  3 01:57] shya retr /u/s/shya/hottub.c (ASCII).
+[May  3 02:14] shya logged out from osiris.vr.net.
+[May  3 02:26] shya connected from osiris.vr.net.
+[May  3 02:26] shya stor /u/s/shya/hottub.c (ASCII).
+[May  3 02:29] shya stor /u/s/shya/hottub.c (ASCII).
+[May  3 02:34] shya stor /u/s/shya/hottub.c (ASCII).
+[May  3 02:35] shya stor /u/s/shya/hottub.c (ASCII).
+[May  3 02:56] shya logged out from osiris.vr.net.
+[May  4 02:03] shya connected from osiris.vr.net.
+[May  4 02:03] shya retr /u/s/shya/acidring.c (ASCII).
+[May  4 02:20] shya logged out from osiris.vr.net.
+[May  4 02:36] shya connected from osiris.vr.net.
+[May  4 02:36] shya stor /u/s/shya/acidring.c (ASCII).
+[May  4 02:36] shya rnfr /u/s/shya/acidring.c rnto /u/s/shya/w_ring.c.
+[May  4 02:40] shya retr /u/s/shya/w_ring.c (ASCII).
+[May  4 02:45] shya logged out from osiris.vr.net.
+[May  4 19:26] cattt connected from adsl-151-203-64-81.bellatlantic.net.
+[May  4 19:27] cattt logged out from adsl-151-203-64-81.bellatlantic.net.
+[May  5 00:39] shya connected from osiris.vr.net.
+[May  5 00:40] shya retr /u/s/shya/workroom.c (ASCII).
+[May  5 00:40] shya retr /u/s/shya/workroom.c (ASCII).
+[May  5 00:53] shya stor /u/s/shya/workroom.c (ASCII).
+[May  5 01:11] shya logged out from osiris.vr.net.
+[May  5 01:15] shya connected from osiris.vr.net.
+[May  5 01:15] shya stor /u/s/shya/hottub.c (ASCII).
+[May  5 01:23] shya stor /u/s/shya/hottub.c (ASCII).
+[May  5 01:36] shya cd to /u/s/shya/private.
+[May  5 01:36] shya retr /u/s/shya/private/hottub.c (ASCII).
+[May  5 01:37] shya logged out from osiris.vr.net.
+[May  6 17:13] shya connected from osiris.vr.net.
+[May  6 17:19] shya stor /u/s/shya/handcuffs.c (ASCII).
+[May  6 17:20] shya retr /u/s/shya/f_handcuffs.c (ASCII).
+[May  6 17:20] shya dele /u/s/shya/handcuffs.c.
+[May  6 17:30] shya logged out from osiris.vr.net.
+[May  6 17:57] shya connected from osiris.vr.net.
+[May  6 18:14] shya logged out from osiris.vr.net.
+[May  6 19:10] shya connected from osiris.vr.net.
+[May  6 19:10] shya stor /u/s/shya/Guard.c (ASCII).
+[May  6 19:26] shya logged out from osiris.vr.net.
+[May  6 20:03] shya connected from osiris.vr.net.
+[May  6 20:06] shya stor /u/s/shya/Guard.c (ASCII).
+[May  6 20:06] shya logged out from osiris.vr.net.
+[May  6 23:13] shya connected from osiris.vr.net.
+[May  6 23:16] shya cd to /u/n/nsd.
+[May  6 23:23] shya cd to /u/s/shya.
+[May  6 23:24] shya stor /u/s/shya/icehouse1.c (ASCII).
+[May  6 23:41] shya logged out from osiris.vr.net.
+[May  7 01:28] shya connected from osiris.vr.net.
+[May  7 01:29] shya cd to /d/Arctic/Shya/rooms/castle.
+[May  7 01:29] shya retr /d/Arctic/Shya/rooms/castle/fhall.c (ASCII).
+[May  7 01:40] shya retr /d/Arctic/Shya/rooms/castle/fhall.c (ASCII).
+[May  7 01:54] shya cd to /u/s/shya.
+[May  7 01:54] shya stor /u/s/shya/snowball.c (ASCII).
+[May  7 02:11] shya logged out from osiris.vr.net.
+[May  9 01:39] shya connected from osiris.vr.net.
+[May  9 01:40] shya cd to /u/n/nsd.
+[May  9 01:42] shya cd to /u/n/nsd/obj/personal.
+[May  9 01:42] shya retr /u/n/nsd/obj/personal/chocolate.c (ASCII).
+[May  9 01:43] shya retr /u/n/nsd/obj/personal/oil.c (ASCII).
+[May  9 01:43] shya retr /u/n/nsd/obj/personal/strawberry.c (ASCII).
+[May  9 01:43] shya retr /u/n/nsd/obj/personal/strbasket.c (ASCII).
+[May  9 01:43] shya retr /u/n/nsd/obj/personal/wine.c (ASCII).
+[May  9 01:43] shya retr /u/n/nsd/obj/personal/wpcream.c (ASCII).
+[May  9 01:59] shya logged out from osiris.vr.net.
+[May  9 02:10] shya connected from osiris.vr.net.
+[May  9 02:29] shya logged out from osiris.vr.net.
+[May  9 02:36] shya connected from osiris.vr.net.
+[May  9 02:38] shya cd to /u/n/nsd/obj/personal.
+[May  9 02:39] shya retr /u/n/nsd/obj/personal/glass.c (ASCII).
+[May  9 02:39] shya cd to /u/s/shya.
+[May  9 02:44] shya logged out from osiris.vr.net.
+[May 10 00:24] shya connected from osiris.vr.net.
+[May 10 00:41] shya logged out from osiris.vr.net.
+[May 10 01:50] shya connected from osiris.vr.net.
+[May 10 01:50] shya cd to /u/s/shya/private.
+[May 10 01:50] shya logged out from osiris.vr.net.
+[May 12 19:53] shya connected from osiris.vr.net.
+[May 12 19:55] shya logged out from osiris.vr.net.
+[May 12 19:56] shya connected from osiris.vr.net.
+[May 12 20:14] shya logged out from osiris.vr.net.
+[May 12 20:39] shya connected from osiris.vr.net.
+[May 12 20:39] shya stor /u/s/shya/missile.c (ASCII).
+[May 12 20:40] shya stor /u/s/shya/missile.c (ASCII).
+[May 12 20:40] shya stor /u/s/shya/missile.c (ASCII).
+[May 12 20:42] shya stor /u/s/shya/missile.c (ASCII).
+[May 12 20:45] shya stor /u/s/shya/missile.c (ASCII).
+[May 12 20:51] shya stor /u/s/shya/missile.c (ASCII).
+[May 12 21:06] shya stor /u/s/shya/missile.c (ASCII).
+[May 12 21:09] shya stor /u/s/shya/missile.c (ASCII).
+[May 12 21:16] shya stor /u/s/shya/missile.c (ASCII).
+[May 12 21:19] shya stor /u/s/shya/missile.c (ASCII).
+[May 12 21:26] shya stor /u/s/shya/missile.c (ASCII).
+[May 12 21:28] shya stor /u/s/shya/missile.c (ASCII).
+[May 12 21:30] shya stor /u/s/shya/missile.c (ASCII).
+[May 12 21:32] shya stor /u/s/shya/missile.c (ASCII).
+[May 12 21:33] shya stor /u/s/shya/missile.c (ASCII).
+[May 12 21:35] shya stor /u/s/shya/missile.c (ASCII).
+[May 12 21:41] shya stor /u/s/shya/missile.c (ASCII).
+[May 12 21:42] shya stor /u/s/shya/missile.c (ASCII).
+[May 12 21:59] shya logged out from osiris.vr.net.
+[May 12 22:01] shya connected from osiris.vr.net.
+[May 12 22:01] shya stor /u/s/shya/missile.c (ASCII).
+[May 12 22:02] shya stor /u/s/shya/missile.c (ASCII).
+[May 12 22:05] shya stor /u/s/shya/missile.c (ASCII).
+[May 12 22:07] shya stor /u/s/shya/missile.c (ASCII).
+[May 12 22:17] shya stor /u/s/shya/missile.c (ASCII).
+[May 12 22:18] shya stor /u/s/shya/missile.c (ASCII).
+[May 12 22:35] shya logged out from osiris.vr.net.
+[May 12 22:49] shya connected from osiris.vr.net.
+[May 12 22:49] shya stor /u/s/shya/missile.c (ASCII).
+[May 12 22:49] shya stor /u/s/shya/missile.c (ASCII).
+[May 12 22:51] shya stor /u/s/shya/missile.c (ASCII).
+[May 12 22:51] shya stor /u/s/shya/missile.c (ASCII).
+[May 12 22:55] shya stor /u/s/shya/missile.c (ASCII).
+[May 12 22:56] shya stor /u/s/shya/missile.c (ASCII).
+[May 12 23:05] shya stor /u/s/shya/missile.c (ASCII).
+[May 12 23:06] shya stor /u/s/shya/missile.c (ASCII).
+[May 12 23:11] shya stor /u/s/shya/missile.c (ASCII).
+[May 12 23:13] shya stor /u/s/shya/missile.c (ASCII).
+[May 12 23:14] shya stor /u/s/shya/missile.c (ASCII).
+[May 12 23:17] shya stor /u/s/shya/missile.c (ASCII).
+[May 12 23:17] shya stor /u/s/shya/missile.c (ASCII).
+[May 12 23:21] shya stor /u/s/shya/missile.c (ASCII).
+[May 12 23:30] shya stor /u/s/shya/missile.c (ASCII).
+[May 12 23:47] shya logged out from osiris.vr.net.
+[May 12 23:58] shya connected from osiris.vr.net.
+[May 12 23:58] shya stor /u/s/shya/missile.c (ASCII).
+[May 13 00:01] shya stor /u/s/shya/missile.c (ASCII).
+[May 13 00:02] shya stor /u/s/shya/missile.c (ASCII).
+[May 13 00:07] shya stor /u/s/shya/missile.c (ASCII).
+[May 13 00:23] shya logged out from osiris.vr.net.
+[May 13 02:29] shya connected from osiris.vr.net.
+[May 13 02:47] shya logged out from osiris.vr.net.
+[May 13 03:08] shya connected from osiris.vr.net.
+[May 13 03:18] shya rnfr /u/s/shya/missile.c rnto /u/s/shya/private/missile.c.
+[May 13 03:18] shya cd to /u/s/shya/private.
+[May 13 03:18] shya logged out from osiris.vr.net.
+[May 14 02:03] shya connected from osiris.vr.net.
+[May 14 02:04] shya cd to /u/s/sebastian.
+[May 14 02:06] shya cd to /u/s/sebastian/items.
+[May 14 02:06] shya retr /u/s/sebastian/items/fpelt.c (ASCII).
+[May 14 02:07] shya cd to /u/s/shya.
+[May 14 02:08] shya logged out from osiris.vr.net.
+[May 14 02:49] shya connected from osiris.vr.net.
+[May 14 03:08] shya logged out from osiris.vr.net.
+[May 14 21:03] shya connected from osiris.vr.net.
+[May 14 21:20] shya logged out from osiris.vr.net.
+[May 16 01:03] shya connected from osiris.vr.net.
+[May 16 01:03] shya logged out from osiris.vr.net.
+[May 19 02:32] shya connected from osiris.vr.net.
+[May 19 02:32] shya stor /u/s/shya/bat.c (ASCII).
+[May 19 02:32] shya stor /u/s/shya/cave1.c (ASCII).
+[May 19 02:32] shya stor /u/s/shya/cave2.c (ASCII).
+[May 19 02:32] shya stor /u/s/shya/worm.c (ASCII).
+[May 19 02:39] shya stor /u/s/shya/roots-corpse.c (ASCII).
+[May 19 02:39] shya stor /u/s/shya/roots.c (ASCII).
+[May 19 02:56] shya logged out from osiris.vr.net.
+[May 20 05:13] nightmask connected from nightfalls-keep.com.
+[May 20 05:14] nightmask cd to /u/n/nightmask.
+[May 20 05:14] nightmask size /u/n/nightmask/_qc.c.
+[May 20 05:14] nightmask retr /u/n/nightmask/_qc.c (ASCII).
+[May 20 05:14] nightmask mdtm /u/n/nightmask/_qc.c.
+[May 20 05:14] nightmask logged out from nightfalls-keep.com.
+[May 21 19:16] nightmask connected from nightfalls-keep.com.
+[May 21 19:16] nightmask stor /u/n/nightmask/_say.c (ASCII).
+[May 21 19:16] nightmask logged out from nightfalls-keep.com.
+[May 26 01:54] shya connected from osiris.vr.net.
+[May 26 01:57] shya stor /u/s/shya/cave1.c (ASCII).
+[May 26 01:59] shya logged out from osiris.vr.net.
+[May 28 00:48] blood connected from pool-206-97-109-1.loa.com.
+[May 28 00:49] blood cd to /u/s/sophia.
+[May 28 00:49] blood cd to /u/s/sophia/home.
+[May 28 00:49] blood retr /u/s/sophia/home/balcony.c (BINARY).
+[May 28 00:51] blood cd to /u/s/sophia.
+[May 28 00:51] blood cd to /d/Prime/Cyanide.
+[May 28 00:51] blood cd to /d/Prime/Cyanide/area1.
+[May 28 00:51] blood retr /d/Prime/Cyanide/area1/a1view01.c (BINARY).
+[May 28 00:51] blood logged out from pool-206-97-109-1.loa.com.
+[May 30 03:19] blood connected from pool-206-97-109-62.loa.com.
+[May 30 03:19] blood cd to /u/b/blood/.
+[May 30 03:19] blood dele /u/b/blood/flute.c.
+[May 30 03:19] blood cd to /d/Prime/Magehouse/items.
+[May 30 03:19] blood retr /d/Prime/Magehouse/items/flute.c (ASCII).
+[May 30 03:19] blood logged out from pool-206-97-109-62.loa.com.
+[May 30 03:23] blood connected from pool-206-97-109-62.loa.com.
+[May 30 03:23] blood cd to /u/b/blood/.
+[May 30 03:23] blood stor /u/b/blood/FLUTE.C (ASCII).
+[May 30 03:23] blood logged out from pool-206-97-109-62.loa.com.
+[May 30 13:24] blood connected from deity.loa.com.
+[May 30 13:24] blood cd to /d/Prime/Magehouse/items.
+[May 30 13:25] blood retr /d/Prime/Magehouse/items/slashring.c (BINARY).
+[May 30 13:25] blood logged out from deity.loa.com.
+[May 30 13:27] blood connected from deity.loa.com.
+[May 30 13:27] blood stor /u/b/blood/coldring.c (BINARY).
+[May 30 13:27] blood logged out from deity.loa.com.
+[May 30 13:33] blood connected from deity.loa.com.
+[May 30 13:33] blood stor /u/b/blood/cold.c (BINARY).
+[May 30 13:33] blood logged out from deity.loa.com.
+[Jun 12 00:34] shya connected from osiris.vr.net.
+[Jun 12 00:34] shya cd to /d/Arctic/Shya.
+[Jun 12 00:41] shya cd to /u/s/shya.
+[Jun 12 00:57] shya logged out from osiris.vr.net.
+[Jun 12 01:41] shya connected from osiris.vr.net.
+[Jun 12 01:42] shya stor /u/s/shya/workroom.c (ASCII).
+[Jun 12 01:42] shya stor /u/s/shya/snowball.c (ASCII).
+[Jun 12 01:43] shya stor /u/s/shya/CookieMonster.c (ASCII).
+[Jun 12 01:46] shya cd to /u/s/sophia.
+[Jun 12 01:47] shya retr /u/s/sophia/cycookie.c (ASCII).
+[Jun 12 01:47] shya cd to /u/s/shya.
+[Jun 12 02:03] shya logged out from osiris.vr.net.
+[Jun 12 02:05] shya connected from osiris.vr.net.
+[Jun 12 02:05] shya stor /u/s/shya/mycookie.c (ASCII).
+[Jun 12 02:21] shya logged out from osiris.vr.net.
+[Jun 12 23:35] shya connected from osiris.vr.net.
+[Jun 12 23:42] shya stor /u/s/shya/mycookie.c (ASCII).
+[Jun 12 23:44] shya stor /u/s/shya/cycookie.c (ASCII).
+[Jun 13 00:00] shya logged out from osiris.vr.net.
+[Jun 14 20:03] cyanide connected from rcf.rhic.bnl.gov.
+[Jun 14 20:04] cyanide logged out from rcf.rhic.bnl.gov.
+[Jun 16 01:12] shya connected from osiris.vr.net.
+[Jun 16 01:13] shya retr /u/s/shya/workroom.c (ASCII).
+[Jun 16 01:30] shya logged out from osiris.vr.net.
+[Jun 20 23:55] shya connected from osiris.vr.net.
+[Jun 21 00:12] shya logged out from osiris.vr.net.
+[Jun 21 00:14] shya connected from osiris.vr.net.
+[Jun 21 00:14] shya cd to /u/s/shya/private.
+[Jun 21 00:14] shya stor /u/s/shya/private/missile.c (ASCII).
+[Jun 21 00:16] shya stor /u/s/shya/private/missile.c (ASCII).
+[Jun 21 00:17] shya stor /u/s/shya/private/missile.c (ASCII).
+[Jun 21 00:33] shya logged out from osiris.vr.net.
+[Jun 23 21:47] shya connected from osiris.vr.net.
+[Jun 23 21:47] shya retr /u/s/shya/.workrm.o (ASCII).
+[Jun 23 21:48] shya retr /u/s/shya/can't (ASCII).
+[Jun 23 21:48] shya dele /u/s/shya/can't.
+[Jun 23 21:48] shya retr /u/s/shya/droom.c (ASCII).
+[Jun 23 21:49] shya retr /u/s/shya/example_room.c (ASCII).
+[Jun 23 21:49] shya dele /u/s/shya/example_room.c.
+[Jun 23 22:06] shya logged out from osiris.vr.net.
+[Jun 23 22:24] shya connected from osiris.vr.net.
+[Jun 23 22:24] shya stor /u/s/shya/chocolate.c (ASCII).
+[Jun 23 22:27] shya stor /u/s/shya/chocolate.c (ASCII).
+[Jun 23 22:27] shya stor /u/s/shya/chocolate.c (ASCII).
+[Jun 23 22:30] shya stor /u/s/shya/chocolate.c (ASCII).
+[Jun 23 22:31] shya stor /u/s/shya/chocolate.c (ASCII).
+[Jun 23 22:48] shya logged out from osiris.vr.net.
+[Jun 23 22:57] shya connected from osiris.vr.net.
+[Jun 23 22:57] shya stor /u/s/shya/chocolate.c (ASCII).
+[Jun 23 23:06] shya stor /u/s/shya/chocolate.c (ASCII).
+[Jun 23 23:15] shya stor /u/s/shya/chocolate.c (ASCII).
+[Jun 23 23:25] shya cd to /u/s.
+[Jun 23 23:25] shya cd to /d/Arctic/Shya/monsters.
+[Jun 23 23:57] shya logged out from osiris.vr.net.
+[Jun 24 00:13] shya connected from osiris.vr.net.
+[Jun 24 00:13] shya stor /u/s/shya/leather.c (ASCII).
+[Jun 24 00:17] shya stor /u/s/shya/leather.c (ASCII).
+[Jun 24 00:18] shya stor /u/s/shya/leather.c (ASCII).
+[Jun 24 00:23] shya stor /u/s/shya/leather.c (ASCII).
+[Jun 24 00:28] shya stor /u/s/shya/leather.c (ASCII).
+[Jun 24 00:32] shya stor /u/s/shya/leather.c (ASCII).
+[Jun 24 00:48] shya logged out from osiris.vr.net.
+[Jun 24 00:49] shya connected from osiris.vr.net.
+[Jun 24 00:49] shya stor /u/s/shya/leather.c (ASCII).
+[Jun 24 00:51] shya stor /u/s/shya/leather.c (ASCII).
+[Jun 24 00:53] shya stor /u/s/shya/leather.c (ASCII).
+[Jun 24 00:55] shya stor /u/s/shya/leather.c (ASCII).
+[Jun 24 00:56] shya stor /u/s/shya/leather.c (ASCII).
+[Jun 24 00:59] shya stor /u/s/shya/leather.c (ASCII).
+[Jun 24 00:59] shya stor /u/s/shya/leather.c (ASCII).
+[Jun 24 01:00] shya stor /u/s/shya/leather.c (ASCII).
+[Jun 24 01:01] shya stor /u/s/shya/leather.c (ASCII).
+[Jun 24 01:04] shya stor /u/s/shya/leather.c (ASCII).
+[Jun 24 01:06] shya stor /u/s/shya/leather.c (ASCII).
+[Jun 24 01:07] shya stor /u/s/shya/leather.c (ASCII).
+[Jun 24 01:08] shya stor /u/s/shya/leather.c (ASCII).
+[Jun 24 01:08] shya stor /u/s/shya/leather.c (ASCII).
+[Jun 24 01:09] shya stor /u/s/shya/leather.c (ASCII).
+[Jun 24 01:10] shya stor /u/s/shya/leather.c (ASCII).
+[Jun 24 01:15] shya stor /u/s/shya/leather.c (ASCII).
+[Jun 24 01:15] shya stor /u/s/shya/leather.c (ASCII).
+[Jun 24 01:28] shya stor /u/s/shya/leather.c (ASCII).
+[Jun 24 01:45] shya logged out from osiris.vr.net.
+[Jun 24 01:49] shya connected from osiris.vr.net.
+[Jun 24 01:49] shya retr /u/s/shya/leather.c (ASCII).
+[Jun 24 01:56] shya retr /u/s/shya/leather.c (ASCII).
+[Jun 24 02:12] shya logged out from osiris.vr.net.
+[Jun 24 02:34] shya connected from osiris.vr.net.
+[Jun 24 02:34] shya stor /u/s/shya/leather.c (ASCII).
+[Jun 24 02:35] shya stor /u/s/shya/leather.c (ASCII).
+[Jun 24 02:36] shya stor /u/s/shya/leather.c (ASCII).
+[Jun 24 02:36] shya stor /u/s/shya/leather.c (ASCII).
+[Jun 24 02:42] shya stor /u/s/shya/leather.c (ASCII).
+[Jun 24 03:00] shya logged out from osiris.vr.net.
+[Jun 24 04:16] shya connected from osiris.vr.net.
+[Jun 24 04:17] shya retr /u/s/shya/leather.c (ASCII).
+[Jun 24 04:27] shya stor /u/s/shya/skirt.c (ASCII).
+[Jun 24 04:45] shya logged out from osiris.vr.net.
+[Jun 24 05:12] shya connected from osiris.vr.net.
+[Jun 24 05:13] shya stor /u/s/shya/chocolate.c (ASCII).
+[Jun 24 05:30] shya logged out from osiris.vr.net.
+[Jun 25 04:06] shya connected from osiris.vr.net.
+[Jun 25 04:07] shya stor /u/s/shya/f007.c (ASCII).
+[Jun 25 04:08] shya dele /u/s/shya/f007.c.
+[Jun 25 04:09] shya cd to /u/s/shya/private.
+[Jun 25 04:09] shya retr /u/s/shya/private/CookieMonster.c (ASCII).
+[Jun 25 04:11] shya stor /u/s/shya/private/CookieMonster.c (ASCII).
+[Jun 25 04:13] shya cd to /u/s/shya.
+[Jun 25 04:13] shya retr /u/s/shya/cycookie.c (ASCII).
+[Jun 25 04:19] shya cd to /u/s/shya/private.
+[Jun 25 04:20] shya stor /u/s/shya/private/CookieMonster.c (ASCII).
+[Jun 25 04:22] shya cd to /u/s/shya.
+[Jun 25 04:22] shya dele /u/s/shya/missile.c.
+[Jun 25 04:22] shya cd to /u/s/shya/private.
+[Jun 25 04:22] shya dele /u/s/shya/private/missile.c.
+[Jun 25 04:22] shya cd to /u/s/shya.
+[Jun 25 04:29] shya cd to /u/s/shya/private.
+[Jun 25 04:29] shya stor /u/s/shya/private/CookieMonster.c (ASCII).
+[Jun 25 04:31] shya stor /u/s/shya/private/CookieMonster.c (ASCII).
+[Jun 25 04:37] shya stor /u/s/shya/private/CookieMonster.c (ASCII).
+[Jun 25 04:54] shya logged out from osiris.vr.net.
+[Jun 25 05:22] shya connected from osiris.vr.net.
+[Jun 25 05:23] shya stor /u/s/shya/workroom.c (ASCII).
+[Jun 25 05:27] shya stor /u/s/shya/workroom.c (ASCII).
+[Jun 25 05:34] shya stor /u/s/shya/workroom.c (ASCII).
+[Jun 25 05:35] shya stor /u/s/shya/workroom.c (ASCII).
+[Jun 25 05:51] shya logged out from osiris.vr.net.
+[Jun 25 05:51] shya connected from osiris.vr.net.
+[Jun 25 05:51] shya cd to /u/s/shya/private.
+[Jun 25 05:52] shya stor /u/s/shya/private/bedroom.c (ASCII).
+[Jun 25 05:54] shya cd to /u/n/nsd.
+[Jun 25 05:54] shya cd to /u/s/shya/private.
+[Jun 25 06:00] shya stor /u/s/shya/private/a_cuffs.c (ASCII).
+[Jun 25 06:06] shya stor /u/s/shya/private/grape.c (ASCII).
+[Jun 25 06:09] shya stor /u/s/shya/private/picnic.c (ASCII).
+[Jun 25 06:13] shya stor /u/s/shya/private/wine.c (ASCII).
+[Jun 25 06:15] shya stor /u/s/shya/private/goblet.c (ASCII).
+[Jun 25 06:33] shya logged out from osiris.vr.net.
+[Jun 25 06:36] shya connected from osiris.vr.net.
+[Jun 25 06:38] shya dele /u/s/shya/icehouse1.c.
+[Jun 25 06:38] shya dele /u/s/shya/krec.c.
+[Jun 25 06:38] shya dele /u/s/shya/droom.c.
+[Jun 25 06:39] shya dele /u/s/shya/kshop.c.
+[Jun 25 06:39] shya dele /u/s/shya/library.c.
+[Jun 25 06:39] shya dele /u/s/shya/recsign.txt.
+[Jun 25 06:40] shya dele /u/s/shya/worm.c.
+[Jun 25 06:42] shya dele /u/s/shya/roots-corpse.c.
+[Jun 25 06:42] shya dele /u/s/shya/roots.c.
+[Jun 25 06:42] shya dele /u/s/shya/shopsign.txt.
+[Jun 25 06:42] shya dele /u/s/shya/sign.txt.
+[Jun 25 06:43] shya logged out from osiris.vr.net.
+[Jun 25 16:56] shya connected from osiris.vr.net.
+[Jun 25 16:57] shya cd to /u/s/shya/private.
+[Jun 25 16:57] shya retr /u/s/shya/private/cave2.c (ASCII).
+[Jun 25 16:57] shya retr /u/s/shya/private/cave2.c (ASCII).
+[Jun 25 16:59] shya cd to /u/s/shya.
+[Jun 25 16:59] shya stor /u/s/shya/cave3.c (ASCII).
+[Jun 25 16:59] shya stor /u/s/shya/cave4.c (ASCII).
+[Jun 25 16:59] shya stor /u/s/shya/cave5.c (ASCII).
+[Jun 25 16:59] shya stor /u/s/shya/cave6.c (ASCII).
+[Jun 25 16:59] shya stor /u/s/shya/cave7.c (ASCII).
+[Jun 25 16:59] shya stor /u/s/shya/cave8.c (ASCII).
+[Jun 25 16:59] shya stor /u/s/shya/cave9.c (ASCII).
+[Jun 25 16:59] shya stor /u/s/shya/intersection1.c (ASCII).
+[Jun 25 16:59] shya stor /u/s/shya/intersection10.c (ASCII).
+[Jun 25 16:59] shya stor /u/s/shya/intersection2.c (ASCII).
+[Jun 25 16:59] shya stor /u/s/shya/intersection3.c (ASCII).
+[Jun 25 16:59] shya stor /u/s/shya/intersection4.c (ASCII).
+[Jun 25 16:59] shya stor /u/s/shya/intersection5.c (ASCII).
+[Jun 25 16:59] shya stor /u/s/shya/intersection6.c (ASCII).
+[Jun 25 16:59] shya stor /u/s/shya/intersection7.c (ASCII).
+[Jun 25 16:59] shya stor /u/s/shya/intersection8.c (ASCII).
+[Jun 25 16:59] shya stor /u/s/shya/intersection9.c (ASCII).
+[Jun 25 16:59] shya stor /u/s/shya/room-with-roots.c (ASCII).
+[Jun 25 16:59] shya stor /u/s/shya/tunnel1.c (ASCII).
+[Jun 25 16:59] shya stor /u/s/shya/tunnel10.c (ASCII).
+[Jun 25 16:59] shya stor /u/s/shya/tunnel11.c (ASCII).
+[Jun 25 16:59] shya stor /u/s/shya/tunnel12.c (ASCII).
+[Jun 25 16:59] shya stor /u/s/shya/tunnel13.c (ASCII).
+[Jun 25 16:59] shya stor /u/s/shya/tunnel14.c (ASCII).
+[Jun 25 16:59] shya stor /u/s/shya/tunnel15.c (ASCII).
+[Jun 25 16:59] shya stor /u/s/shya/tunnel16.c (ASCII).
+[Jun 25 16:59] shya stor /u/s/shya/tunnel17.c (ASCII).
+[Jun 25 16:59] shya stor /u/s/shya/tunnel18.c (ASCII).
+[Jun 25 16:59] shya stor /u/s/shya/tunnel19.c (ASCII).
+[Jun 25 16:59] shya stor /u/s/shya/tunnel2.c (ASCII).
+[Jun 25 17:00] shya stor /u/s/shya/tunnel20.c (ASCII).
+[Jun 25 17:00] shya stor /u/s/shya/tunnel21.c (ASCII).
+[Jun 25 17:00] shya stor /u/s/shya/tunnel3.c (ASCII).
+[Jun 25 17:00] shya stor /u/s/shya/tunnel4.c (ASCII).
+[Jun 25 17:00] shya stor /u/s/shya/tunnel5.c (ASCII).
+[Jun 25 17:00] shya stor /u/s/shya/tunnel6.c (ASCII).
+[Jun 25 17:00] shya stor /u/s/shya/tunnel7.c (ASCII).
+[Jun 25 17:00] shya stor /u/s/shya/tunnel8.c (ASCII).
+[Jun 25 17:00] shya stor /u/s/shya/tunnel9.c (ASCII).
+[Jun 25 17:00] shya stor /u/s/shya/cave20.c (ASCII).
+[Jun 25 17:00] shya stor /u/s/shya/cave21.c (ASCII).
+[Jun 25 17:00] shya stor /u/s/shya/cave22.c (ASCII).
+[Jun 25 17:00] shya stor /u/s/shya/cave23.c (ASCII).
+[Jun 25 17:00] shya stor /u/s/shya/cave24.c (ASCII).
+[Jun 25 17:00] shya stor /u/s/shya/cave25.c (ASCII).
+[Jun 25 17:00] shya stor /u/s/shya/cave10.c (ASCII).
+[Jun 25 17:00] shya stor /u/s/shya/cave11.c (ASCII).
+[Jun 25 17:00] shya stor /u/s/shya/cave12.c (ASCII).
+[Jun 25 17:00] shya stor /u/s/shya/cave13.c (ASCII).
+[Jun 25 17:00] shya stor /u/s/shya/cave14.c (ASCII).
+[Jun 25 17:00] shya stor /u/s/shya/cave15.c (ASCII).
+[Jun 25 17:00] shya stor /u/s/shya/cave16.c (ASCII).
+[Jun 25 17:00] shya stor /u/s/shya/cave18.c (ASCII).
+[Jun 25 17:00] shya stor /u/s/shya/cave19.c (ASCII).
+[Jun 25 17:00] shya stor /u/s/shya/cave (ASCII).
+[Jun 25 17:18] shya logged out from osiris.vr.net.
+[Jun 25 17:37] shya connected from osiris.vr.net.
+[Jun 25 17:37] shya cd to /u/s/shya/caverns.
+[Jun 25 17:48] shya cd to /u/s/shya.
+[Jun 25 17:48] shya cd to /u/s/shya/private.
+[Jun 25 17:50] shya stor /u/s/shya/private/roots.c (ASCII).
+[Jun 25 17:50] shya stor /u/s/shya/private/roots-corpse.c (ASCII).
+[Jun 25 17:53] shya cd to /u/s/shya/caverns.
+[Jun 25 17:53] shya stor /u/s/shya/caverns/cavern.h (ASCII).
+[Jun 25 18:09] shya logged out from osiris.vr.net.
+[Jun 25 18:11] shya connected from osiris.vr.net.
+[Jun 25 18:12] shya cd to /u/s/shya/caverns.
+[Jun 25 18:14] shya connected from osiris.vr.net.
+[Jun 25 18:15] shya cd to /u/s/shya/caverns.
+[Jun 25 18:15] shya stor /u/s/shya/caverns/tunnel1.c (ASCII).
+[Jun 25 18:15] shya stor /u/s/shya/caverns/tunnel1.c (ASCII).
+[Jun 25 18:15] shya stor /u/s/shya/caverns/tunnel1.c (ASCII).
+[Jun 25 18:17] shya stor /u/s/shya/caverns/tunnel1.c (ASCII).
+[Jun 25 18:21] shya stor /u/s/shya/caverns/cavern.h (ASCII).
+[Jun 25 18:22] shya stor /u/s/shya/caverns/cavern.h (ASCII).
+[Jun 25 18:27] shya logged out from osiris.vr.net.
+[Jun 25 18:27] shya stor /u/s/shya/caverns/room-with-roots.c (ASCII).
+[Jun 25 18:27] shya cd to /u/s/shya/caverns/rooms.
+[Jun 25 18:27] shya stor /u/s/shya/caverns/rooms/room-with-roots.c (ASCII).
+[Jun 25 18:35] shya stor /u/s/shya/caverns/rooms/room-with-roots.c (ASCII).
+[Jun 25 18:36] shya stor /u/s/shya/caverns/rooms/room-with-roots.c (ASCII).
+[Jun 25 18:36] shya stor /u/s/shya/caverns/rooms/room-with-roots.c (ASCII).
+[Jun 25 18:37] shya cd to /u/s/shya/caverns.
+[Jun 25 18:39] shya cd to /u/s/shya/caverns/rooms.
+[Jun 25 18:39] shya stor /u/s/shya/caverns/rooms/room-with-roots.c (ASCII).
+[Jun 25 18:45] shya stor /u/s/shya/caverns/rooms/room-with-roots.c (ASCII).
+[Jun 25 18:47] shya cd to /u/s/shya/caverns.
+[Jun 25 18:47] shya stor /u/s/shya/caverns/tunnel1.c (ASCII).
+[Jun 25 18:51] shya stor /u/s/shya/caverns/tunnel1.c (ASCII).
+[Jun 25 19:09] shya logged out from osiris.vr.net.
+[Jun 25 19:12] shya connected from osiris.vr.net.
+[Jun 25 19:13] shya cd to /u/s/shya/caverns.
+[Jun 25 19:13] shya cd to /u/s/shya/caverns/rooms.
+[Jun 25 19:13] shya cd to /u/s/shya/caverns/monsters.
+[Jun 25 19:14] shya retr /u/s/shya/caverns/monsters/roots.c (ASCII).
+[Jun 25 19:16] shya stor /u/s/shya/caverns/monsters/roots.c (ASCII).
+[Jun 25 19:16] shya retr /u/s/shya/caverns/monsters/roots-corpse.c (ASCII).
+[Jun 25 19:17] shya stor /u/s/shya/caverns/monsters/roots-corpse.c (ASCII).
+[Jun 25 19:33] shya logged out from osiris.vr.net.
+[Jun 25 20:20] shya connected from osiris.vr.net.
+[Jun 25 20:20] shya cd to /u/s/shya/caverns/rooms.
+[Jun 25 20:20] shya stor /u/s/shya/caverns/rooms/cave1.c (ASCII).
+[Jun 25 20:20] shya stor /u/s/shya/caverns/rooms/cave2.c (ASCII).
+[Jun 25 20:36] shya logged out from osiris.vr.net.
+[Jun 25 21:09] shya connected from osiris.vr.net.
+[Jun 25 21:09] shya cd to /u/s/shya/caverns/rooms.
+[Jun 25 21:10] shya stor /u/s/shya/caverns/rooms/forest3.c (ASCII).
+[Jun 25 21:12] shya retr /u/s/shya/caverns/rooms/cave1.c (ASCII).
+[Jun 25 21:13] shya stor /u/s/shya/caverns/rooms/forest1.c (ASCII).
+[Jun 25 21:21] shya cd to /d/Arctic/Shya/rooms.
+[Jun 25 21:21] shya retr /d/Arctic/Shya/rooms/icehouse1.c (ASCII).
+[Jun 25 21:24] shya retr /d/Arctic/Shya/rooms/icehouse1.c (ASCII).
+[Jun 25 21:25] shya cd to /u/s/shya/caverns/rooms.
+[Jun 25 21:25] shya stor /u/s/shya/caverns/rooms/forest2.c (ASCII).
+[Jun 25 21:42] shya logged out from osiris.vr.net.
+[Jun 25 22:46] shya connected from osiris.vr.net.
+[Jun 25 22:46] shya cd to /u/s/shya/caverns/rooms.
+[Jun 25 22:48] shya stor /u/s/shya/caverns/rooms/cave3.c (ASCII).
+[Jun 25 23:03] shya logged out from osiris.vr.net.
+[Jun 26 23:03] shya connected from osiris.vr.net.
+[Jun 26 23:21] shya logged out from osiris.vr.net.
+[Jun 27 22:32] shya connected from osiris.vr.net.
+[Jun 27 22:35] shya cd to /d/Arctic/Shya/rooms.
+[Jun 27 22:38] shya cd to /u/s/shya.
+[Jun 27 22:38] shya cd to /u/s/shya/caverns/rooms.
+[Jun 27 22:39] shya stor /u/s/shya/caverns/rooms/cave2.c (ASCII).
+[Jun 27 22:40] shya stor /u/s/shya/caverns/rooms/cave2.c (ASCII).
+[Jun 27 22:41] shya stor /u/s/shya/caverns/rooms/cave2.c (ASCII).
+[Jun 27 22:57] shya logged out from osiris.vr.net.
+[Jun 27 23:29] shya connected from osiris.vr.net.
+[Jun 27 23:30] shya cd to /u/s/shya/caverns/rooms.
+[Jun 27 23:30] shya retr /u/s/shya/caverns/rooms/cave2.c (ASCII).
+[Jun 27 23:45] shya logged out from osiris.vr.net.
+[Jun 27 23:45] shya connected from osiris.vr.net.
+[Jun 27 23:45] shya cd to /u/s/shya/caverns/rooms.
+[Jun 27 23:45] shya stor /u/s/shya/caverns/rooms/cave2.c (ASCII).
+[Jun 28 00:03] shya logged out from osiris.vr.net.
+[Jun 28 00:05] shya connected from osiris.vr.net.
+[Jun 28 00:05] shya cd to /u/s/shya/caverns/rooms.
+[Jun 28 00:05] shya stor /u/s/shya/caverns/rooms/cave1.c (ASCII).
+[Jun 28 00:06] shya stor /u/s/shya/caverns/rooms/cave2.c (ASCII).
+[Jun 28 00:08] shya stor /u/s/shya/caverns/rooms/cave1.c (ASCII).
+[Jun 28 00:09] shya stor /u/s/shya/caverns/rooms/cave1.c (ASCII).
+[Jun 28 00:15] shya stor /u/s/shya/caverns/rooms/tunnel1.c (ASCII).
+[Jun 28 00:30] shya logged out from osiris.vr.net.
+[Jun 28 05:36] cattt connected from adsl-151-203-64-34.bellatlantic.net.
+[Jun 28 05:36] cattt logged out from adsl-151-203-64-34.bellatlantic.net.
+[Jun 29 15:38] shya connected from osiris.vr.net.
+[Jun 29 15:50] shya logged out from osiris.vr.net.
+[Jun 30 01:47] shya connected from osiris.vr.net.
+[Jun 30 02:05] shya logged out from osiris.vr.net.
+[Jun 30 02:24] shya connected from osiris.vr.net.
+[Jun 30 02:24] shya cd to /u/s/shya.
+[Jun 30 02:25] shya cd to /d/Arctic/Shya/rooms.
+[Jun 30 02:29] shya cd to /d/Arctic/Shya/rooms/castle.
+[Jun 30 02:32] shya cd to /u/s/shya.
+[Jun 30 02:32] shya stor /u/s/shya/eh3.c (ASCII).
+[Jun 30 02:34] shya stor /u/s/shya/room4.c (ASCII).
+[Jun 30 02:42] shya stor /u/s/shya/blackcat.c (ASCII).
+[Jun 30 02:59] shya logged out from osiris.vr.net.
+[Jun 30 03:01] shya connected from osiris.vr.net.
+[Jun 30 03:01] shya cd to /u/s/shya.
+[Jun 30 03:01] shya stor /u/s/shya/cavern.h (ASCII).
+[Jun 30 03:17] shya logged out from osiris.vr.net.
+[Jul  2 00:52] shya connected from osiris.vr.net.
+[Jul  2 01:09] shya logged out from osiris.vr.net.
+[Jul  2 01:14] shya connected from osiris.vr.net.
+[Jul  2 01:14] shya cd to /u/s/shya.
+[Jul  2 01:14] shya cd to /u/s/shya/private.
+[Jul  2 01:15] shya retr /u/s/shya/private/stud.c (ASCII).
+[Jul  2 01:19] shya cd to /u/s/shya.
+[Jul  2 01:21] shya stor /u/s/shya/workroom.c (ASCII).
+[Jul  2 01:21] shya stor /u/s/shya/hottub.c (ASCII).
+[Jul  2 01:23] shya stor /u/s/shya/bedroom.c (ASCII).
+[Jul  2 01:39] shya logged out from osiris.vr.net.
+[Jul  2 01:43] shya connected from osiris.vr.net.
+[Jul  2 01:43] shya cd to /u/s/shya.
+[Jul  2 01:44] shya stor /u/s/shya/puppy.c (ASCII).
+[Jul  2 02:00] shya logged out from osiris.vr.net.
+[Jul  2 02:01] shya connected from osiris.vr.net.
+[Jul  2 02:01] shya cd to /u/s/shya.
+[Jul  2 02:01] shya stor /u/s/shya/puppy.c (ASCII).
+[Jul  2 02:18] shya logged out from osiris.vr.net.
+[Jul  2 02:21] shya connected from osiris.vr.net.
+[Jul  2 02:21] shya cd to /u/s/shya.
+[Jul  2 02:21] shya stor /u/s/shya/special.c (ASCII).
+[Jul  2 02:22] shya stor /u/s/shya/special.c (ASCII).
+[Jul  2 02:22] shya stor /u/s/shya/special.c (ASCII).
+[Jul  2 02:39] shya logged out from osiris.vr.net.
+[Jul  2 02:41] shya connected from osiris.vr.net.
+[Jul  2 02:41] shya cd to /u/s/shya.
+[Jul  2 02:42] shya stor /u/s/shya/special.c (ASCII).
+[Jul  2 02:43] shya stor /u/s/shya/workroom.c (ASCII).
+[Jul  2 02:46] shya stor /u/s/shya/bedroom.c (ASCII).
+[Jul  2 02:46] shya stor /u/s/shya/bedroom.c (ASCII).
+[Jul  2 02:47] shya stor /u/s/shya/bedroom.c (ASCII).
+[Jul  2 02:48] shya stor /u/s/shya/bedroom.c (ASCII).
+[Jul  2 02:51] shya stor /u/s/shya/bedroom.c (ASCII).
+[Jul  2 02:53] shya stor /u/s/shya/bedroom.c (ASCII).
+[Jul  2 02:54] shya stor /u/s/shya/bedroom.c (ASCII).
+[Jul  2 02:55] shya stor /u/s/shya/bedroom.c (ASCII).
+[Jul  2 02:57] shya stor /u/s/shya/bedroom.c (ASCII).
+[Jul  2 03:04] shya stor /u/s/shya/bedroom.c (ASCII).
+[Jul  2 03:09] shya stor /u/s/shya/special.c (ASCII).
+[Jul  2 03:14] shya stor /u/s/shya/special.c (ASCII).
+[Jul  2 03:24] shya logged out from osiris.vr.net.
+[Jul  2 04:37] shya connected from osiris.vr.net.
+[Jul  2 04:49] shya logged out from osiris.vr.net.
+[Jul  2 04:49] shya connected from osiris.vr.net.
+[Jul  2 05:06] shya logged out from osiris.vr.net.

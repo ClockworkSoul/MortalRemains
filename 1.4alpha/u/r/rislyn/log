@@ -1,0 +1,8 @@
+u/r/rislyn/forest/road/road1.c line 24: parse error before  "trees" : "Tall tre
+u/r/rislyn/forest/road/road1.c line 23: parse error before } : "This is a large
+u/r/rislyn/forest/road/road5.c line 22: parse error before " is carved into it.
+u/r/rislyn/forest/road/road5.c line 32: parse error before ( "exits", ([
+u/r/rislyn/forest/eastroad/road2.c line 11: parse error before   set( "short", "Wel
+u/r/rislyn/forest/eastroad/road3.c line 25: parse error before the end of line
+u/r/rislyn/forest/lforest/forest6.c line 38: parse error before the end of line
+u/r/rislyn/forest/lforest/forest13.c line 11: parse error before  "Open forest" );

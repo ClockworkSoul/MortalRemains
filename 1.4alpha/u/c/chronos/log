@@ -1,0 +1,184 @@
+u/c/chronos/mon/monk.c line 19: parse error before ;
+u/c/chronos/mon/monk.c line 37: Illegal LHS before the end of line
+u/c/chronos/mon/monk.c line 63: parse error before the end of file
+u/c/chronos/mon/monk.c line 62: parse error before the end of file
+u/s/shya/stud.c line 16: parse error before ;
+u/s/shya/stud.c line 33: Illegal LHS before the end of line
+u/s/shya/stud.c line 59: parse error before the end of file
+u/s/shya/stud.c line 58: parse error before the end of file
+d/Prime/Central/room/bitterend.c line 87: Type of returned value doesn't match function return type ( int vs string ). before the end of line
+d/Prime/Central/room/bitterend.c line 89: parse error before the end of line
+d/Prime/Central/room/bitterend.c line 87: Type of returned value doesn't match function return type ( int vs string ). before the end of line
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+u/c/chronos/cmds/_cover.c line 27: parse error before  ;
+u/c/chronos/cmds/_cover.c line 28: parse error before the end of file
+cmds/wiz/_people.c line 177: parse error before  (!adminp(TP) && adm
+cmds/wiz/_people.c line 178: Illegal LHS before the end of line
+cmds/wiz/_people.c line 179: Illegal LHS before the end of line
+cmds/wiz/_people.c line 179: parse error before the end of line
+cmds/wiz/_people.c line 183: Illegal LHS before the end of line
+cmds/wiz/_people.c line 183: parse error before the end of line
+d/Prime/Central/mon/townsfolk.c line 11: Undefined variable 'race' before  "human"; 
+d/Prime/Central/mon/townsfolk.c line 52: Undefined variable 'level' before  3; break;
+d/Prime/Central/room/road2_0.c line 34: Undefined variable 'TOWNSFOLK' before )<12) {
+obj/obj/torch.c line 16: Undefined function set_value before  ;
+d/Prime/Central/obj/backpack.c line 8: parse error before ) ) ;
+d/Prime/Central/obj/blahkey.c line 9: Undefined function setuid before  ;
+d/Prime/Central/mon/townsfolk.c line 88: parse error before backpack))->move(TO)
+d/Prime/Central/mon/townsfolk.c line 90: parse error before blahkey))->move(TO) 
+d/Prime/Park/room/path1.c line 49: Undefined variable 'TOWNSFOLK' before )<12) {
+d/Prime/Crackhouse/room/kitchen.c line 40: parse error before reset() ;
+d/Prime/Central/mon/dealer.c line 61: parse error before the end of file
+d/Prime/Crackhouse/room/top.c line 23: parse error before ",
+d/Prime/Crackhouse/room/top.c line 28: End of file in string before ) ;
+d/Prime/Norva/rooms/plot2.c line 4: parse error before the end of line
+d/Prime/Norva/rooms/plot2.c line 4: parse error before the end of line
+d/Prime/Norva/rooms/plot2.c line 4: parse error before the end of line
+d/Prime/Norva/rooms/3beq2.c line 4: parse error before the end of line
+d/Prime/Norva/mon/ripped.c line 22: parse error before  "Chronos") ;
+u/h/herself/sextoys/nines.c line 33: Undefined variable 'str' before , environment(TP));
+u/h/herself/sextoys/nines.c line 33: Type mismatch ( unknown vs object ) when initializing victim before the end of line
+u/h/herself/sextoys/nines.c line 33: Missing type before the end of line
+u/h/herself/sextoys/nines.c line 34: parse error before  (!victim) {
+u/h/herself/sextoys/nines.c line 38: parse error before the end of file
+d/Planar/Baator/avernus/ave6.c line 31: parse error before the end of line
+d/Planar/Baator/avernus/ave6.c line 31: parse error before the end of line
+d/class/warrior/Sharpshooter/cmds/_breech.c line 18: parse error before  else  switch(str) {
+d/class/warrior/Sharpshooter/cmds/_breech.c line 19: Illegal LHS before the end of line
+d/class/warrior/Sharpshooter/cmds/_breech.c line 21: parse error before  "right" : weapon = 
+d/class/warrior/Sharpshooter/cmds/_breech.c line 21: Illegal LHS before                 
+d/class/warrior/Sharpshooter/cmds/_breech.c line 23: parse error before : write("It's either
+d/class/warrior/Sharpshooter/cmds/_breech.c line 27: Undefined variable 'weapon2' before  {
+d/class/warrior/Sharpshooter/cmds/_breech.c line 27: Undefined variable 'weapon2' before  {
+d/class/warrior/Sharpshooter/cmds/_breech.c line 42: Undefined variable 'bonus' before  1 ;
+d/class/warrior/Sharpshooter/cmds/_breech.c line 63: Undefined variable 'ENDLONG' before ;
+d/class/warrior/Sharpshooter/cmds/_breech.c line 63: parse error before ;
+d/class/warrior/Sharpshooter/cmds/_breech.c line 67: Illegal LHS before the end of line
+d/class/warrior/Sharpshooter/cmds/_breech.c line 41: Undefined variable 'bonus' before  1 ;
+d/class/warrior/Sharpshooter/cmds/_breech.c line 62: Undefined variable 'ENDLONG' before ;
+d/class/warrior/Sharpshooter/cmds/_breech.c line 62: parse error before ;
+d/class/warrior/Sharpshooter/cmds/_breech.c line 66: Illegal LHS before the end of line
+d/class/warrior/Sharpshooter/cmds/_breech.c line 62: Undefined variable 'ENDLONG' before ;
+d/class/warrior/Sharpshooter/cmds/_breech.c line 62: parse error before ;
+d/class/warrior/Sharpshooter/cmds/_breech.c line 66: Illegal LHS before the end of line
+d/class/warrior/Sharpshooter/cmds/_snews.c line 7: parse error before ()->more("/d/class/w
+d/class/warrior/Sharpshooter/obj/eye.c line 37: Undefined variable 'SSPATH' before the end of line
+d/class/warrior/Sharpshooter/cmds/_sschat.c line 38: Too few arguments to tell_object before  ;
+d/class/warrior/Sharpshooter/cmds/_ssemote.c line 31: Too few arguments to tell_object before  ;
+d/class/warrior/Sharpshooter/obj/breech_ob.c line 66: parse error before  0 ;
+d/class/warrior/Sharpshooter/cmds/_headshot.c line 33: Undefined variable 'Tpn' before     {
+d/class/warrior/Sharpshooter/cmds/_headshot.c line 181: parse error before  {
+d/class/warrior/Sharpshooter/cmds/_headshot.c line 181: parse error before  {
+d/class/warrior/Sharpshooter/cmds/_headshot.c line 147: parse error before weapon->query("bonus
+d/class/warrior/Sharpshooter/cmds/_headshot.c line 171: Illegal LHS before the end of line
+d/class/warrior/Sharpshooter/cmds/_headshot.c line 171: parse error before the end of line
+d/class/warrior/Sharpshooter/cmds/_headshot.c line 190: parse error before the end of line
+u/c/chronos/cmds/_all.c line 19: Undefined variable 'work' before  users[i]->query(str
+u/c/chronos/cmds/_all.c line 19: Undefined variable 'user' before i])) continue ;
+u/c/chronos/cmds/_all.c line 19: Undefined function filter_user before ) continue ;
+u/c/chronos/cmds/_all.c line 43: Redeclaration of function filter_user. before the end of line
+u/c/chronos/cmds/_all.c line 19: Undefined function filter_user before ) continue ;
+u/c/chronos/cmds/_all.c line 43: Redeclaration of function filter_user. before the end of line
+d/Prime/Central/room/startroom.c line 40: parse error before the end of line
+d/Prime/Central/room/road18.c line 10: Undefined variable 'A' before  road.") ;
+d/Prime/Central/room/road18.c line 10: parse error before  road.") ;
+d/Prime/Central/room/road18.c line 40: End of file in string before arble tiles":"It is 
+d/Planar/Baator/avernus/ave6.c line 52: Reserved type name unexpected. before () {
+d/Planar/Baator/avernus/ave6.c line 52: parse error before () {
+std/portal.c line 45: Illegal to redefine 'nomask' function "query" before the end of line
+std/portal.c line 45: Illegal to redefine 'nomask' function "set" before the end of line
+std/portal.c line 45: Illegal to redefine 'nomask' function "_query" before the end of line
+std/portal.c line 45: Illegal to redefine 'nomask' function "_delete" before the end of line
+std/portal.c line 45: Illegal to redefine 'nomask' function "_set" before the end of line
+std/portal.c line 45: Illegal to redefine 'nomask' function "query_temp" before the end of line
+u/c/chronos/toys/doll.c line 154: Type mismatch ( unknown vs int ) when initializing awake before the end of line
+u/c/chronos/toys/doll.c line 154: Missing type before the end of line
+cmds/std/_skillhelp.c line 9: Undefined function substr before  ;
+cmds/std/_skillhelp.c line 10: Undefined function substr before  ;
+u/c/chronos/CMD_EVAL_TMP_FILE.c line 13: Undefined function substr before  ;;
+u/c/chronos/CMD_EVAL_TMP_FILE.c line 13: Undefined function substr before  ;;
+u/c/chronos/CMD_EVAL_TMP_FILE.c line 13: Undefined variable 'substr' before the end of line
+d/class/warrior/Sharpshooter/cmds/_quit.c line 9: Undefined variable 'ob' before the end of line
+d/class/warrior/Sharpshooter/cmds/_guntwirl.c line 3: Cannot #include camel.h before the end of line
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+u/c/chronos/thunderdome/ob.c line 3: Cannot #include ./td.h before the end of line
+u/c/chronos/thunderdome/ob.c line 15: Undefined variable 'TD' before "main"
+u/c/chronos/thunderdome/ob.c line 17: No such inherited function ::create before  ;
+u/c/chronos/thunderdome/ob.c line 18: Undefined function reset before  ;
+u/c/chronos/thunderdome/ob.c line 17: No such inherited function ::create before  ;
+u/c/chronos/thunderdome/ob.c line 18: Undefined function reset before  ;
+u/c/chronos/thunderdome/td_d.c line 17: No such inherited function ::remove before  ;
+u/c/chronos/thunderdome/td_d.c line 23: parse error before  ;
+u/c/chronos/thunderdome/td_d.c line 24: Illegal LHS before  ;
+u/c/chronos/thunderdome/td_d.c line 25: Illegal LHS before i<sizeof(ranking_s);
+u/c/chronos/thunderdome/td_d.c line 25: Warning: Value of conditional expression is unused before i++) {
+u/c/chronos/thunderdome/td_d.c line 25: parse error before  {
+u/c/chronos/thunderdome/td_d.c line 26: Value indexed has a bad type : "int " before ) ;
+u/c/chronos/thunderdome/td_d.c line 24: parse error before  ;
+u/c/chronos/thunderdome/td_d.c line 25: Illegal LHS before  ;
+u/c/chronos/thunderdome/td_d.c line 26: Illegal LHS before i<sizeof(ranking_s);
+u/c/chronos/thunderdome/td_d.c line 26: Warning: Value of conditional expression is unused before i++) {
+u/c/chronos/thunderdome/td_d.c line 26: parse error before  {
+u/c/chronos/thunderdome/td_d.c line 27: Value indexed has a bad type : "int " before ) ;
+u/c/chronos/thunderdome/td_d.c line 27: Illegal LHS before the end of line
+u/c/chronos/thunderdome/td_d.c line 25: parse error before  ;
+u/c/chronos/thunderdome/td_d.c line 26: Illegal LHS before i<sizeof(ranking_s);
+u/c/chronos/thunderdome/td_d.c line 26: Warning: Value of conditional expression is unused before i++) {
+u/c/chronos/thunderdome/td_d.c line 26: parse error before  {
+u/c/chronos/thunderdome/td_d.c line 27: Value indexed has a bad type : "int " before ) ;
+u/c/chronos/thunderdome/td_d.c line 27: Illegal LHS before the end of line
+u/c/chronos/thunderdome/td_d.c line 29: parse error before  str ;
+u/c/chronos/thunderdome/td_d.c line 27: Value indexed has a bad type : "int " before ) ;
+u/c/chronos/thunderdome/td_d.c line 27: Value indexed has a bad type : "int " before ) ;
+u/c/chronos/thunderdome/td_d.c line 22: "#pragma strict_types" requires type of function before "save_rankings", 60)
+u/c/chronos/thunderdome/td_d.c line 22: parse error before , 60) ;
+u/c/chronos/thunderdome/td_d.c line 23: "#pragma strict_types" requires type of function before "save_rankings", 60)
+u/c/chronos/thunderdome/td_d.c line 23: parse error before , 60) ;
+u/c/chronos/thunderdome/td_d.c line 23: "#pragma strict_types" requires type of function before ) ;
+u/c/chronos/thunderdome/td_d.c line 23: Warning: Return type doesn't match prototype ( unknown vs void ) before  ;
+u/c/chronos/thunderdome/td_d.c line 24: parse error before the end of line
+u/c/chronos/thunderdome/td_d.c line 42: parse error before  get_rank(object pla
+u/c/chronos/thunderdome/td_d.c line 14: parse error before  "/u/c/chronos/thund
+u/c/chronos/thunderdome/td_d.c line 14: Illegal LHS before  ;
+u/c/chronos/thunderdome/td_d.c line 26: parse error before  "/u/c/chronos/thund
+u/c/chronos/thunderdome/td_d.c line 26: Illegal LHS before  ;
+u/c/chronos/thunderdome/td_d.c line 72: parse error before  "/u/c/chronos/thund
+u/c/chronos/thunderdome/td_d.c line 72: Illegal LHS before , "###\n") ;
+u/c/chronos/thunderdome/echo_device.c line 12: parse error before , string msg) {
+u/c/chronos/thunderdome/echo_device.c line 13: Bad argument 1 to efun tell_object() before  ;
+u/c/chronos/thunderdome/echo_device.c line 12: parse error before  message) {
+std/body/attack.c line 858: Undefined variable 'THUNDERDOME' before  {
+std/body/attack.c line 859: Undefined variable 'THUNDERDOME_D' before death(TO, killer, (i
+u/c/chronos/thunderdome/td_d.c line 90: Undefined variable 'RECOVERY_ROOM' before  ;
+u/c/chronos/thunderdome/td_d.c line 95: Undefined variable 'OB_ROOM' before  ;    
+u/c/chronos/thunderdome/td_d.c line 99: Undefined variable 'TD_START' before   ;
+u/c/chronos/thunderdome/td_d.c line 90: Undefined variable 'RECOVERY_ROOM' before  ;
+u/c/chronos/thunderdome/td_d.c line 95: Undefined variable 'OB_ROOM' before  ;    
+u/c/chronos/thunderdome/td_d.c line 99: Undefined variable 'TD_START' before   ;
+u/c/chronos/thunderdome/td_d.c line 90: Undefined variable 'RECOVERY_ROOM' before  ;
+u/c/chronos/thunderdome/td_d.c line 95: Undefined variable 'OB_ROOM' before  ;    
+u/c/chronos/thunderdome/td_d.c line 99: Undefined variable 'TD_START' before   ;
+u/c/chronos/thunderdome/td_d.c line 90: Undefined variable 'RECOVERY_ROOM' before  ;
+u/c/chronos/thunderdome/td_d.c line 95: Undefined variable 'OB_ROOM' before  ;    
+u/c/chronos/thunderdome/td_d.c line 99: Undefined variable 'TD_START' before   ;
+u/c/chronos/thunderdome/start.c line 18: Undefined variable 'OB_ROOM' before the end of line
+u/c/chronos/thunderdome/start.c line 34: Undefined variable 'TD_D' before list_rankings()) ;
+u/c/chronos/thunderdome/start.c line 18: Undefined variable 'OB_ROOM' before the end of line
+u/c/chronos/thunderdome/start.c line 34: Undefined variable 'THUNDERDOME_D' before list_rankings()) ;
+u/c/chronos/thunderdome/start.c line 18: Undefined variable 'OB_ROOM' before the end of line
+u/c/chronos/thunderdome/start.c line 34: Undefined variable 'TD_D' before list_rankings()) ;
+u/c/chronos/thunderdome/td_d.c line 17: Undefined variable 'SAVE_FILE' before  ;
+u/c/chronos/thunderdome/td_d.c line 29: Undefined variable 'SAVE_FILE' before  ;
+u/c/chronos/thunderdome/td_d.c line 90: Undefined variable 'RECOVERY_ROOM' before  ;
+u/c/chronos/thunderdome/td_d.c line 95: Undefined variable 'OB_ROOM' before  ;    
+u/c/chronos/thunderdome/td_d.c line 99: Undefined variable 'TD_START' before   ;

@@ -1,0 +1,69 @@
+d/attic/Fooland/shop.c line 18: Undefined variable 'storeroom' before  clone_object(STORAG
+d/attic/Fooland/shop.c line 19: Undefined variable 'ob' before  clone_object("/obj/
+d/attic/Fooland/shop.c line 21: Undefined variable 'ob2' before  clone_object("obj/b
+d/attic/Prime/Cyanide/area2/spireante.c line 4: "#pragma strict_types" requires type of function before ) {
+d/attic/Fooland/fight_guild.c line 23: Undefined function set_trainable_skills before  ;
+d/attic/Fooland/thief_guild.c line 27: Undefined function set_trainable_skills before  ;
+d/attic/Outer/Sigil/fighterguild.c line 5: Illegal to redefine 'nomask' function "query" before the end of line
+d/attic/Outer/Sigil/fighterguild.c line 5: Illegal to redefine 'nomask' function "set" before the end of line
+d/attic/Outer/Sigil/fighterguild.c line 5: Illegal to redefine 'nomask' function "_query" before the end of line
+d/attic/Outer/Sigil/fighterguild.c line 5: Illegal to redefine 'nomask' function "_delete" before the end of line
+d/attic/Outer/Sigil/fighterguild.c line 5: Illegal to redefine 'nomask' function "_set" before the end of line
+d/attic/Outer/Sigil/fighterguild.c line 5: Illegal to redefine 'nomask' function "query_temp" before the end of line
+d/attic/Outer/Sigil/fighterguild.c line 5: Illegal to redefine 'nomask' function "query" before the end of line
+d/attic/Outer/Sigil/fighterguild.c line 5: Illegal to redefine 'nomask' function "set" before the end of line
+d/attic/Outer/Sigil/fighterguild.c line 5: Illegal to redefine 'nomask' function "_query" before the end of line
+d/attic/Outer/Sigil/fighterguild.c line 5: Illegal to redefine 'nomask' function "_delete" before the end of line
+d/attic/Outer/Sigil/fighterguild.c line 5: Illegal to redefine 'nomask' function "_set" before the end of line
+d/attic/Outer/Sigil/fighterguild.c line 5: Illegal to redefine 'nomask' function "query_temp" before the end of line
+d/attic/Outer/Sigil/wproom.c line 64: parse error before  SKS_WP_ANCIENT(5), 
+d/attic/Outer/Sigil/wproom.c line 65: parse error before  SKS_WP_STYLES(2),  
+d/attic/Outer/Sigil/wproom.c line 66: Illegal LHS before the end of line
+d/attic/Outer/Sigil/wproom.c line 66: parse error before the end of line
+d/attic/Outer/Sigil/wproom.c line 68: Illegal LHS before  break;
+d/attic/Outer/Sigil/wproom.c line 68: parse error before  break;
+d/attic/Outer/Sigil/fighterguild.c line 5: Illegal to redefine 'nomask' function "query" before the end of line
+d/attic/Outer/Sigil/fighterguild.c line 5: Illegal to redefine 'nomask' function "set" before the end of line
+d/attic/Fooland/thief_guild.c line 27: Undefined function set_trainable_skills before  ;
+d/attic/Fooland/magic_guild.c line 26: Undefined function set_trainable_skills before  ;
+d/attic/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/attic/Prime/Cyanide/area2/preproom.c line 5: "#pragma strict_types" requires type of function before ) {
+d/attic/Prime/Cyanide/area2/phalls1.c line 4: "#pragma strict_types" requires type of function before ) {
+d/attic/Prime/Cyanide/area2/phalln1.c line 4: "#pragma strict_types" requires type of function before ) {
+d/attic/Prime/Cyanide/area2/phalls1.c line 4: "#pragma strict_types" requires type of function before ) {
+d/attic/Prime/Cyanide/area2/phalln1.c line 4: "#pragma strict_types" requires type of function before ) {
+d/attic/Prime/Cyanide/area2/phalln1.c line 4: "#pragma strict_types" requires type of function before ) {
+d/attic/Prime/Cyanide/area2/phalln1.c line 4: "#pragma strict_types" requires type of function before ) {
+d/attic/Prime/Cyanide/area2/phalln2.c line 4: "#pragma strict_types" requires type of function before ) {
+d/attic/Prime/Cyanide/area2/phalln2.c line 4: "#pragma strict_types" requires type of function before ) {
+d/attic/Prime/Cyanide/area2/phalls2.c line 4: "#pragma strict_types" requires type of function before ) {
+d/attic/Prime/Cyanide/area2/phalls3.c line 4: "#pragma strict_types" requires type of function before ) {
+d/attic/Prime/Cyanide/area2/dininghall.c line 4: "#pragma strict_types" requires type of function before ) {
+d/attic/Prime/Cyanide/area2/dininghall.c line 4: "#pragma strict_types" requires type of function before ) {
+d/attic/Prime/Cyanide/area2/phallstd.c line 26: parse error before the end of line
+d/attic/Prime/Cyanide/obj/wetness.c line 13: "#pragma strict_types" requires type of function before )
+d/attic/Prime/Cyanide/obj/wetness.c line 20: Undefined function dryout1 before ;
+d/attic/Prime/Cyanide/obj/wetness.c line 28: "#pragma strict_types" requires type of function before )
+d/attic/Prime/Cyanide/obj/wetness.c line 33: Redeclaration of function dryout1. before the end of line
+d/attic/Prime/Cyanide/obj/wetness.c line 35: "#pragma strict_types" requires type of function before )
+d/attic/Prime/Cyanide/obj/wetness.c line 43: "#pragma strict_types" requires type of function before )
+d/attic/Prime/Cyanide/obj/wetness.c line 13: "#pragma strict_types" requires type of function before )
+d/attic/Prime/Cyanide/obj/wetness.c line 20: Undefined function dryout1 before ;
+d/attic/Prime/Cyanide/obj/wetness.c line 28: "#pragma strict_types" requires type of function before )
+d/attic/Prime/Cyanide/obj/wetness.c line 33: Redeclaration of function dryout1. before the end of line
+d/attic/Prime/Cyanide/obj/wetness.c line 35: "#pragma strict_types" requires type of function before )
+d/attic/Prime/Cyanide/obj/wetness.c line 43: "#pragma strict_types" requires type of function before )
+d/attic/Prime/Cyanide/area2/barracks.c line 4: "#pragma strict_types" requires type of function before ) {
+d/attic/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/attic/Outer/Sigil/clericguild.c line 50: Undefined variable 'Eminence' before Loan Health":1,     
+d/attic/Outer/Sigil/clericguild.c line 50: parse error before Loan Health":1,     
+d/attic/Outer/Sigil/clericguild.c line 95: End of file in string before n 1;
+d/attic/Outer/Sigil/clericguild.c line 50: Undefined variable 'Eminence' before Loan Health":1,     
+d/attic/Outer/Sigil/clericguild.c line 50: parse error before Loan Health":1,     
+d/attic/Outer/Sigil/clericguild.c line 95: End of file in string before istress of the Fifth
+d/attic/Outer/Sigil/clericguild.c line 50: Undefined variable 'Eminence' before Loan Health":1,     
+d/attic/Outer/Sigil/clericguild.c line 50: parse error before Loan Health":1,     
+d/attic/Outer/Sigil/clericguild.c line 95: End of file in string before istress of the Fifth
+d/attic/Outer/Sigil/clericguild.c line 50: Undefined variable 'Eminence' before Loan Health":1,     
+d/attic/Outer/Sigil/clericguild.c line 50: parse error before Loan Health":1,     
+d/attic/Outer/Sigil/clericguild.c line 95: End of file in string before  {

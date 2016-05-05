@@ -1,0 +1,64 @@
+u/a/ashdraven/items/rose.c line 19: parse error before the end of line
+u/a/ashdraven/items/rose.c line 21: Undefined variable 'int_auto_load' before reset 1}
+u/a/ashdraven/items/rose.c line 21: parse error before reset 1}
+u/a/ashdraven/workroom.c line 1: Cannot #include /u/d/dyrin/rooms/wrkrm2.c before the end of file
+u/a/ashdraven/workroom.c line 1: Cannot #include /u/d/dyrin/rooms/wrkrm2.c before the end of file
+u/a/ashdraven/workroom.c line 1: Cannot #include /u/a/ashdraven/wrkrm.old before the end of file
+u/a/ashdraven/cmds/_sponsor2.c line 51: Undefined variable 'myLev' before  member_array(
+u/a/ashdraven/cmds/_sponsor2.c line 80: Undefined variable 'targetLev' before  member_array(
+u/a/ashdraven/cmds/_sponsor2.c line 51: Undefined variable 'myLev' before  MIN_SPONSOR_LEVEL )
+u/a/ashdraven/cmds/_sponsor2.c line 77: Undefined variable 'targetLev' before  member_array(
+u/a/ashdraven/cmds/_sponsor2.c line 51: parse error before ;
+u/a/ashdraven/cmds/_sponsor2.c line 53: parse error before ( under && ( myLev <
+u/a/ashdraven/cmds/_sponsor2.c line 53: parse error before the end of line
+u/a/ashdraven/cmds/_sponsor2.c line 53: parse error before ( !under ) under = g
+u/a/ashdraven/cmds/_sponsor2.c line 55: Undefined variable 'target' before ;
+u/a/ashdraven/cmds/_sponsor2.c line 55: Missing type before the end of line
+u/a/ashdraven/cmds/_sponsor2.c line 56: parse error before ( !targetLink ) {
+u/a/ashdraven/cmds/_sponsor2.c line 53: parse error before the end of line
+u/a/ashdraven/items/rose.c line 24: parse error before the end of line
+u/a/ashdraven/items/rose.c line 24: parse error before the end of line
+u/a/ashdraven/items/rose.c line 24: parse error before the end of line
+u/a/ashdraven/items/rose.c line 23: parse error before the end of line
+u/a/ashdraven/items/rose.c line 22: Reserved type name unexpected. before  {
+u/a/ashdraven/items/rose.c line 22: parse error before  {
+u/a/ashdraven/items/rose.c line 28: parse error before n\n");
+u/a/ashdraven/items/rose.c line 36: End of file in string before ;}
+u/a/ashdraven/items/rose.c line 23: parse error before the end of line
+u/a/ashdraven/items/rose.c line 23: parse error before the end of line
+u/a/ashdraven/items/rose.c line 23: parse error before the end of line
+u/a/ashdraven/items/rose.c line 23: parse error before the end of line
+u/a/ashdraven/items/rose.c line 23: parse error before the end of line
+u/a/ashdraven/items/rose.c line 23: parse error before the end of line
+u/a/ashdraven/items/rose.c line 23: parse error before the end of line
+u/a/ashdraven/items/rose.c line 23: parse error before the end of line
+u/a/ashdraven/items/rose.c line 23: parse error before the end of line
+u/a/ashdraven/items/rose.c line 23: parse error before the end of line
+u/a/ashdraven/items/rose.c line 23: parse error before the end of line
+u/a/ashdraven/items/r2.c line 23: parse error before the end of line
+u/a/ashdraven/items/r2.c line 23: parse error before the end of line
+u/a/ashdraven/items/r2.c line 23: parse error before the end of line
+u/a/ashdraven/items/r2.c line 23: parse error before the end of line
+u/a/ashdraven/items/r2.c line 23: parse error before the end of line
+u/a/ashdraven/items/r2.c line 22: Reserved type name unexpected. before  {
+u/a/ashdraven/items/r2.c line 22: parse error before  {
+u/a/ashdraven/items/r2.c line 37: parse error before the end of line
+u/a/ashdraven/items/r2.c line 23: parse error before the end of line
+u/a/ashdraven/items/r2.c line 24: parse error before the end of line
+u/a/ashdraven/items/r2.c line 24: parse error before the end of line
+u/a/ashdraven/items/r2.c line 24: parse error before the end of line
+u/a/ashdraven/items/rose.c line 23: parse error before the end of line
+open/waste_5.c line 7: Cannot #include wasteland.h before the end of line
+open/waste_5.c line 15: Undefined variable 'CITY_NAME' before ;
+open/waste_5.c line 27: Undefined variable 'M_ROOM' before "waste_4.c",
+open/waste_5.c line 43: Undefined variable 'M_MON' before "sleopard.c");
+open/waste_5.c line 7: Cannot #include wasteland.h before the end of line
+open/waste_5.c line 15: Undefined variable 'CITY_NAME' before ;
+open/waste_5.c line 27: Undefined variable 'M_ROOM' before "waste_4.c",
+open/waste_5.c line 43: Undefined variable 'M_MON' before "sleopard.c");
+d/Arctic/Sebastian/rooms/waste_5.c line 46: parse error before the end of line
+u/a/ashdraven/items/rose.c line 23: parse error before the end of line
+u/a/ashdraven/town/std.c line 9: Cannot #include area.h before the end of line
+u/a/ashdraven/items/rose.c line 23: parse error before the end of line
+u/a/ashdraven/items/rose.c line 29: parse error before n\n");
+u/a/ashdraven/items/rose.c line 39: End of file in string before m on the chairs "+

@@ -1,0 +1,42 @@
+u/m/moltar/weapons/pin.c line 21: parse error before ( ({ "cuts", "cleave
+u/m/moltar/volcano/cave1.c line 2: parse error before : #include <mudlib.h
+u/m/moltar/volcano/cave1.c line 5: parse error before  create()
+u/m/moltar/volcano/cave1.c line 21: parse error before the end of line
+u/m/moltar/volcano/cave1.c line 21: parse error before the end of line
+u/m/moltar/volcano/cave2.c line 18: parse error before  AROOM+"cave3.c",
+u/m/moltar/volcano/cave2.c line 18: parse error before  AROOM+"cave3.c",
+u/m/moltar/volcano/cave2.c line 18: parse error before  AROOM+"cave3.c",
+u/m/moltar/volcano/cave2.c line 2: parse error before z
+u/m/moltar/volcano/cave3.c line 23: End of file in text block before when updating a remo
+u/m/moltar/volcano/cave3.c line 23: parse error before when updating a remo
+u/m/moltar/volcano/cave3.c line 22: End of file in text block before e3.c",
+u/m/moltar/volcano/cave3.c line 22: parse error before e3.c",
+u/m/moltar/volcano/cave3.c line 23: End of file in text block before .c",
+u/m/moltar/volcano/cave3.c line 23: parse error before .c",
+u/m/moltar/volcano/cave5.c line 18: Undefined variable 'south' before cave16.c
+u/m/moltar/volcano/cave5.c line 18: parse error before cave16.c
+u/m/moltar/volcano/cave5.c line 18: Undefined variable 'south' before cave16.c
+u/m/moltar/volcano/cave5.c line 18: parse error before cave16.c
+u/m/moltar/volcano/cave5.c line 18: Undefined variable 'south' before cave16.c
+u/m/moltar/volcano/cave5.c line 18: parse error before cave16.c
+u/m/moltar/volcano/cave5.c line 19: parse error before   AROOM+"cave3.c"
+u/m/moltar/volcano/cave5.c line 19: parse error before   AROOM+"cave3.c"
+u/m/moltar/volcano/cave5.c line 19: parse error before   AROOM+"cave3.c"
+u/m/moltar/volcano/cave6.c line 17: parse error before  AROOM+"cave7.c"
+u/m/moltar/volcano/cave5.c line 19: parse error before   AROOM+"cave3.c"
+u/m/moltar/volcano/cave5.c line 19: parse error before   AROOM+"cave3.c"
+u/m/moltar/volcano/cave5.c line 19: parse error before   AROOM+"cave3.c"
+u/m/moltar/volcano/cave5.c line 19: parse error before   AROOM+"cave3.c"
+u/m/moltar/volcano/cave4.c line 19: Undefined variable 'AOOM' before "cave6.c",
+u/m/moltar/volcano/cave4.c line 19: Undefined variable 'AOOM' before "cave6.c",
+u/m/moltar/volcano/cave5.c line 19: parse error before   AROOM+"cave3.c"
+u/m/moltar/volcano/cave5.c line 19: parse error before   AROOM+"cave3.c"
+u/m/moltar/volcano/cave5.c line 19: parse error before   AROOM+"cave3.c"
+u/m/moltar/volcano/cave16.c line 24: End of file in string before he town\nsquare. You
+u/m/moltar/volcano/cave16.c line 24: parse error before he town\nsquare. You
+u/m/moltar/volcano/cave16.c line 24: End of file in string before       -={    Parts +
+u/m/moltar/volcano/cave16.c line 24: parse error before       -={    Parts +
+u/m/moltar/volcano/cave17.c line 12: Undefined variable 'The' before  grows darker and mo
+u/m/moltar/volcano/cave17.c line 12: parse error before  grows darker and mo
+u/m/moltar/volcano/monsters/caverat.c line 24: parse error before the end of file
+u/m/moltar/volcano/monsters/caverat.c line 24: parse error before the end of file

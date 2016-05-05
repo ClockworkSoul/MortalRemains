@@ -1,0 +1,15 @@
+u/z/zykor/myring.c line 12: Undefined variable 'i' before  ("long", "A strange
+u/z/zykor/myring.c line 12: parse error before  ("long", "A strange
+u/z/zykor/catonine.c line 19: Undefined function set_level before ;
+u/z/zykor/myring.c line 9: Undefined variable 'i' before  ("long", "A strange
+u/z/zykor/myring.c line 9: parse error before  ("long", "A strange
+u/z/zykor/myclaws.c line 18: parse error before the end of line
+u/z/zykor/pstuff/statue.c line 4: No such inherited function ::create before ;
+u/z/zykor/zyrin/startm.c line 2: Missing leading " or < in #include before #include <mudlib.h>
+u/z/zykor/zyrin/bush1.c line 29: parse error before the end of line
+u/z/zykor/zyrin/bush1.c line 29: parse error before the end of line
+u/z/zykor/zyrin/path1.c line 28: parse error before the end of line
+u/z/zykor/zyrin/startrm.c line 46: parse error before u/z/zykor/zyrin/bush
+u/z/zykor/zyrin/startrm.c line 48: End of file in string before t 
+u/z/zykor/zyrin/vilenter.c line 28: parse error before the end of line
+u/z/zykor/zyrin/vilenter.c line 28: parse error before the end of line

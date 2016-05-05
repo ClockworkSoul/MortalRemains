@@ -1,0 +1,89 @@
+u/r/rehnbi/workroom.c line 5: parse error before the end of line
+u/r/rehnbi/workroom.c line 5: parse error before the end of line
+u/r/rehnbi/workroom.c line 5: parse error before the end of line
+u/r/rehnbi/workroom.c line 5: parse error before the end of line
+u/r/rehnbi/staff.c line 9: Warning: /* found in comment. before the end of line
+u/r/rehnbi/staff.c line 19: parse error before ) );
+u/r/rehnbi/staff.c line 9: Warning: /* found in comment. before the end of line
+u/r/rehnbi/staff.c line 19: parse error before ) );
+u/r/rehnbi/staff.c line 9: Warning: /* found in comment. before the end of line
+u/r/rehnbi/staff.c line 19: parse error before ) );
+u/r/rehnbi/staff.c line 9: Warning: /* found in comment. before the end of line
+u/r/rehnbi/staff.c line 19: parse error before ) );
+u/r/rehnbi/rooms/slums.c line 3: Cannot #include fuckstick.h before the end of line
+u/r/rehnbi/rooms/slums.c line 3: Cannot #include fuckstick.h before the end of line
+u/r/rehnbi/rooms/mainst12.c line 2: Cannot #include sigil.h before the end of line
+u/r/rehnbi/rooms/mainst12.c line 17: Undefined variable 'SIGIL' before "gatehouse.c",
+u/r/rehnbi/rooms/mainst12.c line 20: parse error before  "u/r/rehnbi/rooms/s
+u/r/rehnbi/rooms/mainst12.c line 2: Cannot #include sigil.h before the end of line
+u/r/rehnbi/rooms/mainst12.c line 17: Undefined variable 'SIGIL' before "gatehouse.c",
+u/r/rehnbi/rooms/mainst12.c line 20: parse error before  "u/r/rehnbi/rooms/s
+u/r/rehnbi/rooms/mainst12.c line 22: parse error before the end of line
+u/r/rehnbi/rooms/mainst12.c line 22: parse error before the end of line
+u/r/rehnbi/rooms/mainst12.c line 22: parse error before the end of line
+u/r/rehnbi/rooms/mainst12.c line 22: parse error before the end of line
+u/r/rehnbi/rooms/mainst12.c line 22: parse error before the end of line
+u/r/rehnbi/rooms/mainst12.c line 22: parse error before the end of line
+u/r/rehnbi/monsters/f-rat.c line 18: parse error before () ;
+u/r/rehnbi/monsters/rat.c line 18: parse error before () ;
+u/r/rehnbi/workroom.c line 38: parse error before the end of line
+u/r/rehnbi/workroom.c line 38: parse error before the end of line
+u/r/rehnbi/workroom.c line 39: parse error before the end of line
+u/r/rehnbi/workroom.c line 38: parse error before the end of file
+u/r/rehnbi/workroom.c line 38: parse error before the end of line
+u/r/rehnbi/workroom.c line 39: parse error before the end of line
+u/r/rehnbi/workroom.c line 39: parse error before the end of line
+u/r/rehnbi/workroom.c line 39: parse error before the end of line
+u/r/rehnbi/workroom.c line 38: parse error before the end of line
+u/r/rehnbi/workroom.c line 43: parse error before the end of file
+u/r/rehnbi/workroom.c line 43: parse error before the end of file
+u/r/rehnbi/workroom.c line 43: parse error before the end of file
+u/r/rehnbi/monsters/rat.c line 18: parse error before () ;
+u/r/rehnbi/monsters/rat.c line 18: parse error before () ;
+u/r/rehnbi/rooms/chapel.c line 3: Cannot #include fuckstick.h before the end of line
+u/r/rehnbi/rooms/chapel.c line 21: Undefined variable 'AROOM' before "street14.c",
+u/r/rehnbi/monsters/f-rat.c line 18: parse error before () ;
+u/r/rehnbi/monsters/f-rat.c line 18: parse error before () ;
+u/r/rehnbi/monsters/f-rat.c line 18: parse error before () ;
+u/r/rehnbi/rooms/chapel.c line 3: Cannot #include fuckstick.h before the end of line
+u/r/rehnbi/rooms/chapel.c line 21: Undefined variable 'AROOM' before "street14.c",
+u/r/rehnbi/rooms/chapel.c line 3: Cannot #include fuckstick.h before the end of line
+u/r/rehnbi/rooms/chapel.c line 21: Undefined variable 'AROOM' before "street14.c",
+u/r/rehnbi/rooms/chapel.c line 20: Undefined variable 'AROOM' before "street14.c",
+u/r/rehnbi/rooms/fltcastl1.c line 25: parse error before ", ([
+u/r/rehnbi/rooms/fltcastl1.c line 30: End of file in string before ke std/user.c
+u/r/rehnbi/monsters/f-rat.c line 26: parse error before );
+u/r/rehnbi/monsters/f-rat.c line 26: parse error before );
+u/r/rehnbi/monsters/f-rat.c line 26: parse error before );
+u/r/rehnbi/monsters/f-rat.c line 2: Cannot #include fuckstick.h before inherit MONSTER ;
+u/r/rehnbi/monsters/f-rat.c line 25: parse error before );
+u/r/rehnbi/monsters/rat.c line 18: parse error before () ;
+u/r/rehnbi/items/controler.c line 28: parse error before  "Nintendo 64 Contro
+u/r/rehnbi/items/cloak.c line 24: parse error before ("prevent_drop", 1);
+u/r/rehnbi/items/cloak.c line 33: Undefined variable 'this_player' before set("base_stat/stren
+u/r/rehnbi/items/cloak.c line 59: Reserved type name unexpected. before ()
+u/r/rehnbi/items/cloak.c line 59: parse error before ()
+u/r/rehnbi/items/cloak.c line 24: parse error before ("prevent_drop", 1);
+u/r/rehnbi/items/cloak.c line 33: Undefined variable 'this_player' before set("base_stat/stren
+u/r/rehnbi/items/cloak.c line 59: Reserved type name unexpected. before ()
+u/r/rehnbi/items/cloak.c line 59: parse error before ()
+u/r/rehnbi/items/cloak.c line 59: Reserved type name unexpected. before  {
+u/r/rehnbi/items/cloak.c line 59: parse error before  {
+u/r/rehnbi/items/cloak.c line 56: Reserved type name unexpected. before  {
+u/r/rehnbi/items/cloak.c line 56: parse error before  {
+u/r/rehnbi/items/cloak.c line 55: Reserved type name unexpected. before  {
+u/r/rehnbi/items/cloak.c line 55: parse error before  {
+u/r/rehnbi/items/cloak.c line 54: Reserved type name unexpected. before  {
+u/r/rehnbi/items/cloak.c line 54: parse error before  {
+u/r/rehnbi/rooms/weapshop.c line 3: Cannot #include fuckstick.h before the end of line
+u/r/rehnbi/rooms/weapshop.c line 21: Undefined variable 'AROOM' before "street12.c",
+u/k/kyako/dick.c line 10: parse error before 's infinitely small 
+u/k/kyako/dick.c line 10: Illegal character constant before  infinitely small di
+u/k/kyako/dick.c line 20: End of file in string before ns.
+u/k/kyako/liwhore.c line 2: Cannot #include ../defs.h before the end of line
+u/k/kyako/liwhore.c line 39: Undefined variable 'servant_key' before )->move(TO) ;
+u/k/kyako/liwhore.c line 39: Undefined function OBJ before )->move(TO) ;
+u/k/kyako/liwhore.c line 46: End of file in string before tr = money + " coins
+u/k/kyako/liwhore.c line 46: Undefined variable 'fuck' before tr = money + " coins
+u/k/kyako/liwhore.c line 46: parse error before tr = money + " coins
+u/r/rehnbi/workroom.c line 33: No such inherited function ::init before ;

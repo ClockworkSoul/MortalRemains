@@ -1,0 +1,846 @@
+u/s/shya/private/handcuffs.c line 78: Undefined function dest before ;
+u/s/shya/private/handcuffs.c line 86: Undefined function reset before ;1
+u/s/shya/private/handcuffs.c line 87: parse error before the end of line
+u/s/shya/workroom.c line 47: parse error before the end of file
+u/s/shya/workroom.c line 42: parse error before the end of file
+u/s/shya/workroom.c line 31: Undefined function victim before ) {
+u/s/shya/workroom.c line 31: Undefined function victim before ) {
+u/s/shya/private/bedroom.c line 49: parse error before the end of file
+u/s/shya/rooms/castle/guardroom.c line 36: End of file in text block before eep-update".  Very u
+u/s/shya/rooms/castle/guardroom.c line 36: parse error before eep-update".  Very u
+u/s/shya/rooms/castle/guardroom.c line 37: End of file in text block before hat, mud;
+u/s/shya/rooms/castle/guardroom.c line 37: parse error before hat, mud;
+u/s/shya/rooms/castle/guardroom.c line 35: End of file in text block before t", 5);
+u/s/shya/rooms/castle/guardroom.c line 35: parse error before t", 5);
+u/s/shya/rooms/castle/guardroom.c line 35: End of file in text block before e, "\n");
+u/s/shya/rooms/castle/guardroom.c line 35: parse error before e, "\n");
+u/s/shya/rooms/castle/guardroom.c line 35: End of file in text block before r/Baator/"+"monsters
+u/s/shya/rooms/castle/guardroom.c line 35: parse error before r/Baator/"+"monsters
+u/s/shya/rooms/castle/guardroom.c line 35: End of file in text block before r/Baator/"+"monsters
+u/s/shya/rooms/castle/guardroom.c line 35: parse error before r/Baator/"+"monsters
+u/s/shya/rooms/castle/guardroom.c line 35: End of file in text block before /Baator/"+"monsters/
+u/s/shya/rooms/castle/guardroom.c line 35: parse error before /Baator/"+"monsters/
+u/s/shya/rooms/castle/guardroom.c line 36: End of file in text block before aator/"+"monsters/am
+u/s/shya/rooms/castle/guardroom.c line 36: parse error before aator/"+"monsters/am
+u/s/shya/rooms/castle/guardroom.c line 21: parse error before  "/u/s/shya/rooms/ca
+u/s/shya/rooms/castle/guardroom.c line 28: Illegal LHS before the end of line
+u/s/shya/rooms/castle/guardroom.c line 28: parse error before the end of line
+u/s/shya/rooms/castle/guardroom.c line 22: parse error before the end of line
+u/s/shya/rooms/castle/guardroom.c line 28: Illegal LHS before the end of line
+u/s/shya/rooms/castle/guardroom.c line 28: parse error before the end of line
+u/s/shya/rooms/castle/recroom.c line 45: End of file in text block before  
+u/s/shya/rooms/castle/recroom.c line 45: parse error before  
+u/s/shya/rooms/castle/recroom.c line 46: End of file in text block before #define TO this_obje
+u/s/shya/rooms/castle/recroom.c line 46: parse error before #define TO this_obje
+u/s/shya/rooms/castle/recroom.c line 46: End of file in text block before ; break;
+u/s/shya/rooms/castle/recroom.c line 46: parse error before ; break;
+u/s/shya/rooms/castle/recroom.c line 37: Too many arguments to move_object before ;
+u/s/shya/rooms/castle/recroom.c line 48: "#pragma strict_types" requires type of function before "pre_exit_func", ([
+u/s/shya/rooms/castle/recroom.c line 48: parse error before , ([
+u/s/shya/rooms/castle/recroom.c line 61: parse error before the end of file
+u/s/shya/rooms/castle/wall1.c line 26: End of file in text block before object()->query("wim
+u/s/shya/rooms/castle/wall1.c line 26: parse error before object()->query("wim
+u/s/shya/rooms/castle/wall1.c line 26: End of file in text block before object()->query("wim
+u/s/shya/rooms/castle/wall1.c line 26: parse error before object()->query("wim
+u/s/shya/rooms/castle/wall1.c line 26: End of file in text block before t skilled, i, playlv
+u/s/shya/rooms/castle/wall1.c line 26: parse error before t skilled, i, playlv
+u/s/shya/rooms/castle/wall1.c line 26: End of file in text block before rebootd"
+u/s/shya/rooms/castle/wall1.c line 26: parse error before rebootd"
+u/s/shya/rooms/castle/wall1.c line 26: End of file in text block before rebootd"
+u/s/shya/rooms/castle/wall1.c line 26: parse error before rebootd"
+u/s/shya/rooms/castle/wall1.c line 26: End of file in text block before ebootd"
+u/s/shya/rooms/castle/wall1.c line 26: parse error before ebootd"
+u/s/shya/rooms/castle/wall1.c line 26: End of file in text block before ;
+u/s/shya/rooms/castle/wall1.c line 26: parse error before ;
+u/s/shya/rooms/castle/wall1.c line 26: End of file in text block before the end of line
+u/s/shya/rooms/castle/wall1.c line 26: parse error before the end of line
+u/s/shya/rooms/castle/wall1.c line 28: End of file in text block before ********************
+u/s/shya/rooms/castle/wall1.c line 28: parse error before ********************
+u/s/shya/rooms/castle/wall1.c line 26: End of file in text block before the end of line
+u/s/shya/rooms/castle/wall1.c line 26: parse error before the end of line
+u/s/shya/rooms/castle/wall1.c line 26: End of file in text block before  ;
+u/s/shya/rooms/castle/wall1.c line 26: parse error before  ;
+u/s/shya/rooms/castle/wall2.c line 13: parse error before the end of line
+u/s/shya/rooms/castle/wall2.c line 30: Illegal LHS before the end of line
+u/s/shya/rooms/castle/wall2.c line 30: parse error before the end of line
+u/s/shya/rooms/castle/wall2.c line 13: parse error before the end of line
+u/s/shya/rooms/castle/wall2.c line 30: Illegal LHS before the end of line
+u/s/shya/rooms/castle/wall2.c line 30: parse error before the end of line
+u/s/shya/rooms/castle/wall2.c line 13: parse error before the end of line
+u/s/shya/rooms/castle/wall2.c line 30: Illegal LHS before the end of line
+u/s/shya/rooms/castle/wall2.c line 30: parse error before the end of line
+u/s/shya/rooms/castle/wall2.c line 13: parse error before the end of line
+u/s/shya/rooms/castle/wall2.c line 30: Illegal LHS before the end of line
+u/s/shya/rooms/castle/wall2.c line 30: parse error before the end of line
+u/s/shya/rooms/castle/wall2.c line 26: parse error before  "windows" : "Actual
+u/s/shya/rooms/castle/wall2.c line 30: Illegal LHS before the end of line
+u/s/shya/rooms/castle/wall2.c line 30: parse error before the end of line
+u/s/shya/rooms/shoreline.c line 12: Undefined variable 'set' before , "shya");
+u/s/shya/rooms/shoreline.c line 12: parse error before , "shya");
+u/s/shya/rooms/shoreline.c line 33: Illegal LHS before the end of line
+u/s/shya/private/frozenaxe.c line 1: parse error before include <mudlib.h>
+u/s/shya/private/frozenaxe.c line 1: parse error before include <mudlib.h>
+u/s/shya/private/frozenaxe.c line 1: parse error before include <mudlib.h>
+u/s/shya/private/frozenaxe.c line 1: parse error before include <mudlib.h>
+u/s/shya/rooms/castle/fhall.c line 39: Reserved type name unexpected. before ()
+u/s/shya/rooms/castle/fhall.c line 39: parse error before ()
+u/s/shya/rooms/castle/fhall.c line 42: Illegal LHS before the end of line
+u/s/shya/rooms/castle/fhall.c line 58: Undefined variable 'how' before  where) ==2 ) {
+u/s/shya/rooms/castle/fhall.c line 58: Undefined variable 'where' before  ==2 ) {
+u/s/shya/rooms/castle/fhall.c line 58: Undefined function scanf before  ==2 ) {
+u/s/shya/rooms/castle/fhall.c line 39: Reserved type name unexpected. before ()
+u/s/shya/rooms/castle/fhall.c line 39: parse error before ()
+u/s/shya/rooms/castle/fhall.c line 42: Illegal LHS before the end of line
+u/s/shya/rooms/castle/fhall.c line 58: Undefined variable 'dowhat' before  towhat) ==2 ) {
+u/s/shya/rooms/castle/fhall.c line 58: Undefined variable 'towhat' before  ==2 ) {
+u/s/shya/rooms/castle/fhall.c line 58: Undefined function scanf before  ==2 ) {
+u/s/shya/rooms/castle/fhall.c line 60: Undefined variable 'dowhat' before  towhat) ==2 ) {
+u/s/shya/rooms/castle/fhall.c line 60: Undefined variable 'towhat' before  ==2 ) {
+u/s/shya/rooms/castle/fhall.c line 60: Undefined function scanf before  ==2 ) {
+u/s/shya/rooms/castle/fhall.c line 60: == always false because of incompatible types ( unknown vs int ). before  {
+u/s/shya/rooms/castle/fhall.c line 72: parse error before  clammer onto the ta
+u/s/shya/rooms/castle/fhall.c line 76: Illegal character constant before  sorry, but the tabl
+u/s/shya/rooms/castle/fhall.c line 61: Undefined function scanf before  ==2 ) {
+u/s/shya/rooms/castle/fhall.c line 61: == always false because of incompatible types ( unknown vs int ). before  {
+u/s/shya/rooms/castle/fhall.c line 73: parse error before  clammer onto the ta
+u/s/shya/rooms/castle/fhall.c line 77: Illegal character constant before  sorry, but the tabl
+u/s/shya/rooms/castle/fhall.c line 86: End of file in string before (!str)
+u/s/shya/rooms/castle/fhall.c line 73: parse error before  clammer onto the ta
+u/s/shya/rooms/castle/fhall.c line 77: Illegal character constant before  sorry, but the tabl
+u/s/shya/rooms/castle/fhall.c line 86: End of file in string before !str)
+u/s/shya/rooms/castle/guardroom.c line 26: Type mismatch ( unknown vs object ) when initializing frostguard before the end of line
+u/s/shya/rooms/castle/guardroom.c line 26: Missing type before the end of line
+u/s/shya/rooms/castle/guardroom.c line 27: parse error before move(TO);
+u/s/shya/rooms/castle/recroom.c line 54: parse error before  ("frostguard");
+u/s/shya/rooms/castle/recroom.c line 55: Illegal LHS before  i <= 6; i++) {
+u/s/shya/rooms/castle/recroom.c line 57: Illegal LHS before the end of line
+u/s/shya/rooms/castle/recroom.c line 57: parse error before the end of line
+u/s/shya/rooms/castle/recroom.c line 54: Undefined function dest before ;
+u/s/shya/rooms/castle/recroom.c line 56: Illegal to redeclare local name 'frostguard' before ;
+u/s/shya/rooms/castle/recroom.c line 59: Undefined function inventory before ;
+u/s/shya/rooms/castle/recroom.c line 62: Undefined variable 'nGuest' before  1;
+u/s/shya/rooms/castle/recroom.c line 62: Undefined variable 'nGuard' before  1;
+u/s/shya/rooms/castle/greg.c line 3: parse error before the end of line
+d/Arctic/Shya/rooms/igloo.c line 2: parse error before the end of file
+d/Arctic/Shya/rooms/igloo.c line 2: parse error before the end of file
+d/Arctic/Shya/rooms/igloo.c line 2: parse error before the end of file
+d/Arctic/Shya/rooms/igloo.c line 2: parse error before the end of file
+u/s/shya/throneroom.c line 19: Reserved type name unexpected. before ;
+u/s/shya/throneroom.c line 19: parse error before ;
+u/s/shya/throneroom.c line 20: Illegal LHS before the end of line
+u/s/shya/throneroom.c line 21: Undefined variable 'king' before move(TO);
+u/s/shya/throneroom.c line 22: Undefined variable 'i' before  1; i <= 6; i++) {
+u/s/shya/throneroom.c line 31: Reserved type name unexpected. before ()
+u/s/shya/throneroom.c line 19: Reserved type name unexpected. before ;
+u/s/shya/throneroom.c line 19: parse error before ;
+u/s/shya/throneroom.c line 20: Illegal LHS before the end of line
+u/s/shya/throneroom.c line 21: Undefined variable 'king' before move(TO);
+u/s/shya/throneroom.c line 22: Undefined variable 'i' before  1; i <= 6; i++) {
+u/s/shya/throneroom.c line 31: Reserved type name unexpected. before ()
+u/s/shya/throneroom.c line 19: Reserved type name unexpected. before ;
+u/s/shya/throneroom.c line 19: parse error before ;
+u/s/shya/throneroom.c line 20: Illegal LHS before the end of line
+u/s/shya/throneroom.c line 21: Undefined variable 'king' before move(TO);
+u/s/shya/throneroom.c line 22: Undefined variable 'i' before  1; i <= 6; i++) {
+u/s/shya/throneroom.c line 31: Reserved type name unexpected. before ()
+u/s/shya/throneroom.c line 19: Reserved type name unexpected. before ;
+u/s/shya/throneroom.c line 19: parse error before ;
+u/s/shya/throneroom.c line 20: Illegal LHS before the end of line
+u/s/shya/throneroom.c line 21: Undefined variable 'king' before move(TO);
+u/s/shya/throneroom.c line 22: Undefined variable 'i' before  1; i <= 6; i++) {
+u/s/shya/throneroom.c line 31: Reserved type name unexpected. before ()
+u/s/shya/throneroom.c line 19: Reserved type name unexpected. before ;
+u/s/shya/throneroom.c line 19: parse error before ;
+u/s/shya/throneroom.c line 20: Illegal LHS before the end of line
+u/s/shya/throneroom.c line 21: Undefined variable 'king' before move(TO);
+u/s/shya/throneroom.c line 22: Undefined variable 'i' before  1; i <= 6; i++) {
+u/s/shya/throneroom.c line 31: Reserved type name unexpected. before ()
+u/s/shya/throneroom.c line 19: Reserved type name unexpected. before ;
+u/s/shya/throneroom.c line 19: parse error before ;
+u/s/shya/throneroom.c line 20: Illegal LHS before the end of line
+u/s/shya/throneroom.c line 21: Undefined variable 'king' before move(TO);
+u/s/shya/throneroom.c line 22: Undefined variable 'i' before  1; i <= 6; i++) {
+u/s/shya/throneroom.c line 31: Reserved type name unexpected. before ()
+u/s/shya/throneroom.c line 32: Reserved type name unexpected. before ()
+u/s/shya/throneroom.c line 32: parse error before ()
+u/s/shya/throneroom.c line 36: Illegal LHS before the end of line
+u/s/shya/throneroom.c line 44: Undefined variable 'nGuards' before  1;
+u/s/shya/throneroom.c line 47: Undefined variable 'nGuards' before  6; nGuards++) {
+u/s/shya/throneroom.c line 32: Reserved type name unexpected. before ()
+u/s/shya/throneroom.c line 32: parse error before ()
+u/s/shya/throneroom.c line 36: Illegal LHS before the end of line
+u/s/shya/throneroom.c line 44: Undefined variable 'nGuards' before  1;
+u/s/shya/throneroom.c line 47: Undefined variable 'nGuards' before  6; nGuards++) {
+u/s/shya/throneroom.c line 55: parse error before  0;
+u/s/shya/throneroom.c line 55: parse error before  0;
+u/s/shya/throneroom.c line 56: parse error before the end of line
+u/s/shya/throneroom.c line 70: parse error before  0 ;
+u/s/shya/throneroom.c line 70: parse error before the end of line
+u/s/shya/throneroom.c line 70: parse error before the end of line
+u/s/shya/throneroom.c line 80: Undefined function kill_obj before );
+u/s/shya/throneroom.c line 80: Undefined function kill_obj before ;
+d/Arctic/Shya/rooms/castle/library.c line 6: parse error before ;
+d/Arctic/Shya/rooms/castle/library.c line 42: Undefined variable 'frostguard' before  clone_object("/d/Ar
+d/Arctic/Shya/rooms/castle/library.c line 42: Reserved type name unexpected. before ;
+d/Arctic/Shya/rooms/castle/library.c line 42: parse error before ;
+d/Arctic/Shya/rooms/castle/library.c line 43: Illegal LHS before the end of line
+d/Arctic/Shya/rooms/castle/library.c line 44: Undefined variable 'frostguard' before move(TO);
+d/Arctic/Shya/rooms/castle/library.c line 31: Undefined variable 'frostguard' before  clone_object("/d/Ar
+u/s/shya/knight.c line 26: parse error before ", "warrior");
+u/s/shya/knight.c line 38: Illegal character constant before alt! Who goes there?
+u/s/shya/knight.c line 38: Illegal character constant before ",
+u/s/shya/knight.c line 44: End of file in string before it() {
+u/s/shya/knight.c line 26: parse error before ", "warrior");
+u/s/shya/knight.c line 38: Illegal character constant before alt! Who goes there?
+u/s/shya/knight.c line 38: Illegal character constant before ",
+u/s/shya/knight.c line 44: End of file in string before it() {
+u/s/shya/handcuffs1.c line 85: Undefined function reset before ;1
+u/s/shya/handcuffs1.c line 86: parse error before the end of line
+u/s/shya/handcuffs1.c line 85: Undefined function reset before ;1
+u/s/shya/handcuffs1.c line 86: parse error before the end of line
+u/s/shya/handcuffs1.c line 86: Undefined function reset before ;
+u/s/shya/handcuffs1.c line 86: No such inherited function ::reset before ;
+u/s/shya/handcuffs1.c line 86: No such inherited function lock::reset before ;
+u/s/shya/hottub.c line 50: parse error before ", 1 );
+u/s/shya/hottub.c line 68: Illegal character constant before limb in' to get into
+u/s/shya/hottub.c line 68: Illegal character constant before to get into\n"+
+u/s/shya/hottub.c line 69: Illegal character constant before limb out' to get out
+u/s/shya/hottub.c line 69: Illegal character constant before to get out.\n",
+u/s/shya/hottub.c line 75: End of file in string before       "/std/waste_ca
+u/s/shya/hottub.c line 50: parse error before ", 1 );
+u/s/shya/hottub.c line 68: Illegal character constant before limb in' to get into
+u/s/shya/hottub.c line 68: Illegal character constant before to get into\n"+
+u/s/shya/hottub.c line 69: Illegal character constant before limb out' to get out
+u/s/shya/hottub.c line 69: Illegal character constant before to get out.\n",
+u/s/shya/hottub.c line 75: End of file in string before for (x=0; x < sizeof
+u/s/shya/hottub.c line 50: parse error before ", 1 );
+u/s/shya/hottub.c line 68: Illegal character constant before limb in' to get into
+u/s/shya/hottub.c line 68: Illegal character constant before to get into\n"+
+u/s/shya/hottub.c line 69: Illegal character constant before limb out' to get out
+u/s/shya/hottub.c line 69: Illegal character constant before to get out.\n",
+u/s/shya/hottub.c line 75: End of file in string before for (x=0; x < sizeof
+u/s/shya/hottub.c line 50: parse error before ", 1 );
+u/s/shya/hottub.c line 66: Illegal character constant before limb in' to get into
+u/s/shya/hottub.c line 66: Illegal character constant before to get into the hott
+u/s/shya/hottub.c line 66: Illegal character constant before limb out' to get out
+u/s/shya/hottub.c line 66: Illegal character constant before to get out."
+u/s/shya/hottub.c line 71: End of file in string before )->block_attack(1);
+u/s/shya/hottub.c line 50: parse error before ", 1 );
+u/s/shya/hottub.c line 71: End of file in string before the end of line
+u/s/shya/hottub.c line 50: parse error before ", 1 );
+u/s/shya/hottub.c line 71: End of file in string before &&
+u/s/shya/hottub.c line 50: parse error before ", 1 );
+u/s/shya/hottub.c line 71: End of file in string before     "/std/ammo.c"
+u/s/shya/w_ring.c line 28: Reserved type name unexpected. before ()
+u/s/shya/w_ring.c line 28: parse error before ()
+u/s/shya/w_ring.c line 35: Illegal LHS before the end of line
+u/s/shya/w_ring.c line 36: Undefined variable 'j' before  0; j < limit; j++) 
+u/s/shya/w_ring.c line 36: Undefined variable 'limit' before  j++) {
+u/s/shya/w_ring.c line 37: Undefined variable 'item' before  auto_load[j];
+u/s/shya/missile.c line 1: parse error before Ïà¡±át);    set("s
+u/s/shya/missile.c line 1: parse error before Ïà¡±áort", "a nucl
+u/s/shya/missile.c line 1: parse error before Ïà¡±áort", "a nucl
+u/s/shya/missile.c line 27: Undefined function dest before ;
+u/s/shya/missile.c line 27: No such inherited function ::dest before ;
+u/s/shya/missile.c line 25: Undefined variable 't' before query("exits");
+u/s/shya/missile.c line 28: parse error before the end of line
+u/s/shya/missile.c line 56: Undefined variable 'name' before ;
+u/s/shya/missile.c line 56: Illegal LHS before the end of line
+u/s/shya/missile.c line 56: parse error before the end of line
+u/s/shya/missile.c line 25: Undefined variable 't' before query("exits");
+u/s/shya/missile.c line 28: parse error before the end of line
+u/s/shya/missile.c line 56: Undefined variable 'name' before ;
+u/s/shya/missile.c line 56: Illegal LHS before the end of line
+u/s/shya/missile.c line 56: parse error before the end of line
+u/s/shya/missile.c line 25: Undefined variable 't' before query("exits");
+u/s/shya/missile.c line 28: parse error before the end of line
+u/s/shya/missile.c line 56: Undefined variable 'name' before ;
+u/s/shya/missile.c line 56: Illegal LHS before the end of line
+u/s/shya/missile.c line 56: parse error before the end of line
+u/s/shya/missile.c line 28: parse error before the end of line
+u/s/shya/missile.c line 56: Undefined variable 'name' before ;
+u/s/shya/missile.c line 56: Illegal LHS before the end of line
+u/s/shya/missile.c line 56: parse error before the end of line
+u/s/shya/missile.c line 27: Undefined function isliving before  && !wizardp(invento
+u/s/shya/missile.c line 28: Reserved type name unexpected. before ;
+u/s/shya/missile.c line 28: parse error before ;
+u/s/shya/missile.c line 29: Undefined variable 'inventory' before i]->query("hit_point
+u/s/shya/missile.c line 29: Undefined variable 'i' before ->query("hit_points"
+u/s/shya/missile.c line 29: Illegal LHS before the end of line
+u/s/shya/missile.c line 28: Reserved type name unexpected. before ;
+u/s/shya/missile.c line 28: parse error before ;
+u/s/shya/missile.c line 29: Undefined variable 'inventory' before i]->query("hit_point
+u/s/shya/missile.c line 29: Undefined variable 'i' before ->query("hit_points"
+u/s/shya/missile.c line 29: Illegal LHS before the end of line
+u/s/shya/missile.c line 30: Undefined variable 'hp' before  1;
+u/s/shya/private/handcuffs.c line 86: Undefined function reset before ;1
+u/s/shya/private/handcuffs.c line 87: parse error before the end of line
+u/s/shya/private/missile.c line 112: parse error before the end of file
+u/s/shya/private/handcuffs.c line 86: Undefined function reset before ;1
+u/s/shya/private/handcuffs.c line 87: parse error before the end of line
+u/s/shya/chocolate.c line 117: parse error before  a chocolate chip.\n
+u/s/shya/chocolate.c line 124: parse error before the end of file
+u/s/shya/chocolate.c line 109: Undefined variable 'ob' before  present(str, enviro
+u/s/shya/leather.c line 9: parse error before ", ({ "leather", "ha
+u/s/shya/leather.c line 46: End of file in string before tive(target) && admi
+u/s/shya/leather.c line 9: parse error before ", ({ "leather", "ha
+u/s/shya/leather.c line 46: End of file in string before     write("You canno
+u/s/shya/leather.c line 53: "#pragma strict_types" requires type of function before victim, this_player(
+u/s/shya/leather.c line 53: Missing type for argument before , this_player()->que
+u/s/shya/leather.c line 53: Missing type for argument before ()->query("cap_name"
+u/s/shya/leather.c line 53: parse error before )->query("cap_name")
+u/s/shya/leather.c line 57: parse error before \n");
+u/s/shya/leather.c line 66: End of file in string before ng)act_ob->query_xal
+u/s/shya/leather.c line 57: parse error before \n");
+u/s/shya/leather.c line 66: End of file in string before ng)act_ob->query_xal
+u/s/shya/leather.c line 54: Undefined function tell_TP before ;
+u/s/shya/leather.c line 57: parse error before \n");
+u/s/shya/leather.c line 66: End of file in string before flaming_corpse") ;
+u/s/shya/leather.c line 54: Undefined function tell_victim before ;
+u/s/shya/leather.c line 57: parse error before \n");
+u/s/shya/leather.c line 66: End of file in string before  " whispers "+messag
+u/s/shya/leather.c line 53: "#pragma strict_types" requires type of function before victim, this_player(
+u/s/shya/leather.c line 53: Missing type for argument before , this_player()->que
+u/s/shya/leather.c line 53: Missing type for argument before ()->query("cap_name"
+u/s/shya/leather.c line 53: parse error before )->query("cap_name")
+u/s/shya/leather.c line 12: No such inherited function wear::init before ;
+u/s/shya/leather.c line 13: Undefined variable 'worn' before the end of line
+u/s/shya/leather.c line 55: "#pragma strict_types" requires type of function before victim, this_player(
+u/s/shya/leather.c line 55: Missing type for argument before , this_player()->que
+u/s/shya/leather.c line 55: Missing type for argument before ()->query("cap_name"
+u/s/shya/leather.c line 55: parse error before )->query("cap_name")
+u/s/shya/leather.c line 12: No such inherited function wear::init before ;
+u/s/shya/leather.c line 54: "#pragma strict_types" requires type of function before victim, this_player(
+u/s/shya/leather.c line 54: Missing type for argument before , this_player()->que
+u/s/shya/leather.c line 54: Missing type for argument before ()->query("cap_name"
+u/s/shya/leather.c line 54: parse error before )->query("cap_name")
+u/s/shya/leather.c line 53: "#pragma strict_types" requires type of function before victim, this_player(
+u/s/shya/leather.c line 53: Missing type for argument before , this_player()->que
+u/s/shya/leather.c line 53: Missing type for argument before ()->query("cap_name"
+u/s/shya/leather.c line 53: parse error before )->query("cap_name")
+u/s/shya/leather.c line 57: parse error before \n");
+u/s/shya/leather.c line 66: End of file in string before re\n"+
+u/s/shya/leather.c line 57: parse error before \n");
+u/s/shya/leather.c line 66: End of file in string before r()) + "] call'd: " 
+u/s/shya/leather.c line 56: parse error before \n");
+u/s/shya/leather.c line 65: End of file in string before ictim);
+u/s/shya/leather.c line 56: parse error before \n");
+u/s/shya/leather.c line 65: End of file in string before ictim);
+u/s/shya/leather.c line 56: parse error before ").\n");
+u/s/shya/leather.c line 56: parse error before ")+.\n");
+u/s/shya/leather.c line 59: parse error before ").\n", victim);
+u/s/shya/leather.c line 61: Too many arguments to write before ;
+u/s/shya/leather.c line 53: parse error before  
+u/s/shya/leather.c line 53: "#pragma strict_types" requires type of function before victim, this_player(
+u/s/shya/leather.c line 53: Missing type for argument before , this_player()->que
+u/s/shya/leather.c line 53: Missing type for argument before ()->query("cap_name"
+u/s/shya/leather.c line 53: parse error before )->query("cap_name")
+u/s/shya/leather.c line 2: Illegal to redefine 'nomask' function "query" before the end of line
+u/s/shya/leather.c line 2: Illegal to redefine 'nomask' function "set" before the end of line
+u/s/shya/leather.c line 2: Illegal to redefine 'nomask' function "_query" before the end of line
+u/s/shya/leather.c line 2: Illegal to redefine 'nomask' function "_delete" before the end of line
+u/s/shya/leather.c line 2: Illegal to redefine 'nomask' function "_set" before the end of line
+u/s/shya/leather.c line 2: Illegal to redefine 'nomask' function "query_temp" before the end of line
+u/s/shya/leather.c line 2: parse error before ;
+u/s/shya/leather.c line 1: parse error before ;
+u/s/shya/leather.c line 1: parse error before ;
+u/s/shya/leather.c line 1: parse error before ;
+u/s/shya/private/CookieMonster.c line 41: parse error before );
+u/s/shya/private/CookieMonster.c line 41: Undefined variable 'with' before  mighty scream.\n");
+u/s/shya/private/CookieMonster.c line 41: parse error before  mighty scream.\n");
+u/s/shya/private/CookieMonster.c line 44: Illegal character constant before  Cookie Monster toss
+u/s/shya/private/CookieMonster.c line 49: End of file in string before    else {
+u/s/shya/workroom.c line 36: Reserved type name unexpected. before () {
+u/s/shya/workroom.c line 36: parse error before () {
+u/s/shya/workroom.c line 57: "#pragma strict_types" requires type of function before "pre_exit_func", ([
+u/s/shya/workroom.c line 57: parse error before , ([
+u/s/shya/workroom.c line 62: Redeclaration of function init. before the end of line
+u/s/shya/workroom.c line 62: Redeclaration of function init. before the end of line
+u/s/shya/caverns/tunnel1.c line 1: Cannot #include ../cavern.h before the end of line
+u/s/shya/caverns/tunnel1.c line 3: parse error before ;
+u/s/shya/caverns/rooms/room-with-roots.c line 30: Undefined function get before ;
+u/s/shya/caverns/rooms/room-with-roots.c line 30: Bad assignment ( unknown vs string ). before the end of line
+u/s/shya/caverns/rooms/room-with-roots.c line 31: parse error before the end of line
+u/s/shya/caverns/rooms/room-with-roots.c line 42: Illegal LHS before the end of line
+u/s/shya/caverns/rooms/room-with-roots.c line 42: parse error before the end of line
+u/s/shya/caverns/rooms/room-with-roots.c line 45: Illegal LHS before the end of line
+u/s/shya/caverns/rooms/room-with-roots.c line 30: Undefined function get before ;
+u/s/shya/caverns/rooms/room-with-roots.c line 30: Bad assignment ( unknown vs string ). before the end of line
+u/s/shya/caverns/rooms/room-with-roots.c line 31: parse error before the end of line
+u/s/shya/caverns/rooms/room-with-roots.c line 42: Illegal LHS before the end of line
+u/s/shya/caverns/rooms/room-with-roots.c line 42: parse error before the end of line
+u/s/shya/caverns/rooms/room-with-roots.c line 45: Illegal LHS before the end of line
+u/s/shya/caverns/rooms/room-with-roots.c line 1: Cannot #include cavern.h before the end of line
+u/s/shya/caverns/rooms/room-with-roots.c line 30: Undefined function get before ;
+u/s/shya/caverns/rooms/room-with-roots.c line 30: Bad assignment ( unknown vs string ). before the end of line
+u/s/shya/caverns/rooms/room-with-roots.c line 31: parse error before the end of line
+u/s/shya/caverns/rooms/room-with-roots.c line 42: Undefined variable 'MONSTERS' before );
+u/s/shya/caverns/rooms/room-with-roots.c line 42: parse error before );
+u/s/shya/caverns/rooms/room-with-roots.c line 31: parse error before the end of line
+u/s/shya/caverns/rooms/room-with-roots.c line 42: Illegal LHS before the end of line
+u/s/shya/caverns/rooms/room-with-roots.c line 42: parse error before the end of line
+u/s/shya/caverns/rooms/room-with-roots.c line 45: Illegal LHS before the end of line
+u/s/shya/caverns/rooms/room-with-roots.c line 45: parse error before the end of line
+u/s/shya/caverns/rooms/room-with-roots.c line 46: parse error before the end of line
+u/s/shya/caverns/rooms/room-with-roots.c line 46: parse error before the end of line
+u/s/shya/caverns/rooms/cave2.c line 71: Undefined variable 'bat' before  clone_object("/u/s/
+u/s/shya/caverns/rooms/tunnel1.c line 1: Cannot #include cavern.h before #include <config.h>
+u/s/shya/caverns/rooms/tunnel1.c line 5: parse error before ;
+open/shal1.c line 4: Cannot #include insane.h before the end of line
+open/shal1.c line 27: Undefined variable 'INS_ROOM' before +"cave1.c",
+open/shal1.c line 27: parse error before +"cave1.c",
+u/s/shya/special.c line 4: parse error before ;
+u/s/shya/special.c line 45: No such inherited function ::create before ;
+u/s/shya/bedroom.c line 25: Reserved type name unexpected. before ;
+u/s/shya/bedroom.c line 25: parse error before ;
+u/s/shya/bedroom.c line 26: Illegal LHS before the end of line
+u/s/shya/bedroom.c line 27: Undefined variable 'special' before move(TO);
+u/s/shya/bedroom.c line 25: Reserved type name unexpected. before ;
+u/s/shya/bedroom.c line 25: parse error before ;
+u/s/shya/bedroom.c line 26: Illegal LHS before the end of line
+u/s/shya/bedroom.c line 25: Reserved type name unexpected. before ;
+u/s/shya/bedroom.c line 25: parse error before ;
+u/s/shya/bedroom.c line 26: Illegal LHS before the end of line
+u/s/shya/bedroom.c line 24: Reserved type name unexpected. before ;
+u/s/shya/bedroom.c line 24: parse error before ;
+u/s/shya/bedroom.c line 25: Illegal LHS before the end of line
+u/s/shya/bedroom.c line 26: Undefined variable 'hottub' before move(TO);
+u/s/shya/bedroom.c line 24: Reserved type name unexpected. before ;
+u/s/shya/bedroom.c line 24: parse error before ;
+u/s/shya/bedroom.c line 25: Illegal LHS before the end of line
+u/s/shya/bedroom.c line 26: Undefined variable 'hottub' before move(TO);
+u/s/shya/bedroom.c line 42: Reserved type name unexpected. before ;
+u/s/shya/bedroom.c line 42: parse error before ;
+u/s/shya/bedroom.c line 43: Illegal LHS before the end of line
+u/s/shya/bedroom.c line 44: Undefined variable 'hottub' before move(TO);
+u/s/shya/bedroom.c line 46: parse error before  {
+u/s/shya/bedroom.c line 44: Reserved type name unexpected. before ;
+u/s/shya/bedroom.c line 44: parse error before ;
+u/s/shya/bedroom.c line 45: Illegal LHS before the end of line
+u/s/shya/bedroom.c line 46: Undefined variable 'hottub' before move(TO);
+u/s/shya/bedroom.c line 44: Reserved type name unexpected. before ;
+u/s/shya/bedroom.c line 44: parse error before ;
+u/s/shya/bedroom.c line 45: Illegal LHS before the end of line
+u/s/shya/bedroom.c line 46: Undefined variable 'hottub' before move(TO);
+u/s/shya/bedroom.c line 44: Reserved type name unexpected. before ;
+u/s/shya/bedroom.c line 44: parse error before ;
+u/s/shya/bedroom.c line 45: Illegal LHS before the end of line
+u/s/shya/bedroom.c line 46: Undefined variable 'special' before move(TO);
+u/s/shya/bedroom.c line 44: Reserved type name unexpected. before ;
+u/s/shya/bedroom.c line 44: parse error before ;
+u/s/shya/bedroom.c line 45: Illegal LHS before the end of line
+u/s/shya/bedroom.c line 46: Undefined variable 'special' before move(TO);
+u/s/shya/bed.c line 4: parse error before ;
+u/s/shya/bed.c line 32: Reserved type name unexpected. before (string str) {
+u/s/shya/bed.c line 32: parse error before (string str) {
+u/s/shya/bed.c line 35: Undefined variable 'str' before , environment(TP));
+u/s/shya/bed.c line 35: Illegal LHS before the end of line
+u/s/shya/bed.c line 36: Undefined variable 'partner' before  {
+u/s/shya/bed.c line 42: parse error before );
+u/s/shya/bed.c line 32: Reserved type name unexpected. before  (string str)
+u/s/shya/bed.c line 32: parse error before  (string str)
+u/s/shya/bed.c line 41: Undefined variable 'str' before , environment(TP));
+u/s/shya/bed.c line 41: Type mismatch ( unknown vs object ) when initializing partner before the end of line
+u/s/shya/bed.c line 41: Missing type before the end of line
+u/s/shya/bed.c line 42: parse error before  (!partner) {
+u/s/shya/bed.c line 32: Reserved type name unexpected. before  (string str)
+u/s/shya/bed.c line 32: parse error before  (string str)
+u/s/shya/bed.c line 41: Undefined variable 'str' before , environment(TP));
+u/s/shya/bed.c line 41: Type mismatch ( unknown vs object ) when initializing victim before the end of line
+u/s/shya/bed.c line 41: Missing type before the end of line
+u/s/shya/bed.c line 42: parse error before  (!victim) {
+u/s/shya/bed.c line 49: parse error before );
+u/s/shya/bed.c line 62: Illegal LHS before the end of line
+u/s/shya/bed.c line 62: parse error before the end of line
+u/s/shya/bed.c line 85: Illegal character constant before  here with you!\n");
+u/s/shya/bed.c line 88: Illegal character constant before  body.\n")
+u/s/shya/bed.c line 90: Illegal character constant before  body.\n"));
+u/s/shya/bed.c line 50: Undefined variable 'ob' before query("gender"))+" i
+u/s/shya/bed.c line 69: parse error before ")+".\n"+
+u/s/shya/bed.c line 85: Illegal character constant before  here with you!\n");
+u/s/shya/bed.c line 88: Illegal character constant before  body.\n")
+u/s/shya/bed.c line 90: Illegal character constant before  body.\n"));
+u/s/shya/bed.c line 69: parse error before ")+".\n"+
+u/s/shya/bed.c line 85: Illegal character constant before  here with you!\n");
+u/s/shya/bed.c line 88: Illegal character constant before  body.\n")
+u/s/shya/bed.c line 90: Illegal character constant before  body.\n"));
+u/s/shya/bed.c line 69: parse error before ")+".\n"));
+u/s/shya/bed.c line 85: Illegal character constant before  here with you!\n");
+u/s/shya/bed.c line 88: Illegal character constant before  body.\n")
+u/s/shya/bed.c line 90: Illegal character constant before  body.\n"));
+u/s/shya/bed.c line 89: parse error before (wrap(
+u/s/shya/bed.c line 111: End of file in string before the end of line
+u/s/shya/bed.c line 93: Reserved type name unexpected. before ()
+u/s/shya/bed.c line 93: parse error before ()
+u/s/shya/bed.c line 111: End of file in string before ory_exists(tpath)) {
+u/s/shya/bed.c line 96: No such inherited function ::create before ;
+u/s/shya/bed.c line 112: End of file in string before y_exists(tpath)) {
+u/s/shya/bed.c line 112: parse error before y_exists(tpath)) {
+u/s/shya/bed.c line 111: End of file in string before low fight.
+u/s/shya/bed.c line 111: parse error before low fight.
+u/s/shya/bed.c line 6: Type mismatch ( unknown vs object ) when initializing pillow before the end of line
+u/s/shya/bed.c line 6: Missing type before the end of line
+u/s/shya/bed.c line 7: parse error before move(this_object());
+u/s/shya/bedroom.c line 46: Undefined variable 'bed' before clone_object("/u/s/s
+u/s/shya/CookieMonster.c line 7: Undefined function set_long before ;
+u/s/shya/CookieMonster.c line 8: Undefined function set_short before ;
+u/s/shya/CookieMonster.c line 30: Reserved type name unexpected. before ()
+u/s/shya/CookieMonster.c line 30: parse error before ()
+u/s/shya/CookieMonster.c line 41: parse error before the end of line
+u/s/shya/whip.c line 1: parse error before \Created by Shya Jun
+u/s/shya/whip.c line 45: parse error before "))+" nasty looking 
+u/s/shya/whip.c line 49: End of file in string before 4..16 : msg = " (Med
+u/s/shya/CookieMonster.c line 24: Reserved type name unexpected. before () {
+u/s/shya/CookieMonster.c line 24: parse error before () {
+u/s/shya/eh1.c line 50: parse error before  "Perhaps kings.\n",
+u/s/shya/eh1.c line 54: Illegal LHS before the end of line
+u/s/shya/eh1.c line 54: parse error before the end of line
+u/s/shya/bed.c line 116: parse error before  "Light and fluffy a
+u/s/shya/bed.c line 117: Illegal LHS before the end of line
+u/s/shya/bed.c line 45: Bad assignment ( object vs string ). before the end of line
+u/s/shya/bed.c line 65: Bad assignment ( object vs string ). before the end of line
+u/s/shya/shoreline.c line 36: parse error before  "A small building s
+u/s/shya/ice.c line 56: Undefined variable 'name' before environment(this_pla
+u/s/shya/ice.c line 56: Undefined variable 'name' before environment(TP())) ;
+u/s/shya/ice.c line 56: parse error before ))) ;
+u/s/shya/ice.c line 78: parse error before )));
+u/s/shya/ice.c line 66: Undefined variable 'name' before +", \n"+
+u/s/shya/ice.c line 66: Undefined variable 'name' before +" +
+u/s/shya/ice.c line 67: parse error before  "+objective(target-
+u/s/shya/ice.c line 73: Illegal character constant before  body in an erotic w
+u/s/shya/ice.c line 80: Illegal character constant before  see that here.\n") 
+u/s/shya/ice.c line 84: Illegal character constant before  do that.\n");
+u/s/shya/ice.c line 88: Illegal character constant before  back, \n"+
+u/s/shya/ice.c line 66: Undefined variable 'name' before +"
+u/s/shya/ice.c line 67: parse error before  "+objective(target-
+u/s/shya/ice.c line 80: Illegal character constant before  see that here.\n") 
+u/s/shya/ice.c line 84: Illegal character constant before  do that.\n");
+u/s/shya/ice.c line 95: Illegal character constant before  back in an erotic w
+u/s/shya/ice.c line 100: End of file in string before the end of line
+u/s/shya/ice.c line 66: Undefined variable 'name' before +"
+u/s/shya/ice.c line 67: parse error before  "+objective(target-
+u/s/shya/ice.c line 80: Illegal character constant before  see that here.\n") 
+u/s/shya/ice.c line 84: Illegal character constant before  do that.\n");
+u/s/shya/ice.c line 95: Illegal character constant before  back in an erotic w
+u/s/shya/ice.c line 100: End of file in string before the end of line
+u/s/shya/ice.c line 66: Undefined variable 'name' before +" til \n"+
+u/s/shya/ice.c line 67: parse error before "))+" gets goosebump
+u/s/shya/ice.c line 80: Illegal character constant before  see that here.\n") 
+u/s/shya/ice.c line 84: Illegal character constant before  do that.\n");
+u/s/shya/ice.c line 95: Illegal character constant before  back in an erotic w
+u/s/shya/ice.c line 100: End of file in string before the end of file
+u/s/shya/ice.c line 38: Illegal character constant before " body with an ice c
+u/s/shya/ice.c line 38: parse error before +
+u/s/shya/ice.c line 56: Illegal LHS before the end of line
+u/s/shya/ice.c line 56: parse error before the end of line
+u/s/shya/ice.c line 80: Illegal character constant before  see that here.\n") 
+u/s/shya/ice.c line 84: Illegal character constant before  do that.\n");
+u/s/shya/ice.c line 67: parse error before "))+" gets goosebump
+u/s/shya/ice.c line 80: Illegal character constant before  see that here.\n") 
+u/s/shya/ice.c line 84: Illegal character constant before  do that.\n");
+u/s/shya/ice.c line 100: End of file in string before the end of line
+u/s/shya/ice.c line 67: parse error before "))+ gets goosebumps
+u/s/shya/ice.c line 78: Illegal LHS before the end of line
+u/s/shya/ice.c line 78: parse error before the end of line
+u/s/shya/ice.c line 67: parse error before "))+ gets goosebumps
+u/s/shya/ice.c line 78: Illegal LHS before the end of line
+u/s/shya/ice.c line 78: parse error before the end of line
+u/s/shya/ice.c line 66: Undefined variable 'til' before n"+
+u/s/shya/ice.c line 66: parse error before n"+
+u/s/shya/ice.c line 78: Illegal LHS before the end of line
+u/s/shya/ice.c line 78: parse error before the end of line
+u/s/shya/ice.c line 67: parse error before "))+" gets goosebump
+u/s/shya/ice.c line 80: Illegal character constant before  see that here.\n") 
+u/s/shya/ice.c line 84: Illegal character constant before  do that.\n");
+u/s/shya/ice.c line 100: End of file in string before the end of line
+u/s/shya/ice.c line 67: parse error before "))+" "gets goosebum
+u/s/shya/ice.c line 78: Illegal LHS before the end of line
+u/s/shya/ice.c line 78: parse error before the end of line
+u/s/shya/ice.c line 67: parse error before objective(target->qu
+u/s/shya/ice.c line 78: Illegal LHS before the end of line
+u/s/shya/ice.c line 78: parse error before the end of line
+u/s/shya/ice.c line 67: parse error before "))+ "gets goosebump
+u/s/shya/ice.c line 80: Illegal character constant before  see that here.\n") 
+u/s/shya/ice.c line 84: Illegal character constant before  do that.\n");
+u/s/shya/ice.c line 100: End of file in string before the end of file
+u/s/shya/ice.c line 67: parse error before "))+ "gets goosebump
+u/s/shya/ice.c line 80: Illegal character constant before  see that here.\n") 
+u/s/shya/ice.c line 84: Illegal character constant before  do that.\n");
+u/s/shya/ice.c line 100: End of file in string before the end of file
+u/s/shya/ice.c line 67: parse error before "))+ "gets goosebump
+u/s/shya/ice.c line 80: Illegal character constant before  see that here.\n") 
+u/s/shya/ice.c line 84: Illegal character constant before  do that.\n");
+u/s/shya/ice.c line 100: End of file in string before }
+u/s/shya/ice.c line 67: parse error before "))+ "gets goosebump
+u/s/shya/ice.c line 80: Illegal character constant before  see that here.\n") 
+u/s/shya/ice.c line 84: Illegal character constant before  do that.\n");
+u/s/shya/ice.c line 100: End of file in string before the end of file
+u/s/shya/ice.c line 27: Illegal to redeclare local name 'name' before ;   
+u/s/shya/ice.c line 69: parse error before "))+ "gets goosebump
+u/s/shya/ice.c line 83: Illegal character constant before  see that here.\n") 
+u/s/shya/ice.c line 87: Illegal character constant before  do that.\n");
+u/s/shya/ice.c line 103: End of file in string before p_up = 2;
+u/s/shya/ice.c line 27: Illegal to redeclare local name 'name' before ;   
+u/s/shya/ice.c line 30: Undefined variable 'str' before  {
+u/s/shya/ice.c line 40: parse error before  "massage") {
+u/s/shya/ice.c line 44: Illegal LHS before the end of line
+u/s/shya/ice.c line 44: parse error before the end of line
+u/s/shya/ice.c line 73: Illegal LHS before the end of line
+u/s/shya/ice.c line 27: Illegal to redeclare local name 'name' before ;   
+u/s/shya/ice.c line 30: Undefined variable 'str' before  {
+u/s/shya/ice.c line 40: parse error before  "massage") {
+u/s/shya/ice.c line 44: Illegal LHS before the end of line
+u/s/shya/ice.c line 44: parse error before the end of line
+u/s/shya/ice.c line 73: Illegal LHS before the end of line
+u/s/shya/ice.c line 40: parse error before  "massage") {
+u/s/shya/ice.c line 44: Illegal LHS before the end of line
+u/s/shya/ice.c line 44: parse error before the end of line
+u/s/shya/ice.c line 73: Illegal LHS before the end of line
+u/s/shya/ice.c line 73: parse error before the end of line
+u/s/shya/ice.c line 98: Illegal character constant before  see that here.\n") 
+u/s/shya/ice.c line 40: parse error before  "ice") {
+u/s/shya/ice.c line 44: Illegal LHS before the end of line
+u/s/shya/ice.c line 44: parse error before the end of line
+u/s/shya/ice.c line 73: Illegal LHS before the end of line
+u/s/shya/ice.c line 73: parse error before the end of line
+u/s/shya/ice.c line 98: Illegal character constant before  see that here.\n") 
+u/s/shya/ice.c line 84: parse error before "))+ "gets goosebump
+u/s/shya/ice.c line 98: Illegal character constant before  see that here.\n") 
+u/s/shya/ice.c line 102: Illegal character constant before  do that.\n");
+u/s/shya/ice.c line 118: End of file in string before }
+u/s/shya/ice.c line 92: parse error before "))+ "gets goosebump
+u/s/shya/ice.c line 106: Illegal character constant before  see that here.\n") 
+u/s/shya/ice.c line 110: Illegal character constant before  do that.\n");
+u/s/shya/ice.c line 126: End of file in string before OF */
+u/s/shya/ice.c line 92: parse error before "))+ "gets goosebump
+u/s/shya/ice.c line 106: Illegal character constant before  see that here.\n") 
+u/s/shya/ice.c line 110: Illegal character constant before  do that.\n");
+u/s/shya/ice.c line 126: End of file in string before OF */
+u/s/shya/ice.c line 52: parse error before "))+" "gets goosebum
+u/s/shya/ice.c line 84: Illegal LHS before the end of line
+u/s/shya/ice.c line 84: parse error before the end of line
+u/s/shya/ice.c line 106: Illegal character constant before  see that here.\n") 
+u/s/shya/ice.c line 110: Illegal character constant before  do that.\n");
+u/s/shya/ice.c line 126: End of file in string before ayer", "Domainless",
+u/s/shya/ice.c line 52: parse error before  goosebumps.\n"));
+u/s/shya/ice.c line 86: Illegal character constant before  no player named "+c
+u/s/shya/ice.c line 104: Illegal LHS before the end of line
+u/s/shya/ice.c line 104: parse error before the end of line
+u/s/shya/ice.c line 52: parse error before  goosebumps.\n"));
+u/s/shya/ice.c line 86: Illegal character constant before  no player named "+c
+u/s/shya/ice.c line 106: Illegal character constant before  see that here.\n") 
+u/s/shya/ice.c line 110: Illegal character constant before  do that.\n");
+u/s/shya/ice.c line 126: End of file in string before er", "Domainless", "
+u/s/shya/ice.c line 52: parse error before  goosebumps.\n"));
+u/s/shya/ice.c line 86: Illegal character constant before  no player named "+c
+u/s/shya/ice.c line 106: Illegal character constant before  see that here.\n") 
+u/s/shya/ice.c line 110: Illegal character constant before  do that.\n");
+u/s/shya/ice.c line 126: End of file in string before uilder",    "Speaker
+u/s/shya/ice.c line 52: parse error before  goosebumps.\n"));
+u/s/shya/ice.c line 86: Illegal character constant before  no player named "+c
+u/s/shya/ice.c line 119: Illegal character constant before  no player named "+c
+u/s/shya/ice.c line 52: parse error before  goosebumps.\n"));
+u/s/shya/ice.c line 86: Illegal character constant before  no player named "+c
+u/s/shya/ice.c line 119: Illegal character constant before  no player named "+t
+u/s/shya/ice.c line 52: parse error before  goosebumps.\n"));
+u/s/shya/ice.c line 86: Illegal character constant before  no player named "+c
+u/s/shya/ice.c line 119: Illegal character constant before  no player named "+t
+u/s/shya/ice.c line 46: parse error before ->query("cap_name")+
+u/s/shya/ice.c line 84: Illegal LHS before the end of line
+u/s/shya/ice.c line 84: parse error before the end of line
+u/s/shya/ice.c line 117: Illegal LHS before the end of line
+u/s/shya/ice.c line 117: parse error before the end of line
+u/s/shya/ice.c line 136: End of file in string before ns[ "primary" ] )
+u/s/shya/ice.c line 47: parse error before  the mud!\n");
+u/s/shya/ice.c line 84: Illegal LHS before the end of line
+u/s/shya/ice.c line 84: parse error before the end of line
+u/s/shya/ice.c line 117: Illegal LHS before the end of line
+u/s/shya/ice.c line 117: parse error before the end of line
+u/s/shya/ice.c line 136: End of file in string before s[ "primary" ] )
+u/s/shya/ice.c line 47: parse error before  the mud!\n");
+u/s/shya/ice.c line 84: Illegal LHS before the end of line
+u/s/shya/ice.c line 84: parse error before the end of line
+u/s/shya/ice.c line 118: Illegal character constant before  no player named "+t
+u/s/shya/ice.c line 47: parse error before  the mud!\n");
+u/s/shya/ice.c line 84: Illegal LHS before the end of line
+u/s/shya/ice.c line 84: parse error before the end of line
+u/s/shya/ice.c line 118: Illegal character constant before  no player named "+t
+u/s/shya/ice.c line 47: parse error before  the mud!\n");
+u/s/shya/ice.c line 84: Illegal LHS before the end of line
+u/s/shya/ice.c line 84: parse error before the end of line
+u/s/shya/ice.c line 116: Illegal LHS before the end of line
+u/s/shya/ice.c line 116: parse error before the end of line
+u/s/shya/ice.c line 135: End of file in string before }
+u/s/shya/ice.c line 47: parse error before  the mud!\n");
+u/s/shya/ice.c line 84: Illegal LHS before the end of line
+u/s/shya/ice.c line 84: parse error before the end of line
+u/s/shya/ice.c line 116: Illegal LHS before the end of line
+u/s/shya/ice.c line 116: parse error before the end of line
+u/s/shya/ice.c line 135: End of file in string before }
+u/s/shya/ice.c line 50: parse error before  goosebumps.\n"));
+u/s/shya/ice.c line 81: Illegal character constant before  no player named "+t
+u/s/shya/ice.c line 111: Illegal character constant before  no player named "+t
+u/s/shya/ice.c line 127: End of file in string before the end of line
+u/s/shya/ice.c line 50: parse error before  goosebumps.\n"));
+u/s/shya/ice.c line 81: Illegal character constant before  no player named "+t
+u/s/shya/ice.c line 111: Illegal character constant before  no player named "+t
+u/s/shya/ice.c line 127: End of file in string before the end of line
+u/s/shya/ice.c line 50: parse error before  goosebumps.\n"));
+u/s/shya/ice.c line 81: Illegal character constant before  no player named "+t
+u/s/shya/ice.c line 111: Illegal character constant before  no player named "+t
+u/s/shya/ice.c line 127: End of file in string before the end of line
+u/s/shya/ice.c line 50: parse error before  goosebumps.\n"));
+u/s/shya/ice.c line 81: Illegal character constant before  no player named "+t
+u/s/shya/ice.c line 111: Illegal character constant before  no player named "+t
+u/s/shya/ice.c line 127: End of file in string before the end of line
+u/s/shya/ice.c line 50: parse error before  goosebumps.\n"));
+u/s/shya/ice.c line 81: Illegal character constant before  no player named "+t
+u/s/shya/ice.c line 111: Illegal character constant before  no player named "+t
+u/s/shya/ice.c line 127: End of file in string before the end of line
+u/s/shya/ice.c line 50: parse error before  goosebumps.\n"));
+u/s/shya/ice.c line 81: Illegal character constant before  no player named "+t
+u/s/shya/ice.c line 109: Illegal LHS before the end of line
+u/s/shya/ice.c line 109: parse error before the end of line
+u/s/shya/ice.c line 50: parse error before  goosebumps.\n"));
+u/s/shya/ice.c line 81: Illegal character constant before  no player named "+t
+u/s/shya/ice.c line 109: Illegal LHS before the end of line
+u/s/shya/ice.c line 109: parse error before the end of line
+u/s/shya/ice.c line 50: parse error before  goosebumps.\n"));
+u/s/shya/ice.c line 81: Illegal character constant before  no player named "+t
+u/s/shya/ice.c line 109: Illegal LHS before the end of line
+u/s/shya/ice.c line 109: parse error before the end of line
+u/s/shya/private/ice.c line 50: parse error before  goosebumps.\n"));
+u/s/shya/private/ice.c line 81: Illegal character constant before  no player named "+t
+u/s/shya/private/ice.c line 109: Illegal LHS before the end of line
+u/s/shya/private/ice.c line 109: parse error before the end of line
+u/s/shya/private/ice.c line 59: Undefined variable 'target' before query("gender"))+" m
+u/s/shya/private/ice.c line 81: parse error before  the mud!\n");
+u/s/shya/private/ice.c line 111: Illegal character constant before  no player named "+t
+u/s/shya/private/ice.c line 126: End of file in string before  requests with space
+u/s/shya/private/ice.c line 81: parse error before  the mud!\n");
+u/s/shya/private/ice.c line 111: Illegal character constant before  no player named "+t
+u/s/shya/private/ice.c line 126: End of file in string before }
+u/s/shya/private/ice.c line 86: parse error before "))+" " goosebumps."
+u/s/shya/private/ice.c line 109: Illegal LHS before the end of line
+u/s/shya/private/ice.c line 109: parse error before the end of line
+u/s/shya/private/ice.c line 86: parse error before "))+" goosebumps."))
+u/s/shya/private/ice.c line 111: Illegal character constant before  no player named "+t
+u/s/shya/private/ice.c line 126: End of file in string before the end of line
+u/s/shya/private/ice.c line 86: parse error before "))+" goosebumps."))
+u/s/shya/private/ice.c line 111: Illegal character constant before  no player named "+t
+u/s/shya/private/ice.c line 126: End of file in string before the end of line
+u/s/shya/private/ice.c line 86: parse error before "))+" goosebumps."))
+u/s/shya/private/ice.c line 111: Illegal character constant before  no player named "+t
+u/s/shya/private/ice.c line 126: End of file in string before the end of file
+u/s/shya/private/ice.c line 86: parse error before "))+" goosebumps.\n"
+u/s/shya/private/ice.c line 111: Illegal character constant before  no player named "+t
+u/s/shya/private/ice.c line 126: End of file in string before }
+u/s/shya/private/ice.c line 88: parse error before  an ice cube over yo
+u/s/shya/private/ice.c line 111: Illegal character constant before  no player named "+t
+u/s/shya/private/ice.c line 126: End of file in string before the end of line
+u/s/shya/private/ice.c line 88: parse error before  an ice cube over yo
+u/s/shya/private/ice.c line 111: Illegal character constant before  no player named "+t
+u/s/shya/private/ice.c line 126: End of file in string before entory first.\n" +
+u/s/shya/private/ice.c line 88: parse error before  an ice cube over yo
+u/s/shya/private/ice.c line 111: Illegal character constant before  no player named "+t
+u/s/shya/private/ice.c line 126: End of file in string before entory first.\n" +
+u/s/shya/private/ice.c line 94: Illegal to redeclare local name 'name' before ; 
+u/s/shya/private/ice.c line 97: Undefined variable 'str' before  {
+u/s/shya/private/bucket.c line 55: Reserved type name unexpected. before () {
+u/s/shya/private/bucket.c line 55: parse error before () {
+u/s/shya/private/bucket.c line 56: Illegal LHS before the end of line
+u/s/shya/private/bucket.c line 60: parse error before the end of file
+u/s/shya/private/ice.c line 18: Undefined function set_name before ;
+u/s/shya/ice.c line 35: Undefined variable 'name' before  != 2) {
+u/s/shya/ice.c line 71: Undefined variable 'name' before  != 2) {
+u/s/shya/private/bucket.c line 57: parse error before the end of line
+u/s/shya/private/wine.c line 8: parse error before );
+u/s/shya/private/silk.c line 50: "#pragma strict_types" requires type of function before "pre_exit_func", ([
+u/s/shya/private/silk.c line 50: parse error before , ([
+u/s/shya/private/silk.c line 49: "#pragma strict_types" requires type of function before "pre_exit_func", ([
+u/s/shya/private/silk.c line 49: parse error before , ([
+u/s/shya/private/silk.c line 65: parse error before the end of line
+u/s/shya/private/silk.c line 65: parse error before this_player()->query
+u/s/shya/private/silk.c line 64: parse error before the end of line
+u/s/shya/private/silk.c line 67: parse error before the end of line
+open/cave.c line 4: Cannot #include insane.h before the end of line
+open/cave.c line 26: Undefined variable 'INS_ROOM' before "cave8.c",
+open/cave.c line 35: Undefined variable 'INS_MON' before "peng1.c");
+open/cave.c line 37: parse error before  = clone_object(INS_
+open/cave.c line 37: Illegal LHS before the end of line
+open/cave.c line 39: parse error before the end of line
+open/cave.c line 37: parse error before  = clone_object(INS_
+open/cave.c line 37: Illegal LHS before the end of line
+open/cave.c line 39: parse error before the end of line
+open/cave.c line 37: parse error before  = clone_object(INS_
+open/cave.c line 37: Illegal LHS before the end of line
+open/cave.c line 39: parse error before the end of line
+open/cave.c line 35: parse error before  (!present("penguin"
+open/cave.c line 38: parse error before  = clone_object(INS_
+open/cave.c line 38: Illegal LHS before the end of line
+open/cave.c line 40: parse error before the end of line
+u/s/shya/private/bboard.c line 27: Undefined function str before ) {
+u/s/shya/private/bboard.c line 38: parse error before );
+u/s/shya/private/bboard.c line 39: parse error before the end of file
+u/s/shya/private/bboard.c line 35: parse error before ;
+u/s/shya/private/bboard.c line 35: parse error before );
+u/s/shya/private/bboard.c line 35: parse error before );
+u/s/shya/private/bboard.c line 31: parse error before  a good student and 
+u/s/shya/private/bboard.c line 37: Illegal character constant before  black board full of
+u/s/shya/private/bboard.c line 40: End of file in string before 1;
+u/s/shya/private/bboard.c line 37: parse error before ;
+u/s/shya/private/bboard.c line 37: parse error before ;
+u/s/shya/private/classroom.c line 12: parse error before ", wrap(
+u/s/shya/private/classroom.c line 29: Illegal LHS before the end of line
+u/s/shya/private/classroom.c line 29: parse error before the end of line
+u/s/shya/private/classroom.c line 38: Illegal LHS before the end of line
+u/s/shya/private/classroom.c line 38: parse error before the end of line
+u/s/shya/private/classroom.c line 12: parse error before ", @ENDTEXT
+u/s/shya/private/classroom.c line 46: End of file in string before loop],
+u/s/shya/private/classroom.c line 12: parse error before ", @ENDTEXT
+u/s/shya/private/classroom.c line 46: End of file in string before  " + flags + " ", "%
+u/s/shya/private/classroom.c line 31: Type mismatch ( unknown vs object ) when initializing blackboard before the end of line
+u/s/shya/private/classroom.c line 31: Missing type before the end of line
+u/s/shya/private/classroom.c line 32: parse error before move(TO) ;
+u/s/shya/private/classroom.c line 34: parse error before create() ;
+u/s/shya/private/classroom.c line 35: "#pragma strict_types" requires type of function before ) ;
+u/s/shya/private/classroom.c line 36: parse error before the end of line
+u/s/shya/private/classroom.c line 43: parse error before the end of line
+u/s/shya/private/classroom.c line 34: parse error before the end of file
+u/s/shya/private/classroom.c line 33: parse error before the end of file
+u/s/shya/private/classroom.c line 33: parse error before the end of file
+u/s/shya/private/classroom.c line 78: parse error before the end of file
+u/s/shya/private/classroom.c line 78: parse error before the end of file
+u/s/shya/private/classroom.c line 82: parse error before  0;
+u/s/shya/private/classroom.c line 82: parse error before the end of line
+u/s/shya/private/classroom.c line 82: parse error before the end of line
+u/s/shya/room4.c line 27: parse error before  "This well packed d
+u/s/shya/throneroom.c line 93: parse error before the end of file
+u/s/shya/throneroom.c line 91: parse error before the end of file
+u/s/shya/throneroom.c line 92: parse error before the end of file
+u/s/shya/throneroom.c line 93: parse error before the end of file
+u/s/shya/throneroom.c line 93: parse error before the end of file
+u/s/shya/throneroom.c line 93: parse error before the end of line
+u/s/shya/throneroom.c line 89: parse error before the end of file
+u/s/shya/throneroom.c line 78: Undefined function inventory before ;
+u/s/shya/throneroom.c line 78: Bad argument 1 to efun all_inventory() before ;
+u/s/shya/throneroom.c line 78: Bad argument 1 to efun all_inventory() before ;
+d/Arctic/Shya/rooms/room4.c line 35: parse error before ));
+u/s/shya/private/bucket.c line 78: Undefined variable 'ice' before clone_object("/u/s/s
+open/cave.c line 3: Cannot #include insane.h before the end of line
+open/cave.c line 24: Undefined variable 'INS_ROOM' before "cave1.c",
+open/cave.c line 47: parse error before the end of line
+open/cave.c line 47: parse error before the end of line
+open/cave.c line 47: parse error before the end of line
+u/s/shya/private/license.c line 30: Undefined function tolower before ;
+u/s/shya/private/license.c line 30: Bad assignment ( unknown vs string ). before the end of line
+u/s/shya/private/license.c line 31: Bad assignment ( unknown vs string ). before the end of line
+u/s/shya/private/license.c line 38: parse error before the end of line
+u/s/shya/private/license.c line 50: Undefined function today before  ;// plus 14 days
+u/s/shya/private/license.c line 50: Illegal LHS before // plus 14 days
+open/license.c line 32: Undefined function tolower before ;
+open/license.c line 32: Bad assignment ( unknown vs string ). before the end of line
+open/license.c line 33: Bad assignment ( unknown vs string ). before the end of line
+open/license.c line 40: parse error before the end of line
+open/license.c line 52: Undefined function today before  ;// plus 14 days
+open/license.c line 52: Illegal LHS before // plus 14 days

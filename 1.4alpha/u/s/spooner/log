@@ -1,0 +1,145 @@
+u/s/spooner/workroom2.c line 1: parse error before  the great room to S
+u/s/spooner/pub1.c line 33: Undefined variable 'WEST' before the end of line
+u/s/spooner/pub1.c line 33: Undefined variable 'WEST' before the end of line
+u/s/spooner/pub1.c line 33: Undefined variable 'WEST' before the end of line
+u/s/spooner/pub1.c line 34: Undefined variable 'WEST' before the end of line
+u/s/spooner/pub1.c line 34: Undefined variable 'WEST' before the end of line
+u/s/spooner/pub1.c line 34: Undefined variable 'WEST' before the end of line
+u/s/spooner/pub1.c line 34: Undefined variable 'WEST' before the end of line
+u/s/spooner/pub1.c line 34: Undefined variable 'WEST' before the end of line
+u/s/spooner/pub1.c line 34: parse error before void" : VOID,
+u/s/spooner/pub1.c line 37: End of file in string before is_object()
+u/s/spooner/myroom.c line 32: Undefined variable 'WEST' before the end of line
+u/s/spooner/kyrie2.c line 34: End of file in text block before  to, tmp1, tmp2;
+u/s/spooner/kyrie2.c line 34: parse error before  to, tmp1, tmp2;
+u/s/spooner/kyrie2.c line 34: End of file in text block before  (!file_exists(str))
+u/s/spooner/kyrie2.c line 34: parse error before  (!file_exists(str))
+u/s/spooner/kyrie2.c line 35: End of file in text block before exists(str)) {
+u/s/spooner/kyrie2.c line 35: parse error before exists(str)) {
+u/s/spooner/kyrie/kyrie2.c line 34: End of file in string before ie2.c/kyrie",
+u/s/spooner/kyrie/kyrie2.c line 34: parse error before ie2.c/kyrie",
+u/s/spooner/kyrie/kyrie4.c line 37: Undefined variable 'x' before ) );
+u/s/spooner/kyrie/kyrie4.c line 37: parse error before ) );
+u/s/spooner/myroom.c line 32: Undefined variable 'WEST' before the end of line
+u/s/spooner/myroom.c line 32: Undefined variable 'WEST' before the end of line
+u/s/spooner/wokroom.c line 32: Undefined variable 'WEST' before the end of line
+u/s/spooner/myroom.c line 32: Undefined variable 'WEST' before the end of line
+u/s/spooner/wokroom.c line 32: Undefined variable 'WEST' before the end of line
+u/s/spooner/myroom.c line 32: Undefined variable 'WEST' before the end of line
+u/s/spooner/myroom.c line 32: Undefined variable 'WEST' before the end of line
+u/s/spooner/sowrd.c line 19: parse error before ");
+u/s/spooner/sowrd.c line 70: End of file in string before ntelligence", "const
+u/s/spooner/sowrd.c line 24: Undefined variable 'spooner' before sword/long");
+u/s/spooner/sowrd.c line 24: parse error before sword/long");
+u/s/spooner/sowrd.c line 70: End of file in string before telligence", "consti
+u/s/spooner/sowrd.c line 1: parse error before   Credits:
+u/s/spooner/myroom.c line 22: Undefined variable 'item_desc' before love seat" :"a very 
+u/s/spooner/myroom.c line 22: parse error before love seat" :"a very 
+u/s/spooner/myroom.c line 24: Illegal character constant before Infinity Sound syste
+u/s/spooner/myroom.c line 23: parse error before " : "a very comforta
+u/s/spooner/myroom.c line 24: Illegal character constant before Infinity Sound syste
+u/s/spooner/kyrie/kyrie3.c line 33: parse error before .c",
+u/s/spooner/kyrie/kyrie3.c line 37: End of file in string before )) );
+u/s/spooner/kyrie/kyrie5.c line 33: Undefined variable 'KKYRIE' before "kyrie4.c",
+u/s/spooner/kyrie/kyrie7.c line 28: Undefined variable 'Torches' before there are many torch
+u/s/spooner/kyrie/kyrie7.c line 28: parse error before there are many torch
+u/s/spooner/kyrie/kyrie7.c line 36: End of file in string before ) );
+u/s/spooner/kyrie/kyrie4.c line 11: Cannot #include kyrie.h before #include <config.h>
+u/s/spooner/kyrie/kyrie4.c line 33: Undefined variable 'KYRIE' before "kyrie3.c",
+u/s/spooner/kyrie/kyrie4.c line 11: Cannot #include kyrie.h before #include <config.h>
+u/s/spooner/kyrie/kyrie4.c line 33: Undefined variable 'KYRIE' before "kyrie3.c",
+u/s/spooner/kyrie/kyrie4.c line 11: Cannot #include kyrie.h before #include <config.h>
+u/s/spooner/kyrie/kyrie4.c line 33: Undefined variable 'KYRIE' before "kyrie3.c",
+u/s/spooner/kyrie/kyrie4.c line 11: Cannot #include kyrie.h before #include <config.h>
+u/s/spooner/kyrie/kyrie4.c line 33: Undefined variable 'KYRIE' before "kyrie3.c",
+u/s/spooner/kyrie/kyrie7.c line 4: Cannot #include kyrie.h before the end of line
+u/s/spooner/kyrie/kyrie7.c line 33: Undefined variable 'KYRIE' before "kyrie4.c",
+u/s/spooner/kyrie/kyrie4.c line 11: Cannot #include kyrie.h before #include <config.h>
+u/s/spooner/kyrie/kyrie4.c line 33: Undefined variable 'KYRIE' before "kyrie3.c",
+u/s/spooner/kyrie/kyrie6.c line 11: Cannot #include kyrie.h before #include <config.h>
+u/s/spooner/kyrie/kyrie6.c line 35: Undefined variable 'KYRIE' before "kyrie4.c",
+u/s/shya/rooms/room1.c line 18: Undefined variable 'ROOMS' before "room2.c",
+u/s/shya/rooms/room1.c line 19: Undefined variable 'ARCTIC' before "room3.c",
+u/s/shya/rooms/room1.c line 18: Undefined variable 'north' before  "/u/s/shya/rooms/ro
+u/s/shya/rooms/room1.c line 19: Undefined variable 'ARCTIC' before "room3.c",
+u/s/shya/rooms/room1.c line 19: Undefined variable 'ARCTIC' before "room3.c",
+u/s/shya/private/iceblade.c line 9: Undefined variable 'blade' before long"0;
+u/s/shya/private/iceblade.c line 10: Undefined variable 'long' before id", ({"iceblade", "
+u/s/shya/private/iceblade.c line 10: parse error before id", ({"iceblade", "
+u/s/shya/private/iceblade.c line 17: End of file in string before string type) {
+u/s/shya/private/iceblade.c line 17: End of file in a comment before the end of file
+d/Prime/Central/mon/jessica.c line 2: Cannot #include path.h before the end of line
+d/Prime/Central/mon/jessica.c line 38: Undefined variable 'TPCN' before  " tried to attack t
+d/Prime/Central/mon/jessica.c line 2: Cannot #include path.h before the end of line
+d/Prime/Central/mon/jessica.c line 38: Undefined variable 'TPCN' before  " tried to attack t
+d/Prime/Central/mon/mother.c line 2: Cannot #include path.h before the end of line
+d/Prime/Central/mon/mother.c line 41: Undefined variable 'OBJS' before "spoon", "spoon");
+d/Prime/Central/mon/mother.c line 2: Cannot #include path.h before the end of line
+d/Prime/Central/mon/mother.c line 41: Undefined variable 'OBJS' before "spoon", "spoon");
+u/s/spooner/wokroom.c line 6: parse error before /
+d/Prime/Central/room/court.c line 30: Undefined variable 'The' before  of "+CITY_NAME+".) 
+d/Prime/Central/room/court.c line 30: parse error before  of "+CITY_NAME+".) 
+d/Prime/Central/room/court.c line 42: Illegal LHS before the end of line
+d/Prime/Central/room/court.c line 43: Illegal LHS before the end of line
+d/Prime/Central/room/court.c line 43: parse error before the end of line
+d/Prime/Central/room/court.c line 44: Illegal LHS before the end of line
+tmp/spooner.d_Prime_Central_room_court.c line 12: Cannot #include central.h before the end of line
+tmp/spooner.d_Prime_Central_room_court.c line 27: Undefined variable 'M_MON' before  "justice.c",
+tmp/spooner.d_Prime_Central_room_court.c line 30: Undefined variable 'CITY_NAME' before ".);
+tmp/spooner.d_Prime_Central_room_court.c line 31: parse error before ",
+tmp/spooner.d_Prime_Central_room_court.c line 34: Illegal character constant before  responsibility and 
+tmp/spooner.d_Prime_Central_room_court.c line 73: Illegal character constant before arry <spouse>'. When
+d/Prime/Central/room/court.c line 40: Undefined variable 'This' before  looks very messy fr
+d/Prime/Central/room/court.c line 40: parse error before  looks very messy fr
+d/Prime/Central/room/court.c line 40: Illegal character constant before  problems, you also 
+d/Prime/Central/room/court.c line 40: Illegal character constant before  "What to do in even
+d/Prime/Central/room/court.c line 44: Illegal LHS before the end of line
+d/Prime/Central/room/court.c line 45: Illegal LHS before the end of line
+d/Prime/Central/room/court.c line 40: Undefined variable 'This' before  looks very messy fr
+d/Prime/Central/room/court.c line 40: parse error before  looks very messy fr
+d/Prime/Central/room/court.c line 40: Illegal character constant before  problems, you also 
+d/Prime/Central/room/court.c line 40: Illegal character constant before  "What to do in even
+d/Prime/Central/room/court.c line 45: Illegal LHS before the end of line
+d/Prime/Central/room/court.c line 46: Illegal LHS before the end of line
+d/Prime/Central/room/court.c line 41: parse error before the end of line
+d/Prime/Central/room/court.c line 43: Illegal LHS before the end of line
+d/Prime/Central/room/court.c line 44: Illegal LHS before the end of line
+d/Prime/Central/room/court.c line 44: parse error before the end of line
+d/Prime/Central/room/court.c line 45: Illegal LHS before the end of line
+d/Prime/Central/room/court.c line 45: parse error before the end of line
+d/Prime/Central/room/court.c line 41: Undefined function set_items before ;
+d/Prime/Central/room/court.c line 40: parse error before  to do in the event 
+d/Prime/Central/room/court.c line 45: Illegal LHS before the end of line
+d/Prime/Central/room/court.c line 46: Illegal LHS before the end of line
+d/Prime/Central/room/court.c line 46: parse error before the end of line
+d/Prime/Central/room/court.c line 47: Illegal LHS before the end of line
+d/Prime/Central/room/court.c line 47: parse error before the end of line
+d/Prime/Central/room/court.c line 41: parse error before ) );
+d/Prime/Central/room/court.c line 45: Illegal LHS before the end of line
+d/Prime/Central/room/court.c line 46: Illegal LHS before the end of line
+d/Prime/Central/room/court.c line 46: parse error before the end of line
+d/Prime/Central/room/court.c line 47: Illegal LHS before the end of line
+d/Prime/Central/room/court.c line 47: parse error before the end of line
+d/Prime/Central/room/court.c line 41: parse error before ) );
+d/Prime/Central/room/court.c line 45: Illegal LHS before the end of line
+d/Prime/Central/room/court.c line 46: Illegal LHS before the end of line
+d/Prime/Central/room/court.c line 46: parse error before the end of line
+d/Prime/Central/room/court.c line 47: Illegal LHS before the end of line
+d/Prime/Central/room/court.c line 47: parse error before the end of line
+d/Prime/Kyrie/monsters/inlaw.c line 21: parse error before ", "male");
+d/Prime/Kyrie/monsters/inlaw.c line 47: End of file in string before NTAX "Usage: tell {/
+d/Prime/Kyrie/monsters/inlaw.c line 21: parse error before ", "male");
+d/Prime/Kyrie/monsters/inlaw.c line 47: End of file in string before 	write("You are in t
+d/Prime/Kyrie/monsters/inlaw.c line 20: parse error before ", "male");
+d/Prime/Kyrie/monsters/inlaw.c line 46: End of file in string before n 1;
+d/Prime/Kyrie/monsters/inlaw.c line 19: Undefined variable 'concerned' before ");
+d/Prime/Kyrie/monsters/inlaw.c line 19: parse error before ");
+d/Prime/Kyrie/monsters/inlaw.c line 46: End of file in string before the end of line
+d/Prime/Kyrie/monsters/inlaw.c line 12: parse error before ("short", "A concern
+d/Prime/Kyrie/monsters/inlaw.c line 12: Undefined variable 'concerned' before ");
+d/Prime/Kyrie/monsters/inlaw.c line 12: parse error before ");
+d/Prime/Kyrie/monsters/inlaw.c line 45: End of file in string before \nAll around you, yo
+obj/obj/magic_scroll.c line 28: Undefined variable 'SPELLS' before ==-1) {
+obj/obj/magic_scroll.c line 70: Undefined variable 'PATH' before query("spell")+EXTEN
+obj/obj/magic_scroll.c line 70: Undefined variable 'EXTENSION' before the end of line
+u/s/spooner/wokroom.c line 6: parse error before /

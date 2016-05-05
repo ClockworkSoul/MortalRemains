@@ -1,0 +1,1058 @@
+d/Dark/Voltros/mon/skeleton.c line 41: parse error
+d/Dark/Voltros/mon/skeleton.c line 41: Illegal LHS
+d/Dark/Voltros/mon/skeleton.c line 41: parse error
+d/Dark/Voltros/mon/skeleton.c line 51: Illegal LHS
+d/Dark/Voltros/mon/skeleton.c line 51: parse error
+d/Dark/Voltros/mon/skeleton.c line 41: parse error
+d/Dark/Voltros/mon/skeleton.c line 41: Illegal LHS
+d/Dark/Voltros/rooms/temple4.c line 49: parse error
+d/Dark/Voltros/rooms/temple4.c line 49: parse error
+d/Dark/Voltros/rooms/temple4.c line 49: parse error
+d/Dark/Voltros/rooms/temple4.c line 49: parse error
+d/Dark/Voltros/rooms/temple4.c line 46: parse error
+d/Dark/Voltros/rooms/pit.c line 84: Redeclaration of function init.
+d/Dark/Voltros/mon/dracolich.c line 53: parse error
+d/Dark/Voltros/mon/dracolich.c line 55: Illegal LHS
+d/Dark/Voltros/mon/dracolich.c line 55: parse error
+d/Dark/Voltros/mon/zombie.c line 42: Undefined variable 'figure'
+
+d/Dark/Voltros/mon/zombie.c line 42: Undefined variable 'figure'
+
+d/Dark/Voltros/mon/zombie.c line 42: Undefined variable 'figure'
+
+d/Dark/Voltros/mon/zombie.c line 42: Undefined variable 'figure'
+
+d/Dark/Keldros/linshara/rooms/dezz.c line 6: parse error
+d/Dark/Keldros/linshara/rooms/dezz.c line 6: parse error
+d/Dark/Keldros/linshara/rooms/dezz.c line 16: Wrong number of macro arguments
+d/Dark/Keldros/linshara/rooms/dezz.c line 16: Undefined variable 'SPAM'
+
+d/Dark/Keldros/linshara/rooms/dezz.c line 16: parse error
+d/Dark/Keldros/linshara/rooms/dezz.c line 19: Newline in string
+d/Dark/Keldros/linshara/rooms/dezz.c line 16: Wrong number of macro arguments
+d/Dark/Keldros/linshara/rooms/dezz.c line 16: Undefined variable 'SPAM'
+
+d/Dark/Keldros/linshara/rooms/dezz.c line 16: parse error
+d/Dark/Keldros/linshara/rooms/dezz.c line 19: Wrong number of macro arguments
+d/Dark/Keldros/linshara/rooms/dezz.c line 22: Wrong number of macro arguments
+d/Dark/Keldros/linshara/rooms/dezz.c line 16: Wrong number of macro arguments
+d/Dark/Keldros/linshara/rooms/dezz.c line 16: Undefined variable 'SPAM'
+
+d/Dark/Keldros/linshara/rooms/dezz.c line 16: parse error
+d/Dark/Keldros/linshara/rooms/dezz.c line 33: parse error
+d/Dark/Keldros/linshara/rooms/dezz.c line 34: Undefined variable 'bad_oasis'
+
+d/Dark/Keldros/linshara/rooms/dezz.c line 34: Undefined function OBJ
+d/Dark/Keldros/linshara/rooms/dezz.c line 35: Undefined variable 'oasis'
+
+d/Dark/Keldros/linshara/rooms/dezz.c line 34: Undefined variable 'bad_oasis'
+
+d/Dark/Keldros/linshara/rooms/dezz.c line 34: Undefined function OBJ
+d/Dark/Duegne/monsters/dracolich.c line 16: parse error
+d/Dark/Duegne/monsters/dracolich.c line 16: parse error
+d/Dark/Duegne/monsters/dracolich.c line 16: parse error
+d/Dark/Duegne/Ruin/town4.c line 34: parse error
+d/Dark/Duegne/Ruin/town4.c line 34: parse error
+d/Dark/Duegne/Ruin/town4.c line 33: End of file in text block
+d/Dark/Duegne/Ruin/town4.c line 33: parse error
+d/Dark/Duegne/Ruin/town4.c line 32: parse error
+d/Dark/Duegne/monsters/skel_dragon.c line 11: parse error
+d/Dark/Duegne/monsters/skel_dragon.c line 11: End of file in string
+d/Dark/Duegne/monsters/skel_dragon.c line 11: parse error
+d/Dark/Duegne/monsters/skel_dragon.c line 11: End of file in string
+d/Dark/Duegne/monsters/skel_dragon.c line 11: parse error
+d/Dark/Duegne/monsters/skel_dragon.c line 11: End of file in string
+d/Dark/Duegne/monsters/skel_dragon.c line 11: parse error
+d/Dark/Duegne/monsters/skel_dragon.c line 11: End of file in string
+d/Dark/Duegne/monsters/skel_dragon.c line 11: parse error
+d/Dark/Duegne/monsters/skel_dragon.c line 11: End of file in string
+d/Dark/Duegne/monsters/skel_dragon.c line 11: parse error
+d/Dark/Duegne/monsters/skel_dragon.c line 11: End of file in string
+d/Dark/Duegne/monsters/skel_dragon.c line 11: parse error
+d/Dark/Duegne/monsters/skel_dragon.c line 11: End of file in string
+d/Dark/Duegne/monsters/skel_dragon.c line 11: parse error
+d/Dark/Duegne/monsters/skel_dragon.c line 11: End of file in string
+d/Dark/Duegne/monsters/skel_dragon.c line 11: parse error
+d/Dark/Duegne/monsters/skel_dragon.c line 11: End of file in string
+d/Dark/Duegne/monsters/skel_dragon.c line 11: parse error
+d/Dark/Duegne/monsters/skel_dragon.c line 11: End of file in string
+d/Dark/Duegne/monsters/skel_dragon.c line 11: parse error
+d/Dark/Duegne/monsters/skel_dragon.c line 11: End of file in string
+d/Dark/Duegne/monsters/skel_dragon.c line 11: parse error
+d/Dark/Duegne/monsters/skel_dragon.c line 11: End of file in string
+d/Dark/Duegne/monsters/skel_dragon.c line 11: parse error
+d/Dark/Duegne/monsters/skel_dragon.c line 11: End of file in string
+d/Dark/Duegne/monsters/skel_dragon.c line 11: parse error
+d/Dark/Duegne/monsters/skel_dragon.c line 11: End of file in string
+d/Dark/Duegne/monsters/skel_dragon.c line 11: parse error
+d/Dark/Duegne/monsters/skel_dragon.c line 11: End of file in string
+d/Dark/Duegne/monsters/skel_dragon.c line 11: parse error
+d/Dark/Duegne/monsters/skel_dragon.c line 11: End of file in string
+d/Dark/Duegne/monsters/skel_dragon.c line 11: parse error
+d/Dark/Duegne/monsters/skel_dragon.c line 11: End of file in string
+d/Dark/Duegne/monsters/skel_dragon.c line 11: parse error
+d/Dark/Duegne/monsters/skel_dragon.c line 11: End of file in string
+d/Dark/Duegne/monsters/skel_dragon.c line 11: parse error
+d/Dark/Duegne/monsters/skel_dragon.c line 11: End of file in string
+d/Dark/Duegne/monsters/skel_dragon.c line 11: parse error
+d/Dark/Duegne/monsters/skel_dragon.c line 11: End of file in string
+d/Dark/Duegne/monsters/skel_dragon.c line 11: parse error
+d/Dark/Duegne/monsters/skel_dragon.c line 11: End of file in string
+d/Dark/Duegne/monsters/skel_dragon.c line 11: parse error
+d/Dark/Duegne/monsters/skel_dragon.c line 11: End of file in string
+d/Dark/Duegne/monsters/skel_dragon.c line 11: parse error
+d/Dark/Duegne/monsters/skel_dragon.c line 11: End of file in string
+d/Dark/Duegne/monsters/skel_dragon.c line 11: parse error
+d/Dark/Duegne/monsters/skel_dragon.c line 11: End of file in string
+d/Dark/Duegne/monsters/skel_dragon.c line 11: parse error
+d/Dark/Duegne/monsters/skel_dragon.c line 11: End of file in string
+d/Dark/Duegne/monsters/skel_dragon.c line 11: parse error
+d/Dark/Duegne/monsters/skel_dragon.c line 11: End of file in string
+d/Dark/Duegne/monsters/skel_dragon.c line 11: parse error
+d/Dark/Duegne/monsters/skel_dragon.c line 11: End of file in string
+d/Dark/Duegne/monsters/skel_dragon.c line 11: parse error
+d/Dark/Duegne/monsters/skel_dragon.c line 11: End of file in string
+d/Dark/Duegne/monsters/skel_dragon.c line 11: parse error
+d/Dark/Duegne/monsters/skel_dragon.c line 11: End of file in string
+d/Dark/Duegne/monsters/skel_dragon.c line 11: parse error
+d/Dark/Duegne/monsters/skel_dragon.c line 11: End of file in string
+d/Dark/Duegne/monsters/skel_dragon.c line 11: parse error
+d/Dark/Duegne/monsters/skel_dragon.c line 11: End of file in string
+d/Dark/Duegne/monsters/skel_dragon.c line 11: parse error
+d/Dark/Duegne/monsters/skel_dragon.c line 11: End of file in string
+d/Dark/Duegne/monsters/skel_dragon.c line 11: parse error
+d/Dark/Duegne/monsters/skel_dragon.c line 11: End of file in string
+d/Dark/Duegne/monsters/skel_dragon.c line 11: parse error
+d/Dark/Duegne/monsters/skel_dragon.c line 11: End of file in string
+d/Dark/Duegne/monsters/skel_dragon.c line 11: parse error
+d/Dark/Duegne/monsters/skel_dragon.c line 11: End of file in string
+d/Dark/Duegne/monsters/skel_dragon.c line 11: parse error
+d/Dark/Duegne/monsters/skel_dragon.c line 11: End of file in string
+d/Dark/Duegne/monsters/skel_dragon.c line 11: parse error
+d/Dark/Duegne/monsters/skel_dragon.c line 11: End of file in string
+d/Dark/Duegne/monsters/skel_dragon.c line 11: parse error
+d/Dark/Duegne/monsters/skel_dragon.c line 11: End of file in string
+d/Dark/Duegne/monsters/skel_dragon.c line 11: parse error
+d/Dark/Duegne/monsters/skel_dragon.c line 11: End of file in string
+d/Dark/Duegne/monsters/skel_dragon.c line 11: parse error
+d/Dark/Duegne/monsters/skel_dragon.c line 11: End of file in string
+d/Dark/Duegne/monsters/skel_dragon.c line 11: parse error
+d/Dark/Duegne/monsters/skel_dragon.c line 11: End of file in string
+d/Dark/Duegne/monsters/skel_dragon.c line 11: parse error
+d/Dark/Duegne/monsters/skel_dragon.c line 11: End of file in string
+d/Dark/Duegne/monsters/skel_dragon.c line 11: parse error
+d/Dark/Duegne/monsters/skel_dragon.c line 11: End of file in string
+d/Dark/Duegne/monsters/skel_dragon.c line 11: parse error
+d/Dark/Duegne/monsters/skel_dragon.c line 11: End of file in string
+d/Dark/Voltros/mon/figure.c line 31: Wrong number of arguments to wield_weapon
+    Expected: 1  Got: 2
+d/Dark/Duegne/monsters/skel_dragon.c line 11: parse error
+d/Dark/Duegne/monsters/skel_dragon.c line 11: End of file in string
+d/Dark/Duegne/monsters/skel_dragon.c line 11: parse error
+d/Dark/Duegne/monsters/skel_dragon.c line 11: End of file in string
+d/Dark/cephrin/rooms/b4.c line 44: parse error
+d/Dark/cephrin/rooms/b4.c line 45: Illegal LHS
+d/Dark/cephrin/rooms/b4.c line 46: Undefined variable 'x'
+
+d/Dark/Voltros/mon/figure.c line 36: Wrong number of arguments to set_skill
+    Expected: 3  Got: 2
+d/Dark/Keldros/rithik/rooms/in_shack.c line 21: parse error
+d/Dark/Keldros/rithik/rooms/in_shack.c line 21: parse error
+d/Dark/Keldros/rithik/mon/minstrel.c line 60: Undefined variable 'T0'
+
+d/Dark/Keldros/rithik/mon/minstrel.c line 85: Undefined variable 'T0'
+
+d/Dark/Voltros/rooms/foyer.c line 32: parse error
+d/Dark/Voltros/rooms/foyer.c line 32: parse error
+d/Dark/Voltros/rooms/foyer.c line 28: Undefined function create_door
+d/Dark/Voltros/rooms/vamproom.c line 5: parse error
+d/Dark/Voltros/rooms/vamproom.c line 6: parse error
+d/Dark/Voltros/rooms/vamproom.c line 29: parse error
+d/Dark/Voltros/rooms/vamproom.c line 55: Illegal LHS
+d/Dark/Voltros/rooms/vamproom.c line 57: Illegal LHS
+d/Dark/Voltros/rooms/vamproom.c line 57: parse error
+d/Dark/Voltros/rooms/vamproom.c line 24: parse error
+d/Dark/Voltros/rooms/vamproom.c line 23: parse error
+d/Dark/Voltros/mon/vampyre.c line 58: parse error
+d/Dark/Voltros/mon/vampyre.c line 58: Illegal LHS
+d/Dark/Voltros/mon/vampyre.c line 61: Undefined variable 'kill_ob'
+
+d/Dark/Voltros/mon/vampyre.c line 61: parse error
+d/Dark/Voltros/mon/vampyre.c line 58: parse error
+d/Dark/Voltros/mon/vampyre.c line 58: Illegal LHS
+d/Dark/Duegne/monsters/skel_dragon.c line 14: Undefined function set_size
+d/Dark/Duegne/monsters/skel_dragon.c line 14: Undefined function set_size
+d/Dark/Duegne/monsters/skel_dragon.c line 8: parse error
+d/Dark/Voltros/rooms/vamproom.c line 45: parse error
+d/Dark/Voltros/rooms/vamproom.c line 50: parse error
+d/Dark/Voltros/rooms/vamproom.c line 45: parse error
+d/Dark/Voltros/rooms/vamproom.c line 50: parse error
+d/Dark/Voltros/rooms/vamproom.c line 45: parse error
+d/Dark/Voltros/rooms/vamproom.c line 50: parse error
+d/Dark/Voltros/rooms/vamproom.c line 51: Too many arguments to clone_object
+d/Dark/Voltros/rooms/vamproom.c line 51: parse error
+d/Dark/Voltros/rooms/vamproom.c line 52: Illegal LHS
+d/Dark/Voltros/rooms/vamproom.c line 55: parse error
+d/Dark/Voltros/rooms/vamproom.c line 52: Too many arguments to clone_object
+d/Dark/Voltros/rooms/vamproom.c line 52: parse error
+d/Dark/Voltros/rooms/vamproom.c line 53: Illegal LHS
+d/Dark/Voltros/rooms/vamproom.c line 52: Too many arguments to clone_object
+d/Dark/Voltros/rooms/vamproom.c line 52: parse error
+d/Dark/Voltros/rooms/vamproom.c line 53: Illegal LHS
+d/Dark/Voltros/rooms/vamproom.c line 52: Too many arguments to clone_object
+d/Dark/Voltros/rooms/vamproom.c line 52: parse error
+d/Dark/Voltros/rooms/vamproom.c line 53: Illegal LHS
+d/Dark/Voltros/rooms/vamproom.c line 54: parse error
+d/Dark/Voltros/rooms/vamproom.c line 55: Illegal LHS
+d/Dark/Keldros/rithik/mon/u_corpse.c line 25: Undefined variable 'set_verbs'
+
+d/Dark/Keldros/rithik/mon/u_corpse.c line 25: parse error
+d/Dark/Keldros/rithik/mon/u_corpse.c line 71: parse error
+d/Dark/Keldros/rithik/mon/u_corpse.c line 10: break statement outside loop
+d/Dark/Keldros/rithik/mon/u_corpse.c line 10: break statement outside loop
+d/Dark/Keldros/rithik/mon/u_corpse.c line 35: parse error
+d/Dark/Keldros/rithik/mon/u_corpse.c line 59: Undefined variable 'krauss'
+
+d/Dark/Keldros/rithik/mon/u_corpse.c line 82: Undefined function if_barney
+d/Dark/Keldros/rithik/mon/u_corpse.c line 80: Undefined function if_barney
+d/Dark/Keldros/rithik/mon/u_corpse.c line 22: parse error
+d/Dark/Keldros/rithik/mon/u_corpse.c line 22: Illegal LHS
+d/Dark/Keldros/rithik/mon/u_corpse.c line 85: Undefined function if_barney
+d/Dark/Keldros/rithik/mon/u_corpse.c line 22: parse error
+d/Dark/Keldros/rithik/mon/u_corpse.c line 22: Illegal LHS
+d/Dark/Keldros/rithik/mon/u_corpse.c line 22: parse error
+d/Dark/Keldros/rithik/mon/u_corpse.c line 22: Illegal LHS
+d/Dark/Keldros/rithik/mon/u_corpse.c line 67: parse error
+d/Dark/Keldros/rithik/mon/u_corpse.c line 67: parse error
+d/Dark/Keldros/rithik/mon/u_corpse.c line 69: Undefined function set_deault
+d/Dark/Keldros/rithik/obj/grave_stone.c line 24: parse error
+d/Dark/Keldros/rithik/obj/grave_stone.c line 34: Illegal LHS
+d/Dark/Keldros/rithik/obj/grave_stone.c line 34: parse error
+d/Dark/Keldros/rithik/obj/grave_stone.c line 39: Illegal LHS
+d/Dark/Keldros/rithik/obj/grave_stone.c line 24: parse error
+d/Dark/Keldros/rithik/obj/grave_stone.c line 34: Illegal LHS
+d/Dark/Keldros/rithik/obj/grave_stone.c line 34: parse error
+d/Dark/Keldros/rithik/obj/grave_stone.c line 39: Illegal LHS
+d/Dark/Keldros/rithik/mon/u_corpse.c line 32: parse error
+d/Dark/Keldros/rithik/mon/u_corpse.c line 32: parse error
+d/Dark/Keldros/rithik/mon/u_corpse.c line 32: parse error
+d/Dark/Keldros/rithik/mon/u_corpse.c line 32: Bad argument number 1 to '-': "object "
+d/Dark/Keldros/rithik/mon/u_corpse.c line 33: parse error
+d/Dark/Keldros/rithik/mon/u_corpse.c line 33: parse error
+d/Dark/Duegne/Forest/branch.c line 5: Undefined function :::create
+d/Dark/Duegne/Forest/branch.c line 7: parse error
+d/Dark/Duegne/Forest/branch.c line 7: End of file in string
+d/Dark/Duegne/Forest/branch.c line 5: Undefined function :::create
+d/Dark/Duegne/Forest/branch.c line 7: parse error
+d/Dark/Duegne/Forest/branch.c line 7: End of file in string
+d/Dark/Duegne/Forest/branch.c line 5: Undefined function :::create
+d/Dark/Duegne/Forest/branch.c line 8: parse error
+d/Dark/Keldros/rithik/rooms/fields.c line 7: parse error
+d/Dark/Keldros/rithik/rooms/fields.c line 58: parse error
+d/Dark/Keldros/rithik/rooms/fields.c line 59: parse error
+d/Dark/Keldros/rithik/rooms/fields.c line 7: parse error
+d/Dark/Keldros/rithik/obj/grave_stone.c line 24: parse error
+d/Dark/Keldros/rithik/obj/grave_stone.c line 40: Illegal LHS
+d/Dark/Keldros/rithik/obj/grave_stone.c line 40: parse error
+d/Dark/Keldros/rithik/obj/grave_stone.c line 46: Illegal LHS
+d/Dark/Duegne/Forest/branch.c line 5: Undefined function :::create
+d/Dark/Duegne/Forest/branch.c line 8: parse error
+d/Dark/Duegne/Forest/branch.c line 4: parse error
+d/Dark/Duegne/Forest/branch.c line 7: parse error
+d/Dark/Duegne/Forest/frst4.c line 20: parse error
+d/Dark/Keldros/rithik/rooms/cm_e.c line 2: Cannot #include cm_h
+d/Dark/Keldros/rithik/rooms/cm_e.c line 4: Undefined function make_scary
+d/Dark/Keldros/rithik/rooms/cm_e.c line 5: Undefined function set
+d/Dark/Keldros/rithik/rooms/cm_e.c line 17: Undefined variable 'cm_e2'
+
+d/Dark/Keldros/rithik/rooms/cm_e.c line 17: Undefined function ROOMS
+d/Dark/Keldros/rithik/rooms/cm_e.c line 18: Undefined variable 'cm'
+
+d/Dark/Keldros/rithik/rooms/cm_e2.c line 2: parse error
+d/Dark/Keldros/rithik/rooms/cm_e2.c line 2: parse error
+d/Dark/Keldros/rithik/rooms/cm_e2.c line 2: parse error
+d/Dark/Keldros/rithik/rooms/cm_e2.c line 2: parse error
+d/Dark/Keldros/rithik/rooms/cm_e2.c line 2: parse error
+d/Dark/Duegne/Forest/frst6.c line 20: parse error
+d/Dark/Voltros/weapons/spear.c line 16: parse error
+d/Dark/Voltros/mon/guard2.c line 33: parse error
+d/Dark/Voltros/mon/guard.c line 19: Undefined variable 'spear'
+
+d/Dark/Voltros/mon/guard.c line 19: Undefined function WEAPONS
+d/Dark/Voltros/mon/guard.c line 20: parse error
+d/Dark/Voltros/mon/frank.c line 45: parse error
+d/Dark/Voltros/mon/guard.c line 19: Undefined variable 'spear'
+
+d/Dark/Voltros/mon/guard.c line 19: Undefined function WEAPONS
+d/Dark/Voltros/mon/guard.c line 20: parse error
+d/Dark/Voltros/mon/frank.c line 45: parse error
+d/Dark/Voltros/mon/frank.c line 44: parse error
+d/Dark/Voltros/mon/heretic.c line 44: parse error
+d/Dark/Voltros/mon/heretic.c line 50: parse error
+d/Dark/Voltros/mon/heretic.c line 50: parse error
+d/Dark/Voltros/mon/heretic.c line 50: parse error
+d/Dark/Voltros/rooms/mono.c line 4: parse error
+d/Dark/wiz/roadrunner/rooms/start1.c line 3: Cannot #include ../defs.j
+d/Dark/wiz/roadrunner/rooms/start1.c line 8: Undefined variable 'add_action'
+
+d/Dark/wiz/roadrunner/rooms/start1.c line 8: parse error
+d/Dark/wiz/roadrunner/rooms/start1.c line 31: parse error
+d/Dark/wiz/roadrunner/rooms/start1.c line 30: parse error
+d/Dark/wiz/roadrunner/rooms/start1.c line 30: parse error
+d/Dark/wiz/roadrunner/rooms/start1.c line 30: parse error
+d/Dark/wiz/roadrunner/rooms/start1.c line 30: parse error
+d/Dark/wiz/roadrunner/rooms/start1.c line 30: parse error
+d/Dark/Duegne/Forest/frst8.c line 6: parse error
+d/Dark/Duegne/Forest/frst8.c line 6: parse error
+d/Dark/Voltros/rooms/lake.c line 5: parse error
+d/Dark/Prime/rooms/road0'-1.c line 18: parse error
+d/Dark/Keldros/rithik/rooms/cm_np.c line 16: parse error
+d/Dark/Keldros/rithik/mon/kings.c line 51: Bad argument 2 to efun member_array()
+d/Dark/Keldros/rithik/mon/kings.c line 51: parse error
+d/Dark/Prime/mon/dark_guard.c line 3: Unrecognised # directive
+d/Dark/Prime/mon/dark_guard.c line 9: parse error
+d/Dark/Keldros/rithik/mon/kings.c line 51: Bad argument 2 to efun member_array()
+d/Dark/Keldros/rithik/mon/kings.c line 51: parse error
+d/Dark/Prime/mon/dark_guard.c line 3: Unrecognised # directive
+d/Dark/Prime/mon/dark_guard.c line 10: parse error
+d/Dark/Keldros/rithik/mon/kings.c line 52: Undefined variable 'id'
+
+d/Dark/Prime/mon/dark_guard.c line 3: Unrecognised # directive
+d/Dark/Prime/mon/dark_guard.c line 16: Undefined function set_level
+d/Dark/Prime/mon/dark_guard.c line 17: Undefined function set
+d/Dark/Prime/mon/dark_guard.c line 39: Bad argument 2 to efun present()
+d/Dark/Prime/mon/dark_guard.c line 40: Undefined variable 'this_object'
+
+d/Dark/Prime/mon/dark_guard.c line 39: Bad argument 2 to efun present()
+d/Dark/Prime/mon/dark_guard.c line 40: Undefined variable 'this_object'
+
+d/Dark/Prime/mon/dark_guard.c line 39: Bad argument 2 to efun present()
+d/Dark/Prime/mon/dark_guard.c line 40: Undefined variable 'this_object'
+
+d/Dark/Keldros/rithik/rooms/cm_in.c line 19: Undefined variable 'kings'
+
+d/Dark/Keldros/rithik/rooms/cm_in.c line 19: Undefined function MON
+d/Dark/Keldros/rithik/rooms/cm_in.c line 21: Undefined variable 'cm_house'
+
+d/Dark/Keldros/rithik/rooms/cm_in.c line 21: Undefined function ROOMS
+d/Dark/Keldros/rithik/rooms/cm_in.c line 19: Undefined variable 'kings'
+
+d/Dark/Keldros/rithik/rooms/cm_in.c line 19: Undefined function MON
+d/Dark/Keldros/rithik/rooms/cm_in.c line 21: Undefined variable 'cm_house'
+
+d/Dark/Keldros/rithik/rooms/cm_in.c line 21: Undefined function ROOMS
+d/Dark/Keldros/rithik/rooms/cm_in.c line 19: Undefined variable 'kings'
+
+d/Dark/Keldros/rithik/rooms/cm_in.c line 19: Undefined function MON
+d/Dark/Keldros/rithik/rooms/cm_in.c line 21: Undefined variable 'cm_house'
+
+d/Dark/Keldros/rithik/rooms/cm_in.c line 21: Undefined function ROOMS
+d/Dark/Keldros/rithik/rooms/cm_in.c line 19: Undefined variable 'kings'
+
+d/Dark/Keldros/rithik/rooms/cm_in.c line 19: Undefined function MON
+d/Dark/Keldros/rithik/rooms/cm_in.c line 21: Undefined variable 'cm_house'
+
+d/Dark/Keldros/rithik/rooms/cm_in.c line 21: Undefined function ROOMS
+d/Dark/Prime/mon/dark_guard.c line 52: Undefined variable 'D_PRIMEO'
+
+d/Dark/adm/d_master.c line 46: parse error
+d/Dark/adm/d_master.c line 46: End of file in string
+d/Dark/adm/d_master.c line 46: parse error
+d/Dark/adm/d_master.c line 46: End of file in string
+d/Dark/adm/d_master.c line 46: parse error
+d/Dark/adm/d_master.c line 46: End of file in string
+d/Dark/Keldros/rithik/rooms/main.c line 52: parse error
+d/Dark/Circus/mon/cyc.c line 1: parse error
+d/Dark/Circus/rooms/c_4.c line 5: parse error
+d/Dark/Circus/mon/ugoat.c line 49: Undefined variable 'i'
+
+d/Dark/Keldros/rithik/mon/bride.c line 45: parse error
+d/Dark/Keldros/rithik/mon/bride.c line 45: End of file in string
+d/Dark/Keldros/rithik/mon/bride.c line 45: parse error
+d/Dark/Keldros/rithik/mon/bride.c line 45: End of file in string
+d/Dark/Keldros/rithik/weapons/avenger.c line 44: parse error
+d/Dark/Voltros/rooms/sec.c line 46: Undefined variable 'office'
+
+d/Dark/Voltros/rooms/sec.c line 46: Undefined function ROOMS
+d/Dark/Voltros/rooms/sec.c line 47: Undefined variable 'mayors1'
+
+d/Dark/Voltros/rooms/mayors1.c line 16: parse error
+d/Dark/Voltros/rooms/mayors1.c line 16: End of file in string
+d/Dark/Voltros/rooms/mayors1.c line 27: parse error
+d/Dark/Prime/rooms/towncenter.c line 29: Undefined variable 'There'
+
+d/Dark/Prime/rooms/towncenter.c line 29: parse error
+d/Dark/Prime/rooms/towncenter.c line 29: End of file in string
+d/Dark/Prime/rooms/towncenter.c line 54: parse error
+d/Dark/Prime/rooms/DESC.h line 8: Undefined function set
+d/Dark/Prime/rooms/road-1'0.c line 6: Illegal to redefine 'nomask' function "set"
+d/Dark/Prime/rooms/road-1'0.c line 13: parse error
+d/Dark/Prime/rooms/DESC.h line 8: Undefined function set
+d/Dark/Prime/rooms/road-1'0.c line 6: Illegal to redefine 'nomask' function "set"
+d/Dark/Prime/rooms/DESC.h line 8: Undefined function set
+d/Dark/Prime/rooms/road-1'0.c line 6: Illegal to redefine 'nomask' function "set"
+d/Dark/Prime/rooms/road0'1.c line 4: Unrecognised # directive
+d/Dark/Prime/rooms/road0'1.c line 4: Unrecognised # directive
+d/Dark/Prime/rooms/road0'1.c line 12: Undefined function describe
+d/Dark/Prime/rooms/golden_skull.c line 37: Undefined variable 'skull2'
+
+d/Dark/Prime/rooms/golden_skull.c line 37: Undefined function ROOMS
+d/Dark/Prime/rooms/golden_skull.c line 38: Undefined variable 'skull1'
+
+d/Dark/Prime/rooms/golden_skull.c line 39: Undefined variable 'skull3'
+
+d/Dark/Prime/rooms/golden_skull.c line 37: Undefined variable 'skull2'
+
+d/Dark/Prime/rooms/golden_skull.c line 37: Undefined function ROOMS
+d/Dark/Prime/rooms/golden_skull.c line 38: Undefined variable 'skull1'
+
+d/Dark/Prime/rooms/golden_skull.c line 39: Undefined variable 'skull3'
+
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Keldros/rithik/mon/rchild3.c line 27: Wrong number of arguments to credit
+    Expected: 2  Got: 1
+d/Dark/Keldros/rithik/mon/mrlyman.c line 23: Wrong number of arguments to credit
+    Expected: 2  Got: 1
+d/Dark/Circus/mon/cyc.c line 21: Wrong number of arguments to credit
+    Expected: 2  Got: 1
+d/Dark/Keldros/rithik/mon/sec.c line 38: Wrong number of arguments to credit
+    Expected: 2  Got: 1
+d/Dark/Keldros/rithik/mon/mrlyman.c line 23: Wrong number of arguments to credit
+    Expected: 2  Got: 1
+d/Dark/Keldros/rithik/mon/rchild3.c line 27: Wrong number of arguments to credit
+    Expected: 2  Got: 1
+d/Dark/Keldros/rithik/mon/child4.c line 24: Wrong number of arguments to credit
+    Expected: 2  Got: 1
+d/Dark/Keldros/rithik/mon/raider.c line 26: Wrong number of arguments to credit
+    Expected: 2  Got: 1
+d/Dark/Keldros/rithik/mon/sec.c line 38: Wrong number of arguments to credit
+    Expected: 2  Got: 1
+d/Dark/Keldros/rithik/mon/prin.c line 27: Wrong number of arguments to credit
+    Expected: 2  Got: 1
+d/Dark/Circus/mon/cyc.c line 21: Wrong number of arguments to credit
+    Expected: 2  Got: 1
+d/Dark/Keldros/rithik/mon/mrlyman.c line 23: Wrong number of arguments to credit
+    Expected: 2  Got: 1
+d/Dark/Keldros/rithik/mon/rchild3.c line 27: Wrong number of arguments to credit
+    Expected: 2  Got: 1
+d/Dark/Keldros/rithik/mon/child4.c line 24: Wrong number of arguments to credit
+    Expected: 2  Got: 1
+d/Dark/Keldros/rithik/mon/raider.c line 26: Wrong number of arguments to credit
+    Expected: 2  Got: 1
+d/Dark/Keldros/rithik/mon/minstrel.c line 22: Wrong number of arguments to credit
+    Expected: 2  Got: 1
+d/Dark/Keldros/rithik/mon/woman.c line 24: Wrong number of arguments to credit
+    Expected: 2  Got: 1
+d/Dark/Keldros/rithik/mon/hunter.c line 23: Wrong number of arguments to credit
+    Expected: 2  Got: 1
+d/Dark/Keldros/rithik/mon/sec.c line 38: Wrong number of arguments to credit
+    Expected: 2  Got: 1
+d/Dark/Keldros/rithik/mon/prin.c line 27: Wrong number of arguments to credit
+    Expected: 2  Got: 1
+d/Dark/Circus/mon/cyc.c line 21: Wrong number of arguments to credit
+    Expected: 2  Got: 1
+d/Dark/Keldros/rithik/mon/child4.c line 24: Wrong number of arguments to credit
+    Expected: 2  Got: 1
+d/Dark/Keldros/rithik/mon/minstrel.c line 22: Wrong number of arguments to credit
+    Expected: 2  Got: 1
+d/Dark/Keldros/rithik/mon/mrlyman.c line 23: Wrong number of arguments to credit
+    Expected: 2  Got: 1
+d/Dark/Keldros/rithik/mon/rchild3.c line 27: Wrong number of arguments to credit
+    Expected: 2  Got: 1
+d/Dark/Keldros/rithik/mon/raider.c line 26: Wrong number of arguments to credit
+    Expected: 2  Got: 1
+d/Dark/Keldros/rithik/mon/sherrif.c line 22: Wrong number of arguments to credit
+    Expected: 2  Got: 1
+d/Dark/Dark/monsters/balrog.c line 3: Cannot #include rooms.h
+d/Dark/Dark/monsters/balrog.c line 24: Undefined variable 'OBJ'
+
+d/Dark/Dark/monsters/balrog.c line 3: Cannot #include rooms.h
+d/Dark/Dark/monsters/balrog.c line 24: Undefined variable 'OBJ'
+
+d/Dark/Dark/monsters/balrog.c line 3: Cannot #include rooms.h
+d/Dark/Dark/monsters/balrog.c line 24: Undefined variable 'OBJ'
+
+d/Dark/Dark/monsters/balrog.c line 3: Cannot #include rooms.h
+d/Dark/Dark/monsters/balrog.c line 3: Cannot #include rooms.h
+d/Dark/Dark/monsters/balrog.c line 24: Undefined variable 'OBJ'
+
+d/Dark/Dark/main/room7'4.c line 29: parse error
+d/Dark/Dark/main/room7'4.c line 38: Illegal LHS
+d/Dark/Dark/main/room7'4.c line 38: parse error
+d/Dark/Dark/main/room7'4.c line 31: parse error
+d/Dark/Dark/main/room7'4.c line 40: Illegal LHS
+d/Dark/Dark/main/room7'4.c line 40: parse error
+d/Dark/Dark/main/room7'4.c line 28: parse error
+d/Dark/Dark/main/room7'4.c line 41: Illegal LHS
+d/Dark/Dark/main/room7'4.c line 41: parse error
+d/Dark/Dark/monsters/balrog.c line 3: Cannot #include rooms.h
+d/Dark/Dark/monsters/balrog.c line 24: Undefined variable 'OBJ'
+
+d/Dark/Dark/main/room3'9.c line 36: parse error
+d/Dark/Dark/main/room3'9.c line 33: parse error
+d/Dark/Dark/obj/wetness.c line 32: parse error
+d/Dark/Dark/main/gazebo.c line 26: Undefined variable 'can'
+
+d/Dark/Dark/main/gazebo.c line 26: Undefined variable 'see'
+
+d/Dark/Dark/main/gazebo.c line 26: parse error
+d/Dark/Dark/main/gazebo.c line 27: End of file in string
+d/Dark/Dark/monsters/balrog.c line 3: Cannot #include rooms.h
+d/Dark/Dark/monsters/balrog.c line 3: Cannot #include rooms.h
+d/Dark/Dark/monsters/balrog.c line 24: Undefined variable 'OBJ'
+
+d/Dark/Dark/main/vault.c line 12: Undefined function set_weather
+d/Dark/Dark/main/vault.c line 13: Undefined function set_weather
+d/Dark/Prime/rooms/golden_skull.c line 2: parse error
+d/Dark/Prime/rooms/DESC.c line 29: parse error
+d/Dark/Keldros/rithik/rooms/pub.c line 7: parse error
+d/Dark/Dark/obj/goldring.c line 9: == always false because of incompatible types ( unknown vs int ).
+d/Dark/Dark/obj/goldring.c line 32: Bad argument number 1 to '-': "unknown "
+d/Dark/Dark/obj/goldring.c line 33: == always false because of incompatible types ( unknown vs int ).
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Keldros/rithik/rooms/pub.c line 7: parse error
+d/Dark/Voltros/rooms/pub.c line 2: parse error
+d/Dark/Voltros/rooms/pub.c line 2: parse error
+d/Dark/Voltros/rooms/pub.c line 2: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/rooms/pub.c line 2: parse error
+d/Dark/Voltros/rooms/pub.c line 2: parse error
+d/Dark/Voltros/rooms/pub.c line 2: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Keldros/rithik/rooms/pub.c line 7: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/rooms/holy.c line 37: parse error
+d/Dark/Voltros/rooms/holy.c line 37: parse error
+d/Dark/Voltros/rooms/holy.c line 37: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/darkguard.c line 30: Wrong number of arguments to arm
+    Expected: 2  Got: 1
+d/Dark/Voltros/mon/darkguard2.c line 30: Wrong number of arguments to arm
+    Expected: 2  Got: 1
+d/Dark/Voltros/mon/darkguard.c line 30: Wrong number of macro arguments
+d/Dark/Voltros/mon/darkguard.c line 30: Undefined variable 'WEAPONS'
+
+d/Dark/Voltros/mon/darkguard.c line 30: Wrong number of arguments to arm
+    Expected: 2  Got: 1
+d/Dark/Voltros/weapons/sting.c line 55: parse error
+d/Dark/Voltros/weapons/sting.c line 55: parse error
+d/Dark/Voltros/rooms/ntemple2.c line 3: Missing trailing " or > in #include
+d/Dark/Voltros/rooms/ntemple2.c line 25: Undefined variable 'ntemple1'
+
+d/Dark/Voltros/rooms/ntemple2.c line 25: Undefined function ROOMS
+d/Dark/Voltros/rooms/ntemple2.c line 26: Undefined variable 'holy'
+
+d/Dark/Voltros/rooms/ntemple2.c line 29: Undefined variable 'darknight'
+
+d/Dark/Voltros/rooms/ntemple2.c line 29: Undefined function MON
+d/Dark/Voltros/rooms/ntemple2.c line 3: Missing trailing " or > in #include
+d/Dark/Voltros/rooms/ntemple2.c line 25: Undefined variable 'ntemple1'
+
+d/Dark/Voltros/rooms/ntemple2.c line 25: Undefined function ROOMS
+d/Dark/Voltros/rooms/ntemple2.c line 26: Undefined variable 'holy'
+
+d/Dark/Voltros/rooms/ntemple2.c line 29: Undefined variable 'darknight'
+
+d/Dark/Voltros/rooms/ntemple2.c line 29: Undefined function MON
+d/Dark/Voltros/rooms/holy.c line 37: parse error
+d/Dark/Voltros/rooms/holy.c line 37: parse error
+d/Dark/Voltros/rooms/holy.c line 39: parse error
+d/Dark/Voltros/rooms/holy.c line 39: parse error
+d/Dark/Voltros/rooms/holy.c line 39: parse error
+d/Dark/Voltros/rooms/holy.c line 40: parse error
+d/Dark/Voltros/rooms/holy.c line 47: parse error
+d/Dark/Voltros/rooms/holy.c line 40: parse error
+d/Dark/Voltros/rooms/holy.c line 47: parse error
+d/Dark/Voltros/rooms/holy.c line 40: parse error
+d/Dark/Voltros/rooms/holy.c line 39: parse error
+d/Dark/Voltros/rooms/holy.c line 39: parse error
+d/Dark/Voltros/rooms/holy.c line 39: parse error
+d/Dark/Voltros/rooms/holy.c line 39: parse error
+d/Dark/Voltros/rooms/holy.c line 39: parse error
+d/Dark/Voltros/rooms/holy.c line 39: parse error
+d/Dark/Voltros/rooms/holy.c line 39: parse error
+d/Dark/Voltros/rooms/holy.c line 39: parse error
+d/Dark/Voltros/rooms/holy.c line 46: parse error
+d/Dark/Voltros/rooms/holy.c line 39: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 22: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Voltros/mon/munchkin.c line 6: parse error
+d/Dark/Keldros/rithik/rooms/pub.c line 7: parse error
+d/Dark/Voltros/rooms/dock2.c line 22: parse error
+d/Dark/Voltros/rooms/dock2.c line 22: parse error
+d/Dark/Voltros/mon/crab.c line 30: parse error
+d/Dark/Voltros/mon/crab.c line 30: parse error
+d/Dark/Dark/main/cgarden.c line 65: parse error
+d/Dark/Dark/main/cgarden.c line 69: Missing type
+d/Dark/Dark/main/cgarden.c line 70: parse error
+d/Dark/Dark/main/ngarden.c line 50: Undefined variable 'f'
+
+d/Dark/High/rooms/house4.c line 25: parse error
+d/Dark/Prime/obj/d_nothing.c line 4: Undefined function set
+d/Dark/Prime/Prime.h line 4: Missing leading " or < in #include
+d/Dark/Prime/Prime.h line 5: Missing leading " or < in #include
+d/Dark/Prime/mon/dark_guard.c line 55: Undefined variable 'D_PRIMEO'
+
+d/Dark/Prime/mon/dark_guard.c line 63: Undefined variable 'query_level'
+
+d/Dark/Prime/Prime.h line 4: Missing leading " or < in #include
+d/Dark/Prime/Prime.h line 5: Missing leading " or < in #include
+d/Dark/Prime/mon/dark_guard.c line 55: Undefined variable 'D_PRIMEO'
+
+d/Dark/Prime/mon/dark_guard.c line 63: Undefined variable 'query_level'
+
+d/Dark/Dark/monsters/balrog.c line 3: Cannot #include rooms.h
+d/Dark/Dark/monsters/balrog.c line 24: Undefined variable 'OBJ'
+
+d/Dark/Prime/Prime.h line 4: Missing leading " or < in #include
+d/Dark/Prime/Prime.h line 5: Missing leading " or < in #include
+d/Dark/Prime/rooms/d_road1.c line 19: Undefined variable 'D_PRIMER'
+
+d/Dark/Prime/Prime.h line 4: Missing leading " or < in #include
+d/Dark/Prime/Prime.h line 5: Missing leading " or < in #include
+d/Dark/Prime/rooms/d_road2.c line 18: Undefined variable 'D_PRIMER'
+
+d/Dark/Prime/rooms/d_road2.c line 20: Undefined variable 'D_DUEGNER'
+
+d/Dark/Prime/Prime.h line 4: Missing leading " or < in #include
+d/Dark/Prime/Prime.h line 5: Missing leading " or < in #include
+d/Dark/Prime/rooms/d_road1.c line 19: Undefined variable 'D_PRIMER'
+
+d/Dark/Prime/Prime.h line 4: Missing leading " or < in #include
+d/Dark/Prime/Prime.h line 5: Missing leading " or < in #include
+d/Dark/Prime/rooms/d_road2.c line 18: Undefined variable 'D_PRIMER'
+
+d/Dark/Prime/rooms/d_road2.c line 20: Undefined variable 'D_DUEGNER'
+
+d/Dark/Prime/Prime.h line 4: Missing leading " or < in #include
+d/Dark/Prime/Prime.h line 5: Missing leading " or < in #include
+d/Dark/Prime/rooms/d_road1.c line 19: Undefined variable 'D_PRIMER'
+
+d/Dark/Duegne/Forest/frst1.c line 7: Undefined variable 'Dark'
+
+d/Dark/Keldros/rithik/rooms/cm_h line 1: parse error
+d/Dark/Keldros/rithik/rooms/cm_h line 1: parse error
+d/Dark/Keldros/rithik/rooms/cm_h line 1: parse error
+d/Dark/Keldros/rithik/rooms/cm_h line 1: parse error
+d/Dark/Keldros/rithik/rooms/cm_h line 1: parse error
+d/Dark/Keldros/rithik/rooms/cm_h line 1: parse error
+d/Dark/Keldros/rithik/rooms/cm_h line 1: parse error
+d/Dark/Keldros/rithik/rooms/cm_h line 1: parse error
+d/Dark/Keldros/rithik/rooms/cm_h line 1: parse error
+d/Dark/Keldros/rithik/rooms/cm_h line 1: parse error
+d/Dark/Keldros/rithik/rooms/cm_h line 1: parse error
+d/Dark/Keldros/rithik/rooms/cm_h line 1: parse error
+d/Dark/Keldros/rithik/rooms/cm_h line 1: parse error
+d/Dark/Keldros/rithik/rooms/cm_h line 1: parse error
+d/Dark/Keldros/rithik/rooms/cm_h line 1: parse error
+d/Dark/Keldros/rithik/rooms/cm_h line 1: parse error
+d/Dark/Keldros/rithik/rooms/pub.c line 7: parse error
+d/Dark/Keldros/rithik/rooms/pub.c line 7: parse error
+d/Dark/Dark/obj/runesword.c line 50: Undefined variable 'CNAME'
+
+d/Dark/Dark/obj/runesword.c line 61: Undefined variable 'CNAME'
+
+d/Dark/Dark/obj/runesword.c line 67: Undefined variable 'CNAME'
+
+d/Dark/Dark/obj/runesword.c line 67: Undefined variable 'POSS'
+
+d/Dark/Keldros/rithik/rooms/pub.c line 7: parse error
+d/Dark/Keldros/rithik/rooms/pub.c line 7: parse error
+d/Dark/Keldros/rithik/rooms/pub.c line 7: parse error
+d/Dark/wiz/loren/basic.c line 3: parse error
+d/Dark/Dark/monsters/balrog.c line 3: Cannot #include rooms.h
+d/Dark/Dark/monsters/balrog.c line 24: Undefined variable 'OBJ'
+
+d/Dark/Dark/monsters/dreadguard.c line 64: End of file in text block
+d/Dark/Dark/monsters/dreadguard.c line 64: parse error
+d/Dark/Dark/monsters/dreadguard.c line 64: End of file in text block
+d/Dark/Dark/monsters/dreadguard.c line 64: parse error
+d/Dark/Dark/monsters/dreadguard.c line 63: End of file in text block
+d/Dark/Dark/monsters/dreadguard.c line 63: parse error
+d/Dark/Dark/monsters/dreadguard.c line 24: parse error
+d/Dark/Dark/monsters/dreadguard.c line 32: Illegal LHS
+d/Dark/Dark/monsters/dreadguard.c line 24: parse error
+d/Dark/Dark/monsters/dreadguard.c line 32: Illegal LHS
+d/Dark/Keldros/rithik/rooms/pub.c line 7: parse error
+d/Dark/Keldros/rithik/rooms/pub.c line 26: Undefined variable 'raider'
+
+d/Dark/Keldros/rithik/rooms/pub.c line 30: Undefined variable 'inter2'
+
+d/Dark/Keldros/rithik/rooms/pub.c line 23: Undefined variable 'raider'
+
+d/Dark/Keldros/rithik/rooms/pub.c line 23: Undefined function MON
+d/Dark/Keldros/rithik/rooms/pub.c line 27: Undefined variable 'inter2'
+
+d/Dark/Keldros/rithik/rooms/pub.c line 27: Undefined function ROOMS
+d/Dark/Dark/monsters/dreadguard.c line 40: parse error
+d/Dark/Dark/monsters/dreadguard.c line 40: End of file in string
+d/Dark/Dark/monsters/dreadguard2.c line 39: parse error
+d/Dark/Dark/monsters/dreadguard2.c line 39: parse error
+d/Dark/Prime/rooms/mt_road1.c line 17: Undefined variable 'D_PRIMER'
+
+d/Dark/Dark/main/o_clearing.c line 20: Undefined variable 'is'
+
+d/Dark/Dark/main/o_clearing.c line 20: parse error
+d/Dark/Dark/main/o_clearing.c line 22: End of file in string
+d/Dark/Dark/main/o_clearing.c line 20: parse error
+d/Dark/Dark/obj/rus_key.c line 9: Undefined variable 'soot'
+
+d/Dark/Dark/obj/rus_key.c line 9: parse error
+d/Dark/Dark/obj/rus_key.c line 9: End of file in string
+d/Dark/Dark/monsters/balrog.c line 3: Cannot #include rooms.h
+d/Dark/Dark/monsters/balrog.c line 24: Undefined variable 'OBJ'
+
+d/Dark/Dark/monsters/balrog.c line 3: Cannot #include rooms.h
+d/Dark/Dark/monsters/balrog.c line 24: Undefined variable 'OBJ'
+
+d/Dark/Dark/obj/bsword.c line 11: Illegal character constant
+d/Dark/Dark/obj/bsword.c line 11: parse error
+d/Dark/Dark/obj/bsword.c line 11: End of file in string

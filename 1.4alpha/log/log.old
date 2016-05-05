@@ -1,0 +1,1389 @@
+include/net/ftpdsupp.h line 14: Warning: redefinition of #define TP
+ before #define DEBUG_SEND
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+adm/daemons/party_d.c line 15: Warning: redefinition of #define POSS
+ before #define TIMEOUT 60
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+include/net/ftpdsupp.h line 14: Warning: redefinition of #define TP
+ before #define DEBUG_SEND
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+adm/daemons/party_d.c line 15: Warning: redefinition of #define POSS
+ before #define TIMEOUT 60
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+include/net/ftpdsupp.h line 14: Warning: redefinition of #define TP
+ before #define DEBUG_SEND
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+adm/daemons/party_d.c line 15: Warning: redefinition of #define POSS
+ before #define TIMEOUT 60
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_load.c line 35: Warning: Return type doesn't match prototype ( string vs int ) before  {
+cmds/object/_load.c line 41: Warning: Return type doesn't match prototype ( string vs int ) before the end of line
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_load.c line 35: Warning: Return type doesn't match prototype ( string vs int ) before  {
+cmds/object/_load.c line 41: Warning: Return type doesn't match prototype ( string vs int ) before the end of line
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+include/net/ftpdsupp.h line 14: Warning: redefinition of #define TP
+ before #define DEBUG_SEND
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+adm/daemons/party_d.c line 15: Warning: redefinition of #define POSS
+ before #define TIMEOUT 60
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_load.c line 35: Warning: Return type doesn't match prototype ( string vs int ) before  {
+cmds/object/_load.c line 41: Warning: Return type doesn't match prototype ( string vs int ) before the end of line
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+include/net/ftpdsupp.h line 14: Warning: redefinition of #define TP
+ before #define DEBUG_SEND
+include/net/ftpdsupp.h line 14: Warning: redefinition of #define TP
+ before #define DEBUG_SEND
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+adm/daemons/party_d.c line 15: Warning: redefinition of #define POSS
+ before #define TIMEOUT 60
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+adm/daemons/propertyd.c line 89: Undefined function f before  {
+adm/daemons/propertyd.c line 89: parse error before the end of line
+adm/daemons/propertyd.c line 90: Illegal LHS before the end of line
+adm/daemons/propertyd.c line 91: parse error before  {
+adm/daemons/propertyd.c line 89: Undefined function f before  {
+adm/daemons/propertyd.c line 89: parse error before the end of line
+adm/daemons/propertyd.c line 90: Illegal LHS before the end of line
+adm/daemons/propertyd.c line 91: parse error before  {
+adm/daemons/propertyd.c line 89: Undefined function f before  {
+adm/daemons/propertyd.c line 89: parse error before the end of line
+adm/daemons/propertyd.c line 90: Illegal LHS before the end of line
+adm/daemons/propertyd.c line 91: parse error before  {
+adm/daemons/propertyd.c line 89: Undefined function f before  {
+adm/daemons/propertyd.c line 89: parse error before the end of line
+adm/daemons/propertyd.c line 90: Illegal LHS before the end of line
+adm/daemons/propertyd.c line 91: parse error before  {
+adm/daemons/propertyd.c line 89: Undefined function f before  {
+adm/daemons/propertyd.c line 89: parse error before the end of line
+adm/daemons/propertyd.c line 90: Illegal LHS before the end of line
+adm/daemons/propertyd.c line 91: parse error before  {
+adm/daemons/propertyd.c line 89: Undefined function f before  {
+adm/daemons/propertyd.c line 89: parse error before the end of line
+adm/daemons/propertyd.c line 90: Illegal LHS before the end of line
+adm/daemons/propertyd.c line 91: parse error before  {
+adm/daemons/propertyd.c line 89: Undefined function f before  {
+adm/daemons/propertyd.c line 89: parse error before the end of line
+adm/daemons/propertyd.c line 90: Illegal LHS before the end of line
+adm/daemons/propertyd.c line 91: parse error before  {
+adm/daemons/propertyd.c line 89: Undefined function f before  {
+adm/daemons/propertyd.c line 89: parse error before the end of line
+adm/daemons/propertyd.c line 90: Illegal LHS before the end of line
+adm/daemons/propertyd.c line 91: parse error before  {
+adm/daemons/propertyd.c line 89: Undefined function f before  {
+adm/daemons/propertyd.c line 89: parse error before the end of line
+adm/daemons/propertyd.c line 90: Illegal LHS before the end of line
+adm/daemons/propertyd.c line 91: parse error before  {
+adm/daemons/propertyd.c line 89: Undefined function f before  {
+adm/daemons/propertyd.c line 89: parse error before the end of line
+adm/daemons/propertyd.c line 90: Illegal LHS before the end of line
+adm/daemons/propertyd.c line 91: parse error before  {
+adm/daemons/propertyd.c line 89: Undefined function f before  {
+adm/daemons/propertyd.c line 89: parse error before the end of line
+adm/daemons/propertyd.c line 90: Illegal LHS before the end of line
+adm/daemons/propertyd.c line 91: parse error before  {
+adm/daemons/propertyd.c line 89: Undefined function f before  {
+adm/daemons/propertyd.c line 89: parse error before the end of line
+adm/daemons/propertyd.c line 90: Illegal LHS before the end of line
+adm/daemons/propertyd.c line 91: parse error before  {
+adm/daemons/propertyd.c line 89: Undefined function f before  {
+adm/daemons/propertyd.c line 89: parse error before the end of line
+adm/daemons/propertyd.c line 90: Illegal LHS before the end of line
+adm/daemons/propertyd.c line 91: parse error before  {
+adm/daemons/propertyd.c line 89: Undefined function f before  {
+adm/daemons/propertyd.c line 89: parse error before the end of line
+adm/daemons/propertyd.c line 90: Illegal LHS before the end of line
+adm/daemons/propertyd.c line 91: parse error before  {
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+include/net/ftpdsupp.h line 14: Warning: redefinition of #define TP
+ before #define DEBUG_SEND
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+adm/daemons/party_d.c line 15: Warning: redefinition of #define POSS
+ before #define TIMEOUT 60
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+include/driver/runtime_config.h line 59: Warning: redefinition of #define __MAX_EFUN_SOCKS__
+ before the end of line
+include/driver/runtime_config.h line 61: Warning: redefinition of #define __COMPILER_STACK_SIZE__
+ before #define __EVALUATOR_
+include/driver/runtime_config.h line 62: Warning: redefinition of #define __EVALUATOR_STACK_SIZE__
+ before #define __INHERIT_CH
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+include/net/ftpdsupp.h line 14: Warning: redefinition of #define TP
+ before #define DEBUG_SEND
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+adm/daemons/party_d.c line 15: Warning: redefinition of #define POSS
+ before #define TIMEOUT 60
+include/driver/runtime_config.h line 59: Warning: redefinition of #define __MAX_EFUN_SOCKS__
+ before the end of line
+include/driver/runtime_config.h line 61: Warning: redefinition of #define __COMPILER_STACK_SIZE__
+ before #define __EVALUATOR_
+include/driver/runtime_config.h line 62: Warning: redefinition of #define __EVALUATOR_STACK_SIZE__
+ before #define __INHERIT_CH
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+include/net/ftpdsupp.h line 14: Warning: redefinition of #define TP
+ before #define DEBUG_SEND
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+adm/daemons/party_d.c line 15: Warning: redefinition of #define POSS
+ before #define TIMEOUT 60
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+include/driver/runtime_config.h line 59: Warning: redefinition of #define __MAX_EFUN_SOCKS__
+ before the end of line
+include/driver/runtime_config.h line 61: Warning: redefinition of #define __COMPILER_STACK_SIZE__
+ before #define __EVALUATOR_
+include/driver/runtime_config.h line 62: Warning: redefinition of #define __EVALUATOR_STACK_SIZE__
+ before #define __INHERIT_CH
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+include/net/ftpdsupp.h line 14: Warning: redefinition of #define TP
+ before #define DEBUG_SEND
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+adm/daemons/party_d.c line 15: Warning: redefinition of #define POSS
+ before #define TIMEOUT 60
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+include/net/ftpdsupp.h line 14: Warning: redefinition of #define TP
+ before #define DEBUG_SEND
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+adm/daemons/party_d.c line 15: Warning: redefinition of #define POSS
+ before #define TIMEOUT 60
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+include/net/ftpdsupp.h line 14: Warning: redefinition of #define TP
+ before #define DEBUG_SEND
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+adm/daemons/party_d.c line 15: Warning: redefinition of #define POSS
+ before #define TIMEOUT 60
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_load.c line 35: Warning: Return type doesn't match prototype ( string vs int ) before  {
+cmds/object/_load.c line 41: Warning: Return type doesn't match prototype ( string vs int ) before the end of line
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+include/net/ftpdsupp.h line 14: Warning: redefinition of #define TP
+ before #define DEBUG_SEND
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+adm/daemons/party_d.c line 15: Warning: redefinition of #define POSS
+ before #define TIMEOUT 60
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+include/driver/runtime_config.h line 59: Warning: redefinition of #define __MAX_EFUN_SOCKS__
+ before the end of line
+include/driver/runtime_config.h line 61: Warning: redefinition of #define __COMPILER_STACK_SIZE__
+ before #define __EVALUATOR_
+include/driver/runtime_config.h line 62: Warning: redefinition of #define __EVALUATOR_STACK_SIZE__
+ before #define __INHERIT_CH
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+include/net/ftpdsupp.h line 14: Warning: redefinition of #define TP
+ before #define DEBUG_SEND
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+adm/daemons/party_d.c line 15: Warning: redefinition of #define POSS
+ before #define TIMEOUT 60
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/adm/_netmail.c line 80: parse error before , mud );
+cmds/adm/_netmail.c line 81: Illegal LHS before  {
+cmds/adm/_netmail.c line 81: parse error before the end of line
+cmds/adm/_netmail.c line 84: Illegal LHS before the end of line
+cmds/adm/_netmail.c line 87: parse error before the end of line
+cmds/adm/_netmail.c line 80: parse error before , mud );
+cmds/adm/_netmail.c line 81: Illegal LHS before  {
+cmds/adm/_netmail.c line 81: parse error before the end of line
+cmds/adm/_netmail.c line 84: Illegal LHS before the end of line
+cmds/adm/_netmail.c line 87: parse error before the end of line
+cmds/adm/_netmail.c line 80: parse error before , mud );
+cmds/adm/_netmail.c line 81: Illegal LHS before  {
+cmds/adm/_netmail.c line 81: parse error before the end of line
+cmds/adm/_netmail.c line 84: Illegal LHS before the end of line
+cmds/adm/_netmail.c line 87: parse error before the end of line
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+include/net/ftpdsupp.h line 14: Warning: redefinition of #define TP
+ before #define DEBUG_SEND
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+adm/daemons/party_d.c line 15: Warning: redefinition of #define POSS
+ before #define TIMEOUT 60
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+include/driver/runtime_config.h line 59: Warning: redefinition of #define __MAX_EFUN_SOCKS__
+ before the end of line
+include/driver/runtime_config.h line 61: Warning: redefinition of #define __COMPILER_STACK_SIZE__
+ before #define __EVALUATOR_
+include/driver/runtime_config.h line 62: Warning: redefinition of #define __EVALUATOR_STACK_SIZE__
+ before #define __INHERIT_CH
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+include/net/ftpdsupp.h line 14: Warning: redefinition of #define TP
+ before #define DEBUG_SEND
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+adm/daemons/party_d.c line 15: Warning: redefinition of #define POSS
+ before #define TIMEOUT 60
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+include/net/ftpdsupp.h line 14: Warning: redefinition of #define TP
+ before #define DEBUG_SEND
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+adm/daemons/party_d.c line 15: Warning: redefinition of #define POSS
+ before #define TIMEOUT 60
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+include/net/ftpdsupp.h line 14: Warning: redefinition of #define TP
+ before #define DEBUG_SEND
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+adm/daemons/party_d.c line 15: Warning: redefinition of #define POSS
+ before #define TIMEOUT 60
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+include/driver/runtime_config.h line 59: Warning: redefinition of #define __MAX_EFUN_SOCKS__
+ before the end of line
+include/driver/runtime_config.h line 61: Warning: redefinition of #define __COMPILER_STACK_SIZE__
+ before #define __EVALUATOR_
+include/driver/runtime_config.h line 62: Warning: redefinition of #define __EVALUATOR_STACK_SIZE__
+ before #define __INHERIT_CH
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+cmds/object/_load.c line 35: Warning: Return type doesn't match prototype ( string vs int ) before  {
+cmds/object/_load.c line 41: Warning: Return type doesn't match prototype ( string vs int ) before the end of line
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+include/net/ftpdsupp.h line 14: Warning: redefinition of #define TP
+ before #define DEBUG_SEND
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+adm/daemons/party_d.c line 15: Warning: redefinition of #define POSS
+ before #define TIMEOUT 60
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+include/net/ftpdsupp.h line 14: Warning: redefinition of #define TP
+ before #define DEBUG_SEND
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+adm/daemons/party_d.c line 15: Warning: redefinition of #define POSS
+ before #define TIMEOUT 60
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+include/net/ftpdsupp.h line 14: Warning: redefinition of #define TP
+ before #define DEBUG_SEND
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+adm/daemons/party_d.c line 15: Warning: redefinition of #define POSS
+ before #define TIMEOUT 60
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+include/net/ftpdsupp.h line 14: Warning: redefinition of #define TP
+ before #define DEBUG_SEND
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+adm/daemons/party_d.c line 15: Warning: redefinition of #define POSS
+ before #define TIMEOUT 60
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+d/Arctic/Shya/rooms/room4.c line 27: parse error before  "This well packed d
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+include/net/ftpdsupp.h line 14: Warning: redefinition of #define TP
+ before #define DEBUG_SEND
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+adm/daemons/party_d.c line 15: Warning: redefinition of #define POSS
+ before #define TIMEOUT 60
+include/net/ftpdsupp.h line 14: Warning: redefinition of #define TP
+ before #define DEBUG_SEND
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+adm/daemons/party_d.c line 15: Warning: redefinition of #define POSS
+ before #define TIMEOUT 60
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+include/net/ftpdsupp.h line 14: Warning: redefinition of #define TP
+ before #define DEBUG_SEND
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+adm/daemons/party_d.c line 15: Warning: redefinition of #define POSS
+ before #define TIMEOUT 60
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+include/net/ftpdsupp.h line 14: Warning: redefinition of #define TP
+ before #define DEBUG_SEND
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+adm/daemons/party_d.c line 15: Warning: redefinition of #define POSS
+ before #define TIMEOUT 60
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+include/net/ftpdsupp.h line 14: Warning: redefinition of #define TP
+ before #define DEBUG_SEND
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+adm/daemons/party_d.c line 15: Warning: redefinition of #define POSS
+ before #define TIMEOUT 60
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+include/net/ftpdsupp.h line 14: Warning: redefinition of #define TP
+ before #define DEBUG_SEND
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+adm/daemons/party_d.c line 15: Warning: redefinition of #define POSS
+ before #define TIMEOUT 60
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+include/net/ftpdsupp.h line 14: Warning: redefinition of #define TP
+ before #define DEBUG_SEND
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+adm/daemons/party_d.c line 15: Warning: redefinition of #define POSS
+ before #define TIMEOUT 60
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+include/driver/runtime_config.h line 59: Warning: redefinition of #define __MAX_EFUN_SOCKS__
+ before the end of line
+include/driver/runtime_config.h line 61: Warning: redefinition of #define __COMPILER_STACK_SIZE__
+ before #define __EVALUATOR_
+include/driver/runtime_config.h line 62: Warning: redefinition of #define __EVALUATOR_STACK_SIZE__
+ before #define __INHERIT_CH
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+include/net/ftpdsupp.h line 14: Warning: redefinition of #define TP
+ before #define DEBUG_SEND
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+adm/daemons/party_d.c line 15: Warning: redefinition of #define POSS
+ before #define TIMEOUT 60
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+include/net/ftpdsupp.h line 14: Warning: redefinition of #define TP
+ before #define DEBUG_SEND
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+adm/daemons/party_d.c line 15: Warning: redefinition of #define POSS
+ before #define TIMEOUT 60
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+include/driver/runtime_config.h line 59: Warning: redefinition of #define __MAX_EFUN_SOCKS__
+ before the end of line
+include/driver/runtime_config.h line 61: Warning: redefinition of #define __COMPILER_STACK_SIZE__
+ before #define __EVALUATOR_
+include/driver/runtime_config.h line 62: Warning: redefinition of #define __EVALUATOR_STACK_SIZE__
+ before #define __INHERIT_CH
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+include/net/ftpdsupp.h line 14: Warning: redefinition of #define TP
+ before #define DEBUG_SEND
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+include/driver/runtime_config.h line 59: Warning: redefinition of #define __MAX_EFUN_SOCKS__
+ before the end of line
+include/driver/runtime_config.h line 61: Warning: redefinition of #define __COMPILER_STACK_SIZE__
+ before #define __EVALUATOR_
+include/driver/runtime_config.h line 62: Warning: redefinition of #define __EVALUATOR_STACK_SIZE__
+ before #define __INHERIT_CH
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+include/i3.h line 19: Warning: redefinition of #define I3_DAEMON
+ before #define I3_SERVICE_D
+adm/daemons/party_d.c line 15: Warning: redefinition of #define POSS
+ before #define TIMEOUT 60
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+include/net/ftpdsupp.h line 14: Warning: redefinition of #define TP
+ before #define DEBUG_SEND
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+adm/daemons/party_d.c line 15: Warning: redefinition of #define POSS
+ before #define TIMEOUT 60
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+include/net/ftpdsupp.h line 14: Warning: redefinition of #define TP
+ before #define DEBUG_SEND
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+adm/daemons/party_d.c line 15: Warning: redefinition of #define POSS
+ before #define TIMEOUT 60
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+u/t/tyran/spider/rooms/spider.h line 9: Unexpected #endif before the end of line
+u/t/tyran/spider/rooms/spider.h line 9: parse error before the end of line
+u/t/tyran/spider/rooms/spcave10.c line 44: parse error before  "The walls are made
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+include/net/ftpdsupp.h line 14: Warning: redefinition of #define TP
+ before #define DEBUG_SEND
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+adm/daemons/party_d.c line 15: Warning: redefinition of #define POSS
+ before #define TIMEOUT 60
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_load.c line 35: Warning: Return type doesn't match prototype ( string vs int ) before  {
+cmds/object/_load.c line 41: Warning: Return type doesn't match prototype ( string vs int ) before the end of line
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_load.c line 35: Warning: Return type doesn't match prototype ( string vs int ) before  {
+cmds/object/_load.c line 41: Warning: Return type doesn't match prototype ( string vs int ) before the end of line
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_load.c line 35: Warning: Return type doesn't match prototype ( string vs int ) before  {
+cmds/object/_load.c line 41: Warning: Return type doesn't match prototype ( string vs int ) before the end of line
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_load.c line 35: Warning: Return type doesn't match prototype ( string vs int ) before  {
+cmds/object/_load.c line 41: Warning: Return type doesn't match prototype ( string vs int ) before the end of line
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_load.c line 35: Warning: Return type doesn't match prototype ( string vs int ) before  {
+cmds/object/_load.c line 41: Warning: Return type doesn't match prototype ( string vs int ) before the end of line
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+include/net/ftpdsupp.h line 14: Warning: redefinition of #define TP
+ before #define DEBUG_SEND
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+adm/daemons/party_d.c line 15: Warning: redefinition of #define POSS
+ before #define TIMEOUT 60
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/object/_update.c line 237: Warning: Unknown \x char. before  
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before _\'s\n", tmpA ) ); 
+cmds/std/_score.c line 52: Warning: Unknown \x char. before s\n", tmpA ) ); 

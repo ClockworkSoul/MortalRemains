@@ -1,0 +1,204 @@
+---
+could not close: Descriptor is invalid
+Object: /adm/daemons/network/socket#0 at line 351
+
+'close_callback' at /adm/daemons/network/socket#0 at line 229
+'CATCH' at /adm/daemons/network/socket#0 at line 229
+'<function>' at /adm/daemons/network/I3 (<function>) at :0
+'close_callback' at /adm/daemons/network/I3 at line 96
+'remove' at /adm/daemons/network/socket#0 at line 351
+---
+could not close: Descriptor is invalid
+Object: /adm/daemons/network/socket#2 at line 351
+
+'close_callback' at /adm/daemons/network/socket#2 at line 229
+'CATCH' at /adm/daemons/network/socket#2 at line 229
+'<function>' at /adm/daemons/network/I3 (<function>) at :0
+'close_callback' at /adm/daemons/network/I3 at line 96
+'remove' at /adm/daemons/network/socket#2 at line 351
+---
+could not close: Descriptor is invalid
+Object: /adm/daemons/network/socket#0 at line 351
+
+'close_callback' at /adm/daemons/network/socket#0 at line 229
+'CATCH' at /adm/daemons/network/socket#0 at line 229
+'<function>' at /adm/daemons/network/I3 (<function>) at :0
+'close_callback' at /adm/daemons/network/I3 at line 96
+'remove' at /adm/daemons/network/socket#0 at line 351
+---
+could not close: Descriptor is invalid
+Object: /adm/daemons/network/socket#2 at line 351
+
+'close_callback' at /adm/daemons/network/socket#2 at line 229
+'CATCH' at /adm/daemons/network/socket#2 at line 229
+'<function>' at /adm/daemons/network/I3 (<function>) at :0
+'close_callback' at /adm/daemons/network/I3 at line 96
+'remove' at /adm/daemons/network/socket#2 at line 351
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#11 at line 690
+'initialize_user' at /adm/daemons/channels at line 262
+'register_channel' at /adm/daemons/channels at line 666
+'add_user' at /adm/daemons/channels at line 192
+'CATCH' at /adm/daemons/channels at line 192
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Can't load objects when no effective user.
+Object: /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+
+'cmd_hook' at /std/user#106 at line 145
+'cmd_go' at /cmds/std/_go at line 64
+'find_object_or_load' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+'CATCH' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+---
+*Error in loading object '/u/s/sophia/workroom'
+Object: /std/user#390 (std/object/ob_logic.c) at line 55
+
+'call_user_dump' at /std/user#390 at line 991
+'quit' at /std/user#390 at line 516
+'cmd_hook' at /std/user#390 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#390 at line 226
+'move' at /std/user#390 (std/object/ob_logic.c) at line 55
+'CATCH' at /std/user#390 (std/object/ob_logic.c) at line 55
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'call_user_dump' at /std/user#925 at line 991
+'quit' at /std/user#925 at line 472
+'cleanup_user' at /adm/daemons/channels at line 232
+'kill_user' at /adm/daemons/channels at line 125
+'CATCH' at /adm/daemons/channels at line 125
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Error in loading object '/u/s/sophia/workroom'
+Object: /std/user#1040 (std/object/ob_logic.c) at line 55
+
+'quit' at /std/user#1040 at line 516
+'cmd_hook' at /std/user#1040 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#1040 at line 226
+'move' at /std/user#1040 (std/object/ob_logic.c) at line 55
+'CATCH' at /std/user#1040 (std/object/ob_logic.c) at line 55
+---
+could not close: Descriptor is invalid
+Object: /adm/daemons/network/socket#0 at line 351
+
+'close_callback' at /adm/daemons/network/socket#0 at line 229
+'CATCH' at /adm/daemons/network/socket#0 at line 229
+'<function>' at /adm/daemons/network/I3 (<function>) at :0
+'close_callback' at /adm/daemons/network/I3 at line 96
+'remove' at /adm/daemons/network/socket#0 at line 351
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#4 at line 690
+'initialize_user' at /adm/daemons/channels at line 262
+'register_channel' at /adm/daemons/channels at line 666
+'add_user' at /adm/daemons/channels at line 192
+'CATCH' at /adm/daemons/channels at line 192
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+could not close: Descriptor is invalid
+Object: /adm/daemons/network/socket#90 at line 351
+
+'close_callback' at /adm/daemons/network/socket#90 at line 229
+'CATCH' at /adm/daemons/network/socket#90 at line 229
+'<function>' at /adm/daemons/network/I3 (<function>) at :0
+'close_callback' at /adm/daemons/network/I3 at line 96
+'remove' at /adm/daemons/network/socket#90 at line 351
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'quit' at /std/user#4 at line 472
+'cleanup_user' at /adm/daemons/channels at line 232
+'kill_user' at /adm/daemons/channels at line 125
+'CATCH' at /adm/daemons/channels at line 125
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Error in loading object '/u/s/sophia/workroom'
+Object: /std/user#325 (std/object/ob_logic.c) at line 55
+
+'call_user_dump' at /std/user#325 at line 991
+'quit' at /std/user#325 at line 516
+'cmd_hook' at /std/user#325 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#325 at line 226
+'move' at /std/user#325 (std/object/ob_logic.c) at line 55
+'CATCH' at /std/user#325 (std/object/ob_logic.c) at line 55
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#431 at line 690
+'initialize_user' at /adm/daemons/channels at line 262
+'register_channel' at /adm/daemons/channels at line 666
+'add_user' at /adm/daemons/channels at line 192
+'CATCH' at /adm/daemons/channels at line 192
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Can't load objects when no effective user.
+Object: /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+
+'cmd_hook' at /std/user#431 at line 145
+'cmd_go' at /cmds/std/_go at line 64
+'find_object_or_load' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+'CATCH' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+---
+*Error in loading object '/d/Ocean/Main/mon/diver'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#506 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/d/Ocean/Main/mon/diver'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#506 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/d/Ocean/Main/mon/diver'
+Object: /cmds/object/_update at line 217
+
+'cmd_hook' at /std/user#506 at line 145
+'cmd_update' at /cmds/object/_update at line 162
+'do_update' at /cmds/object/_update at line 217
+'CATCH' at /cmds/object/_update at line 217
+---
+*Error in loading object '/d/Ocean/Main/mon/whaler'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#506 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144

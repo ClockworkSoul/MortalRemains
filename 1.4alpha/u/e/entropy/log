@@ -1,0 +1,14 @@
+u/e/entropy/area/room/14.c line 35: Reserved type name unexpected. before TP->QG)+".\n");
+u/e/entropy/area/room/14.c line 35: Missing type for argument before ()->QG)+".\n");
+u/e/entropy/area/room/14.c line 35: parse error before )->QG)+".\n");
+u/e/entropy/area/room/14.c line 37: parse error before the end of file
+u/e/entropy/area/room/12.c line 29: Invalid argument types to '+' ( string vs object ) before QCN+" and disappears
+u/e/entropy/area/room/19.c line 28: Undefined function Fence before ;
+u/e/entropy/area/room/19.c line 29: Undefined function Sleep before ;
+u/e/entropy/area/room/19.c line 30: Undefined function Scare before ;
+u/e/entropy/area/room/19.c line 35: "#pragma strict_types" requires type of function before "A wizard appears in
+u/e/entropy/area/room/19.c line 35: parse error before );
+u/e/entropy/area/room/19.c line 39: "#pragma strict_types" requires type of function before "A wizard appears in
+u/e/entropy/area/room/19.c line 39: parse error before );
+u/e/entropy/area/obj/fence-obj.c line 1: Cannot #include ..cave.h before the end of line
+u/e/entropy/area/obj/fence-obj.c line 6: No such inherited function ::create before ;

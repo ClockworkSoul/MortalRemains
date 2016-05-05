@@ -1,0 +1,32 @@
+u/g/gasman/ocean/mon/mon.c line 1: Cannot #include central.h before the end of line
+u/g/gasman/ocean/mon/mon.c line 15: parse error before ;
+u/g/gasman/ocean/mon/mon.c line 42: Undefined variable 'CITY_NAME' before  break;
+u/g/gasman/ocean/mon/mon.c line 1: Cannot #include central.h before the end of line
+u/g/gasman/ocean/mon/mon.c line 15: parse error before ;
+u/g/gasman/ocean/mon/mon.c line 42: Undefined variable 'CITY_NAME' before  break;
+u/g/gasman/ocean/mon/mon.c line 15: parse error before ;
+u/g/gasman/ocean/mon/mon.c line 84: Undefined variable 'rnd' before the end of line
+u/g/gasman/ocean/mon/mon.c line 84: Undefined variable 'rnd' before the end of line
+d/Ocean/City/mon/citizen.c line 1: Cannot #include ocean.h before the end of line
+d/Ocean/City/mon/citizen.c line 49: Undefined variable 'CITY_NAME' before ".\n"; break;
+d/Ocean/City/ocean.h line 1: Missing leading " or < in #include before the end of file
+d/Ocean/City/magog03.c line 35: Undefined variable 'O_CITY' before "magog04",
+d/Ocean/City/magog03.c line 39: Undefined variable 'O_MON' before "citizen.c" ]));
+d/Ocean/City/ocean.h line 1: Missing leading " or < in #include before the end of file
+d/Ocean/City/magog03.c line 35: Undefined variable 'O_CITY' before "magog04",
+d/Ocean/City/magog03.c line 39: Undefined variable 'O_MON' before "citizen.c" ]));
+d/Ocean/Main/mon/citizen.c line 70: Reserved type name unexpected. before ;
+d/Ocean/Main/mon/citizen.c line 70: parse error before ;
+d/Ocean/Main/mon/citizen.c line 78: Illegal LHS before the end of line
+d/Ocean/Main/mon/citizen.c line 80: break statement outside loop before the end of line
+d/Ocean/Main/mon/citizen.c line 81: parse error before  2 :
+d/Ocean/Main/mon/citizen.c line 82: Illegal LHS before the end of line
+d/Ocean/Main/mon/citizen.c line 70: Reserved type name unexpected. before ;
+d/Ocean/Main/mon/citizen.c line 70: parse error before ;
+d/Ocean/Main/mon/citizen.c line 78: Illegal LHS before the end of line
+d/Ocean/Main/mon/citizen.c line 80: break statement outside loop before the end of line
+d/Ocean/Main/mon/citizen.c line 81: parse error before  2 :
+d/Ocean/Main/mon/citizen.c line 82: Illegal LHS before the end of line
+d/Ocean/Main/mon/citizen.c line 63: Undefined variable 'defalut' before  str = "A homeless m
+d/Ocean/Main/mon/citizen.c line 63: parse error before  str = "A homeless m
+d/Ocean/Main/mon/citizen.c line 63: Illegal LHS before  break;

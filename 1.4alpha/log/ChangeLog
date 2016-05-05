@@ -1,0 +1,33 @@
+---/doc/concepts/ChangeLog---
+Mon Sep 20 16:12:29 1999   Matt Titmus   (Cyanide at 206.114.73.224)
+
+	* Updated a few basic concepts... guilds, classes, levels, titles. 
+
+---/adm/simul_efun/ChangeLog---
+Sun Jul 16 18:41:10 2000   Matt Titmus   (Cyanide at rcas2001.rcf.bnl.gov)
+
+	* Added an environment() check to say.c 
+
+---/adm/daemons/ChangeLog---
+Tue Jul 18 18:44:54 2000   Matt Titmus   (Cyanide at rcas2001.rcf.bnl.gov)
+
+	* Cyanide increased user quotas to 500k. 
+
+---/std/body/ChangeLog---
+Wed Jul 19 15:01:21 2000   Matt Titmus   (Cyanide at rcas2001.rcf.bnl.gov)
+
+	* Added support in attack.c unblock_attack() for dismissal of 
+	summoned monsters after a specified time period. 
+
+---/std/ChangeLog---
+Wed Jul 19 15:02:01 2000   Matt Titmus   (Cyanide at rcas2001.rcf.bnl.gov)
+
+	* Added support in spell.c for durations on summoning. 
+
+---/std/body/ChangeLog---
+Mon Jul 31 17:47:05 2000   Matt Titmus   (Cyanide at dialup-209.246.100.15.NewYork2.Level3.net)
+
+	* Cyanide added support for suffocation in the prototype 
+	heart_beat(). Also, body and monster both ::heart_beat now, in 
+	order to include superobject code. 
+

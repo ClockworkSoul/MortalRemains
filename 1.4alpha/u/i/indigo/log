@@ -1,0 +1,14 @@
+u/i/indigo/workroom.c line 23: parse error before ( "long", @EndText
+u/i/indigo/workroom.c line 23: parse error before ( "long", @EndText
+u/i/indigo/workroom.c line 23: parse error before ( "long", @EndText
+u/i/indigo/workroom.c line 23: parse error before ( "long", @EndText
+u/i/indigo/workroom.c line 23: parse error before ( "long", @EndText
+u/i/indigo/workroom.c line 23: parse error before ( "long", @EndText
+u/i/indigo/workroom.c line 23: parse error before ( "long", @EndText
+u/i/indigo/wolf.c line 11: parse error before ("id" ({ "wolf" }) )
+u/i/indigo/wolf.c line 12: parse error before  "wolf" }) );
+u/i/indigo/wolf.c line 12: parse error before  "wolf" }) );
+u/i/indigo/wolf.c line 12: parse error before  "wolf" }) );
+u/i/indigo/wolf.c line 13: parse error before ", ({ "wolf" }) );"
+u/i/indigo/wolf.c line 25: Undefined variable 'The' before  growls then dives f
+u/i/indigo/wolf.c line 25: parse error before  growls then dives f

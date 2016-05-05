@@ -1,0 +1,225 @@
+This is the log
+d/Inner/Kyako/ElemPlane/obj/panel.c line 8: Type mismatch ( unknown vs mixed * ) when initializing Anspl before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 8: Missing type before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 9: Type mismatch ( unknown vs mixed * ) when initializing Ansact before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 9: Missing type before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 12: No such inherited function ::create before ;
+d/Inner/Kyako/ElemPlane/obj/panel.c line 47: parse error before  0;
+d/Inner/Kyako/ElemPlane/obj/panel.c line 47: parse error before  1;
+d/Inner/Kyako/ElemPlane/obj/panel.c line 44: parse error before var);
+d/Inner/Kyako/ElemPlane/obj/panel.c line 45: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 52: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 59: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 66: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 73: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 44: Undefined function scanf before ;
+d/Inner/Kyako/ElemPlane/obj/panel.c line 51: parse error before var);
+d/Inner/Kyako/ElemPlane/obj/panel.c line 52: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 59: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 66: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 73: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 44: parse error before var);
+d/Inner/Kyako/ElemPlane/obj/panel.c line 45: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 52: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 59: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 66: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 73: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 44: parse error before var);
+d/Inner/Kyako/ElemPlane/obj/panel.c line 45: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 52: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 59: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 66: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 73: Illegal LHS before the end of line
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 13: Undefined function add_hp before ;;
+d/Inner/Kyako/ElemPlane/obj/panel.c line 48: Undefined variable 'set_var' before  var);
+d/Inner/Kyako/ElemPlane/obj/panel.c line 55: parse error before var);
+d/Inner/Kyako/ElemPlane/obj/panel.c line 56: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 63: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 70: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 77: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 48: Undefined variable 'set_var' before ;
+d/Inner/Kyako/ElemPlane/obj/panel.c line 48: Undefined variable 'set_var' before ;
+d/Inner/Kyako/ElemPlane/obj/panel.c line 125: End of file in text block before 0; i<sizeof(list); i
+d/Inner/Kyako/ElemPlane/obj/panel.c line 125: parse error before 0; i<sizeof(list); i
+d/Inner/Kyako/ElemPlane/obj/panel.c line 127: End of file in text block before ist); i++)
+d/Inner/Kyako/ElemPlane/obj/panel.c line 127: parse error before ist); i++)
+d/Inner/Kyako/ElemPlane/obj/panel.c line 126: parse error before  0;
+d/Inner/Kyako/ElemPlane/obj/panel.c line 126: parse error before  1;
+d/Inner/Kyako/ElemPlane/obj/panel.c line 112: parse error before n);
+d/Inner/Kyako/ElemPlane/obj/panel.c line 114: Undefined function move_player before ;
+u/k/kyako/robe.c line 55: parse error before ", "spellpts");
+u/k/kyako/robe.c line 64: End of file in string before      "/std/spell.c"
+u/r/rehnbi/monsters/f-rat.c line 26: parse error before );
+u/r/rehnbi/monsters/f-rat.c line 26: parse error before );
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 13: parse error before the end of line
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 15: End of file in string before file_size does an ap
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 15: parse error before file_size does an ap
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 13: parse error before the end of line
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 13: Undefined variable 'hp' before ;;
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 13: Undefined function add_hp before ;;
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 13: Undefined function ad_hp before ;;
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 13: Undefined function add_hp before ;;
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 13: parse error before ;
+d/Inner/Kyako/ElemPlane/stuffroom.c line 37: Undefined function move_player before ;
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 13: Wrong number of arguments to query
+    Expected: 1  Got: 2 before ;;
+u/k/kyako/wzur.c line 24: Undefined function set_value before ;
+u/k/kyako/wzur.c line 28: Undefined function set_type before ;
+u/k/kyako/shackle.c line 41: parse error before the end of line
+u/k/kyako/shackle.c line 41: parse error before the end of line
+u/k/kyako/shackle.c line 40: parse error before the end of line
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 13: Undefined function wrte before ;;
+u/k/kyako/shackle.c line 57: Undefined variable 'str' before ;
+u/k/kyako/shackle.c line 57: parse error before ;
+u/k/kyako/shackle.c line 58: Illegal LHS before the end of line
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 13: Undefined function this_player_name before +"\n");;
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 13: Invalid argument types to '+' ( unknown vs string ) before ;;
+u/k/kyako/shacklemover.c line 25: Invalid argument types to '+' ( string vs object ) before " to "+str);
+u/k/kyako/shackle.c line 5: Undefined variable 'geteuid' before );
+u/k/kyako/shackle.c line 5: parse error before ;
+u/k/kyako/shackle.c line 19: No such inherited function ::create before ;
+u/k/kyako/shackle.c line 20: No such inherited function ::create before ;
+u/k/kyako/shackle.c line 20: Undefined function reset before ;
+u/k/kyako/shackle.c line 19: Undefined function set_name before ;
+u/k/kyako/shackle.c line 18: Undefined function set_name before ;
+d/Inner/Kyako/ElemPlane/obj/key.c line 7: Undefined function set_material_type before ;
+d/Inner/Kyako/ElemPlane/obj/key.c line 8: Undefined function set_material_type before ;
+d/Inner/Kyako/ElemPlane/monsters/plane.h line 2: Warning: redefinition of #define ARMOR
+ before #define WEAP(x) "/d/
+d/Inner/Kyako/ElemPlane/monsters/plane.h line 2: Warning: redefinition of #define ARMOR
+ before #define WEAP(x) "/d/
+d/Inner/Kyako/ElemPlane/monsters/plane.h line 2: Warning: redefinition of #define ARMOR
+ before #define WEAP(x) "/d/
+d/Inner/Kyako/ElemPlane/armor/pirchain.c line 34: Undefined variable 'resist' before 0]+30);
+u/k/kyako/ddguild.c line 70: Missing type before the end of line
+u/k/kyako/ddguild.c line 71: parse error before  (statr == "constitu
+u/k/kyako/ddguild.c line 83: parse error before the end of line
+u/k/kyako/ddguild.c line 141: Undefined variable 'DEATHDEALER' before "obj/scars.c");
+u/k/kyako/ddguild.c line 172: Undefined variable 'WAR_HP_ROLL' before the end of line
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 13: Undefined function adv_stat before ;
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 13: Unrecognised # directive before }
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 13: parse error before ;
+d/Inner/Kyako/ElemPlane/monsters/plane.h line 2: Warning: redefinition of #define ARMOR
+ before #define WEAP(x) "/d/
+d/Inner/Kyako/ElemPlane/monsters/captain.c line 39: Undefined function WEAR before ;
+d/Inner/Kyako/ElemPlane/monsters/plane.h line 2: Warning: redefinition of #define ARMOR
+ before #define WEAP(x) "/d/
+d/Inner/Kyako/ElemPlane/monsters/plane.h line 2: Warning: redefinition of #define ARMOR
+ before #define WEAP(x) "/d/
+d/Inner/Kyako/ElemPlane/monsters/plane.h line 2: Warning: redefinition of #define ARMOR
+ before #define WEAP(x) "/d/
+d/Inner/Kyako/ElemPlane/monsters/plane.h line 2: Warning: redefinition of #define ARMOR
+ before #define WEAP(x) "/d/
+u/k/kyako/shacklemover.c line 25: Undefined variable 'target' before  present(str, enviro
+u/k/kyako/newguild/newwizguild.c line 36: Undefined variable 'DEATHDEALER_XP' before ;
+u/k/kyako/newguild/newwizguild.c line 67: Undefined variable 'DEATHDEALER_XP' before lvl];
+u/k/kyako/newguild/newwizguild.c line 176: Undefined variable 'DEATHDEALER' before "obj/scars.c");
+u/k/kyako/newguild/newwizguild.c line 207: Undefined variable 'WAR_HP_ROLL' before the end of line
+u/k/kyako/newguild/newwizguild.c line 171: Undefined variable 'DEATHDEALER' before "obj/scars.c");
+u/k/kyako/newguild/newwizguild.c line 202: Undefined variable 'WAR_HP_ROLL' before the end of line
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 13: Illegal to redeclare local name 'target' before  = present(str, envi
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 13: Undefined variable 'str' before  environment(TP)), t
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 13: Illegal to redeclare local name 'target' before  -> set("wealth", 10
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 13: parse error before  set("wealth", 10000
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 13: Illegal to redeclare local name 'target' before  = present("shiver",
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 13: Illegal to redeclare local name 'target' before  -> set("wealth", 10
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 13: parse error before  set("wealth", 10000
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 13: Undefined variable 'target' before  present("shiver", e
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 13: parse error before  str, str = "shiver"
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 13: Illegal LHS before  target = present(st
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 13: Undefined variable 'str' before  environment(TP)), t
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 15: $var illegal outside of function pointer. before 1;
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 15: parse error before ;
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 16: Illegal LHS before the end of line
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 15: $var illegal outside of function pointer. before 1;
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 15: parse error before ;
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 16: Illegal LHS before the end of line
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 17: Undefined variable 'drall' before );;
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 17: parse error before );;
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 15: $var illegal outside of function pointer. before 1;
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 15: parse error before ;
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 16: Illegal LHS before the end of line
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 19: End of file in string before should it not exist.
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 19: parse error before should it not exist.
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 19: End of file in string before EV ESC+"[1,7m"      
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 19: parse error before EV ESC+"[1,7m"      
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 13: parse error before );;
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 13: parse error before );;
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 17: parse error before ;;
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 19: End of file in string before elf should it not ex
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 19: parse error before elf should it not ex
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 17: End of file in string before story",
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 17: parse error before story",
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 19: End of file in string before ),
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 19: Undefined variable 'invisible' before ),
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 19: parse error before ),
+u/k/kyako/people.c line 24: No such inherited function ::init before ;
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 13: parse error before );;
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 13: parse error before );;
+u/k/kyako/newguild/newwizguild.c line 171: Undefined variable 'DEATHDEALER' before "obj/scars.c");
+u/k/kyako/newguild/newwizguild.c line 202: Undefined variable 'WAR_HP_ROLL' before the end of line
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 13: parse error before );;
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 19: End of file in string before the end of file
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 19: parse error before the end of file
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 19: End of file in string before ( "light", 1 );
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 19: parse error before ( "light", 1 );
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 13: parse error before );;
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 13: parse error before );;
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 13: parse error before );;
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 13: Undefined variable 'this_room' before  reset();;
+u/k/kyako/blank_room.c line 6: Cannot #include plane.h before the end of line
+d/Inner/user/kyako/_rstat.c line 3: Unrecognised # directive before the end of line
+d/Inner/user/kyako/_rstat.c line 10: Undefined variable 'statr' before  "constitution";brea
+d/Inner/user/kyako/_rstat.c line 25: parse error before the end of file
+d/Inner/user/kyako/_rstat.c line 3: Unrecognised # directive before the end of line
+d/Inner/user/kyako/_rstat.c line 5: Unrecognised # directive before the end of line
+d/Inner/user/kyako/_rstat.c line 14: parse error before (str){
+d/Inner/user/kyako/_rstat.c line 14: parse error before  (str) {
+d/Inner/Kyako/ElemPlane/barracks.c line 27: parse error before ) );
+d/Inner/Kyako/ElemPlane/barracks.c line 8: parse error before  ROOM;
+d/Inner/Kyako/ElemPlane/barracks.c line 41: Undefined variable 'place' before  "nope";break;
+d/Inner/Kyako/ElemPlane/barracks.c line 52: Illegal lvalue before  0) {
+d/Inner/Kyako/ElemPlane/barracks.c line 53: Illegal lvalue before  0) {
+d/Inner/user/kyako/_rstat.c line 38: Undefined variable 'num' before the end of line
+d/Inner/user/kyako/_rstat.c line 49: parse error before the end of line
+d/Inner/user/kyako/_rstat.c line 51: parse error before the end of line
+u/d/darkangel/private/pornomag.c line 31: Warning: clean_up() inherited from both std/cmd_m.c and std/object/ob.c; using the definition in std/object/ob.c. before the end of file
+d/Inner/user/kyako/energypendant.c line 28: "#pragma strict_types" requires type of function before ) -> set("max_hp", T
+d/Inner/user/kyako/energypendant.c line 28: parse error before  set("max_hp", TP ->
+d/Inner/user/kyako/energypendant.c line 29: Missing type before the end of line
+d/Inner/user/kyako/energypendant.c line 30: Invalid argument types to '+' ( unknown vs int ) before the end of line
+d/Inner/user/kyako/energypendant.c line 30: Missing type before the end of line
+d/Inner/user/kyako/energypendant.c line 31: "#pragma strict_types" requires type of function before ) -> set("max_hp", n
+d/Inner/user/kyako/energypendant.c line 31: parse error before  set("max_hp", newhp
+d/Inner/user/kyako/energypendant.c line 29: Missing type before the end of line
+d/Inner/user/kyako/energypendant.c line 30: Undefined variable 'raisepts' before the end of line
+d/Inner/user/kyako/energypendant.c line 30: Type mismatch ( unknown vs unknown ) when initializing newhp before the end of line
+d/Inner/user/kyako/energypendant.c line 30: Missing type before the end of line
+d/Inner/user/kyako/energypendant.c line 31: "#pragma strict_types" requires type of function before ) -> set("max_hp", n
+d/Inner/user/kyako/energypendant.c line 31: parse error before  set("max_hp", newhp
+d/Inner/Kyako/ElemPlane/obj/ruby.c line 29: parse error before the end of file
+d/Inner/Kyako/ElemPlane/obj/ruby.c line 30: Invalid argument types to '+' ( string vs object ) before "\n");
+d/Inner/Kyako/ElemPlane/monsters/waterelem.c line 42: Undefined variable 'fire' before  200);
+d/Inner/Kyako/ElemPlane/monsters/waterelem.c line 43: Undefined variable 'water' before  50);
+d/Inner/Kyako/ElemPlane/entfoyer.c line 28: Undefined function create_door before ;
+d/Inner/Kyako/ElemPlane/monsters/mastwatelem.c line 18: parse error before ", ({ "elemental", "
+d/Inner/Kyako/ElemPlane/monsters/mastwatelem.c line 47: End of file in string before "/std/monster"
+d/Inner/Kyako/ElemPlane/monsters/mastwatelem.c line 18: parse error before ", ({ "elemental", "
+d/Inner/Kyako/ElemPlane/monsters/mastwatelem.c line 48: End of file in string before d/living"
+d/Inner/Kyako/ElemPlane/elemchamber.c line 17: parse error before  PLANE+"monsters/mas
+d/Inner/Kyako/ElemPlane/monsters/waterelem.c line 44: Undefined variable 'PLANE' before "obj/elemkey.c");
+d/Inner/Kyako/ElemPlane/obj/crystal.c line 19: Undefined function set_armor_type before ;
+d/Inner/Kyako/ElemPlane/armor/necklace.c line 2: Cannot #include plane.h before the end of line
+d/Inner/Kyako/ElemPlane/armor/necklace.c line 2: Cannot #include plane.h before the end of line
+d/Inner/Kyako/ElemPlane/armor/necklace.c line 2: Cannot #include plane.h before the end of line
+d/Inner/user/kyako/aroom.c line 29: parse error before  just entered the ro
+u/k/kyako/newguild/newwizguild.c line 171: Undefined variable 'DEATHDEALER' before "obj/scars.c");
+u/k/kyako/newguild/newwizguild.c line 202: Undefined variable 'WAR_HP_ROLL' before the end of line
+d/Inner/user/kyako/aroom.c line 26: parse error before  : "This is a keg of
+d/Inner/user/kyako/aroom.c line 32: Undefined variable 'ob' before  query("cap_name");
+d/Inner/user/kyako/aroom.c line 32: Illegal LHS before the end of line
+d/Inner/user/kyako/aroom.c line 32: parse error before the end of line
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 14: Undefined function envbironment before );
+u/k/kyako/CMD_EVAL_TMP_FILE.c line 14: Bad argument 2 to efun present() before ;
+d/Inner/user/kyako/myobj.c line 36: parse error before ) {
+d/Inner/user/kyako/myobj.c line 36: parse error before  {

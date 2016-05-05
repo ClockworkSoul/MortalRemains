@@ -1,0 +1,72 @@
+d/Inner/Kyako/ElemPlane/monsters/jack.c line 9: Cannot #include camel.h before inherit MONSTER ;
+d/Inner/Kyako/ElemPlane/monsters/jack.c line 41: Undefined variable 'FOO' before "bat.c");
+d/Inner/Kyako/ElemPlane/monsters/jack.c line 61: Undefined variable 'NAME' before " says: "+str+"\n");
+d/Inner/Kyako/ElemPlane/monsters/jack.c line 65: Undefined variable 'FOO' before "cloak.c");
+d/Inner/Kyako/ElemPlane/monsters/jack.c line 17: parse error before  ("long", @Foo
+d/Inner/Kyako/ElemPlane/monsters/jack.c line 38: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/monsters/jack.c line 54: Undefined variable 'NAME' before " says: "+str+"\n");
+d/Inner/Kyako/ElemPlane/monsters/jack.c line 58: Undefined variable 'cloak' before  clone_object(FOO+"c
+d/Inner/Kyako/ElemPlane/monsters/jack.c line 58: Undefined variable 'FOO' before "cloak.c");
+d/Inner/Kyako/ElemPlane/monsters/jack.c line 60: Undefined variable 'boot' before  clone_object(FOO+"b
+d/Inner/Kyako/ElemPlane/monsters/jack.c line 17: parse error before  ("long", @Foo
+d/Inner/Kyako/ElemPlane/monsters/jack.c line 38: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/monsters/jack.c line 54: Undefined variable 'NAME' before " says: "+str+"\n");
+d/Inner/Kyako/ElemPlane/monsters/jack.c line 58: Undefined variable 'cloak' before  clone_object(FOO+"c
+d/Inner/Kyako/ElemPlane/monsters/jack.c line 58: Undefined variable 'FOO' before "cloak.c");
+d/Inner/Kyako/ElemPlane/monsters/jack.c line 60: Undefined variable 'boot' before  clone_object(FOO+"b
+d/Inner/Kyako/ElemPlane/monsters/mayor.c line 51: Bad assignment ( string vs object ). before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 44: parse error before var);
+d/Inner/Kyako/ElemPlane/obj/panel.c line 45: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 52: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 59: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 66: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 73: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 44: parse error before var);
+d/Inner/Kyako/ElemPlane/obj/panel.c line 45: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 52: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 59: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 66: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 73: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 44: parse error before var);
+d/Inner/Kyako/ElemPlane/obj/panel.c line 45: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 52: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 59: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 66: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 73: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 44: parse error before var);
+d/Inner/Kyako/ElemPlane/obj/panel.c line 45: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 52: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 59: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 66: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 73: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 44: parse error before var);
+d/Inner/Kyako/ElemPlane/obj/panel.c line 45: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 52: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 59: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 66: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 73: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 44: parse error before var);
+d/Inner/Kyako/ElemPlane/obj/panel.c line 45: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 52: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 59: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 66: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 73: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 48: Undefined variable 'set_var' before ;
+d/Inner/Kyako/ElemPlane/obj/panel.c line 48: Undefined variable 'set_var' before ;
+d/Inner/Kyako/ElemPlane/obj/panel.c line 48: Undefined variable 'set_var' before ;
+d/Inner/Kyako/ElemPlane/obj/panel.c line 48: Undefined variable 'set_var' before ;
+d/Inner/Kyako/ElemPlane/obj/panel.c line 48: Undefined variable 'set_var' before ;
+d/Inner/Kyako/ElemPlane/obj/panel.c line 48: Undefined variable 'set_var' before ;
+d/Inner/Kyako/ElemPlane/obj/panel.c line 48: Undefined variable 'set_var' before ;
+d/Inner/Kyako/ElemPlane/obj/panel.c line 48: Undefined variable 'set_var' before ;
+d/Inner/Kyako/ElemPlane/obj/panel.c line 48: Undefined variable 'set_var' before ;
+d/Inner/Kyako/ElemPlane/obj/panel.c line 48: Undefined variable 'set_var' before ;
+d/Inner/Kyako/ElemPlane/monsters/plane.h line 2: Warning: redefinition of #define ARMOR
+ before #define WEAP(x) "/d/
+d/Inner/Kyako/ElemPlane/monsters/plane.h line 2: Warning: redefinition of #define ARMOR
+ before #define WEAP(x) "/d/
+d/Inner/Kyako/ElemPlane/monsters/plane.h line 2: Warning: redefinition of #define ARMOR
+ before #define WEAP(x) "/d/
+d/Inner/Kyako/ElemPlane/monsters/plane.h line 2: Warning: redefinition of #define ARMOR
+ before #define WEAP(x) "/d/
+d/Inner/Kyako/ElemPlane/armor/necklace.c line 2: Cannot #include plane.h before the end of line

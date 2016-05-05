@@ -1,0 +1,10 @@
+open/sauna2.c line 46: parse error before the end of line
+open/sauna2.c line 46: parse error before the end of line
+u/r/raven/entrance.c line 12: No such inherited function ::init before ;
+u/r/raven/entrance.c line 29: No such inherited function ::create before ;
+u/r/raven/entrance.c line 31: Undefined function set before ;
+u/r/raven/entrance.c line 43: parse error before the end of line
+u/r/raven/entrance.c line 12: No such inherited function ::init before ;
+u/r/raven/entrance.c line 29: No such inherited function ::create before ;
+u/r/raven/entrance.c line 31: Undefined function set before ;
+u/r/raven/entrance.c line 43: parse error before the end of line

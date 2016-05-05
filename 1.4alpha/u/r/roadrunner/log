@@ -1,0 +1,22 @@
+u/r/roadrunner/berg/gssword.c line 11: parse error before the end of file
+u/r/roadrunner/berg/gssword.c line 11: Undefined function set_weapn_type before ;
+u/r/roadrunner/berg/gssword.c line 16: Undefined variable 'Most' before  Guards carry this s
+u/r/roadrunner/berg/gssword.c line 16: parse error before  Guards carry this s
+u/r/roadrunner/berg/gssword.c line 21: End of file in string before  room).
+u/r/roadrunner/berg/mon/gguard.c line 23: Undefined variable 'Short' before  - clone_object("/u/
+u/r/roadrunner/berg/mon/gguard.c line 23: parse error before  - clone_object("/u/
+u/r/roadrunner/berg/mon/gguard.c line 39: End of file in string before ne TPn this_player()
+u/r/roadrunner/berg/mon/gguard.c line 23: Undefined variable 'Sword' before  clone_object("/u/r/
+u/r/roadrunner/berg/mon/gguard.c line 23: Bad argument number 2 to '-': "object " before the end of line
+u/r/roadrunner/berg/mon/gguard.c line 24: Undefined variable 'Short' before ->move(this_object()
+u/r/roadrunner/berg/mon/gguard.c line 24: parse error before ->move(this_object()
+u/r/roadrunner/berg/mon/gguard.c line 39: End of file in string before the end of line
+u/r/roadrunner/workroom.c line 34: Undefined variable 'd' before Ancients/rooms/wizrm
+u/r/roadrunner/workroom.c line 34: Bad argument 1 to '/': "string " before Ancients/rooms/wizrm
+u/r/roadrunner/workroom.c line 34: Undefined variable 'Ancients' before rooms/wizrm",
+u/r/roadrunner/workroom.c line 34: Undefined variable 'rooms' before wizrm",
+u/r/roadrunner/workroom.c line 37: End of file in string before >remove());
+u/r/roadrunner/workroom.c line 37: Undefined variable 'wizrm' before >remove());
+u/r/roadrunner/357.c line 11: parse error before ("id", ({ ".357", "3
+u/r/roadrunner/357.c line 11: parse error before ("id", ({ ".357", "3
+u/r/roadrunner/357.c line 11: parse error before ("id", ({ ".357", "3

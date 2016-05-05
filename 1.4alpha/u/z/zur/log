@@ -1,0 +1,300 @@
+u/z/zur/priv/rel.c line 3: parse error before the end of line
+u/z/zur/priv/rel.c line 84: parse error before the end of file
+u/z/zur/priv/rel.c line 133: parse error before      :({
+u/z/zur/priv/rel.c line 325: End of file in string before ll", "combat", "weat
+u/z/zur/priv/rel.c line 130: parse error before      :({
+u/z/zur/priv/rel.c line 322: End of file in string before ll", "combat", "weat
+u/z/zur/priv/rel.c line 261: Undefined variable 'divination' before plant", "sun" })
+u/z/zur/priv/rel.c line 261: parse error before plant", "sun" })
+u/z/zur/priv/rel.c line 322: End of file in string before ll", "combat", "weat
+u/z/zur/priv/priests/_cast.c line 15: parse error before  = 1;
+u/z/zur/priv/priests/_cast.c line 15: Illegal LHS before the end of line
+u/z/zur/priv/priests/_cast.c line 23: Illegal LHS before the end of line
+u/z/zur/priv/priests/_cast.c line 24: Illegal LHS before  
+u/z/zur/priv/priests/spell.c line 9: Undefined variable 'spell' before the end of line
+u/z/zur/priv/priests/cmds/_cast.c line 27: Undefined variable 'SPELLS' before  spell, "start_spell
+u/z/zur/priv/priests/spells/clw.c line 21: parse error before the end of line
+u/z/zur/priv/priests/spells/clw.c line 53: parse error before the end of line
+u/z/zur/priv/priests/spells/clw.c line 39: parse error before string str)
+u/z/zur/priv/priests/spells/clw.c line 53: Undefined variable 'str' before  environment(this_pl
+u/z/zur/priv/priests/spells/clw.c line 53: Type mismatch ( unknown vs object ) when initializing ob before the end of line
+u/z/zur/priv/priests/spells/clw.c line 53: Missing type before the end of line
+u/z/zur/priv/priests/spells/clw.c line 54: parse error before (!ob)
+u/z/zur/priv/priests/spells/clw.c line 39: parse error before string str)
+u/z/zur/priv/priests/spells/clw.c line 53: Undefined variable 'str' before  environment(this_pl
+u/z/zur/priv/priests/spells/clw.c line 53: Type mismatch ( unknown vs object ) when initializing ob before the end of line
+u/z/zur/priv/priests/spells/clw.c line 53: Missing type before the end of line
+u/z/zur/priv/priests/spells/clw.c line 54: parse error before (!ob)
+u/z/zur/priv/priests/std/spell.c line 16: Invalid argument types to '+' ( string vs object ) before ","+","sphere+","+le
+u/z/zur/priv/priests/std/spell.c line 16: parse error before +","+level+") being 
+u/z/zur/priv/priests/std/spell.c line 16: Invalid argument types to '+' ( string vs object ) before ","+","sphere+","+le
+u/z/zur/priv/priests/std/spell.c line 16: parse error before +","+level+") being 
+u/z/zur/priv/priests/std/spell.c line 18: parse error before  do not have access 
+u/z/zur/priv/priests/std/spell.c line 34: End of file in string before is_player()->query("
+cmds/wiz/_people.c line 0: Cannot #include mudlib.h before   /include/pr
+cmds/wiz/_people.c line 1: parse error before include/pr
+cmds/std/_who.c line 130: Undefined variable 'lstring' before ;
+std/body.c line 119: Warning: Value of conditional expression is unused before )
+std/user.c line 1045: Warning: Value of conditional expression is unused before the end of line
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+std/body.c line 119: Warning: Value of conditional expression is unused before )
+u/z/zur/priv/priests/std/spell.c line 33: Left argument of -> is not a class before  level) )
+u/z/zur/priv/priests/cmds/_spells.c line 6: Undefined variable 'SPELLS' before ;
+u/z/zur/priv/priests/cmds/_spells.c line 7: Undefined variable 'spells' before ;
+u/z/zur/priv/priests/cmds/_spells.c line 8: Undefined variable 'REL_D' before ;
+u/z/zur/priv/priests/cmds/_spells.c line 12: Undefined variable 'tp' before  dir[i]->query_spher
+u/z/zur/priests/std/spell.c line 65: parse error before the end of line
+u/z/zur/priests/std/rel.c line 384: Type of returned value doesn't match function return type ( mixed * vs string ). before  }
+u/z/zur/bin/_yh.c line 156: Undefined function cmd_look before ;
+u/z/zur/bin/_yh.c line 335: Bad argument 1 to efun keys() before ;
+u/z/zur/bin/_yh.c line 340: parse error before the end of line
+u/z/zur/bin/_yh.c line 343: Illegal LHS before the end of line
+u/z/zur/bin/_yh.c line 343: parse error before the end of line
+u/z/zur/bin/_yh.c line 349: Illegal LHS before the end of line
+u/z/zur/bin/_look.c line 341: parse error before the end of line
+u/z/zur/bin/_look.c line 344: Illegal LHS before the end of line
+u/z/zur/bin/_look.c line 344: parse error before the end of line
+u/z/zur/bin/_look.c line 350: Illegal LHS before the end of line
+u/z/zur/bin/_look.c line 350: parse error before the end of line
+u/z/zur/bin/_look.c line 372: Illegal LHS before the end of line
+u/z/zur/bin/_look.c line 395: parse error before  string look_at_item
+u/z/zur/bin/_dude.c line 344: Undefined variable 'item' before i];
+u/z/zur/bin/_dude.c line 348: parse error before the end of line
+u/z/zur/bin/_dude.c line 350: Illegal LHS before the end of line
+u/z/zur/bin/_dude.c line 351: Warning: Value of conditional expression is unused before the end of line
+u/z/zur/bin/_dude.c line 366: parse error before the end of line
+u/z/zur/priests/cmds/_mack.c line 7: Undefined variable 'dir' before  get_dir(SPELLS);
+u/z/zur/priests/cmds/_mack.c line 18: Undefined variable 'dir' before i]->query_spheres(),
+cmds/file/_mack.c line 1: Cannot #include ../pr.h before int cmd_mack()
+cmds/file/_mack.c line 9: Undefined variable 'REL_D' before ;
+cmds/file/_mack.c line 35: parse error before the end of file
+cmds/file/_mack.c line 35: Bad argument 1 to efun implode() before ;
+cmds/file/_mack.c line 35: Bad assignment ( string * vs string ). before the end of line
+cmds/file/_mack.c line 35: Bad argument 1 to efun explode() before ;
+cmds/file/_mack.c line 35: Bad assignment ( string * vs string ). before the end of line
+cmds/file/_mack.c line 35: Undefined variable 'str' before  strlen(str) -1, str
+u/z/zur/priests/cmds/_religion.c line 44: Bad argument 1 to x--: "mixed * " before )
+u/z/zur/priests/cmds/_religion.c line 47: Undefined variable 'capitalizek' before i]);
+u/z/zur/priv/alpha.c line 6: Bad argument 1 to efun strcmp() before );
+u/z/zur/priv/alpha.c line 6: Bad argument 2 to efun strcmp() before );
+u/z/zur/priv/alpha.c line 6: Bad assignment ( mixed * vs string ). before the end of line
+u/z/zur/priv/alpha.c line 7: Type of returned value doesn't match function return type ( string vs string * ). before the end of line
+u/z/zur/priv/alpha.c line 6: Bad argument 1 to efun strcmp() before );
+u/z/zur/priv/alpha.c line 6: Bad argument 2 to efun strcmp() before );
+u/z/zur/priests/cmds/_religion.c line 25: Wrong number of arguments to do_single
+    Expected: 0  Got: 1 before ; break;  
+u/z/zur/priests/cmds/_religion.c line 84: Number of arguments disagrees with previous definition. before the end of line
+u/z/zur/priests/cmds/_religion.c line 110: parse error before the end of file
+u/z/zur/monster.c line 944: parse error before ;
+u/z/zur/monster.c line 945: Illegal LHS before the end of line
+u/z/zur/monster.c line 945: parse error before the end of line
+u/z/zur/monster.c line 946: Illegal LHS before the end of line
+u/z/zur/monster.c line 946: parse error before the end of line
+u/z/zur/monster.c line 956: Undefined variable 'list' before ;
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+std/body.c line 119: Warning: Value of conditional expression is unused before )
+std/user.c line 1045: Warning: Value of conditional expression is unused before the end of line
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+std/body.c line 119: Warning: Value of conditional expression is unused before )
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+std/body.c line 119: Warning: Value of conditional expression is unused before )
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+std/body.c line 119: Warning: Value of conditional expression is unused before )
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+std/body.c line 119: Warning: Value of conditional expression is unused before )
+std/user.c line 1045: Warning: Value of conditional expression is unused before the end of line
+std/user.c line 1045: Warning: Value of conditional expression is unused before the end of line
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+std/body.c line 119: Warning: Value of conditional expression is unused before )
+std/user.c line 1045: Warning: Value of conditional expression is unused before the end of line
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+std/body.c line 119: Warning: Value of conditional expression is unused before )
+cmds/std/_go.c line 80: parse error before ;
+cmds/std/_go.c line 87: Illegal LHS before the end of line
+cmds/std/_to.c line 18: Undefined function format before ,
+cmds/std/_to.c line 21: Bad argument 2 to efun tell_object() before ;
+cmds/std/_to.c line 19: parse error before ;
+cmds/std/_to.c line 18: parse error before , TN, ms),
+u/z/zur/bin/_tr.c line 16: Too many arguments to move_object before ;
+u/z/zur/bin/_tr.c line 16: Too many arguments to move_object before ;
+u/z/zur/priv/AC1.0/base.c line 27: No such inherited function ::init before ;
+u/z/zur/priv/AC1.0/base.c line 35: parse error before the end of file
+u/z/zur/priv/AC1.0/base.c line 34: parse error before the end of file
+u/z/zur/priv/AC1.0/base.c line 41: Undefined variable 'strind' before , f;
+u/z/zur/priv/AC1.0/base.c line 41: parse error before , f;
+u/z/zur/priv/AC1.0/base.c line 42: Illegal LHS before the end of line
+u/z/zur/priv/AC1.0/base.c line 43: Undefined variable 'f' before  != 2))
+u/z/zur/priv/AC1.0/base.c line 43: parse error before the end of line
+u/z/zur/priv/AC1.0/base.c line 63: Undefined variable 'd' before  "/" + f;
+u/z/zur/priv/AC1.0/base.c line 64: Warning: Value of conditional expression is unused before  1;
+u/z/zur/priv/AC1.0/base.c line 43: parse error before the end of line
+u/z/zur/priv/AC1.0/base.c line 63: Illegal LHS before the end of line
+u/z/zur/priv/AC1.0/base.c line 64: Warning: Value of conditional expression is unused before  1;
+u/z/zur/priv/AC1.0/base.c line 71: Undefined variable 'light' before +"]:"); input_to("li
+u/z/zur/priv/AC1.0/base.c line 71: parse error before +"]:"); input_to("li
+u/z/zur/priv/AC1.0/base.c line 84: Illegal LHS before the end of line
+u/z/zur/priv/AC1.0/base.c line 84: parse error before the end of line
+u/z/zur/priv/AC1.0/base.c line 71: Undefined variable 'light' before +"]:"); input_to("li
+u/z/zur/priv/AC1.0/base.c line 71: parse error before +"]:"); input_to("li
+u/z/zur/priv/AC1.0/base.c line 84: Illegal LHS before the end of line
+u/z/zur/priv/AC1.0/base.c line 84: parse error before the end of line
+u/z/zur/priv/AC1.0/base.c line 91: Illegal LHS before the end of line
+u/z/zur/priv/AC1.0/base.c line 91: parse error before the end of line
+u/z/zur/priv/AC1.0/base.c line 71: Undefined variable 'light' before +"]:"); input_to("li
+u/z/zur/priv/AC1.0/base.c line 71: parse error before +"]:"); input_to("li
+u/z/zur/priv/AC1.0/base.c line 84: Illegal LHS before the end of line
+u/z/zur/priv/AC1.0/base.c line 84: parse error before the end of line
+u/z/zur/priv/AC1.0/base.c line 91: Illegal LHS before the end of line
+u/z/zur/priv/AC1.0/base.c line 91: parse error before the end of line
+u/z/zur/priv/AC1.0/base.c line 90: Undefined variable 'strind' before ;
+u/z/zur/priv/AC1.0/base.c line 90: parse error before ;
+u/z/zur/priv/AC1.0/base.c line 91: Illegal LHS before the end of line
+u/z/zur/priv/AC1.0/base.c line 109: Undefined function atoi before )
+u/z/zur/priv/AC1.0/base.c line 134: Reserved type name unexpected. before (){
+u/z/zur/priv/AC1.0/base.c line 134: parse error before (){
+u/z/zur/priv/AC1.0/base.c line 137: Illegal LHS before the end of line
+u/z/zur/priv/AC1.0/base.c line 116: Undefined function atoi before );
+u/z/zur/priv/AC1.0/base.c line 111: Undefined function atoi before )
+u/z/zur/priv/AC1.0/base.c line 117: Bad assignment ( unknown vs int ). before the end of line
+u/z/zur/priv/AC1.0/base.c line 111: Undefined function atoi before )
+u/z/zur/priv/AC1.0/base.c line 117: Unknown efun: atoi before (str);
+u/z/zur/priv/AC1.0/base.c line 144: Undefined variable 'TMP' before  "long_desc", this_o
+u/z/zur/priv/AC1.0/base.c line 150: Undefined variable 'TMP' before ;
+u/z/zur/priv/AC1.0/dude.c line 15: Undefined variable 'north' before  /u/z/zur/workroom.c
+u/z/zur/priv/AC1.0/dude.c line 15: parse error before u/z/zur/workroom.c,
+u/z/zur/priv/AC1.0/dude.c line 16: parse error before the end of file
+u/z/zur/priv/AC1.0/dude.c line 14: parse error before the end of line
+u/z/zur/priv/AC1.0/dude.c line 14: parse error before the end of line
+u/z/zur/priv/AC1.0/base.c line 223: parse error before )";
+u/z/zur/priv/AC1.0/base.c line 235: Reserved type name unexpected. before (string str)
+u/z/zur/priv/AC1.0/base.c line 235: parse error before (string str)
+u/z/zur/priv/AC1.0/base.c line 244: Illegal LHS before the end of line
+u/z/zur/priv/AC1.0/base.c line 247: parse error before :   printf("Input ne
+u/z/zur/priv/AC1.0/base.c line 255: Reserved type name unexpected. before (string str)
+u/z/zur/priv/AC1.0/dude.c line 14: parse error before the end of line
+u/z/zur/priv/AC1.0/dude.c line 19: parse error before the end of line
+u/z/zur/priv/AC1.0/base.c line 227: parse error before {
+u/z/zur/priv/AC1.0/base.c line 223: parse error before {
+u/z/zur/priv/AC1.0/base.c line 224: parse error before {
+u/z/zur/priv/AC1.0/dude.c line 16: parse error before ""item1"})" : "desc"
+u/z/zur/priv/AC1.0/dude.c line 19: parse error before the end of line
+u/z/zur/priv/AC1.0/base.c line 34: Undefined variable 'PROMPT' before ;
+u/z/zur/priv/AC1.0/base.c line 43: Undefined variable 'TP' before query("cwd");
+u/z/zur/priv/AC1.0/base.c line 47: Undefined variable 'PROMPT' before ;
+u/z/zur/priv/AC1.0/base.c line 73: Warning: con_int() inherited from both u/z/zur/priv/AC1.0/glob.c and u/z/zur/priv/AC1.0/make_room.c; using the definition in u/z/zur/priv/AC1.0/make_room.c. before the end of file
+u/z/zur/priv/AC1.0/base.c line 73: Warning: con_int() inherited from both u/z/zur/priv/AC1.0/glob.c and u/z/zur/priv/AC1.0/make_room.c; using the definition in u/z/zur/priv/AC1.0/make_room.c. before the end of file
+u/z/zur/priv/AC1.0/make_room.c line 4: Undefined variable 'file' before  "\t::create();\n}";
+u/z/zur/priv/AC1.0/make_room.c line 5: Undefined variable 'fname' before  file);
+u/z/zur/priv/AC1.0/make_room.c line 10: Undefined variable 'fname' before ;
+u/z/zur/priv/AC1.0/make_room.c line 33: Undefined variable 'file' before  sprintf("#include \
+u/z/zur/priv/AC1.0/make_room.c line 42: Undefined function con_int before ;
+u/z/zur/priv/AC1.0/make_room.c line 42: Bad assignment ( unknown vs int ). before the end of line
+u/z/zur/priv/AC1.0/make_room.c line 4: Undefined variable 'file' before  "\t::create();\n}";
+u/z/zur/priv/AC1.0/make_room.c line 5: Undefined variable 'fname' before  file);
+u/z/zur/priv/AC1.0/make_room.c line 10: Undefined variable 'fname' before ;
+u/z/zur/priv/AC1.0/make_room.c line 33: Undefined variable 'file' before  sprintf("#include \
+u/z/zur/priv/AC1.0/make_room.c line 42: Undefined function con_int before ;
+u/z/zur/priv/AC1.0/make_room.c line 42: Bad assignment ( unknown vs int ). before the end of line
+u/z/zur/priv/AC1.0/make_room.c line 3: parse error before  finish_up(){
+u/z/zur/priv/AC1.0/base.c line 73: Warning: con_int() inherited from both u/z/zur/priv/AC1.0/glob.c and u/z/zur/priv/AC1.0/make_room.c; using the definition in u/z/zur/priv/AC1.0/make_room.c. before the end of file
+u/z/zur/priv/AC1.0/base.c line 73: Warning: con_int() inherited from both u/z/zur/priv/AC1.0/glob.c and u/z/zur/priv/AC1.0/make_room.c; using the definition in u/z/zur/priv/AC1.0/make_room.c. before the end of file
+u/z/zur/priv/AC1.0/dude.c line 24: Illegal to redefine 'nomask' function "query" before the end of line
+u/z/zur/priv/AC1.0/dude.c line 24: Illegal to redefine 'nomask' function "set" before the end of line
+u/z/zur/priv/AC1.0/dude.c line 24: Illegal to redefine 'nomask' function "_query" before the end of line
+u/z/zur/priv/AC1.0/dude.c line 24: Illegal to redefine 'nomask' function "_delete" before the end of line
+u/z/zur/priv/AC1.0/dude.c line 24: Illegal to redefine 'nomask' function "_set" before the end of line
+u/z/zur/priv/AC1.0/dude.c line 24: Illegal to redefine 'nomask' function "query_temp" before the end of line
+u/z/zur/priv/AC1.0/ac.h line 17: parse error before  		"/std/living"
+u/z/zur/priv/AC1.0/ac.h.c line 18: parse error before "");
+u/z/zur/priv/AC1.0/base.c line 72: Warning: con_int() inherited from both std/object/ob.c and u/z/zur/priv/AC1.0/make_room.c; using the definition in u/z/zur/priv/AC1.0/make_room.c. before the end of file
+u/z/zur/priv/AC1.0/base.c line 72: Warning: con_int() inherited from both std/object/ob.c and u/z/zur/priv/AC1.0/make_room.c; using the definition in u/z/zur/priv/AC1.0/make_room.c. before the end of file
+u/z/zur/priv/AC1.0/base.c line 72: Warning: con_int() inherited from both std/object/ob.c and u/z/zur/priv/AC1.0/make_room.c; using the definition in u/z/zur/priv/AC1.0/make_room.c. before the end of file
+u/z/zur/priv/AC1.0/base.c line 12: Undefined function start_code before ;
+u/z/zur/priv/AC1.0/base.c line 41: Redeclaration of function start_code. before the end of line
+u/z/zur/priv/AC1.0/base.c line 78: Warning: con_int() inherited from both std/object/ob.c and u/z/zur/priv/AC1.0/make_room.c; using the definition in u/z/zur/priv/AC1.0/make_room.c. before the end of file
+u/z/zur/priv/AC1.0/base.c line 78: Warning: con_int() inherited from both std/object/ob.c and u/z/zur/priv/AC1.0/make_room.c; using the definition in u/z/zur/priv/AC1.0/make_room.c. before the end of file
+u/z/zur/priv/AC1.0/base.c line 79: Warning: con_int() inherited from both std/object/ob.c and u/z/zur/priv/AC1.0/make_room.c; using the definition in u/z/zur/priv/AC1.0/make_room.c. before the end of file
+u/z/zur/priv/AC1.0/make_room.c line 128: Undefined function con_int before );
+u/z/zur/priv/AC1.0/base.c line 79: Warning: make_int() inherited from both std/object/ob.c and u/z/zur/priv/AC1.0/make_room.c; using the definition in u/z/zur/priv/AC1.0/make_room.c. before the end of file
+u/z/zur/priv/AC1.0/base.c line 80: Warning: make_int() inherited from both std/object/ob.c and u/z/zur/priv/AC1.0/make_room.c; using the definition in u/z/zur/priv/AC1.0/make_room.c. before the end of file
+u/z/zur/workroom.c line 27: parse error before (this_player())
+u/z/zur/workroom.c line 27: parse error before (this_player())
+u/z/zur/workroom.c line 32: Bad argument 1 to efun tell_object() before ;
+u/z/zur/workroom.c line 32: Bad argument 1 to efun tell_object() before ;
+u/z/zur/priv/AC1.0/make_room.c line 208: parse error before Y/n|q)+"]:");
+u/z/zur/priv/AC1.0/make_room.c line 210: Illegal LHS before the end of line
+u/z/zur/priv/AC1.0/make_room.c line 229: Illegal LHS before the end of line
+u/z/zur/priv/AC1.0/make_room.c line 243: Illegal LHS before the end of line
+u/z/zur/priv/AC1.0/make_room.c line 243: parse error before the end of line
+u/z/zur/priv/AC1.0/make_room.c line 244: Illegal LHS before the end of line
+u/z/zur/priv/AC1.0/base.c line 80: Warning: make_int() inherited from both std/object/ob.c and u/z/zur/priv/AC1.0/make_room.c; using the definition in u/z/zur/priv/AC1.0/make_room.c. before the end of file
+u/z/zur/priv/AC1.0/base.c line 80: Warning: make_int() inherited from both std/object/ob.c and u/z/zur/priv/AC1.0/make_room.c; using the definition in u/z/zur/priv/AC1.0/make_room.c. before the end of file
+std/object/prop.c line 58: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before  {
+std/object/prop.c line 77: Warning: Return type doesn't match prototype ( nomask varargs int vs varargs void ) before the end of line
+u/z/zur/priv/AC1.0/base.c line 80: Warning: make_int() inherited from both std/object/ob.c and u/z/zur/priv/AC1.0/make_room.c; using the definition in u/z/zur/priv/AC1.0/make_room.c. before the end of file
+u/z/zur/priv/AC1.0/base.c line 80: Warning: make_int() inherited from both std/object/ob.c and u/z/zur/priv/AC1.0/make_room.c; using the definition in u/z/zur/priv/AC1.0/make_room.c. before the end of file
+u/z/zur/priv/AC1.0/base.c line 80: Warning: make_int() inherited from both std/object/ob.c and u/z/zur/priv/AC1.0/make_room.c; using the definition in u/z/zur/priv/AC1.0/make_room.c. before the end of file
+u/z/zur/priv/AC1.0/base.c line 91: Warning: make_int() inherited from both std/object/ob.c and u/z/zur/priv/AC1.0/make_room.c; using the definition in u/z/zur/priv/AC1.0/make_room.c. before the end of file
+u/z/zur/priv/AC1.0/base.c line 60: Undefined variable 'TP' before query("cwd");
+u/z/zur/priv/AC1.0/base.c line 60: Undefined variable 'TP' before query("cwd");
+u/z/zur/priv/AC1.0/base.c line 61: Undefined variable 'TP' before query("cwd");
+u/z/zur/priv/AC1.0/base.c line 92: Warning: make_int() inherited from both std/object/ob.c and u/z/zur/priv/AC1.0/make_room.c; using the definition in u/z/zur/priv/AC1.0/make_room.c. before the end of file
+u/z/zur/priv/AC1.0/base.c line 92: Warning: make_int() inherited from both std/object/ob.c and u/z/zur/priv/AC1.0/make_room.c; using the definition in u/z/zur/priv/AC1.0/make_room.c. before the end of file
+u/z/zur/priv/AC1.0/base.c line 92: Warning: make_int() inherited from both std/object/ob.c and u/z/zur/priv/AC1.0/make_room.c; using the definition in u/z/zur/priv/AC1.0/make_room.c. before the end of file
+u/z/zur/priv/AC1.0/dude.c line 21: Illegal to redefine 'nomask' function "query" before the end of line
+u/z/zur/priv/AC1.0/dude.c line 21: Illegal to redefine 'nomask' function "set" before the end of line
+u/z/zur/priv/AC1.0/dude.c line 21: Illegal to redefine 'nomask' function "_query" before the end of line
+u/z/zur/priv/AC1.0/dude.c line 21: Illegal to redefine 'nomask' function "_delete" before the end of line
+u/z/zur/priv/AC1.0/dude.c line 21: Illegal to redefine 'nomask' function "_set" before the end of line
+u/z/zur/priv/AC1.0/dude.c line 21: Illegal to redefine 'nomask' function "query_temp" before the end of line
+u/z/zur/priv/AC1.0/base.c line 92: Warning: make_int() inherited from both std/object/ob.c and u/z/zur/priv/AC1.0/make_room.c; using the definition in u/z/zur/priv/AC1.0/make_room.c. before the end of file
+u/z/zur/sling.c line 17: Undefined function set_value before ;
+u/z/zur/sling.c line 21: Undefined function set_type before ;
+u/z/zur/bin/_look.c line 29: Undefined variable 'tmp' before  ({ "north", "south"
+u/z/zur/bin/_look.c line 43: Bad argument 2 to efun implode() before  });
+u/z/zur/bin/_look.c line 562: Undefined function shorten_dirs before );
+u/z/zur/bin/_look.c line 44: Bad assignment ( string * vs string ). before the end of line
+u/z/zur/bin/_look.c line 45: parse error before [5]) });
+u/z/zur/bin/_look.c line 46: Illegal LHS before the end of line
+u/z/zur/bin/_look.c line 46: parse error before the end of line
+u/z/zur/bin/_look.c line 49: Illegal LHS before the end of line
+u/z/zur/bin/_look.c line 49: parse error before the end of line
+u/z/zur/bin/_look.c line 44: Bad assignment ( string * vs string ). before the end of line
+u/z/zur/bin/_look.c line 457: End of file in string before tr), environment (us
+u/z/zur/bin/_look.c line 457: parse error before tr), environment (us
+cmds/std/_look.c line 45: parse error before  });
+cmds/std/_look.c line 46: Illegal LHS before the end of line
+cmds/std/_look.c line 46: parse error before the end of line
+cmds/std/_look.c line 49: Illegal LHS before the end of line
+cmds/std/_look.c line 49: parse error before the end of line
+cmds/std/_look.c line 85: Illegal LHS before the end of line
+cmds/std/_look.c line 36: Bad assignment ( int vs string ). before the end of line
+cmds/std/_look.c line 47: parse error before  i++)
+cmds/std/_look.c line 51: Illegal LHS before the end of line
+cmds/std/_look.c line 52: parse error before the end of line
+cmds/std/_look.c line 55: Illegal LHS before the end of line
+cmds/std/_look.c line 55: parse error before the end of line
+cmds/std/_look.c line 91: Illegal LHS before the end of line
+u/z/zur/tub.c line 42: parse error before ")" +"orders a wine 
+u/z/zur/tub.c line 43: Illegal LHS before the end of line
+u/z/zur/tub.c line 43: parse error before the end of line
+u/z/zur/tub.c line 51: Illegal LHS before the end of line
+u/z/zur/tub.c line 51: parse error before the end of line
+u/z/zur/tmp.c line 2: Undefined function cardinal before ); return 1; }
+u/z/zur/tmp.c line 4: Value indexed has a bad type : "int " before );
+u/z/zur/tmp.c line 5: Undefined function to_string before ;
+u/z/zur/tmp.c line 5: Bad assignment ( unknown vs string ). before the end of line
+u/z/zur/tmp.c line 8: parse error before  1;
+u/z/zur/tmp.c line 5: Undefined function to_string before ;
+u/z/zur/tmp.c line 5: Bad assignment ( unknown vs string ). before the end of line
+u/z/zur/tmp.c line 8: parse error before the end of line
+u/z/zur/tmp.c line 5: Undefined function to_string before ;
+u/z/zur/tmp.c line 8: parse error before the end of line

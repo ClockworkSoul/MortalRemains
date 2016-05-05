@@ -1,0 +1,6 @@
+u/k/kekorka/workroom.c line 29: parse error before   );
+u/k/kekorka/workroom.c line 23: parse error before the end of line
+u/k/kekorka/rooms/BoI_enterance.c line 1: Missing leading " or < in #include before #include mudlib.h
+u/k/kekorka/rooms/BoI_enterance.c line 2: Missing leading " or < in #include before inherit ROOM;
+u/k/kekorka/rooms/BoI_enterance.c line 28: End of file in text block before ...
+u/k/kekorka/rooms/BoI_enterance.c line 28: parse error before ...

@@ -1,0 +1,33 @@
+d/Law/room/jail.c line 5: Cannot #include area.h before the end of line
+d/Law/room/jail.c line 54: Undefined variable 'NAME' before " tried to send a te
+d/Law/room/jail.c line 60: Undefined variable 'NAME' before " tried to leave the
+d/Law/room/jail.c line 66: Undefined variable 'NAME' before " tried to use wiz c
+d/Law/room/jail.c line 72: Undefined variable 'NAME' before " tried to shout.\n"
+d/Law/room/jail.c line 78: Undefined variable 'NAME' before " tried to quit.\n")
+d/Law/room/jail.c line 5: Cannot #include area.h before the end of line
+d/Law/room/jail.c line 54: Undefined variable 'NAME' before " tried to send a te
+d/Law/room/jail.c line 60: Undefined variable 'NAME' before " tried to leave the
+d/Law/room/jail.c line 66: Undefined variable 'NAME' before " tried to use wiz c
+d/Law/room/jail.c line 72: Undefined variable 'NAME' before " tried to shout.\n"
+d/Law/room/jail.c line 78: Undefined variable 'NAME' before " tried to quit.\n")
+d/Law/room/jail.c line 5: Cannot #include area.h before the end of line
+d/Law/room/jail.c line 54: Undefined variable 'NAME' before " tried to send a te
+d/Law/room/jail.c line 60: Undefined variable 'NAME' before " tried to leave the
+d/Law/room/jail.c line 66: Undefined variable 'NAME' before " tried to use wiz c
+d/Law/room/jail.c line 72: Undefined variable 'NAME' before " tried to shout.\n"
+d/Law/room/jail.c line 78: Undefined variable 'NAME' before " tried to quit.\n")
+d/Law/room/jail.c line 5: Cannot #include area.h before the end of line
+d/Law/room/jail.c line 54: Undefined variable 'NAME' before " tried to send a te
+d/Law/room/jail.c line 60: Undefined variable 'NAME' before " tried to leave the
+d/Law/room/jail.c line 66: Undefined variable 'NAME' before " tried to use wiz c
+d/Law/room/jail.c line 72: Undefined variable 'NAME' before " tried to shout.\n"
+d/Law/room/jail.c line 78: Undefined variable 'NAME' before " tried to quit.\n")
+d/Law/cmds/_arrest.c line 10: Warning: redefinition of #define TPN
+ before the end of line
+d/Law/cmds/_arrest.c line 10: Warning: redefinition of #define TPN
+ before the end of line
+d/Law/cmds/_arrest.c line 10: Warning: redefinition of #define TPN
+ before the end of line
+d/Law/cmds/_arrest.c line 34: parse error before d/Law/room/jail.c", 
+d/Law/cmds/_arrest.c line 37: End of file in string before ("You can speak "+la
+d/Law/obj/move.c line 21: parse error before "east"));

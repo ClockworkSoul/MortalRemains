@@ -1,0 +1,93 @@
+d/Prime/Mall/mons/mermaid.c line 22: parse error before ("id" , ({"serena" ,
+d/Prime/Mall/mons/mermaid.c line 85: Undefined variable 'cast' before  : command("cast nec
+d/Prime/Mall/mons/mermaid.c line 85: parse error before  : command("cast nec
+d/Ocean/Main/mon/siren.c line 67: parse error before the end of line
+u/h/herself/obj/mybed.c line 46: Reserved type name unexpected. before ;
+u/h/herself/obj/mybed.c line 46: parse error before ;
+u/h/herself/obj/mybed.c line 47: Illegal LHS before the end of line
+u/h/herself/obj/mybed.c line 53: Undefined variable 'pillow' before move(this_player());
+u/h/herself/obj/mybed.c line 46: Reserved type name unexpected. before ;
+u/h/herself/obj/mybed.c line 46: parse error before ;
+u/h/herself/obj/mybed.c line 47: Illegal LHS before the end of line
+u/h/herself/obj/mybed.c line 53: Undefined variable 'pillow' before move(this_player());
+u/h/herself/obj/mybed.c line 48: Reserved type name unexpected. before ;
+u/h/herself/obj/mybed.c line 48: parse error before ;
+u/h/herself/obj/mybed.c line 49: Illegal LHS before the end of line
+u/h/herself/obj/mybed.c line 55: Undefined variable 'pillow' before move(this_player());
+u/h/herself/obj/mybed.c line 48: Reserved type name unexpected. before ;
+u/h/herself/obj/mybed.c line 48: parse error before ;
+u/h/herself/obj/mybed.c line 49: Illegal LHS before the end of line
+u/h/herself/obj/mybed.c line 55: Undefined variable 'pillow' before move(this_player());
+u/h/herself/obj/teddy.c line 3: Cannot #include herself.h before the end of line
+u/h/herself/obj/teddy.c line 3: Cannot #include herself.h before the end of line
+u/h/herself/obj/teddy.c line 32: Undefined variable 'teddy' before  {
+u/h/herself/obj/teddy.c line 32: parse error before  = "teddy" , "bear")
+u/h/herself/obj/teddy.c line 32: Illegal LHS before  "bear") {
+u/h/herself/obj/teddy.c line 32: parse error before  = "teddy" && str!="
+u/h/herself/obj/teddy.c line 32: Illegal LHS before  {
+u/h/herself/obj/teddy.c line 28: parse error before (!str) {
+u/h/herself/obj/teddy.c line 34: parse error before  = "teddy" && str!="
+u/h/herself/obj/teddy.c line 34: Illegal LHS before  {
+open/spcave10.c line 7: Cannot #include spider.h before the end of line
+open/spcave10.c line 31: Undefined variable 'SPD_ROOM' before "spcave09.c",
+open/spcave10.c line 39: Undefined variable 'SPD_MON' before "/gtspidey.c");
+open/spcave10.c line 53: parse error before the end of line
+open/spcave10.c line 53: parse error before the end of line
+u/h/herself/obj/tank.c line 96: parse error before ;
+u/h/herself/obj/tank.c line 97: parse error before ;
+u/h/herself/obj/tank.c line 97: parse error before ;
+u/h/herself/obj/tank.c line 97: parse error before ;
+u/h/herself/obj/tank.c line 102: Undefined variable 'fuel' before  damage=="suffocatio
+u/h/herself/obj/tank.c line 102: parse error before  damage=="suffocatio
+u/h/herself/obj/tank.c line 102: parse error before  damage=="suffocatio
+u/h/herself/obj/tank.c line 102: parse error before  type=="suffocation"
+u/h/herself/obj/tank.c line 104: parse error before  damage;
+u/h/herself/obj/tank.c line 31: parse error before (!id(str)) return 0;
+d/Ocean/Main/room/deep/deepstd.c line 14: parse error before  "You hear the ocean
+u/e/enzyme/mon/corpse.c line 4: parse error before ;
+u/h/herself/enzyme/mons/corpse.c line 4: Cannot #include area.h before the end of line
+u/h/herself/enzyme/mons/corpse.c line 22: Undefined variable 'PATH' before "armour/rags.c");
+u/h/herself/enzyme/mons/corpse.c line 23: Undefined function set_random_pick before ;
+u/h/herself/enzyme/mons/corpse.c line 24: Undefined function set_race before ;
+u/h/herself/enzyme/mons/corpse.c line 28: Undefined function set_aggressive before ;
+u/h/herself/enzyme/mons/corpse.c line 23: Undefined function set_random_pick before ;
+u/h/herself/enzyme/mons/corpse.c line 24: Undefined function set_race before ;
+u/h/herself/enzyme/mons/corpse.c line 28: Undefined function set_aggressive before ;
+u/h/herself/enzyme/mons/corpse.c line 28: Undefined function set_damage before ;
+u/h/herself/enzyme/mons/corpse.c line 28: Undefined function se before ;
+u/h/herself/enzyme/mons/ghoul.c line 25: Undefined function set_aggressive before ;
+u/h/herself/enzyme/armor/rags.c line 3: Cannot #include area.h before inherit ARMOR;
+u/h/herself/enzyme/armor/rags.c line 7: No such inherited function ::create before ;
+u/h/herself/enzyme/armor/rags.c line 8: Undefined function set_name before ;
+u/h/herself/enzyme/armor/rags.c line 18: Undefined function set_weight before ;
+u/h/herself/enzyme/armor/rags.c line 19: Undefined function set_sell_destruct before ;
+u/h/herself/enzyme/armor/rags.c line 20: Undefined function set_value before ;
+u/h/herself/enzyme/armor/rags.c line 7: No such inherited function ::create before ;
+u/h/herself/enzyme/armor/rags.c line 8: Undefined function set_name before ;
+u/h/herself/enzyme/armor/rags.c line 7: Undefined function set_name before ;
+u/h/herself/enzyme/armor/chain.c line 16: Undefined function set_ac before ;
+u/h/herself/enzyme/armor/chain.c line 17: Undefined function set_value before ;
+u/h/herself/enzyme/armor/chain.c line 19: Undefined function set_weight before ;
+u/h/herself/enzyme/armor/chain.c line 20: Undefined function set_armour_material before ;
+u/h/herself/enzyme/armor/chain.c line 21: Undefined function set_current_strength before ;
+u/h/herself/enzyme/armor/chain.c line 22: Undefined function set_listen before ;
+u/h/herself/enzyme/armor/chain.c line 21: Undefined function set_current_strength before ;
+u/h/herself/enzyme/armor/chain.c line 22: Undefined function set_listen before ;
+u/h/herself/enzyme/armor/chain.c line 20: Undefined function set_size before ;
+u/h/herself/enzyme/mons/skeleton.c line 2: Cannot #include mudlib before inherit MONSTER;
+u/h/herself/enzyme/mons/skeleton.c line 10: parse error before ;
+u/h/herself/enzyme/mons/skeleton.c line 2: Cannot #include mudlib before inherit MONSTER;
+u/h/herself/enzyme/mons/skeleton.c line 9: parse error before ;
+u/h/herself/enzyme/mons/skeleton.c line 9: parse error before ;
+u/h/herself/enzyme/mons/skeleton.c line 19: Undefined variable 'ce' before ;
+u/h/herself/enzyme/mons/slime.c line 21: Undefined function set_aggressive before ;
+u/h/herself/enzyme/mons/slime.c line 22: Undefined function set_hp before ;
+u/h/herself/enzyme/mons/slime.c line 23: Undefined function set_max_hp before ;
+u/h/herself/enzyme/mons/slime.c line 24: Undefined function set_ac before ;
+u/h/herself/enzyme/mons/slime.c line 21: Undefined function set_aggressive before ;
+d/Ocean/Main/mon/diver.c line 36: Undefined variable 'O_OBJ' before "wetsuit.c");
+d/Ocean/Main/mon/diver.c line 37: Undefined function wear2 before ;
+d/Ocean/Main/mon/diver.c line 38: Undefined function wear2 before ;
+d/Ocean/Main/mon/diver.c line 36: Undefined variable 'wear' before O_OBJ+"wetsuit.c" , 
+d/Ocean/Main/mon/diver.c line 36: parse error before O_OBJ+"wetsuit.c" , 
+d/Ocean/Main/mon/whaler.c line 42: Undefined variable 'O_WEAP' before "spear.c");

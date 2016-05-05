@@ -1,0 +1,120 @@
+d/Prime/Krynn/Duegne/road36.c line 8: parse error before the end of line
+d/Prime/Krynn/Duegne/gates4.c line 6: No such inherited function ::create before ;
+d/Prime/Krynn/Duegne/gates4.c line 8: Undefined function set before ;
+d/Prime/Krynn/Duegne/road27.c line 26: parse error before the end of file
+d/Prime/Krynn/Duegne/alley1.c line 11: parse error before ",@Endtext
+d/Prime/Krynn/Duegne/alley1.c line 29: End of file in string before  on players in void 
+d/Prime/Krynn/Duegne/alley2.c line 22: Warning: Unknown \x char. before ",
+d/Prime/Krynn/Duegne/alley2.c line 26: parse error before the end of line
+d/Prime/Krynn/Duegne/alley2.c line 22: Warning: Unknown \x char. before ",
+d/Prime/Krynn/Duegne/alley2.c line 22: Warning: Unknown \x char. before ",
+d/Prime/Krynn/Duegne/hallway1.c line 10: Undefined variable 'A' before .");
+d/Prime/Krynn/Duegne/hallway1.c line 10: parse error before .");
+d/Prime/Krynn/Duegne/hallway1.c line 24: End of file in string before ocker)
+d/Prime/Krynn/Duegne/yard1.c line 8: parse error before the end of line
+d/Prime/Krynn/Duegne/build23.c line 42: parse error before ");
+d/Prime/Krynn/Duegne/build23.c line 45: End of file in string before otes
+d/Prime/Krynn/Duegne/build23.c line 25: parse error before ",
+d/Prime/Krynn/Duegne/build23.c line 34: Illegal character constant before  Blood Inn.\n",
+d/Prime/Krynn/Duegne/build23.c line 43: End of file in string before  this_player()->set(
+d/Prime/Krynn/Duegne/build23.c line 39: parse error before "cap_name")+ "just t
+d/Prime/Krynn/Duegne/build23.c line 39: parse error before "cap_name")+ "just t
+d/Prime/Krynn/Duegne/build23.c line 39: Undefined variable 'tell_room' before this_object(),this_p
+d/Prime/Krynn/Duegne/build23.c line 39: parse error before this_object(),this_p
+d/Prime/Krynn/Duegne/hall4.c line 16: parse error before the end of line
+d/Prime/Krynn/Duegne/libmain.c line 27: Undefined variable 'p' before  : "A large oaken de
+d/Prime/Krynn/Duegne/libmain.c line 27: parse error before  : "A large oaken de
+d/Prime/Krynn/mons/librarian.c line 15: parse error before the end of line
+d/Prime/Krynn/mons/librarian.c line 29: Illegal character constant before eep quiet or I will 
+d/Prime/Krynn/mons/librarian.c line 15: parse error before the end of line
+d/Prime/Krynn/mons/librarian.c line 29: Illegal character constant before eep quiet or I will 
+d/Prime/Krynn/Duegne/build2.c line 9: Cannot #include shop.c before the end of line
+d/Prime/Krynn/Duegne/build2.c line 9: Cannot #include shop.c before the end of line
+d/Prime/Krynn/Duegne/build2.c line 13: No such inherited function ::create before  ;
+d/Prime/Krynn/Duegne/build2.c line 14: Undefined function set before  ;
+d/Prime/Krynn/Duegne/build2.c line 9: Cannot #include shop.h before the end of line
+d/Prime/Krynn/Duegne/build2.c line 6: Cannot #include shop.c before #include <config.h>
+d/Prime/Krynn/Duegne/build2.c line 13: parse error before  create() {
+d/Prime/Krynn/Duegne/build2.c line 20: parse error before the end of line
+d/Prime/Krynn/weaps/gspear.c line 16: End of file in text block before g (TM) -- i.e. avoid
+d/Prime/Krynn/weaps/gspear.c line 15: parse error before the end of file
+d/Prime/Krynn/mons/gateguard.c line 17: parse error before the end of line
+d/Prime/Krynn/mons/gateguard.c line 24: parse error before the end of line
+d/Prime/Krynn/mons/gateguard.c line 26: parse error before ));
+d/Prime/Krynn/armor/cloak1.c line 1: Cannot #include mudlib.b before inherit ARMOR;
+d/Prime/Krynn/armor/cloak1.c line 14: End of file in text block before  Murphy (Guardian@TM
+d/Prime/Krynn/armor/cloak1.c line 14: parse error before  Murphy (Guardian@TM
+d/Prime/Krynn/armor/cloak1.c line 1: Cannot #include mudlib.b before #include <magic.h>
+d/Prime/Krynn/armor/cloak1.c line 15: End of file in text block before d_time_left();
+d/Prime/Krynn/armor/cloak1.c line 15: parse error before d_time_left();
+d/Prime/Krynn/armor/cloak1.c line 14: End of file in text block before ype(" cloak ");
+d/Prime/Krynn/armor/cloak1.c line 14: parse error before ype(" cloak ");
+d/Prime/Krynn/armor/cloak1.c line 14: End of file in text block before ype(" cloak ");
+d/Prime/Krynn/armor/cloak1.c line 14: parse error before ype(" cloak ");
+d/Prime/Krynn/armor/cloak1.c line 14: End of file in text block before the end of line
+d/Prime/Krynn/armor/cloak1.c line 14: parse error before the end of line
+d/Prime/Krynn/armor/cloak1.c line 15: End of file in text block before the end of line
+d/Prime/Krynn/armor/cloak1.c line 15: parse error before the end of line
+d/Prime/Krynn/armor/boots1.c line 1: parse error before the end of line
+d/Prime/Krynn/mons/gateguard.c line 5: parse error before  create(){
+d/Prime/Krynn/mons/gateguard.c line 5: parse error before  create(){
+d/Prime/Krynn/mons/gateguard.c line 5: parse error before  create(){
+d/Prime/Krynn/mons/gateguard.c line 5: parse error before  create()
+d/Prime/Krynn/mons/gateguard.c line 27: Undefined variable 'cloak' before clone_object("/d/Pri
+d/Prime/Krynn/mons/gateguard.c line 29: Undefined variable 'boots' before clone_object("/d/Pri
+d/Prime/Krynn/mons/gateguard.c line 31: Undefined variable 'plate' before clone_object("/d/Pri
+d/Prime/Krynn/Duegne/gates1.c line 10: parse error before ));
+d/Prime/Krynn/Duegne/gates1.c line 12: parse error before the end of line
+d/Prime/Krynn/mons/brawler.c line 31: parse error before the end of file
+d/Prime/Krynn/Duegne/build23.c line 40: parse error before the end of line
+d/Prime/Krynn/mons/bartender.c line 39: parse error before the end of line
+u/d/draconis/librarian.c line 18: Undefined function set_experience before ;
+u/d/draconis/librarian.c line 18: Undefined function set_exp before ;
+u/d/draconis/librarian.c line 19: Undefined function set_xpv before ;
+d/Prime/Krynn/Duegne/build9.c line 19: Undefined variable 'west' before /d/Prime/Krynn/Duegn
+d/Prime/Krynn/Duegne/build9.c line 19: parse error before /d/Prime/Krynn/Duegn
+d/Prime/Krynn/Duegne/build9.c line 26: End of file in string before set ("stat/charisma"
+d/Prime/Krynn/Duegne/lib1.c line 18: parse error before d/Prime/Krynn/Duegne
+d/Prime/Krynn/Duegne/lib1.c line 26: End of file in string before oor", "oour",
+d/Prime/Krynn/mons/bartender.c line 28: parse error before random(300));
+d/Prime/Krynn/Duegne/upstairs.c line 2: Cannot #include mudlin.b before the end of line
+d/Prime/Krynn/Duegne/build10.c line 1: Cannot #include congig.h before #include <mudlib.h>
+d/Prime/Krynn/Duegne/build10.c line 27: parse error before "  :  "You take a cl
+d/Prime/Krynn/Duegne/build10.c line 27: Illegal character constant before chool sucks some maj
+d/Prime/Krynn/Duegne/build10.c line 27: Illegal character constant before Nice kids they have 
+d/Prime/Krynn/Duegne/build10.c line 30: End of file in string before BJECT 	"/std/object/
+d/Prime/Krynn/Duegne/build11.c line 5: parse error before  create()
+d/Prime/Krynn/Duegne/build20.c line 26: End of file in string before  : 9
+d/Prime/Krynn/Duegne/build20.c line 26: parse error before  : 9
+d/Prime/Krynn/Duegne/build20.c line 26: End of file in string before }
+d/Prime/Krynn/Duegne/build20.c line 26: parse error before }
+d/Prime/Krynn/Duegne/build20.c line 26: End of file in string before }
+d/Prime/Krynn/Duegne/build20.c line 26: parse error before }
+d/Prime/Krynn/Duegne/build3.c line 20: Cannot #include pub.c before #include <config.h>
+d/Prime/Krynn/Duegne/build3.c line 22: Cannot #include pub.h before the end of line
+d/Prime/Krynn/Duegne/build3.c line 22: Cannot #include pub.c before the end of line
+d/Prime/Krynn/mons/citizen.c line 22: parse error before the end of line
+d/Prime/Krynn/mons/citizen.c line 27: parse error before the end of line
+d/Prime/Krynn/mons/barwench.c line 6: parse error before create();
+d/Prime/Krynn/mons/barwench.c line 22: Illegal LHS before the end of line
+d/Prime/Krynn/mons/citizen4.c line 24: parse error before ;
+d/Prime/Krynn/Duegne2/monsters/bane.c line 12: Undefined function set_exp before ;
+d/Prime/Krynn/Duegne2/monsters/red_dragon.c line 25: End of file in text block before ayer to unwield the 
+d/Prime/Krynn/Duegne2/monsters/red_dragon.c line 25: parse error before ayer to unwield the 
+d/Prime/Krynn/Duegne2/weapons/sword.c line 10: Undefined function set_value before ;
+d/Prime/Krynn/Duegne2/monsters/dier.c line 17: parse error before ));
+d/Prime/Krynn/Duegne2/monsters/dier.c line 18: Illegal LHS before the end of line
+d/Prime/Krynn/Duegne2/monsters/dier.c line 18: parse error before the end of line
+d/Prime/Krynn/Duegne2/monsters/dier.c line 20: Illegal LHS before the end of line
+d/Prime/Krynn/Duegne2/monsters/dier.c line 20: parse error before the end of line
+d/Prime/Krynn/Duegne2/Ruin/ruin30.c line 8: parse error before the end of line
+d/Prime/Krynn/armor/pendant.c line 13: parse error before the end of file
+d/Prime/Krynn/Forest/frst1.c line 2: Cannot #include midlib.h before the end of line
+d/Prime/Krynn/Forest/frst1.c line 4: Missing type before the end of line
+d/Prime/Krynn/Forest/frst1.c line 2: Cannot #include midlib.h before the end of line
+d/Prime/Krynn/Forest/frst5.c line 18: parse error before ", ([
+d/Prime/Krynn/Forest/frst5.c line 28: End of file in string before ->move(this_object()
+d/Prime/Krynn/Duegne2/Forest/frst5.c line 33: Warning: Unknown \x char. before ",
+d/Prime/Krynn/Duegne2/Forest/frst5.c line 39: parse error before ));
+d/Prime/Krynn/Duegne2/Forest/frst5.c line 33: Warning: Unknown \x char. before ",
+d/Prime/Krynn/Duegne2/Forest/frst5.c line 33: Warning: Unknown \x char. before ",

@@ -1,0 +1,668 @@
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-935355843
+Hoss at Sun Aug 22 21:04:03 1999 in /d/Prime/Crackhouse/room/basement
+if your looking for good offensive spells, hjeres one
+drainign touch.  when you cast it, you cant use 
+any other weapons, but every time you touch your opponent
+you drain power from them kinda like a vampire, it heals you
+up.  This would be a good one if you decide to bring back a
+guild like monks or something that likes fighting bare handed
+and using spells.
+
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-935356635
+Hoss at Sun Aug 22 21:17:15 1999 in /d/Prime/Sewers/room/sewer33
+how about we NOT make rooms that once you get into them
+its dark and none of the obvious exits get you back
+(like door, which used ot work in this room) espcially
+since theres not a fucking light available anywhere on
+the mud.
+
+
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-937025132
+Hoss at Sat Sep 11 04:45:32 1999 in /d/Planar/Baator/dis/dplain1
+can you make a standard for these portals so that half
+the rooms dont require 'enter portal' and half of them
+require just 'portal'.  I like to alias the portal thing because
+typing portal is too hard for me.  Either pick 1 syntax and go with it
+or make sure both syntax's are equivalent.
+-thanks
+-hoss
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-937100543
+Hoss at Sun Sep 12 01:42:23 1999 in /d/Prime/Macrosoft/3/hall8
+this is more of a question.  and im not sure if its still true,
+but im willing to bet it is, and ive always meant to ask about
+it.  Why do you need a target to cast an area attack?  it doesn't
+matter who u cast it at yer gunna hit everyone in the room,
+so why require a target?  There were times when i knew a thief
+was hidden in a room but i couldnt hit him with a fireball
+unless someone else walked in and i casted the fireball at
+them.  
+
+-just something i always wondered
+-hoss
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-937179438
+Hoss at Sun Sep 12 23:37:18 1999 in /d/Prime/Central/room/armaments
+why are there only 1k 9mm rounds per day?
+I use more than that all by myself
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-937188745
+Hoss at Mon Sep 13 02:12:25 1999 in /d/Planar/Baator/dis/dcity4
+we need something contructive to do with these
+corpses.  like we get coins for sacrificing them
+or a hp/sp recharge when we eat em or bury em 
+or whatever.
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-937532306
+Hoss at Fri Sep 17 01:38:26 1999 in /d/Prime/Macrosoft/3/office4e
+ce
+
+trollish really should speed up yer healing rate 
+rather than just helaing you more hps per
+tick.
+
+In ADnD didnt trolls like regen every round or something?
+it wasnt a huge heal but it ahppeend fast
+
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-937535653
+Hoss at Fri Sep 17 02:34:13 1999 in /d/Prime/Central/room/road0_-4
+you should have some kevlar as armour on here.
+ca
+kevlar vests would be the obvious thing, and they
+rock, but since a mage cant use them dont stop there
+there are also kevlar entry vests which are designed
+to be worn over yer normal vest and all yer clothes and 
+thats what cops wear when they're going on raids.  Awesome
+protection.  Those would fall more into a cloak category
+though.  BTW, if youve never worn a bullet proof vest b4, 
+lemme tell you, u feel like fuckin superman in it.  And
+its even better with an entry vest over the top.  I let
+ce
+
+people whale away on me with one on and i never felt a thing,
+and u dont lose any mobility with them either, other than
+the fact that they are so dam heavy.  obviously the
+disadvantage si they only cover yer chest, thats why you
+could make some kevlar gloves, boots (i know those dont really
+cb
+exist but this is make beleive anyway) and also we need some
+bullet-proof helmets, they actually make these, riot helmets,
+there not REALLY bullet proof, but they are bullet resistant,
+as long as the bullet doesnt hit straight on, the helmets will
+deflect them.  
+
+Anyway, just an idea, in case u ever read these logs.
+
+Oh yeah, i was also thinking that if u had a kevlar
+vest on, it would give u protection from prokectiles,
+like u only take 1/2 damage, and the damage would be bludgening
+instead of whatever kind of damage bullets do.  2 limitations
+of kevlar vests along this vein, .22 rimfires are notorious
+for being able to penetrate vests (even vests rated to
+stop .44 mags at point blank range).  This has to do
+with thier small diameter and low velocity, they just
+bore right through the fibers.  Also, kevlar vests
+do not even slow down edged weapons like knives.  Well
+i guess they do slow down slashes, but not stabs.  Again
+cs
+the whole small diameter/low velocity thing i think.  
+Not real sure on the physics there.  
+
+1more thing, bullet proof vests also all have a shock
+plate that is removeable.  Maybe you could code a
+lil quest where we could find a shock plate for our
+vest.  Normally these shock plates will lessen
+the bludgenoning damage the wearer feels (usually
+when ya get shot in the vest, the bullet wont touch you
+but the force of the bullet can knock the wind out of ya
+and break ribs etc...)  The shock plates are also able
+to withstand rifleshots, most primary vests cannot do
+this without a shock plate in.  However, most entry
+vests are designed to protect from rifles.  Usually
+when a vest is rated to protect from a rifle, like say
+a .308 (a common sniper round) they mean from 100 or 200
+yds away, now at point blank range.
+
+ok that concludes tonights lesson on bullet proof vests.
+i sure hope u read these things
+-hoss
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-938011092
+Kreethar at Wed Sep 22 14:38:12 1999 in /d/Prime/Petzoo/rooms/zoo4
+A few ideas that I have seen in other muds that you may want to incorperate--
+A scan command allows you to see enemys within 2 or three spaces in a stright line
+ie type scan and it say 2n you see a kitten, 1w you see a child etc, 
+constant updates of hps every round of combat, also a enemy condion update
+every round of combat, also Is there a way to see how much exp you need to
+next level?
+tahnks for your time,
+K
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-938144118
+Marcus at Fri Sep 24 03:35:18 1999 in /d/Prime/Park/room/pool
+add drink water?
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-939176278
+Hoss at Wed Oct  6 02:17:58 1999 in /d/Prime/Central/room/road0_0
+when we ask alucard about drugs i think his response shoudl be
+
+Drugs are bad ... Mkay?  Don't smoke Maryjewana ... Mkay?
+
+like Mr mackey from south park r whatever his name is
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-940208066
+Hoss at Mon Oct 18 00:54:26 1999 in /d/Prime/Central/room/startroom
+couple of ideas on prismshpere
+1.  make the statues light enough to carry around, so i can have a statue garden
+2.  Put my name on the statue, so its like Statue of Bmon, defeated by the
+mighty $whoever$ (Hoss if im the one that did it)
+3.  When i send him to another dimension, how about making sure its somewhere
+in the playing area, not in the whizzards secret room where i cant get him, bhut he autos any
+whiz that logs in ... atually that was kinda funny, but u get my drift.
+
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-944363687
+Hoss at Sun Dec  5 03:14:47 1999 in /d/Prime/Central/room/policesta1
+u should allow us to animate copbots too
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-945750340
+Hoss at Tue Dec 21 04:25:40 1999 in /d/Prime/Central/room/road0_0
+we shouyld be able to animate players corpses
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-947640550
+Hoss at Wed Jan 12 01:29:10 2000 in /d/Prime/Central/room/road0_0
+ok i know this is a silly idea ... but when u get a chance, or
+even as u notice them ... anyplace in help files where u give
+an example or how to kill something or cast a bad spell on somethng,
+replace the monsters name with abyss.  Like in help do, the example
+would be 
+do get sword,wield sword,kill abyss
+
+etc... u get the idea
+-me
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-947643825
+Hoss at Wed Jan 12 02:23:45 2000 in /d/Prime/Central/room/hospital/ER
+fix the nurse so she can cure my wounds
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-947643929
+Hoss at Wed Jan 12 02:25:29 2000 in /d/Prime/Central/room/armaments
+make a way for me to sell some of my excess ammo
+ive got 151k 12 mm rounds.  I dont use a 12 mm
+Ive got close to 50k of every type of ammo except for the kind i use
+
+-thanks
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-948601309
+Crusher at Sun Jan 23 04:21:49 2000 in /d/Prime/Central/room/startroom
+How about instead of having to sell your equipment before logging out that
+the equipment is saved to the player object and re-loaded upon login?
+
+Just a thought
+
+Crusher
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-949374677
+Bomber at Tue Feb  1 03:11:17 2000 in /d/Prime/Central/room/bitterend
+How about a help stat command or file that describes what each
+stat will do in relation to this mud?  it seems to me that this would
+be an importaint document for beginning players.
+
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-950233301
+Raven at Fri Feb 11 01:41:41 2000 in /d/Prime/Central/room/bitterend
+that the plaque in the pub be modified so that read plaque also
+works, not just exa plaque.  I know that I tend to read what is 
+written on plaques
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-950236614
+Raven at Fri Feb 11 02:36:54 2000 in /u/r/raven/workroom
+a gossip line for all people on, not just wizzes.
+
+Raven
+(in addition to the shoutblock)
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-950244878
+Abyss at Fri Feb 11 04:54:38 2000 in /d/Prime/Macrosoft/2/elevators
+Ya need some stairs.... in this building...
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-950248830
+Abyss at Fri Feb 11 06:00:30 2000 in /d/Prime/Macrosoft/3/office8e2
+make a nick dy for dy-mar or mar...
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-950403465
+Swifteye at Sun Feb 13 00:57:45 2000 in /d/Prime/Petzoo/rooms/zoo2
+I think there should be an auto-looting thing that you can turn off and on so you dont have to type get all from corpse or set an alias for it.  thanks, Swifteye.
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-950823346
+Raven at Thu Feb 17 21:35:46 2000 in /d/Prime/Sewers/room/sewer55
+wizzes should not need to have a light source.
+
+raven.
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-950837790
+Bomber at Fri Feb 18 01:36:30 2000 in /d/Prime/Macrosoft/1/elevators
+Just a thought. I haave noticed that there are a lot of details missing in
+several areas ont he mud. Are you folks in need of descriptions for these roos? i could write someof them for you and email em over so you could copy/pate
+them into the room code if you like.
+
+Just ask.
+
+Bomber
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-950934842
+Bomber at Sat Feb 19 04:34:02 2000 in /d/Prime/Central/room/bitterend
+
+How about having the plaque in the pub reset a tad bit more quickly... I was
+on over 8 hours today and it still only has me at level 12 and im almost to 15
+
+is this acceptable?
+
+Bomber
+
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-951080178
+Hoss at Sun Feb 20 20:56:18 2000 in /d/class/wizard/general/rooms/mage_guild
+what is up with the gang titles only being allowed i capital letter?  In my gang, both words should be capitalized, and thats how I typed it!
+what is up with the gang titles only being allowed i capital letter?  In my gang, both words should be capitalized, and thats how I typed it!
+both words should be capitalized, and thats how I typed it!
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-951087329
+Hoss at Sun Feb 20 22:55:29 2000 in /d/Prime/Central/room/road0_0
+alucard knows about sex, but not women.
+I explained to nsd that the reason for this (cause she pointed it out to me)
+ce
+was that alucard was modeled after Nightmask.  Which meant, his 
+'fair share' of sex came mostly from camels ... and some of it came from
+getting pounded by other men.
+
+anyway, i think u should change his asks to reflectr this.  if he has
+ch
+to knwo about women then mebbe he should just say 'fuck em and chuck em, thats what
+I say'
+
+heh
+
+oh and when u ask hiom about camels, sheep, chickens, or bestiality, perhaps he should
+cast mordsword
+wield sword
+get a sheepish grin and say somehting like "What makes ya think i know about
+that?  But ya know theres a zoo around the corner!"
+
+-hoss
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-951087679
+Hoss at Sun Feb 20 23:01:19 2000 in /d/Prime/Central/room/road0_0
+alucard shouls tell a joke, say when u ask him about jokes.
+
+heres 1 for him.
+
+One day Nightmask and Deviant were walking through a field when they
+came across a little sheep with its head caught in a barbed wire fence.
+
+The sheep was just struggling trying to get out .. going 'maaAAAA, MAAAAAAAA'
+
+Nightmask said, 'Hey deviant, we should help that little guy.'  But diviant
+said wait, not just yet, lets have some fun.'  So deviant pulls down his pants
+and starts screwing the snot out of the lamb.  The whole time the lambs just sitting
+there going 'maaAAaaaa, MAAAAAA' (thats sposed to be a sheep sound in case u dont
+recognize it, hes not calling for his momma).  Anyway, when deviant gets through,
+he looks over at Nightmask and says, 'So, u want a piece of this before we
+free him?'  
+
+Nightmask goes, 'Sure!' and he gets down on all 4's, sticks his head in the
+fence and starts going 'maaAAAA, MAAAAA'
+
+To this day, Nightmask still has scars on the side of his neck where the barbed
+wire rubbed against his skin.
+
+-hoss
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-951342007
+Abyss at Wed Feb 23 21:40:07 2000 in /d/Prime/Macrosoft/3/office8e
+For Cyanide's Macrosoft Building.... You should have stairs with guards...or security doors that prevent people from going up if they dont have a certain card....like the elevator...
+It might help people out  but i dont know...May be ya dont want to... 
+o well...cya
+The "Abyss"
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-951426920
+Psyche at Thu Feb 24 21:15:20 2000 in /d/Prime/Park/room/magnolia
+ HAHAHAHAHH once again you've created a monster!
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-951427050
+Psyche at Thu Feb 24 21:17:30 2000 in /d/Prime/Park/room/magnolia
+Rogue ability:  Circle.  Takes 2 combat rounds, allows you to circle around your opponent and stab him/her in the back.  Deals extra damage, dependant on stealth/murder abilities (or however you folks base your abilities)
+rogue command: strike.  Takes one extra round, allows you to stealthily step inside your opponents defense and slash at him several times with your knife.
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-952143092
+Taelkir at Sat Mar  4 04:11:32 2000 in /d/Prime/Central/room/startroom
+I think ansi color would be a great addition to the mud because
+in blakc and white it is hard to distinguish different 
+classes of messages
+
+Thanks
+Taelkir
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-952151982
+Hoss at Sat Mar  4 06:39:42 2000 in /d/Prime/Macrosoft/5/c1
+you need to make the pets answer to a common name, kinda like zombies do.
+
+that way i can set up my alises and wont have to change them
+500 times a day
+
+-hoss
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-952396318
+Bomber at Tue Mar  7 02:31:58 2000 in /d/Prime/Central/room/bitterend
+When you finger a player I would like to see that players level and as a bonus
+How about listing that players "best Kill" ?  That would be something to brag
+about. and This way a player would be able to prove it..... *wink*
+
+B
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-952887056
+Abyss at Sun Mar 12 18:50:56 2000 in /d/Prime/Central/room/bitterend
+After like level 30 or so you should be able to join another class.... like dual classes..
+i think it would be pretty cool...
+Just a thought
+The "Abyss"
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-953065440
+Bomber at Tue Mar 14 20:24:00 2000 in /d/Prime/Macrosoft/5/c2
+when you get prism fixed (*wink*) how about when someone is feeble-
+minded they unwield their weapons becasue they are too stupid
+to wear them again.
+
+bomber
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-953351422
+Bomber at Sat Mar 18 03:50:22 2000 in /d/Prime/Macrosoft/4/e4
+how about a command to swap your wielded weapons... Im always typing wield this and that then finding out ive done it in the wrong order.
+this command would allow us to switch the weapons from one hand to the other hand
+
+thanks,
+
+bomber
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-953706520
+Psyche at Wed Mar 22 06:28:40 2000 in /d/Prime/Park/room/path2
+i want a familiar!  A pet of some sort that can snoop on rooms, help kill mobs, and be ordered to generally emote and such.
+Ok, maybe thats just me, and maybe i'd just really like an online version of my snake :)
+
+Psyche
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-953765875
+Linoge at Wed Mar 22 22:57:55 2000 in /d/Prime/Central/room/bitterend
+Just an idea for color i just had but never seen implemented, mebbe if you could color like someone a color so whatever they emote gossip say shout tell or whatever will be in that color so like if you want certain ppl to stand out you can color then bright colors and if you dont like certain people color them your background color or somethin :)
+just an idea
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-953954157
+Beetlejuice at Sat Mar 25 03:15:57 2000 in /d/Prime/Crackhouse/room/lroom
+if corsch is supposed to be a pimp where is
+his wad of cash...?  He shoule have at least some credits i think.....
+
+
+Beetlejuice
+
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-953958152
+Beetlejuice at Sat Mar 25 04:22:32 2000 in /d/class/warrior/Sharpshooter/room/SS_guild
+how about an option so that players can leave one class and join another
+maybe with a loss in exp or something or by paying money. There is this
+new sharpshooter guild that I think I might like to join. But I am a pit
+fighter so I cant. 
+
+Any thoughts?
+
+Beetlejuice
+
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-954111314
+Hoss at Sun Mar 26 22:55:14 2000 in /d/Prime/Central/room/road0_0
+gwho needs to give us more info on our gang members, like mebbe thier
+level and hp/sp left, and umm cant think of much else right now, but
+u get the picture
+
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-955070416
+Bomber at Fri Apr  7 01:20:16 2000 in /d/Prime/Central/room/bitterend
+When you finger someone, Among the other things that have been added
+How about showing the player's level? All we see just now is the title. 
+That is great if you are the same class but otherwise you have no idea what
+level the player is at.
+
+thanks,
+
+Bomber
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-955428816
+Beetlejuice at Tue Apr 11 04:53:36 2000 in /d/Prime/Macrosoft/4/b1
+I would like to se a way either by spending money or exp
+that we as players can somehow
+exchange misassigned proficiency slots
+to other desired skills.
+thanks
+
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-955490756
+Beetlejuice at Tue Apr 11 22:05:56 2000 in /d/Prime/Central/room/bitterend
+How about a way to 'lock' oand 'unlock' worn or wielded equipment
+this would save a player from accidentally selling wanted or needed 
+equipment. I had this happen to me 2 times since playing here and it
+is annoying.
+
+Beetlejuice
+
+
+*** Chronos responded Apr 20th, 2000.  See "keep" command.
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-955681195
+Hoss at Fri Apr 14 02:59:55 2000 in /d/Prime/Central/room/bitterend
+u need to dd support for doing an emote to 'all'
+cause sometimes everybody in a room needs a kick, this
+way i can just type
+kick all
+and it will kick each an every one of em.
+
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-956295922
+Crine at Fri Apr 21 05:45:22 2000 in /d/Prime/Central/room/startroom
+color
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-956295964
+Crine at Fri Apr 21 05:46:04 2000 in /d/Prime/Central/room/startroom
+prompts
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-959378753
+Soulcrusher at Fri May 26 22:05:53 2000 in /d/Prime/Central/room/bitterend
+To Nightmask:  RE: Sharpshooters...
+
+	My idea is that we get some kind of 'Spell' and i use the term loosely
+that allows us to have greater accuracy when using a weapon befitting
+our guild. ie: when I wield a 'gun' I can cast an accuracy spell that gives me
+bonuses to hit and to dammage for the durration of the 'spell'. 
+
+Just my 2 cents,
+
+Soulcrusher
+
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-959710348
+Bomber at Tue May 30 18:12:28 2000 in /d/Arctic/Shya/rooms/castle/wall5
+I think these frost guards should have some kind of equpment
+that they use... Some of em have a combat description
+that talks about an Ice axe or an ice sword ....
+
+Just a thought
+
+Bomber
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-959804497
+Soulcrusher at Wed May 31 20:21:37 2000 in /d/Prime/Macrosoft/elev/lift
+for the elevator in the Mac HQ how about just push # instead of push button # ?
+ 
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-959816003
+Soulcrusher at Wed May 31 23:33:23 2000 in /d/class/warrior/Sharpshooter/room/SS_guild
+when we use the breech skill how about a message that displays 'We feel
+tired/drained etc..." or 'your weapon glows brightly for a moment' or something
+just so we know that the command worked?
+
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-959911528
+Sinic at Fri Jun  2 02:05:28 2000 in /d/Prime/Petzoo/rooms/zoo7
+make the exits a different color from the rest of the mud text... actually, add more colors in general to make it easier on the eyes
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-960397166
+Soulcrusher at Wed Jun  7 16:59:26 2000 in /d/Prime/Macrosoft/elev/lift
+start logging tells so we can type tell/last and see what people just said to us...
+
+thanks,
+
+Soulcrusher
+
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-960414802
+Soulcrusher at Wed Jun  7 21:53:22 2000 in /d/Prime/Macrosoft/elev/lift
+scrap the elevator in the Macrosoft HQ... id rather take the stairs  :)
+
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-960415802
+Soulcrusher at Wed Jun  7 22:10:02 2000 in /d/Planar/Baator/avernus/plain17
+when we have the 'keep' command active on an item cant we have
+a symbol or something so when we look at our inventory we can tell
+at a glance which items are 'kept' and which are not.?
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-961003692
+Merlin at Wed Jun 14 17:28:12 2000 in /d/Prime/Central/room/bitterend
+how about an 'oh' emote... like the 'ah' emote but different
+you get a blank look on your face and say 'Oh' 
+
+something like that
+
+merlin
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-961034510
+Soulcrusher at Thu Jun 15 02:01:50 2000 in /d/Planar/Baator/minauros/city27
+once players reach level 25 or something they have been playing the mud for
+quite some time. That much time spent in one place tends to give
+one a rather unique attachment to that place.  think that players over a certain
+level , no matter what class they are, should be able to
+'mark' one spot on the mud as their 'home base' so that they can 'teleport' to
+that one place by expending some energy of some kind.
+Obviously this will have little effect on mages who already have teleport
+but for those of us who DONT this would be invaluable.
+
+Soulcrusher
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-961531224
+Bomber at Tue Jun 20 20:00:24 2000 in /d/class/rogue/thief/room/t_profroom
+how about the 'backstab' skill for thieves?  I mean they kinda suck.
+
+This will have a % to fail and will decrease with a level/skill levl and allow
+the thief to penetrate armor of all kinds.... 
+
+just a thought
+
+bomber
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-961627363
+Enzyme at Wed Jun 21 22:42:43 2000 in /d/class/wizard/general/rooms/m_profhall
+how about a spell called 'Peace' that stops all fighting in the room kind of 
+like what the wizards can do?
+
+I think players would get a kick out of this.
+
+Enzyme, Bomber, etc...
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-961985002
+Hoss at Mon Jun 26 02:03:22 2000 in /d/Prime/Central/room/bitterend
+u need to lower the automatic log out time for idling to someting more
+reasonable, like 30 seconds.
+
+-hoss (hates idlers)
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-962239311
+Pepper at Thu Jun 29 00:41:51 2000 in /d/Prime/Central/room/pawnshop
+the theives should have a mug command
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-962287092
+Angel at Thu Jun 29 13:58:12 2000 in /d/Prime/Central/room/road0_0
+Newbie items should be generic and every class should be able to wear them. 
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-962293337
+Angel at Thu Jun 29 15:42:17 2000 in /d/Prime/Central/room/bitterend
+The bloody arena should be opened... have it as a place where you can go kill players that aren't on... you get xp and when they log in the next time they get a list of all the people who killed them... but no purges from that. 
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-962293427
+Angel at Thu Jun 29 15:43:47 2000 in /d/Prime/Central/room/bitterend
+oh and also you can only fight players within a certain amount of levels from you... like 2 or so
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-962563398
+Bomber at Sun Jul  2 18:43:18 2000 in /d/Prime/Central/room/bitterend
+the bag that you get from a towns person, i think, should
+lighten a players carry a bit. I mean having a bag does make it easier
+to carry a lot of things....
+
+THanks
+
+Bomber
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-962752111
+Hoss at Tue Jul  4 23:08:31 2000 in /d/Prime/Central/room/bitterend
+the plaque in here really shoudl jut be 1 page.
+
+I think its short enough that you should jut be able to remove the
+page break, but if not, make it only show the top 10 or 15
+instead
+
+-hoss
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-963003651
+Enzyme at Fri Jul  7 21:00:51 2000 in /d/Arctic/Shya/rooms/pond
+how about an emote curse where we start swearing like a seasoned sailor
+nod
+i
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-963454616
+Merlin at Thu Jul 13 02:16:56 2000 in /d/Prime/Central/room/pawnshop
+how about a 'dismiss all' or 'dismiss pets' to dismiss all currently summoned
+creatures under the mages' controll?
+
+Thanks,
+
+merlin
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-963586036
+Herself at Fri Jul 14 14:47:16 2000 in /u/h/herself/workroom
+I think that the mages should have mchat just like the Sharpshooters. 
+It's only fair =P
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-964386098
+Hoss at Sun Jul 23 21:01:38 2000 in /d/Prime/Central/room/bitterend
+how about aking out teh page break in the plaque!  20 names is plenty short enough to
+fit on my screen, if you think its too long, then onmly show the top 15, 
+but its annoying having that freakin page break in there
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-964386208
+Hoss at Sun Jul 23 21:03:28 2000 in /d/Prime/Central/room/bitterend
+cy sucks
+make alucard tell my joke about nightmask
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-964826955
+Beetlejuice at Fri Jul 28 23:29:15 2000 in /d/Prime/Crackhouse/room/lroom
+how about making the pimp's robe and the collar from killer worth something
+at the shop, or at least make em fit into the waste basket
+
+as of now they are just cluttering up the place!
+
+B
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-965181953
+Shallar at Wed Aug  2 02:05:53 2000 in /d/Prime/Magehouse/basement/wasylum10
+you might want to see if some of the exits can be set up so you
+can use the abbreviations: ie. se-up for southeast-up
+
+

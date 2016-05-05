@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------
+Mortal Remains (MudOS v21.7a10) starting up on Linux - Fri Aug 11 09:05:01 2000
+
+
+Connected to address server on 127.0.0.1 port 2993
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 1313.
+get_user_data: read on fd 12
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 12
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 11
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 13
+System Error: get_user_data: read:Connection reset by peer
+Heart beat in d/Ocean/Main/mon/whaler#572 turned off.
+get_user_data: read on fd 11
+System Error: get_user_data: read:Connection reset by peer

@@ -1,0 +1,142 @@
+d/Prime/Dagaard/dilligaf/weapons/axe.c line 26: End of file in text block before ile to use inherit_l
+d/Prime/Dagaard/dilligaf/weapons/axe.c line 26: parse error before ile to use inherit_l
+d/Prime/Dagaard/dilligaf/weapons/axe.c line 26: End of file in text block before ile to use inherit_l
+d/Prime/Dagaard/dilligaf/weapons/axe.c line 26: parse error before ile to use inherit_l
+d/Prime/Dagaard/dilligaf/weapons/axe.c line 26: End of file in text block before ile to use inherit_l
+d/Prime/Dagaard/dilligaf/weapons/axe.c line 26: parse error before ile to use inherit_l
+d/Prime/Dagaard/dilligaf/keep/keep4.c line 65: parse error before  else {
+d/Prime/Dagaard/dilligaf/keep/keep4.c line 69: parse error before  1;
+d/Prime/Dagaard/dilligaf/keep/keep4.c line 69: parse error before  1;
+d/Prime/Dagaard/dilligaf/keep/keep4.c line 59: Reserved type name unexpected. before  "key"){
+d/Prime/Dagaard/dilligaf/keep/keep4.c line 59: parse error before  "key"){
+d/Prime/Dagaard/dilligaf/keep/keep4.c line 59: Illegal LHS before {
+d/Prime/Dagaard/dilligaf/keep/keep4.c line 72: parse error before the end of line
+d/Prime/Dagaard/dilligaf/monster/blackdragon.c line 45: parse error before  this_object()->quer
+d/Prime/Dagaard/dilligaf/monster/blackdragon.c line 45: Illegal LHS before the end of line
+d/Prime/Dagaard/dilligaf/monster/blackdragon.c line 51: parse error before the end of line
+d/Prime/Dagaard/dilligaf/monster/blackdragon.c line 45: parse error before  this_object()->quer
+d/Prime/Dagaard/dilligaf/monster/blackdragon.c line 45: Illegal LHS before the end of line
+d/Prime/Dagaard/dilligaf/monster/blackdragon.c line 51: parse error before the end of line
+d/Prime/Dagaard/dilligaf/monster/lordsoth.c line 36: Undefined variable 'this_object' before ;
+d/Prime/Dagaard/dilligaf/monster/lordsoth.c line 36: Undefined variable 'this_object' before ;
+d/Prime/Dagaard/dilligaf/monster/lordsoth.c line 48: Undefined variable 'chat_chance' before chat_output", ({
+d/Prime/Dagaard/dilligaf/monster/lordsoth.c line 48: parse error before chat_output", ({
+d/Prime/Dagaard/dilligaf/monster/lordsoth.c line 49: Illegal character constant before is a shame.\n",
+d/Prime/Dagaard/dilligaf/monster/lordsoth.c line 51: Illegal character constant before  head start to glow,
+d/Prime/Dagaard/dilligaf/monster/lordsoth.c line 54: Illegal character constant before l show you!\n",
+d/Prime/Dagaard/dilligaf/monster/lordsoth.c line 66: End of file in string before f it. Rooms are the 
+d/Prime/Dagaard/dilligaf/weapons/katana.c line 20: parse error before (5,7,10);
+d/Prime/Dagaard/dilligaf/weapons/dagger.c line 19: parse error before ("nosecond" , 0);
+d/Prime/Dagaard/dilligaf/monster/thief.c line 31: parse error before  1,4 }) );
+d/Prime/Dagaard/dilligaf/monster/thief.c line 31: parse error before  1,4 }) );
+d/Prime/Dagaard/dilligaf/monster/mugger.c line 43: End of file in string before s, entry;
+d/Prime/Dagaard/dilligaf/monster/mugger.c line 43: parse error before s, entry;
+d/Prime/Dagaard/dilligaf/armour/bootsofspeed.c line 33: parse error before "base_stat/dexterity
+d/Prime/Dagaard/dilligaf/shop/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+d/Prime/Dagaard/dilligaf/shop/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+d/Prime/Dagaard/dilligaf/street/alley2.c line 29: "#pragma strict_types" requires type of function before "search_func" , "sea
+d/Prime/Dagaard/dilligaf/street/alley2.c line 29: parse error before  , "search_func");
+d/Prime/Dagaard/dilligaf/street/alley2.c line 40: Undefined variable 'monster' before  clone_object("/d/Pr
+d/Prime/Dagaard/dilligaf/street/alley2.c line 31: Undefined variable 'monster' before  clone_object("/d/Pr
+d/Prime/Dagaard/dilligaf/street/alley2.c line 41: Undefined variable 'monster' before move(environment(thi
+d/Prime/Dagaard/dilligaf/street/alley2.c line 34: Undefined variable 'monster' before  clone_object("/d/Pr
+d/Prime/Dagaard/dilligaf/armour/tophat.c line 20: parse error before the end of line
+d/Prime/Dagaard/dilligaf/jail/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+d/Prime/Dagaard/dilligaf/jail/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+d/Prime/Dagaard/dilligaf/weapons/sap.c line 9: Undefined function set_meterial_type before ;
+d/Prime/Dagaard/dilligaf/forest/frst43.c line 33: parse error before  "You brush aside so
+d/Prime/Dagaard/dilligaf/forest/frst43.c line 34: Illegal character constant before leaves and start to 
+d/Prime/Dagaard/dilligaf/forest/frst43.c line 35: Illegal character constant before  see it too well fro
+d/Prime/Dagaard/dilligaf/forest/frst43.c line 36: Illegal character constant before  see them too well f
+d/Prime/Dagaard/dilligaf/forest/frst43.c line 38: Illegal character constant before  really see them fro
+d/Prime/Dagaard/dilligaf/forest/frst43.c line 39: Illegal character constant before  really see them fro
+d/Prime/Dagaard/dilligaf/forest/frst43.c line 33: parse error before  "You brush aside so
+d/Prime/Dagaard/dilligaf/forest/frst43.c line 34: Illegal character constant before leaves and start to 
+d/Prime/Dagaard/dilligaf/forest/frst43.c line 35: Illegal character constant before  see it too well fro
+d/Prime/Dagaard/dilligaf/forest/frst43.c line 36: Illegal character constant before  see them too well f
+d/Prime/Dagaard/dilligaf/forest/frst43.c line 38: Illegal character constant before  really see them fro
+d/Prime/Dagaard/dilligaf/forest/frst43.c line 39: Illegal character constant before  really see them fro
+d/Prime/Dagaard/dilligaf/forest/frst43.c line 33: parse error before  "You brush aside so
+d/Prime/Dagaard/dilligaf/forest/frst43.c line 34: Illegal character constant before leaves and start to 
+d/Prime/Dagaard/dilligaf/forest/frst43.c line 35: Illegal character constant before  see it too well fro
+d/Prime/Dagaard/dilligaf/forest/frst43.c line 36: Illegal character constant before  see them too well f
+d/Prime/Dagaard/dilligaf/forest/frst43.c line 38: Illegal character constant before  really see them fro
+d/Prime/Dagaard/dilligaf/forest/frst43.c line 39: Illegal character constant before  really see them fro
+d/Prime/Dagaard/dilligaf/forest/frst43.c line 33: parse error before " : "You brush aside
+d/Prime/Dagaard/dilligaf/forest/frst43.c line 33: Illegal character constant before leaves and start to 
+d/Prime/Dagaard/dilligaf/forest/frst43.c line 34: Illegal character constant before  see it too well fro
+d/Prime/Dagaard/dilligaf/forest/frst43.c line 35: Illegal character constant before  see them too well f
+d/Prime/Dagaard/dilligaf/forest/frst43.c line 37: Illegal character constant before  really see them fro
+d/Prime/Dagaard/dilligaf/forest/frst43.c line 38: Illegal character constant before  really see them fro
+d/Prime/Dagaard/dilligaf/armour/chainmail2.c line 22: End of file in text block before );
+d/Prime/Dagaard/dilligaf/armour/chainmail2.c line 22: parse error before );
+d/Prime/Dagaard/dilligaf/armour/chainmail2.c line 21: End of file in text block before );
+d/Prime/Dagaard/dilligaf/armour/chainmail2.c line 21: parse error before );
+d/Prime/Dagaard/dilligaf/vat.c line 41: Reserved type name unexpected. before (string str){
+d/Prime/Dagaard/dilligaf/vat.c line 41: parse error before (string str){
+d/Prime/Dagaard/dilligaf/vat.c line 40: Reserved type name unexpected. before  "lag"){
+d/Prime/Dagaard/dilligaf/vat.c line 40: parse error before  "lag"){
+u/d/dilligaf/vat.c line 26: parse error before the end of line
+d/Prime/Dagaard/dilligaf/obj/card.c line 26: Too few arguments to move_object before ->(this_player)("/u/
+d/Prime/Dagaard/dilligaf/obj/card.c line 26: parse error before this_player)("/u/d/d
+d/Prime/Dagaard/dilligaf/obj/card.c line 26: parse error before ("/u/d/dilligaf/vat.
+d/Prime/Dagaard/dilligaf/obj/card.c line 27: parse error before ("/u/d/dilligaf/vat.
+u/d/dilligaf/vat.c line 22: Bad assignment ( void vs object ). before the end of line
+u/d/dilligaf/vat.c line 22: Bad assignment ( void vs object ). before the end of line
+u/d/dilligaf/vat.c line 11: parse error before ;
+u/d/dilligaf/vat.c line 10: parse error before ;
+u/d/dilligaf/vat.c line 10: parse error before ;
+u/d/dilligaf/vat.c line 10: parse error before ;
+u/d/dilligaf/vat.c line 10: parse error before ;
+u/d/dilligaf/vat.c line 10: parse error before ;
+u/d/dilligaf/vat.c line 10: parse error before ;
+u/d/dilligaf/vat.c line 22: Undefined variable 'chest' before move_object();
+d/Prime/Dagaard/dilligaf/obj/chest.c line 21: parse error before the end of line
+u/d/dilligaf/workroom.c line 11: Undefined variable 'MON' before "becky.c"]) );
+u/d/dilligaf/workroom.c line 11: Undefined variable 'MON' before  "becky.c"]) );
+u/d/dilligaf/workroom.c line 13: parse error before ;
+u/d/dilligaf/workroom.c line 11: Undefined variable 'MON' before  "becky.c"]) );
+u/d/dilligaf/workroom.c line 12: parse error before ;
+u/d/dilligaf/workroom.c line 13: parse error before ;
+d/Prime/Dagaard/dilligaf/monster/coco.c line 17: parse error before  "coco" , "cabana bo
+d/Prime/Dagaard/dilligaf/armour/trench.c line 14: Undefined function set_armour_type before ;
+d/Prime/Dagaard/dilligaf/armour/trench.c line 14: Undefined function set_armour_type before ;
+d/Prime/Dagaard/dilligaf/monster/traveler2.c line 51: parse error before  coat");
+d/Prime/Dagaard/dilligaf/monster/traveler2.c line 54: End of file in string before ng) act_ob->query_al
+d/Prime/Dagaard/dilligaf/monster/traveler2.c line 51: parse error before  coat");
+d/Prime/Dagaard/dilligaf/monster/traveler2.c line 54: End of file in string before g) act_ob->query_ali
+d/Prime/Dagaard/dilligaf/armour/trench.c line 16: Undefined function set_enchantment before ;
+d/Prime/Dagaard/dilligaf/jail/office.c line 35: Undefined function create_door before the end of line
+d/Prime/Dagaard/dilligaf/jail/office.c line 36: parse error before ();
+d/Prime/Dagaard/dilligaf/jail/office.c line 35: Undefined function create_door before ;
+d/Prime/Dagaard/dilligaf/jail/office.c line 35: Undefined variable 'south' before A wooden door with a
+d/Prime/Dagaard/dilligaf/jail/office.c line 35: parse error before A wooden door with a
+d/Prime/Dagaard/dilligaf/jail/office.c line 38: End of file in string before the end of line
+d/Prime/Dagaard/dilligaf/jail/office.c line 35: Undefined function create_door before ;
+d/Prime/Dagaard/dilligaf/jail/office.c line 46: parse error before  would you like to s
+d/Prime/Dagaard/dilligaf/jail/office.c line 58: End of file in string before g.\n",
+d/Prime/Dagaard/dilligaf/jail/office.c line 46: parse error before  would you like to s
+d/Prime/Dagaard/dilligaf/jail/office.c line 58: End of file in string before cies, and luck.
+d/Prime/Dagaard/dilligaf/jail/office.c line 45: parse error before  would you like to s
+d/Prime/Dagaard/dilligaf/jail/office.c line 55: End of file in string before s) alias = ([]);
+d/Prime/Dagaard/dilligaf/jail/office.c line 44: parse error before  would you like to s
+d/Prime/Dagaard/dilligaf/jail/office.c line 54: End of file in string before g!\n");
+d/Prime/Dagaard/dilligaf/jail/office.c line 54: Reserved type name unexpected. before (string str){
+d/Prime/Dagaard/dilligaf/jail/office.c line 54: parse error before (string str){
+d/Prime/Dagaard/dilligaf/jail/office.c line 54: Reserved type name unexpected. before (string str){
+d/Prime/Dagaard/dilligaf/jail/office.c line 54: parse error before (string str){
+d/Prime/Dagaard/dilligaf/jail/office.c line 54: Reserved type name unexpected. before (string str){
+d/Prime/Dagaard/dilligaf/jail/office.c line 54: parse error before (string str){
+d/Prime/Dagaard/dilligaf/monster/traveler.c line 22: Illegal character constant before ealth" , 1000000+(ra
+d/Prime/Dagaard/dilligaf/monster/traveler.c line 22: parse error before " , 1000000+(random(
+d/Prime/Dagaard/dilligaf/monster/traveler.c line 49: Illegal character constant before  it?");
+d/Prime/Dagaard/dilligaf/monster/traveler.c line 53: End of file in string before e PRIVATE_ROOM    "/
+d/Prime/Toril/Arabel/weap/strinkingstaff.c line 3: Cannot #include toys.h before #include <mudlib.h>
+d/Prime/Toril/Arabel/weap/strinkingstaff.c line 100: Undefined variable 'TOYS' before "/butt.c");
+d/Prime/Dagaard/dilligaf/monster/exp.c line 33: parse error before the end of line
+u/d/dilligaf/vial.c line 13: parse error before  ("mass", 10 );
+u/d/dilligaf/rose.c line 15: parse error before  "rose" }) );

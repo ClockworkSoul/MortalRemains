@@ -1,0 +1,578 @@
+d/Prime/Krynn/Duegne/road1.c line 7: parse error before the end of line
+d/Prime/Krynn/Duegne/road13.c line 27: End of file in text block before h a cbblestone path 
+d/Prime/Krynn/Duegne/road13.c line 27: parse error before h a cbblestone path 
+d/Prime/Oerth/ghcity/monster/nightcapt.c line 21: Undefined function set_skills before ;
+d/Prime/Oerth/ghcity/monster/nightcapt.c line 21: Undefined function set_skills before ;
+d/Prime/Oerth/ghcity/rooms/blane1.c line 20: parse error before the end of line
+d/Prime/Oerth/ghcity/rooms/bathhouse.c line 9: Undefined variable 'bather1' before /d/Prime/Oerth/ghcit
+d/Prime/Oerth/ghcity/rooms/bathhouse.c line 9: parse error before /d/Prime/Oerth/ghcit
+d/Prime/Oerth/ghcity/rooms/bathhouse.c line 19: End of file in string before bject locker)
+d/Prime/Oerth/ghcity/rooms/oldlane4.c line 21: parse error before the end of line
+d/Prime/Oerth/ghcity/rooms/battlement14.c line 27: parse error before the end of line
+d/Prime/Oerth/ghcity/rooms/battlement5.c line 29: parse error before c
+d/Prime/Toril/Arabel/city/pub.c line 2: Cannot #include sigil.h before inherit PUB;
+d/Prime/Toril/Arabel/city/pub.c line 14: Undefined variable 'SIGIL' before "serpentinn4.c",
+d/Prime/Dagaard/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+d/Prime/Dagaard/dilligaf/street/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+d/Prime/Dagaard/dilligaf/street/street3.c line 20: Undefined variable 'STREET' before "street10.c",
+d/Prime/Dagaard/dilligaf/forest/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+d/Prime/Dagaard/dilligaf/forest/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+d/Prime/Dagaard/dilligaf/jail/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+d/Prime/Dagaard/dilligaf/jail/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+d/Prime/Dagaard/dilligaf/gate/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+d/Prime/Dagaard/dilligaf/gate/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+d/Prime/Dagaard/dilligaf/forest/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+d/Prime/Dagaard/dilligaf/forest/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+d/Prime/Dagaard/dilligaf/pub/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+d/Prime/Dagaard/dilligaf/pub/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+d/Prime/Dagaard/dilligaf/cemetary/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+d/Prime/Dagaard/dilligaf/cemetary/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+d/Prime/Dagaard/dilligaf/cemetary/cem1.c line 13: parse error before  ([ "ghost" : MON+"g
+d/Prime/Dagaard/dilligaf/cemetary/cem1.c line 13: parse error before  ([ "ghost" : MON+"g
+d/Prime/Dagaard/dilligaf/cemetary/keep1.c line 27: Undefined variable 'KEEP' before "keep2.c",
+d/Prime/Dagaard/dilligaf/cemetary/keep1.c line 27: Undefined variable 'KEEP' before "keep2.c",
+d/Prime/Dagaard/dilligaf/cemetary/keep1.c line 27: Undefined variable 'KEEP' before "keep2.c",
+d/Prime/Dagaard/dilligaf/keep/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+d/Prime/Dagaard/dilligaf/keep/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+d/Prime/Dagaard/dilligaf/shop/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+d/Prime/Dagaard/dilligaf/shop/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+d/Prime/Dagaard/dilligaf/street/alley2.c line 34: Undefined variable 'monster' before  clone_object("/d/Pr
+d/Prime/Dagaard/dilligaf/jail/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+d/Prime/Dagaard/dilligaf/jail/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+d/Prime/Toril/Arabel/rooms/tower/grave1.c line 22: parse error before d/Prime/Toril/Arabel
+d/Prime/Toril/Arabel/rooms/tower/grave1.c line 27: Illegal character constant before  under you.\n",
+d/Prime/Toril/Arabel/rooms/tower/grave1.c line 30: End of file in string before , arg2;
+d/Prime/Cyanide/area2/junction.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/cool.c line 6: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ice.c line 6: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/lava.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/lava2.c line 4: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/volview.c line 4: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/barren.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/lavatube.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/lavatube.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/LOS02.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/loop.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/foggy.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/LOS01.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/LOS01.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/nearstream.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/lakeshore.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Cyanide/area2/topiary.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Cyanide/area2/topiary.c line 10: Warning: /* found in comment. before the end of line
+d/Prime/Cyanide/monsters/monsters.h line 1: Cannot #include ../Dark.h before the end of file
+d/Prime/Cyanide/monsters/dreadguard.c line 26: Undefined variable 'OBJ' before "/dsword.c");
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Cyanide/area2/sanctuary.c line 6: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/lakeshore.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ledge.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ledge.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/loop.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/loop.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ledge.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/loop.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/loop.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/onlake.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/loop.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ledge.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ledge.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ledge.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/loop.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ledge.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ledge.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/loop.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/loop.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ledge.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ledge.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/loop.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ledge.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ledge.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/loop.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/loop.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ledge.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/onlake.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/onlake.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/loop.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ledge.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/loop.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ledge.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ledge.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/loop.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ledge.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ledge.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/loop.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/loop.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/loop.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ledge.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/loop.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ledge.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ledge.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/loop.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ocean.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/clbase.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ledge.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/clbase.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ledge.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/clbase.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/onlake.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/monsters/monsters.h line 1: Cannot #include ../Dark.h before the end of file
+d/Prime/Cyanide/monsters/dreadguard.c line 26: Undefined variable 'OBJ' before "/dsword.c");
+d/Prime/Cyanide/area2/room3'5.c line 8: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/room3'5.c line 8: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/room3'5.c line 8: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/room4'5.c line 6: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/room5'5.c line 6: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Cyanide/area2/mirror2.c line 6: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area3/deadend1.c line 4: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ftbridge.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/nartunn.c line 6: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/infstair2.c line 6: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/infstair2.c line 6: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/infstair2.c line 6: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/infstair2.c line 6: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/hallway.c line 7: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/o_clearing.c line 24: parse error before the end of line
+d/Prime/Cyanide/area2/o_clearing.c line 24: parse error before the end of line
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Cyanide/area3/garden02.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Cyanide/area2/room4'4.c line 6: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Cyanide/area2/room4'6.c line 6: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Krynn/Duegne2/monsters/bane.c line 12: Undefined function set_exp before ;
+d/Prime/Krynn/Duegne2/weapons/sword.c line 10: Undefined function set_value before ;
+d/Prime/Krynn/Duegne2/weapons/sword.c line 10: Undefined function set_value before ;
+d/Prime/Cyanide/area2/room4'6.c line 6: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/room4'4.c line 6: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/room5'5.c line 6: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/room5'6.c line 7: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/room5'7.c line 6: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/room6'5.c line 6: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/obj/wetness.c line 13: "#pragma strict_types" requires type of function before )
+d/Prime/Cyanide/obj/wetness.c line 20: Undefined function dryout1 before ;
+d/Prime/Cyanide/obj/wetness.c line 28: "#pragma strict_types" requires type of function before )
+d/Prime/Cyanide/obj/wetness.c line 33: Redeclaration of function dryout1. before the end of line
+d/Prime/Cyanide/obj/wetness.c line 35: "#pragma strict_types" requires type of function before )
+d/Prime/Cyanide/obj/wetness.c line 43: "#pragma strict_types" requires type of function before )
+d/Prime/Krynn/Duegne2/weapons/sword.c line 10: Undefined function set_value before ;
+d/Prime/Krynn/Duegne2/weapons/sword.c line 10: Undefined function set_value before ;
+d/Prime/Krynn/Duegne2/weapons/sword.c line 10: Undefined function set_value before ;
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Krynn/Duegne2/weapons/sword.c line 10: Undefined function set_value before ;
+d/Prime/Krynn/Duegne2/weapons/sword.c line 10: Undefined function set_value before ;
+d/Prime/Krynn/Duegne2/weapons/sword.c line 10: Undefined function set_value before ;
+d/Prime/Krynn/Duegne2/weapons/sword.c line 10: Undefined function set_value before ;
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Krynn/Duegne2/weapons/sword.c line 10: Undefined function set_value before ;
+d/Prime/Krynn/Duegne2/weapons/sword.c line 10: Undefined function set_value before ;
+d/Prime/Krynn/Duegne2/weapons/sword.c line 10: Undefined function set_value before ;
+d/Prime/Cyanide/obj/wetness.c line 13: "#pragma strict_types" requires type of function before )
+d/Prime/Cyanide/obj/wetness.c line 20: Undefined function dryout1 before ;
+d/Prime/Cyanide/obj/wetness.c line 28: "#pragma strict_types" requires type of function before )
+d/Prime/Cyanide/obj/wetness.c line 33: Redeclaration of function dryout1. before the end of line
+d/Prime/Cyanide/obj/wetness.c line 35: "#pragma strict_types" requires type of function before )
+d/Prime/Cyanide/obj/wetness.c line 43: "#pragma strict_types" requires type of function before )
+d/Prime/Cyanide/obj/wetness.c line 13: "#pragma strict_types" requires type of function before )
+d/Prime/Cyanide/obj/wetness.c line 20: Undefined function dryout1 before ;
+d/Prime/Cyanide/obj/wetness.c line 28: "#pragma strict_types" requires type of function before )
+d/Prime/Cyanide/obj/wetness.c line 33: Redeclaration of function dryout1. before the end of line
+d/Prime/Cyanide/obj/wetness.c line 35: "#pragma strict_types" requires type of function before )
+d/Prime/Cyanide/obj/wetness.c line 43: "#pragma strict_types" requires type of function before )
+d/Prime/Cyanide/obj/wetness.c line 13: "#pragma strict_types" requires type of function before )
+d/Prime/Cyanide/obj/wetness.c line 20: Undefined function dryout1 before ;
+d/Prime/Cyanide/obj/wetness.c line 28: "#pragma strict_types" requires type of function before )
+d/Prime/Cyanide/obj/wetness.c line 33: Redeclaration of function dryout1. before the end of line
+d/Prime/Cyanide/obj/wetness.c line 35: "#pragma strict_types" requires type of function before )
+d/Prime/Cyanide/obj/wetness.c line 43: "#pragma strict_types" requires type of function before )
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Cyanide/area2/transroom.c line 141: Invalid argument types to '+' ( object vs string ) before name+" on the contro
+d/Prime/Cyanide/area2/spireante.c line 4: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Krynn/Duegne2/weapons/direswrd.c line 9: Undefined function set_value before ;
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Cyanide/area2/room8'5.c line 6: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/preproom.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/phalln1.c line 4: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/phalls1.c line 4: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Toril/Arabel/rooms/tower/grave12.c line 39: parse error before the end of file
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Cyanide/monsters/balrog.c line 30: parse error before  : 20,
+d/Prime/Cyanide/area3/maze5.c line 38: Undefined variable 'thief' before  clone_object(MON+"/
+d/Prime/Cyanide/area2/kitchen.c line 4: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Toril/Arabel/city/shop.c line 9: Undefined variable 'NM' before "toys/");
+d/Prime/Toril/Arabel/city/shop.c line 9: Undefined variable 'NM' before "toys/");
+d/Prime/Toril/Arabel/city/shop.c line 9: Undefined variable 'NM' before "toys/");
+d/Prime/Toril/Arabel/city/shop.c line 9: Undefined variable 'NM' before "toys/");
+d/Prime/Toril/Arabel/city/shop.c line 9: Undefined variable 'NM' before "toys/");
+d/Prime/Toril/Arabel/city/shop.c line 9: Undefined variable 'NM' before "toys/");
+d/Prime/Toril/Arabel/city/shop.c line 9: Undefined variable 'NM' before "toys/");
+d/Prime/Toril/Arabel/city/shop.c line 9: Undefined variable 'NM' before "toys/");
+d/Prime/Toril/Arabel/city/shop.c line 9: Undefined variable 'NM' before "toys/");
+d/Prime/Toril/Arabel/city/shop.c line 9: Undefined variable 'NM' before "toys/");
+d/Prime/Toril/Arabel/city/shop.c line 9: Undefined variable 'NM' before "toys/");
+d/Prime/Toril/Arabel/city/shop.c line 9: Undefined variable 'NM' before "toys/");
+d/Prime/Toril/Arabel/city/shop.c line 9: Undefined variable 'NM' before "toys/");
+d/Prime/Toril/Arabel/city/shop.c line 9: Undefined variable 'NM' before "toys/");
+d/Prime/Toril/Arabel/city/shop.c line 9: Undefined variable 'NM' before "toys/");
+d/Prime/Toril/Arabel/city/shop.c line 9: Undefined variable 'NM' before "toys/");
+d/Prime/Toril/Arabel/city/shop.c line 9: Undefined variable 'NM' before "toys/");
+d/Prime/Toril/Arabel/city/shop.c line 9: Undefined variable 'NM' before "toys/");
+d/Prime/Toril/Arabel/city/shop.c line 9: Undefined variable 'NM' before "toys/");
+d/Prime/Toril/Arabel/city/shop.c line 9: Undefined variable 'NM' before "toys/");
+d/Prime/Toril/Arabel/city/shop.c line 9: Undefined variable 'NM' before "toys/");
+d/Prime/Toril/Arabel/city/shop.c line 9: Undefined variable 'NM' before "toys/");
+d/Prime/Toril/Arabel/city/shop.c line 9: Undefined variable 'NM' before "toys/");
+d/Prime/Toril/Arabel/city/shop.c line 9: Undefined variable 'NM' before "toys/");
+d/Prime/Toril/Arabel/city/shop.c line 9: Undefined variable 'NM' before "toys/");
+d/Prime/Toril/Arabel/city/shop.c line 9: Undefined variable 'NM' before "toys/");
+d/Prime/Toril/Arabel/city/shop.c line 9: Undefined variable 'NM' before "toys/");
+d/Prime/Toril/Arabel/city/shop.c line 9: Undefined variable 'NM' before "toys/");
+d/Prime/Toril/Arabel/city/shop.c line 9: Undefined variable 'NM' before "toys/");
+d/Prime/Toril/Arabel/city/shop.c line 9: Undefined variable 'NM' before "toys/");
+d/Prime/Toril/Arabel/city/shop.c line 9: Undefined variable 'NM' before "toys/");
+d/Prime/Toril/Arabel/city/shop.c line 9: Undefined variable 'NM' before "toys/");
+d/Prime/Toril/Arabel/city/shop.c line 9: Undefined variable 'NM' before "toys/");
+d/Prime/Toril/Arabel/city/shop.c line 9: Undefined variable 'NM' before "toys/");
+d/Prime/Toril/Arabel/city/shop.c line 9: Undefined variable 'NM' before "toys/");
+d/Prime/Toril/Arabel/rooms/rm102.c line 21: Undefined variable 'TOWER' before "grave1.c",
+d/Prime/Toril/Arabel/rooms/rm102.c line 21: Undefined variable 'TOWER' before "grave1.c",
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Cyanide/area2/preproom.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/phalln1.c line 4: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/phalls1.c line 4: "#pragma strict_types" requires type of function before ) {
+d/Prime/Toril/Sembia/town/monster/blacksmith.c line 1: Cannot #include fuckstick.h before  
+d/Prime/Toril/Sembia/town/monster/blacksmith.c line 39: Undefined variable 'AITEM' before "/hammer.c") ;
+d/Prime/Toril/Sembia/castle/castle12.c line 2: Cannot #include fuckstick.h before the end of line
+d/Prime/Cyanide/area1/a1path04.c line 31: parse error before the end of line
+d/Prime/Cyanide/area1/a1path04.c line 70: Illegal LHS before the end of line
+d/Prime/Cyanide/area1/a1path04.c line 70: parse error before the end of line
+d/Prime/Cyanide/area1/a1path04.c line 73: Illegal LHS before the end of line
+d/Prime/Cyanide/area1/a1path04.c line 73: parse error before the end of line
+d/Prime/Cyanide/area1/a1path04.c line 77: Undefined variable 'ob' before );
+d/Prime/Cyanide/area1/a1path04.c line 31: parse error before the end of line
+d/Prime/Cyanide/area1/a1path04.c line 70: Illegal LHS before the end of line
+d/Prime/Cyanide/area1/a1path04.c line 70: parse error before the end of line
+d/Prime/Cyanide/area1/a1path04.c line 73: Illegal LHS before the end of line
+d/Prime/Cyanide/area1/a1path04.c line 73: parse error before the end of line
+d/Prime/Cyanide/area1/a1path04.c line 77: Undefined variable 'ob' before );
+d/Prime/Cyanide/area2/room4'4.c line 17: Undefined variable 'CITY_NAME' before ", but was claimed b
+d/Prime/Cyanide/area2/room4'4.c line 18: Undefined variable 'LORD_NAME' before " when he took contr
+d/Prime/Cyanide/area2/room4'4.c line 41: parse error before the end of line
+d/Prime/Cyanide/area2/room4'4.c line 55: Illegal LHS before the end of line
+d/Prime/Cyanide/area2/room4'4.c line 58: Illegal LHS before the end of line
+d/Prime/Cyanide/area2/room4'4.c line 69: Illegal LHS before the end of line
+d/Prime/Cyanide/area2/room4'4.c line 17: Undefined variable 'CITY_NAME' before ", but was claimed b
+d/Prime/Cyanide/area2/room4'4.c line 18: Undefined variable 'LORD_NAME' before " when he took contr
+d/Prime/Cyanide/area2/room4'4.c line 41: parse error before the end of line
+d/Prime/Cyanide/area2/room4'4.c line 55: Illegal LHS before the end of line
+d/Prime/Cyanide/area2/room4'4.c line 58: Illegal LHS before the end of line
+d/Prime/Cyanide/area2/room4'4.c line 69: Illegal LHS before the end of line
+d/Prime/Cyanide/area1/a1forest04.c line 19: parse error before the end of line
+d/Prime/Cyanide/area1/a1forest02.c line 19: parse error before the end of line
+d/Prime/Cyanide/area1/a1forest03.c line 18: parse error before the end of line
+d/Prime/Cyanide/area1/a1forest04.c line 19: parse error before the end of line
+d/Prime/Cyanide/area1/a1forest04.c line 19: parse error before the end of line
+d/Prime/Cyanide/area1/a1forest03.c line 18: parse error before the end of line
+d/Prime/Cyanide/area1/a1forest04.c line 19: parse error before the end of line
+d/Prime/Cyanide/area1/a1forest04.c line 19: parse error before the end of line
+d/Prime/Toril/Sembia/castle/castle13.c line 2: Cannot #include fuckstick.h before the end of line
+d/Prime/Toril/Sembia/castle/castle14.c line 2: Cannot #include fuckstick.h before the end of line
+d/Prime/Toril/Sembia/castle/castle12.c line 2: Cannot #include fuckstick.h before the end of line
+d/Prime/Cyanide/area1/a1forest07.c line 17: parse error before the end of line
+d/Prime/Cyanide/area1/a1forest07.c line 17: parse error before the end of line
+d/Prime/Cyanide/area1/a1forest06.c line 19: parse error before the end of line
+d/Prime/Cyanide/area1/a1forest05.c line 19: parse error before the end of line
+d/Prime/Cyanide/area1/a1forest05.c line 19: parse error before the end of line
+d/Prime/Cyanide/area1/a1forest10.c line 18: parse error before the end of line
+d/Prime/Cyanide/area1/a1forest05.c line 22: parse error before the end of line
+d/Prime/Cyanide/area1/a1forest08.c line 41: Undefined variable 'str' before  {
+d/Prime/Cyanide/area1/a1forest06.c line 8: Missing type before the end of line
+d/Prime/Cyanide/area1/a1forest06.c line 53: Undefined variable 'closed' before  {
+d/Prime/Cyanide/area1/a1forest09.c line 18: parse error before the end of line
+d/Prime/Cyanide/area1/a1forest12.c line 22: parse error before the end of line
+d/Prime/Cyanide/area1/a1forest26.c line 41: parse error before  1;
+d/Prime/Cyanide/area1/a1forest26.c line 47: Illegal LHS before the end of line
+d/Prime/Cyanide/area1/a1forest26.c line 47: parse error before the end of line
+d/Prime/Cyanide/area1/a1forest26.c line 48: Illegal LHS before the end of line
+d/Prime/Cyanide/area1/a1forest26.c line 69: End of file in string before atburglar ($A)",
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Cyanide/obj/wetness.c line 13: "#pragma strict_types" requires type of function before )
+d/Prime/Cyanide/obj/wetness.c line 20: Undefined function dryout1 before ;
+d/Prime/Cyanide/obj/wetness.c line 28: "#pragma strict_types" requires type of function before )
+d/Prime/Cyanide/obj/wetness.c line 33: Redeclaration of function dryout1. before the end of line
+d/Prime/Cyanide/obj/wetness.c line 35: "#pragma strict_types" requires type of function before )
+d/Prime/Cyanide/obj/wetness.c line 43: "#pragma strict_types" requires type of function before )
+d/Prime/Cyanide/obj/wetness.c line 13: "#pragma strict_types" requires type of function before )
+d/Prime/Cyanide/obj/wetness.c line 20: Undefined function dryout1 before ;
+d/Prime/Cyanide/obj/wetness.c line 28: "#pragma strict_types" requires type of function before )
+d/Prime/Cyanide/obj/wetness.c line 33: Redeclaration of function dryout1. before the end of line
+d/Prime/Cyanide/obj/wetness.c line 35: "#pragma strict_types" requires type of function before )
+d/Prime/Cyanide/obj/wetness.c line 43: "#pragma strict_types" requires type of function before )
+d/Prime/Cyanide/area2/preproom.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/preproom.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/phalln1.c line 4: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/phalls1.c line 4: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/obj/wetness.c line 13: "#pragma strict_types" requires type of function before )
+d/Prime/Cyanide/obj/wetness.c line 20: Undefined function dryout1 before ;
+d/Prime/Cyanide/obj/wetness.c line 28: "#pragma strict_types" requires type of function before )
+d/Prime/Cyanide/obj/wetness.c line 33: Redeclaration of function dryout1. before the end of line
+d/Prime/Cyanide/obj/wetness.c line 35: "#pragma strict_types" requires type of function before )
+d/Prime/Cyanide/obj/wetness.c line 43: "#pragma strict_types" requires type of function before )
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Cyanide/area2/preproom.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/preproom.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/preproom.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/preproom.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/preproom.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/preproom.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Toril/Arabel/mon/wade2.c line 8: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Prime/Toril/Arabel/mon/wade2.c line 8: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Prime/Cyanide/monsters/queen.c line 5: Cannot #include /u/c/cyanide/debug.h before #include "monsters.h
+d/Prime/Cyanide/monsters/queen.c line 82: Undefined function DEBUG before ;
+d/Prime/Toril/Arabel/mon/wade2.c line 8: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Prime/Toril/Arabel/mon/wade2.c line 8: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Prime/Toril/Arabel/mon/wade2.c line 8: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Prime/Toril/Arabel/mon/wade2.c line 8: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Prime/Toril/Arabel/mon/wade2.c line 8: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Prime/Cyanide/area2/transroom.c line 5: Cannot #include /u/c/cyanide/include/debug.h before the end of line
+d/Prime/Cyanide/area2/transroom.c line 5: Cannot #include /u/c/cyanide/include/debug.h before the end of line
+d/Prime/Toril/Arabel/mon/wade2.c line 8: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Prime/Toril/Arabel/mon/wade2.c line 8: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Prime/Toril/Arabel/mon/wade2.c line 8: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Prime/Toril/Arabel/mon/wade2.c line 8: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Prime/Toril/Arabel/mon/wade2.c line 8: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Prime/Toril/Arabel/mon/wade2.c line 8: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Prime/Toril/Arabel/mon/wade2.c line 8: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Prime/Toril/Arabel/mon/wade2.c line 8: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Prime/Toril/Arabel/mon/wade2.c line 8: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Prime/Toril/Arabel/mon/wade2.c line 8: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Prime/Toril/Arabel/mon/wade2.c line 8: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Prime/Toril/Arabel/mon/wade2.c line 8: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Prime/Toril/Arabel/mon/wade2.c line 8: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Prime/Toril/Arabel/mon/wade2.c line 8: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Prime/Toril/Arabel/mon/wade2.c line 8: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Prime/Toril/Arabel/mon/wade2.c line 8: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Prime/Toril/Arabel/mon/wade2.c line 8: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Prime/Toril/Arabel/mon/wade2.c line 8: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Prime/Toril/Arabel/mon/wade2.c line 8: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Prime/Toril/Arabel/mon/wade2.c line 8: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Prime/Toril/Arabel/mon/wade2.c line 8: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Prime/Toril/Arabel/mon/wade2.c line 8: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Prime/Toril/Arabel/mon/wade2.c line 8: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Prime/Toril/Arabel/mon/wade2.c line 8: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Prime/Toril/Arabel/mon/wade2.c line 8: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Prime/Toril/Arabel/mon/wade2.c line 8: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Prime/Toril/Arabel/mon/wade2.c line 8: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Prime/Cyanide/area2/transroom.c line 5: Cannot #include /u/c/cyanide/include/debug.h before the end of line
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Cyanide/area2/transroom.c line 5: Cannot #include /u/c/cyanide/include/debug.h before the end of line
+d/Prime/Cyanide/area3/maze5.c line 2: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/Prime/Cyanide/area3/maze5.c line 42: Undefined function DEBUG before ;
+d/Prime/Cyanide/monsters/queen.c line 5: Cannot #include /u/c/cyanide/debug.h before #include "monsters.h
+d/Prime/Cyanide/monsters/queen.c line 82: Undefined function DEBUG before ;
+d/Prime/Cyanide/area3/maze5.c line 2: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/Prime/Cyanide/area3/maze5.c line 42: Undefined function DEBUG before ;
+d/Prime/Cyanide/monsters/queen.c line 5: Cannot #include /u/c/cyanide/debug.h before #include "monsters.h
+d/Prime/Cyanide/monsters/queen.c line 82: Undefined function DEBUG before ;
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Cyanide/area2/preproom.c line 5: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/transroom.c line 5: Cannot #include /u/c/cyanide/include/debug.h before the end of line

@@ -1,0 +1,4 @@
+d/class/rogue/Assasins/obj/dagger.c line 63: Reserved type name unexpected. before () { return 1; }
+d/class/rogue/Assasins/obj/dagger.c line 63: parse error before () { return 1; }
+u/s/sophia/bedroom.c line 66: Reserved type name unexpected. before (string str){
+u/s/sophia/bedroom.c line 66: parse error before (string str){

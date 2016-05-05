@@ -1,0 +1,52 @@
+d/Prime/Park/room/enter.c line 18: parse error before  : P_ROOM+"path1.c",
+d/Prime/Park/room/field1.c line 18: parse error before the end of line
+d/Prime/Park/room/dogwood.c line 16: Undefined variable 'multi' before colored eggs."
+d/Prime/Park/room/dogwood.c line 16: Undefined variable 'colored' before ."
+d/Prime/Park/room/dogwood.c line 16: Bad argument number 1 to '-': "string " before ."
+d/Prime/Park/room/dogwood.c line 16: parse error before ."
+d/Prime/Park/room/dogwood.c line 30: End of file in string before /room            "/d
+d/Prime/Park/room/elm.c line 16: Undefined variable 'very' before  and protected here.
+d/Prime/Park/room/elm.c line 16: parse error before  and protected here.
+d/Prime/Park/room/elm.c line 23: Illegal character constant before  branches reach up t
+d/Prime/Park/room/elm.c line 38: End of file in string before nfo[1] + " " + info[
+d/Prime/Park/room/field2.c line 16: parse error before  );
+d/Prime/Park/room/path2.c line 14: Undefined variable 'neat' before  allowing you a view
+d/Prime/Park/room/path2.c line 14: Undefined variable 'allowing' before  a view over them in
+d/Prime/Park/room/path2.c line 14: parse error before  a view over them in
+d/Prime/Park/room/path2.c line 14: Illegal character constant before  gardens. You are "+
+d/Prime/Park/room/path2.c line 38: End of file in string before kills + 
+d/Prime/Park/room/path2.c line 16: parse error before  );
+d/Prime/Park/room/path3.c line 21: parse error before  "The shrubs are dar
+d/Prime/Park/room/path5.c line 16: parse error before  );
+d/Prime/Park/room/path7.c line 16: Undefined variable 'you' before  the loud squawking 
+d/Prime/Park/room/path7.c line 16: parse error before  the loud squawking 
+d/Prime/Park/room/path7.c line 36: End of file in string before ()
+d/Prime/Park/room/pond1.c line 28: parse error before  rise near the far b
+d/Prime/Park/room/pond1.c line 44: End of file in string before /replies.\n" );
+d/Prime/Park/mon/bee.c line 7: Undefined function euid before ;
+d/Prime/Park/mon/bee.c line 7: parse error before the end of line
+d/Prime/Park/mon/bee.c line 7: Undefined function euid before ;
+d/Prime/Park/mon/bee.c line 7: parse error before the end of line
+d/Prime/Park/mon/bee.c line 7: Undefined function euid before ;
+d/Prime/Park/mon/bee.c line 7: parse error before the end of line
+d/Prime/Park/mon/bee.c line 17: parse error before 1);
+d/Prime/Park/mon/ant.c line 13: parse error before ("id", ({"ant"}));
+d/Prime/Park/mon/ant.c line 33: parse error before the end of file
+d/Prime/Park/mon/butterfly.c line 7: parse error before create();
+d/Prime/Park/mon/fawn.c line 16: parse error before ");
+d/Prime/Park/mon/fawn.c line 34: End of file in string before ven YOU feel cheerfu
+d/Prime/Park/mon/fawn.c line 16: parse error before ");
+d/Prime/Park/mon/fawn.c line 34: End of file in string before ven YOU feel cheerfu
+d/Prime/Park/mon/fawn.c line 16: parse error before ");
+d/Prime/Park/mon/fawn.c line 34: End of file in string before t iflag, int silent)
+d/Prime/Park/mon/fawn.c line 16: parse error before ");
+d/Prime/Park/mon/fawn.c line 34: End of file in string before  
+d/Prime/Park/mon/fawn.c line 16: parse error before ", "fawn");
+d/Prime/Park/mon/fawn.c line 34: End of file in string before   file = resolv_path
+d/Prime/Park/mon/fawn.c line 14: parse error before ");
+d/Prime/Park/mon/fawn.c line 34: End of file in string before }
+d/Prime/Park/mon/fawn.c line 14: parse error before ");
+d/Prime/Park/mon/fawn.c line 34: End of file in string before }
+d/Prime/Park/mon/fawn.c line 14: parse error before ");
+d/Prime/Park/mon/fawn.c line 34: End of file in string before g connection on play
+d/Prime/Park/room/lily2.c line 42: parse error before  P_MON+"dove.c",

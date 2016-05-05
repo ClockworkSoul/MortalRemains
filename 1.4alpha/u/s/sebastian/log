@@ -1,0 +1,161 @@
+u/s/sebastian/icesword.c line 67: End of file in text block before player()-> query_mmi
+u/s/sebastian/icesword.c line 67: parse error before player()-> query_mmi
+d/Arctic/Sebastian/rooms/waste_01.c line 1: Cannot #include wasteland.h before #include <mudlib.h>
+d/Arctic/Sebastian/rooms/waste_01.c line 3: Cannot #include wasteland.h before inherit ROOM;
+d/Arctic/Sebastian/rooms/waste_01.c line 3: Cannot #include wasteland.h before inherit ROOM;
+d/Arctic/Sebastian/rooms/waste_01.c line 2: Cannot #include wasteland.h before  
+d/Arctic/Sebastian/rooms/waste_01.c line 11: Undefined variable 'CITY_NAME' before ;
+d/Arctic/Sebastian/rooms/waste_01.c line 21: Undefined variable 'M_ROOM' before "waste_08.c",
+d/Arctic/Sebastian/rooms/waste_01.c line 2: Cannot #include wasteland.h before  
+d/Arctic/Sebastian/rooms/waste_01.c line 11: Undefined variable 'CITY_NAME' before ;
+d/Arctic/Sebastian/rooms/waste_01.c line 21: Undefined variable 'M_ROOM' before "waste_08.c",
+d/Arctic/Sebastian/rooms/waste_04.c line 23: Undefined variable 'waste_03' before c",
+d/Arctic/Sebastian/rooms/waste_04.c line 23: parse error before c",
+d/Arctic/Sebastian/rooms/waste_04.c line 26: End of file in string before  );
+d/Arctic/Sebastian/rooms/waste_09.c line 26: parse error before the end of line
+u/s/sebastian/livingroom.c line 43: End of file in text block before  	"/std/monster"
+u/s/sebastian/livingroom.c line 43: parse error before  	"/std/monster"
+d/Arctic/Sebastian/mon/frostgnt.c line 14: parse error before create():
+d/Arctic/Sebastian/mon/frostgnt.c line 14: parse error before create():
+d/Arctic/Sebastian/mon/frostgnt.c line 14: parse error before the end of line
+d/Arctic/Sebastian/mon/frostgnt.c line 40: End of file in text block before efinitions.
+d/Arctic/Sebastian/mon/frostgnt.c line 14: parse error before the end of line
+d/Arctic/Sebastian/mon/frostgnt.c line 40: End of file in text block before efinitions.
+d/Arctic/Sebastian/mon/frostgnt.c line 40: End of file in text block before efinitions.
+d/Arctic/Sebastian/mon/frostgnt.c line 40: parse error before efinitions.
+d/Arctic/Sebastian/mon/frostgnt.c line 40: End of file in text block before efinitions.
+d/Arctic/Sebastian/mon/frostgnt.c line 40: parse error before efinitions.
+d/Arctic/Sebastian/mon/frostgnt.c line 40: End of file in text block before NCE_FILE "/adm/etc/b
+d/Arctic/Sebastian/mon/frostgnt.c line 40: parse error before NCE_FILE "/adm/etc/b
+d/Arctic/Sebastian/mon/frostgnt.c line 40: End of file in text block before NCE_FILE "/adm/etc/b
+d/Arctic/Sebastian/mon/frostgnt.c line 40: parse error before NCE_FILE "/adm/etc/b
+d/Arctic/Sebastian/mon/frostgnt.c line 40: End of file in text block before \n" );
+d/Arctic/Sebastian/mon/frostgnt.c line 40: parse error before \n" );
+d/Arctic/Sebastian/mon/frostgnt.c line 40: End of file in text block before \n" );
+d/Arctic/Sebastian/mon/frostgnt.c line 40: parse error before \n" );
+d/Arctic/Sebastian/mon/frostgnt.c line 40: End of file in text block before the end of file
+d/Arctic/Sebastian/mon/frostgnt.c line 40: parse error before the end of file
+d/Arctic/Sebastian/mon/frostgnt.c line 40: End of file in text block before er can call this.
+d/Arctic/Sebastian/mon/frostgnt.c line 40: parse error before er can call this.
+d/Arctic/Sebastian/mon/frostgnt.c line 40: End of file in text block before er can call this.
+d/Arctic/Sebastian/mon/frostgnt.c line 40: parse error before er can call this.
+d/Arctic/Sebastian/mon/frostgnt.c line 40: End of file in text block before ou cannot force Root
+d/Arctic/Sebastian/mon/frostgnt.c line 40: parse error before ou cannot force Root
+u/s/sebastian/weapons/icedagger.c line 22: Undefined variable 'EndText' before  is a dagger, crafte
+u/s/sebastian/weapons/icedagger.c line 22: parse error before  is a dagger, crafte
+d/Arctic/Sebastian/mon/polarbear.c line 27: Undefined function set_vers2 before ;
+d/Arctic/Sebastian/mon/polarbear.c line 27: Undefined function set_vers2 before ;
+d/Arctic/Sebastian/mon/wolf.c line 37: parse error before the end of file
+d/Arctic/Sebastian/mon/wolf.c line 37: Undefined variable 'pelt' before  clone_object("/u/s/
+d/Arctic/Sebastian/mon/penguin.c line 26: Warning: Unknown \x char. before "Bill the Cat for\"+
+d/Arctic/Sebastian/mon/penguin.c line 26: parse error before  the Cat for\"+
+d/Arctic/Sebastian/mon/penguin.c line 35: Illegal LHS before the end of line
+d/Arctic/Sebastian/mon/penguin.c line 35: parse error before the end of line
+d/Arctic/Sebastian/mon/penguin.c line 26: Warning: Unknown \x char. before "Bill the Cat for\"+
+d/Arctic/Sebastian/mon/penguin.c line 26: parse error before  the Cat for\"+
+d/Arctic/Sebastian/mon/penguin.c line 35: Illegal LHS before the end of line
+d/Arctic/Sebastian/mon/penguin.c line 35: parse error before the end of line
+d/Arctic/Sebastian/mon/penguin.c line 30: parse error before ));
+d/Arctic/Sebastian/mon/penguin.c line 33: Illegal LHS before the end of line
+d/Arctic/Sebastian/mon/penguin.c line 33: parse error before the end of line
+u/s/sebastian/items/fpelt.c line 15: End of file in string before )
+u/s/sebastian/items/fpelt.c line 15: parse error before )
+u/s/sebastian/items/fpelt.c line 6: No such inherited function ::create before ;
+u/s/sebastian/items/fpelt.c line 16: End of file in string before _locks(object player
+u/s/sebastian/items/fpelt.c line 16: parse error before _locks(object player
+u/s/sebastian/items/fpelt.c line 14: parse error before ",200);
+u/s/sebastian/items/fpelt.c line 15: End of file in string before cks(object player)
+d/Arctic/Sebastian/mon/fox.c line 29: Undefined function set_weapon_type before ;
+d/Arctic/Sebastian/mon/fox.c line 29: Undefined function set_weapon_type before ;
+d/Arctic/Sebastian/mon/fox.c line 30: Undefined function set_damage_type before ;
+d/Arctic/Sebastian/mon/whitedragon.c line 24: parse error before the end of line
+d/Arctic/Sebastian/mon/whitedragon.c line 38: Illegal LHS before the end of line
+d/Arctic/Sebastian/mon/whitedragon.c line 38: parse error before the end of line
+d/Arctic/Sebastian/mon/whitedragon.c line 42: Undefined variable 'ob' before save_throw(-6));
+d/Arctic/Sebastian/mon/whitedragon.c line 42: Illegal LHS before the end of line
+d/Arctic/Sebastian/mon/whitedragon.c line 42: parse error before the end of line
+d/Arctic/Sebastian/mon/whitedragon.c line 32: parse error before ;
+d/Arctic/Sebastian/mon/whitedragon.c line 41: Too few arguments to tell_object before ;
+d/Arctic/Sebastian/mon/whitedragon.c line 41: Too few arguments to tell_object before ;
+u/s/sebastian/items/lpelt.c line 6: Unrecognised # directive before inherit OBJECT;
+u/s/sebastian/items/lpelt.c line 10: No such inherited function ::create before ;
+u/s/sebastian/items/lpelt.c line 21: End of file in text block before ad body",  this_play
+u/s/sebastian/items/lpelt.c line 21: parse error before ad body",  this_play
+d/Arctic/Sebastian/mon/sleopard.c line 39: End of file in text block before 	"/st			"/adm/daemon
+d/Arctic/Sebastian/mon/sleopard.c line 39: parse error before 	"/st			"/adm/daemon
+d/Arctic/Sebastian/mon/sleopard.c line 38: End of file in text block before / EOF
+d/Arctic/Sebastian/mon/sleopard.c line 38: parse error before / EOF
+u/s/sebastian/items/lpelt.c line 6: Unrecognised # directive before inherit OBJECT;
+u/s/sebastian/items/lpelt.c line 20: End of file in text block before ne! - Chronos */
+u/s/sebastian/items/lpelt.c line 20: parse error before ne! - Chronos */
+u/s/sebastian/items/lpelt.c line 20: End of file in text block before e! - Chronos */
+u/s/sebastian/items/lpelt.c line 20: parse error before e! - Chronos */
+u/s/sebastian/items/lpelt.c line 15: End of file in text block before  */
+u/s/sebastian/items/lpelt.c line 15: parse error before  */
+u/s/sebastian/items/lpelt.c line 16: End of file in text block before /
+u/s/sebastian/items/lpelt.c line 16: parse error before /
+u/s/sebastian/items/lpelt.c line 16: End of file in text block before n");
+u/s/sebastian/items/lpelt.c line 16: parse error before n");
+u/s/sebastian/items/lpelt.c line 16: End of file in text block before td/cmd_m";
+u/s/sebastian/items/lpelt.c line 16: parse error before td/cmd_m";
+u/s/sebastian/items/lpelt.c line 15: End of file in text block before et("value",400);
+u/s/sebastian/items/lpelt.c line 15: parse error before et("value",400);
+u/s/sebastian/items/lpelt.c line 16: End of file in text block before if(!str) str = getui
+u/s/sebastian/items/lpelt.c line 16: parse error before if(!str) str = getui
+u/s/sebastian/items/lpelt.c line 15: End of file in text block before ne CAN             "
+u/s/sebastian/items/lpelt.c line 15: parse error before ne CAN             "
+u/s/sebastian/items/lpelt.c line 15: End of file in text block before ne CAN             "
+u/s/sebastian/items/lpelt.c line 15: parse error before ne CAN             "
+u/s/sebastian/items/lpelt.c line 15: End of file in text block before thing to keep.\n");
+u/s/sebastian/items/lpelt.c line 15: parse error before thing to keep.\n");
+u/s/sebastian/items/lpelt.c line 16: End of file in text block before     "/adm/daemons/ne
+u/s/sebastian/items/lpelt.c line 16: parse error before     "/adm/daemons/ne
+d/Arctic/Sebastian/mon/sleopard.c line 38: End of file in text block before e dog growls and bar
+d/Arctic/Sebastian/mon/sleopard.c line 38: parse error before e dog growls and bar
+d/Arctic/Sebastian/mon/sleopard.c line 38: End of file in text block before the end of file
+d/Arctic/Sebastian/mon/sleopard.c line 38: parse error before the end of file
+d/Arctic/Sebastian/rooms/wasteland.h line 1: Maximum include depth exceeded. before the end of file
+d/Arctic/Sebastian/rooms/waste_1.c line 10: parse error before ();
+d/Arctic/Sebastian/rooms/wasteland.h line 1: Maximum include depth exceeded. before the end of file
+d/Arctic/Sebastian/rooms/waste_1.c line 11: parse error before create();
+d/Arctic/Sebastian/rooms/wasteland.h line 1: Maximum include depth exceeded. before the end of file
+d/Arctic/Sebastian/rooms/waste_1.c line 15: Undefined variable 'CITY_NAME' before ;
+d/Arctic/Sebastian/rooms/waste_1.c line 23: Undefined variable 'M_ROOM' before "waste_2.c"]));
+d/Arctic/Sebastian/rooms/waste_1.c line 26: parse error before  "A beautiful midnig
+d/Arctic/Sebastian/rooms/wasteland.h line 1: Maximum include depth exceeded. before the end of file
+d/Arctic/Sebastian/rooms/waste_1.c line 15: Undefined variable 'CITY_NAME' before ;
+d/Arctic/Sebastian/rooms/waste_1.c line 23: Undefined variable 'M_ROOM' before "waste_2.c"]));
+d/Arctic/Sebastian/rooms/waste_1.c line 27: parse error before the end of line
+d/Arctic/Sebastian/rooms/wasteland.h line 1: Maximum include depth exceeded. before the end of file
+d/Arctic/Sebastian/rooms/waste_1.c line 15: Undefined variable 'CITY_NAME' before ;
+d/Arctic/Sebastian/rooms/waste_1.c line 23: Undefined variable 'M_ROOM' before "waste_2.c"]));
+u/s/sebastian/Sebsring.c line 8: parse error before 's ring");
+u/s/sebastian/Sebsring.c line 8: Illegal character constant before  ring");
+u/s/sebastian/Sebsring.c line 25: End of file in string before ever possible (even 
+u/s/sebastian/Sebsring.c line 14: parse error before ", -1);
+u/s/sebastian/Sebsring.c line 26: End of file in string before            ret = "Yo
+u/s/sebastian/Sebsring.c line 15: Undefined function set_magic_defense before ;
+d/Arctic/Sebastian/rooms/waste_5.c line 42: parse error before ") && !present("cat3
+d/Arctic/Sebastian/rooms/waste_5.c line 51: End of file in string before DOORS 		"/std/doors"
+d/Arctic/Sebastian/rooms/waste_5.c line 42: parse error before ") && !present("cat3
+d/Arctic/Sebastian/rooms/waste_5.c line 51: End of file in string before    if( sscanf( arg, 
+d/Arctic/Sebastian/rooms/waste_5.c line 43: parse error before ") && !present("cat3
+d/Arctic/Sebastian/rooms/waste_5.c line 52: End of file in string before "%s %s", chan, flag 
+d/Arctic/Sebastian/rooms/waste_5.c line 46: parse error before the end of line
+u/z/zur/priv/AC1.0/base.c line 92: Warning: make_int() inherited from both std/object/ob.c and u/z/zur/priv/AC1.0/make_room.c; using the definition in u/z/zur/priv/AC1.0/make_room.c. before the end of file
+d/Arctic/Sebastian/weapon/greataxe.c line 22: parse error before 16]);
+u/s/sebastian/items/sticker.c line 11: Undefined variable 'set' before "extra_look", "Has a
+u/s/sebastian/items/sticker.c line 11: parse error before "extra_look", "Has a
+d/Arctic/Sebastian/rooms/steam/stpub.c line 61: Undefined variable 'band_int' before  {
+d/Arctic/Sebastian/rooms/steam/town2.c line 34: parse error before ));
+d/Arctic/Sebastian/rooms/steam/stpub.c line 41: parse error before  lookin.\n"
+d/Arctic/Sebastian/rooms/steam/stpub.c line 55: Illegal character constant before  strong!\n"; break;
+d/Arctic/Sebastian/rooms/steam/stpub.c line 56: Illegal character constant before  backside, here's a 
+d/Arctic/Sebastian/rooms/steam/stpub.c line 56: Illegal character constant before  a good substitute.\
+d/Arctic/Sebastian/rooms/steam/stpub.c line 67: End of file in string before = '#' || SHELLS[loop
+d/Arctic/Sebastian/rooms/steam/stpub.c line 40: Undefined variable 'Bob' before  the bartender, is a
+d/Arctic/Sebastian/rooms/steam/stpub.c line 40: Undefined variable 'the' before , is a giff.  A hipp
+d/Arctic/Sebastian/rooms/steam/stpub.c line 40: parse error before , is a giff.  A hipp
+d/Arctic/Sebastian/rooms/steam/stpub.c line 55: Illegal character constant before  strong!\n"; break;
+d/Arctic/Sebastian/rooms/steam/stpub.c line 56: Illegal character constant before  backside, here's a 
+d/Arctic/Sebastian/rooms/steam/stpub.c line 56: Illegal character constant before  a good substitute.\

@@ -1,0 +1,5090 @@
+---
+could not bind socket: Address already in use
+Object: /adm/daemons/network/socket#3 at line 136
+
+'<function>' at /adm/daemons/network/I3 (<function>) at :0
+'check_router' at /adm/daemons/network/I3 at line 306
+'create' at /adm/daemons/network/I3 at line 285
+'create' at /adm/daemons/network/socket#3 at line 136
+---
+*Array index out of bounds.
+Object: /d/Prime/Macrosoft/mon/mitch#173 (std/body/attack.c) at line 622
+
+'run_away' at /d/Prime/Macrosoft/mon/mitch#173 (std/body/attack.c) at line 622
+---
+*Array index out of bounds.
+Object: /d/Prime/Macrosoft/mon/mitch#173 (std/body/attack.c) at line 622
+
+'run_away' at /d/Prime/Macrosoft/mon/mitch#173 (std/body/attack.c) at line 622
+---
+*Array index out of bounds.
+Object: /d/Prime/Macrosoft/mon/mitch#173 (std/body/attack.c) at line 622
+
+'run_away' at /d/Prime/Macrosoft/mon/mitch#173 (std/body/attack.c) at line 622
+---
+*Bad argument 1 to tell_object()
+Expected: object Got: 0.
+Object: /u/n/nsd/private/wolf at line 64
+
+'heart_beat' at /u/n/nsd/private/wolf at line 64
+---
+*Bad argument 1 to tell_object()
+Expected: object Got: 0.
+Object: /u/n/nsd/private/wolf at line 64
+
+'heart_beat' at /u/n/nsd/private/wolf at line 64
+---
+*Bad argument 1 to tell_object()
+Expected: object Got: 0.
+Object: /u/n/nsd/private/wolf at line 64
+
+'heart_beat' at /u/n/nsd/private/wolf at line 64
+---
+*Bad argument 1 to tell_object()
+Expected: object Got: 0.
+Object: /u/n/nsd/private/wolf at line 64
+
+'heart_beat' at /u/n/nsd/private/wolf at line 64
+---
+*call_other() couldn't find object
+Object: /d/Prime/Central/mon/townsfolk#465 (std/monster.c) at line 598
+
+'heart_beat' at /d/Prime/Central/mon/townsfolk#465 (std/monster.c) at line 395
+'move_around' at /d/Prime/Central/mon/townsfolk#465 (std/monster.c) at line 598
+---
+*Bad argument 1 to tell_object()
+Expected: object Got: 0.
+Object: /u/n/nsd/private/wolf at line 64
+
+'heart_beat' at /u/n/nsd/private/wolf at line 64
+---
+*Bad argument 1 to tell_object()
+Expected: object Got: 0.
+Object: /u/n/nsd/private/wolf at line 64
+
+'heart_beat' at /u/n/nsd/private/wolf at line 64
+---
+*Bad argument 1 to tell_object()
+Expected: object Got: 0.
+Object: /u/n/nsd/private/wolf at line 64
+
+'heart_beat' at /u/n/nsd/private/wolf at line 64
+---
+*Bad argument 1 to tell_object()
+Expected: object Got: 0.
+Object: /u/n/nsd/private/wolf at line 64
+
+'heart_beat' at /u/n/nsd/private/wolf at line 64
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 704
+
+'heart_beat' at <none> (std/monster.c) at line 402
+'environment_check' at <none> (std/monster.c) at line 704
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 704
+
+'heart_beat' at <none> (std/monster.c) at line 402
+'environment_check' at <none> (std/monster.c) at line 704
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 704
+
+'heart_beat' at <none> (std/monster.c) at line 402
+'environment_check' at <none> (std/monster.c) at line 704
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 704
+
+'heart_beat' at <none> (std/monster.c) at line 402
+'environment_check' at <none> (std/monster.c) at line 704
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 704
+
+'heart_beat' at <none> (d/Planar/Baator/monsters/gelugon.c) at line 78
+'heart_beat' at <none> (std/monster.c) at line 402
+'environment_check' at <none> (std/monster.c) at line 704
+---
+*Bad argument 1 to environment()
+Expected: object Got: 0.
+Object: /d/class/warrior/Sharpshooter/obj/breech_ob#2164 at line 46
+
+'check_wield' at /d/class/warrior/Sharpshooter/obj/breech_ob#2164 at line 46
+---
+*Bad argument 1 to environment()
+Expected: object Got: 0.
+Object: /d/class/warrior/Sharpshooter/obj/breech_ob#2164 at line 46
+
+'check_wield' at /d/class/warrior/Sharpshooter/obj/breech_ob#2164 at line 46
+---
+*Bad argument 1 to environment()
+Expected: object Got: 0.
+Object: /d/class/warrior/Sharpshooter/obj/breech_ob#2164 at line 46
+
+'check_wield' at /d/class/warrior/Sharpshooter/obj/breech_ob#2164 at line 46
+---
+*Bad argument 1 to environment()
+Expected: object Got: 0.
+Object: /d/class/warrior/Sharpshooter/obj/breech_ob#2164 at line 46
+
+'check_wield' at /d/class/warrior/Sharpshooter/obj/breech_ob#2164 at line 46
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: /cmds/file/_ed at line 137
+
+'done_editing' at /cmds/file/_ed at line 137
+---
+*Illegal to move or destruct an object defining actions from a verb function which returns zero.
+Object: <none> (0) at :0
+
+---
+*Illegal to move or destruct an object defining actions from a verb function which returns zero.
+Object: <none> (0) at :0
+
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 902
+
+'heart_beat' at <none> (std/user.c) at line 902
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 902
+
+'heart_beat' at <none> (std/user.c) at line 902
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 902
+
+'heart_beat' at <none> (std/user.c) at line 902
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 902
+
+'heart_beat' at <none> (std/user.c) at line 902
+---
+*Array index out of bounds.
+Object: /adm/obj/master at line 551
+
+'in_read_callback' at /adm/daemons/network/ftpd at line 1792
+'parse_comm' at /adm/daemons/network/ftpd at line 1393
+'ls' at /adm/daemons/network/ftpd at line 656
+'creator_file' at /adm/obj/master at line 551
+---
+*Bad argument 1 to values()
+Expected: mapping Got: 0.
+Object: /d/Arctic/Shya/monsters/icegolem#3237 (std/monster.c) at line 165
+
+'heart_beat' at /d/Arctic/Shya/monsters/icegolem#3237 (std/monster.c) at line 395
+'move_around' at /d/Arctic/Shya/monsters/icegolem#3237 (std/monster.c) at line 610
+'cmd_hook' at /d/Arctic/Shya/monsters/icegolem#3237 (std/monster.c) at line 126
+'cmd_go' at /cmds/std/_go at line 117
+'move_player' at /d/Arctic/Shya/monsters/icegolem#3237 (std/monster.c) at line 165
+---
+*Negative index passed to array.
+Object: /adm/daemons/newuserd at line 729
+
+'get_stat_switch3' at /adm/daemons/newuserd at line 729
+---
+could not bind socket: Address already in use
+Object: /adm/daemons/network/socket#3 at line 136
+
+'<function>' at /adm/daemons/network/I3 (<function>) at :0
+'check_router' at /adm/daemons/network/I3 at line 306
+'create' at /adm/daemons/network/I3 at line 285
+'create' at /adm/daemons/network/socket#3 at line 136
+---
+*Bad argument 1 to tell_object()
+Expected: object Got: 0.
+Object: /u/n/nsd/private/wolf at line 64
+
+'heart_beat' at /u/n/nsd/private/wolf at line 64
+---
+*Bad argument 1 to tell_object()
+Expected: object Got: 0.
+Object: /u/n/nsd/private/wolf at line 64
+
+'heart_beat' at /u/n/nsd/private/wolf at line 64
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 704
+
+'heart_beat' at <none> (std/monster.c) at line 402
+'environment_check' at <none> (std/monster.c) at line 704
+---
+*Division by 0nn
+Object: /cmds/std/_xp at line 56
+
+'cmd_hook' at /std/user#566 at line 143
+'cmd_xp' at /cmds/std/_xp at line 56
+---
+*Bad argument 2 to member_array()
+Expected: string or array Got: 0.
+Object: /d/Prime/Central/room/pawnshop (std/shop.c) at line 377
+
+'s_sell' at /d/Prime/Central/room/pawnshop (std/shop.c) at line 377
+---
+*Bad argument 2 to member_array()
+Expected: string or array Got: 0.
+Object: /d/Prime/Central/room/pawnshop (std/shop.c) at line 377
+
+'s_sell' at /d/Prime/Central/room/pawnshop (std/shop.c) at line 377
+---
+*Bad argument 2 to member_array()
+Expected: string or array Got: 0.
+Object: /d/Prime/Central/room/pawnshop (std/shop.c) at line 377
+
+'s_sell' at /d/Prime/Central/room/pawnshop (std/shop.c) at line 377
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 704
+
+'heart_beat' at <none> (std/monster.c) at line 402
+'environment_check' at <none> (std/monster.c) at line 704
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 704
+
+'heart_beat' at <none> (std/monster.c) at line 402
+'environment_check' at <none> (std/monster.c) at line 704
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 902
+
+'heart_beat' at <none> (std/user.c) at line 902
+---
+*Bad argument 1 to values()
+Expected: mapping Got: 0.
+Object: /adm/daemons/propertyd at line 51
+
+'cmd_hook' at /std/user#234 at line 143
+'cmd_lore' at /cmds/std/_lore at line 131
+'get_xp_rank' at /adm/daemons/propertyd at line 51
+---
+*Bad argument 1 to values()
+Expected: mapping Got: 0.
+Object: /adm/daemons/propertyd at line 51
+
+'cmd_hook' at /std/user#234 at line 143
+'cmd_lore' at /cmds/std/_lore at line 131
+'get_xp_rank' at /adm/daemons/propertyd at line 51
+---
+*Bad argument 1 to values()
+Expected: mapping Got: 0.
+Object: /adm/daemons/propertyd at line 51
+
+'cmd_hook' at /std/user#234 at line 143
+'cmd_lore' at /cmds/std/_lore at line 131
+'get_xp_rank' at /adm/daemons/propertyd at line 51
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 704
+
+'heart_beat' at <none> (std/monster.c) at line 402
+'environment_check' at <none> (std/monster.c) at line 704
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 704
+
+'heart_beat' at <none> (std/monster.c) at line 402
+'environment_check' at <none> (std/monster.c) at line 704
+---
+*Bad argument 1 to tell_object()
+Expected: object Got: 0.
+Object: /u/n/nsd/private/wolf at line 64
+
+'heart_beat' at /u/n/nsd/private/wolf at line 64
+---
+*Bad argument 1 to tell_object()
+Expected: object Got: 0.
+Object: /u/n/nsd/private/wolf at line 65
+
+'heart_beat' at /u/n/nsd/private/wolf at line 65
+---
+*Bad argument 1 to tell_object()
+Expected: object Got: 0.
+Object: /u/n/nsd/private/wolf at line 65
+
+'heart_beat' at /u/n/nsd/private/wolf at line 65
+---
+*Bad argument 1 to explode()
+Expected: string Got: 1.
+Object: /cmds/std/_help at line 460
+
+'cmd_hook' at /std/user#2837 at line 143
+'cmd_help' at /cmds/std/_help at line 369
+'which_doc' at /cmds/std/_help at line 460
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 902
+
+'heart_beat' at <none> (std/user.c) at line 902
+---
+*Bad argument 1 to tell_object()
+Expected: object Got: 0.
+Object: /u/n/nsd/private/wolf at line 76
+
+'heart_beat' at /u/n/nsd/private/wolf at line 76
+---
+*Bad argument 1 to tell_object()
+Expected: object Got: 0.
+Object: /u/n/nsd/private/wolf at line 76
+
+'heart_beat' at /u/n/nsd/private/wolf at line 76
+---
+*Bad argument 1 to tell_object()
+Expected: object Got: 0.
+Object: /u/n/nsd/private/wolf at line 76
+
+'heart_beat' at /u/n/nsd/private/wolf at line 76
+---
+*Bad argument 1 to tell_object()
+Expected: object Got: 0.
+Object: /u/n/nsd/private/wolf at line 76
+
+'heart_beat' at /u/n/nsd/private/wolf at line 76
+---
+*Bad argument 1 to tell_object()
+Expected: object Got: 0.
+Object: /u/n/nsd/private/wolf at line 76
+
+'heart_beat' at /u/n/nsd/private/wolf at line 76
+---
+*Bad argument 1 to tell_object()
+Expected: object Got: 0.
+Object: /u/n/nsd/private/wolf at line 76
+
+'heart_beat' at /u/n/nsd/private/wolf at line 76
+---
+*Bad argument 1 to tell_object()
+Expected: object Got: 0.
+Object: /u/n/nsd/private/wolf at line 76
+
+'heart_beat' at /u/n/nsd/private/wolf at line 76
+---
+*Bad argument 1 to tell_object()
+Expected: object Got: 0.
+Object: /u/n/nsd/private/wolf at line 76
+
+'heart_beat' at /u/n/nsd/private/wolf at line 76
+---
+*Bad argument 1 to tell_object()
+Expected: object Got: 0.
+Object: /u/n/nsd/private/wolf at line 76
+
+'heart_beat' at /u/n/nsd/private/wolf at line 76
+---
+*Bad argument 1 to tell_object()
+Expected: object Got: 0.
+Object: /u/n/nsd/private/wolf at line 76
+
+'heart_beat' at /u/n/nsd/private/wolf at line 76
+---
+*Bad argument 1 to environment()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 557
+
+'heart_beat' at <none> (std/monster.c) at line 395
+'move_around' at <none> (std/monster.c) at line 557
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 704
+
+'heart_beat' at <none> (std/monster.c) at line 402
+'environment_check' at <none> (std/monster.c) at line 704
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 704
+
+'heart_beat' at <none> (std/monster.c) at line 402
+'environment_check' at <none> (std/monster.c) at line 704
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 704
+
+'heart_beat' at <none> (std/monster.c) at line 402
+'environment_check' at <none> (std/monster.c) at line 704
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 704
+
+'heart_beat' at <none> (std/monster.c) at line 402
+'environment_check' at <none> (std/monster.c) at line 704
+---
+*Bad argument 2 to message()
+Expected: string Got: 110.
+Object: /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+
+'heart_beat' at /d/Arctic/Sebastian/mon/penguin#3864 (std/monster.c) at line 396
+'monster_chat' at /d/Arctic/Sebastian/mon/penguin#3864 (std/monster.c) at line 426
+'tell_room' at /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 902
+
+'heart_beat' at <none> (std/user.c) at line 902
+---
+*call_other() couldn't find object
+Object: /d/Prime/Central/mon/townsfolk#1955 (std/monster.c) at line 598
+
+'heart_beat' at /d/Prime/Central/mon/townsfolk#1955 (std/monster.c) at line 395
+'move_around' at /d/Prime/Central/mon/townsfolk#1955 (std/monster.c) at line 598
+---
+*call_other() couldn't find object
+Object: /d/Prime/Central/mon/townsfolk#1955 (std/monster.c) at line 598
+
+'heart_beat' at /d/Prime/Central/mon/townsfolk#1955 (std/monster.c) at line 395
+'move_around' at /d/Prime/Central/mon/townsfolk#1955 (std/monster.c) at line 598
+---
+*call_other() couldn't find object
+Object: /d/Prime/Central/mon/townsfolk#1955 (std/monster.c) at line 598
+
+'heart_beat' at /d/Prime/Central/mon/townsfolk#1955 (std/monster.c) at line 395
+'move_around' at /d/Prime/Central/mon/townsfolk#1955 (std/monster.c) at line 598
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 902
+
+'heart_beat' at <none> (std/user.c) at line 902
+---
+*Bad argument 1 to explode()
+Expected: string Got: 1.
+Object: /cmds/std/_help at line 460
+
+'cmd_hook' at /std/user#4199 at line 143
+'cmd_help' at /cmds/std/_help at line 369
+'which_doc' at /cmds/std/_help at line 460
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 902
+
+'heart_beat' at <none> (std/user.c) at line 902
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /cmds/adm/_nuke at line 98
+
+'confirm_deletion' at /cmds/adm/_nuke at line 98
+---
+could not bind socket: Address already in use
+Object: /adm/daemons/network/socket#14 at line 136
+
+'<function>' at /adm/daemons/network/I3 (<function>) at :0
+'check_router' at /adm/daemons/network/I3 at line 306
+'create' at /adm/daemons/network/I3 at line 285
+'create' at /adm/daemons/network/socket#14 at line 136
+---
+*Bad argument 1 to tell_object()
+Expected: object Got: 0.
+Object: /u/n/nsd/private/wolf at line 83
+
+'heart_beat' at /u/n/nsd/private/wolf at line 83
+---
+*Bad argument 1 to tell_object()
+Expected: object Got: 0.
+Object: /u/n/nsd/private/wolf at line 83
+
+'heart_beat' at /u/n/nsd/private/wolf at line 83
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /cmds/std/_look at line 480
+
+'cmd_hook' at /std/user#1204 at line 143
+'cmd_look' at /cmds/std/_look at line 171
+'look_in_room' at /cmds/std/_look at line 480
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /cmds/std/_look at line 480
+
+'cmd_hook' at /std/user#1204 at line 143
+'cmd_look' at /cmds/std/_look at line 171
+'look_in_room' at /cmds/std/_look at line 480
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: /cmds/file/_ed at line 137
+
+'done_editing' at /cmds/file/_ed at line 137
+---
+*Bad argument 1 to map_delete()
+Expected: mapping Got: 0.
+Object: /std/monster (std/priv.c) at line 152
+
+'heart_beat' at /std/monster at line 378
+'heart_beat' at /std/monster (std/body/attack.c) at line 542
+'unblock_attack' at /std/monster (std/body/attack.c) at line 384
+'delete' at /std/monster (std/object/sec_ob.c) at std/object/prop.c:113
+'delete_access' at /std/monster (std/priv.c) at line 152
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: /cmds/file/_ed at line 137
+
+'done_editing' at /cmds/file/_ed at line 137
+---
+*Bad argument 1 to tell_object()
+Expected: object Got: 0.
+Object: /u/t/tyran/lyra at line 50
+
+'heart_beat' at /u/t/tyran/lyra at line 50
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 903
+
+'heart_beat' at <none> (std/user.c) at line 903
+---
+*call_other() couldn't find object
+Object: /d/Prime/Central/mon/townsfolk#2424 (std/monster.c) at line 598
+
+'heart_beat' at /d/Prime/Central/mon/townsfolk#2424 (std/monster.c) at line 395
+'move_around' at /d/Prime/Central/mon/townsfolk#2424 (std/monster.c) at line 598
+---
+*call_other() couldn't find object
+Object: /d/Prime/Central/mon/townsfolk#2180 (std/monster.c) at line 598
+
+'heart_beat' at /d/Prime/Central/mon/townsfolk#2180 (std/monster.c) at line 395
+'move_around' at /d/Prime/Central/mon/townsfolk#2180 (std/monster.c) at line 598
+---
+*call_other() couldn't find object
+Object: /d/Prime/Central/mon/townsfolk#2424 (std/monster.c) at line 598
+
+'heart_beat' at /d/Prime/Central/mon/townsfolk#2424 (std/monster.c) at line 395
+'move_around' at /d/Prime/Central/mon/townsfolk#2424 (std/monster.c) at line 598
+---
+*Bad argument 1 to environment()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 560
+
+'heart_beat' at <none> (std/monster.c) at line 398
+'move_around' at <none> (std/monster.c) at line 560
+---
+*Bad argument 1 to tell_object()
+Expected: object Got: 0.
+Object: /u/t/tyran/lyra at line 56
+
+'heart_beat' at /u/t/tyran/lyra at line 56
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 707
+
+'heart_beat' at <none> (std/monster.c) at line 405
+'environment_check' at <none> (std/monster.c) at line 707
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 707
+
+'heart_beat' at <none> (std/monster.c) at line 405
+'environment_check' at <none> (std/monster.c) at line 707
+---
+*Bad argument 1 to environment()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 560
+
+'heart_beat' at <none> (std/monster.c) at line 398
+'move_around' at <none> (std/monster.c) at line 560
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 707
+
+'heart_beat' at <none> (std/monster.c) at line 405
+'environment_check' at <none> (std/monster.c) at line 707
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 707
+
+'heart_beat' at <none> (std/monster.c) at line 405
+'environment_check' at <none> (std/monster.c) at line 707
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 707
+
+'heart_beat' at <none> (std/monster.c) at line 405
+'environment_check' at <none> (std/monster.c) at line 707
+---
+*Indexing on illegal type.
+Object: /d/Prime/Macrosoft/mon/gunner#3308 (std/body/attack.c) at line 1452
+
+'heart_beat' at /d/Prime/Macrosoft/mon/gunner#3308 (std/monster.c) at line 395
+'continue_attack' at /d/Prime/Macrosoft/mon/gunner#3308 (std/body/attack.c) at line 1285
+'execute_attack' at /d/Prime/Macrosoft/mon/gunner#3308 (std/body/attack.c) at line 1452
+---
+*Indexing on illegal type.
+Object: /d/Prime/Macrosoft/mon/gunner#3334 (std/body/attack.c) at line 1452
+
+'heart_beat' at /d/Prime/Macrosoft/mon/gunner#3334 (std/monster.c) at line 395
+'continue_attack' at /d/Prime/Macrosoft/mon/gunner#3334 (std/body/attack.c) at line 1285
+'execute_attack' at /d/Prime/Macrosoft/mon/gunner#3334 (std/body/attack.c) at line 1452
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 707
+
+'heart_beat' at <none> (std/monster.c) at line 405
+'environment_check' at <none> (std/monster.c) at line 707
+---
+*Bad argument 1 to environment()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 560
+
+'heart_beat' at <none> (std/monster.c) at line 398
+'move_around' at <none> (std/monster.c) at line 560
+---
+*Illegal to move or destruct an object defining actions from a verb function which returns zero.
+Object: <none> (0) at :0
+
+---
+*Bad argument 1 to environment()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 560
+
+'heart_beat' at <none> (std/monster.c) at line 398
+'move_around' at <none> (std/monster.c) at line 560
+---
+*Bad argument 1 to environment()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 560
+
+'heart_beat' at <none> (std/monster.c) at line 398
+'move_around' at <none> (std/monster.c) at line 560
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 707
+
+'heart_beat' at <none> (std/monster.c) at line 405
+'environment_check' at <none> (std/monster.c) at line 707
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 707
+
+'heart_beat' at <none> (std/monster.c) at line 405
+'environment_check' at <none> (std/monster.c) at line 707
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 903
+
+'heart_beat' at <none> (std/user.c) at line 903
+---
+could not bind socket: Address already in use
+Object: /adm/daemons/network/socket#18 at line 136
+
+'<function>' at /adm/daemons/network/I3 (<function>) at :0
+'check_router' at /adm/daemons/network/I3 at line 306
+'create' at /adm/daemons/network/I3 at line 285
+'create' at /adm/daemons/network/socket#18 at line 136
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /d/Prime/Central/mon/whore#43 at line 89
+
+'annoy' at /d/Prime/Central/mon/whore#43 at line 89
+---
+*call_other() couldn't find object
+Object: /d/Prime/Central/mon/townsfolk#359 (std/monster.c) at line 601
+
+'heart_beat' at /d/Prime/Central/mon/townsfolk#359 (std/monster.c) at line 398
+'move_around' at /d/Prime/Central/mon/townsfolk#359 (std/monster.c) at line 601
+---
+*Illegal to move or destruct an object defining actions from a verb function which returns zero.
+Object: <none> (0) at :0
+
+---
+*Bad argument 2 to exec()
+Object: /adm/obj/simul_efun at adm/simul_efun/overrides.c:87
+
+'exec_old_copy' at /adm/daemons/logind at line 484
+'exec' at /adm/obj/simul_efun at adm/simul_efun/overrides.c:87
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /cmds/std/_look at line 480
+
+'cmd_hook' at /std/user#1458 at line 143
+'cmd_look' at /cmds/std/_look at line 171
+'look_in_room' at /cmds/std/_look at line 480
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 903
+
+'heart_beat' at <none> (std/user.c) at line 903
+---
+*Bad argument 1 to explode()
+Expected: string Got: 1.
+Object: /cmds/std/_help at line 460
+
+'cmd_hook' at /std/user#1772 at line 143
+'cmd_help' at /cmds/std/_help at line 369
+'which_doc' at /cmds/std/_help at line 460
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 903
+
+'heart_beat' at <none> (std/user.c) at line 903
+---
+*Illegal to move or destruct an object defining actions from a verb function which returns zero.
+Object: <none> (0) at :0
+
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 903
+
+'heart_beat' at <none> (std/user.c) at line 903
+---
+*Bad argument 1 to environment()
+Expected: object Got: 0.
+Object: /d/Prime/Magehouse/room4 at line 79
+
+'do_cold_func' at /d/Prime/Magehouse/room4 at line 79
+---
+*Bad argument 1 to userp()
+Expected: object Got: 0.
+Object: /u/s/shya/workroom (std/private_room.c) at line 379
+
+'toss_func' at /u/s/shya/workroom (std/private_room.c) at line 379
+---
+*Bad argument 1 to userp()
+Expected: object Got: 0.
+Object: /u/s/shya/workroom (std/private_room.c) at line 379
+
+'toss_func' at /u/s/shya/workroom (std/private_room.c) at line 379
+---
+*Bad argument 1 to userp()
+Expected: object Got: 0.
+Object: /u/s/shya/workroom (std/private_room.c) at line 379
+
+'toss_func' at /u/s/shya/workroom (std/private_room.c) at line 379
+---
+*Bad argument 1 to userp()
+Expected: object Got: 0.
+Object: /u/s/shya/workroom (std/private_room.c) at line 379
+
+'toss_func' at /u/s/shya/workroom (std/private_room.c) at line 379
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /cmds/std/_look at line 480
+
+'cmd_hook' at /std/user#2399 at line 143
+'cmd_look' at /cmds/std/_look at line 171
+'look_in_room' at /cmds/std/_look at line 480
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: /cmds/file/_ed at line 137
+
+'done_editing' at /cmds/file/_ed at line 137
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /d/Ocean/Main/weap/levsword#2691 at line 38
+
+'heart_beat' at /d/Ocean/Main/mon/leviathan#2690 (std/monster.c) at line 395
+'continue_attack' at /d/Ocean/Main/mon/leviathan#2690 (std/body/attack.c) at line 1285
+'execute_attack' at /d/Ocean/Main/mon/leviathan#2690 (std/body/attack.c) at line 1587
+'hit_func' at /d/Ocean/Main/weap/levsword#2691 at line 38
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /d/Ocean/Main/weap/levsword#2699 at line 38
+
+'heart_beat' at /d/Ocean/Main/mon/leviathan#2698 (std/monster.c) at line 395
+'continue_attack' at /d/Ocean/Main/mon/leviathan#2698 (std/body/attack.c) at line 1285
+'execute_attack' at /d/Ocean/Main/mon/leviathan#2698 (std/body/attack.c) at line 1587
+'hit_func' at /d/Ocean/Main/weap/levsword#2699 at line 38
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 903
+
+'heart_beat' at <none> (std/user.c) at line 903
+---
+*Indexing on illegal type.
+Object: /d/Ocean/adm/d_master (adm/obj/master/d_master.c) at line 92
+
+'cmd_hook' at /std/user#2636 at line 143
+'cmd_cd' at /cmds/file/_cd at line 114
+'valid_read' at /adm/obj/master at line 265
+'check_access' at /adm/obj/master (adm/obj/master/access.c) at line 144
+'valid_access' at /d/Ocean/adm/d_master (adm/obj/master/d_master.c) at line 75
+'check_access' at /d/Ocean/adm/d_master (adm/obj/master/d_master.c) at line 92
+---
+*Indexing on illegal type.
+Object: /d/Ocean/adm/d_master (adm/obj/master/d_master.c) at line 92
+
+'cmd_hook' at /std/user#2636 at line 143
+'cmd_cd' at /cmds/file/_cd at line 114
+'valid_read' at /adm/obj/master at line 265
+'check_access' at /adm/obj/master (adm/obj/master/access.c) at line 144
+'valid_access' at /d/Ocean/adm/d_master (adm/obj/master/d_master.c) at line 75
+'check_access' at /d/Ocean/adm/d_master (adm/obj/master/d_master.c) at line 92
+---
+*Bad argument 1 to explode()
+Expected: string Got: 1.
+Object: /cmds/std/_help at line 460
+
+'cmd_hook' at /std/user#2701 at line 143
+'cmd_help' at /cmds/std/_help at line 369
+'which_doc' at /cmds/std/_help at line 460
+---
+*Bad argument 1 to explode()
+Expected: string Got: 1.
+Object: /cmds/std/_help at line 460
+
+'cmd_hook' at /std/user#2701 at line 143
+'cmd_help' at /cmds/std/_help at line 369
+'which_doc' at /cmds/std/_help at line 460
+---
+could not bind socket: Address already in use
+Object: /adm/daemons/network/socket#3 at line 136
+
+'<function>' at /adm/daemons/network/I3 (<function>) at :0
+'check_router' at /adm/daemons/network/I3 at line 306
+'create' at /adm/daemons/network/I3 at line 285
+'create' at /adm/daemons/network/socket#3 at line 136
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /d/Ocean/Main/weap/levsword#72 at line 38
+
+'heart_beat' at /d/Ocean/Main/mon/leviathan#71 (std/monster.c) at line 395
+'continue_attack' at /d/Ocean/Main/mon/leviathan#71 (std/body/attack.c) at line 1285
+'execute_attack' at /d/Ocean/Main/mon/leviathan#71 (std/body/attack.c) at line 1587
+'hit_func' at /d/Ocean/Main/weap/levsword#72 at line 38
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /d/Ocean/Main/weap/levsword#72 at line 38
+
+'heart_beat' at /d/Ocean/Main/mon/leviathan#71 (std/monster.c) at line 395
+'continue_attack' at /d/Ocean/Main/mon/leviathan#71 (std/body/attack.c) at line 1285
+'execute_attack' at /d/Ocean/Main/mon/leviathan#71 (std/body/attack.c) at line 1587
+'hit_func' at /d/Ocean/Main/weap/levsword#72 at line 38
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /d/Ocean/Main/weap/levsword#72 at line 38
+
+'heart_beat' at /d/Ocean/Main/mon/leviathan#71 (std/monster.c) at line 395
+'continue_attack' at /d/Ocean/Main/mon/leviathan#71 (std/body/attack.c) at line 1285
+'execute_attack' at /d/Ocean/Main/mon/leviathan#71 (std/body/attack.c) at line 1587
+'hit_func' at /d/Ocean/Main/weap/levsword#72 at line 38
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /d/Ocean/Main/weap/levsword#97 at line 38
+
+'heart_beat' at /d/Ocean/Main/mon/leviathan#96 (std/monster.c) at line 395
+'continue_attack' at /d/Ocean/Main/mon/leviathan#96 (std/body/attack.c) at line 1285
+'execute_attack' at /d/Ocean/Main/mon/leviathan#96 (std/body/attack.c) at line 1587
+'hit_func' at /d/Ocean/Main/weap/levsword#97 at line 38
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /d/Ocean/Main/weap/levsword#100 at line 38
+
+'heart_beat' at /d/Ocean/Main/mon/leviathan#99 (std/monster.c) at line 395
+'continue_attack' at /d/Ocean/Main/mon/leviathan#99 (std/body/attack.c) at line 1285
+'execute_attack' at /d/Ocean/Main/mon/leviathan#99 (std/body/attack.c) at line 1587
+'hit_func' at /d/Ocean/Main/weap/levsword#100 at line 38
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /d/Ocean/Main/weap/levsword#103 at line 38
+
+'heart_beat' at /d/Ocean/Main/mon/leviathan#102 (std/monster.c) at line 395
+'continue_attack' at /d/Ocean/Main/mon/leviathan#102 (std/body/attack.c) at line 1285
+'execute_attack' at /d/Ocean/Main/mon/leviathan#102 (std/body/attack.c) at line 1587
+'hit_func' at /d/Ocean/Main/weap/levsword#103 at line 38
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /d/Ocean/Main/weap/levsword#103 at line 38
+
+'heart_beat' at /d/Ocean/Main/mon/leviathan#102 (std/monster.c) at line 395
+'continue_attack' at /d/Ocean/Main/mon/leviathan#102 (std/body/attack.c) at line 1285
+'execute_attack' at /d/Ocean/Main/mon/leviathan#102 (std/body/attack.c) at line 1587
+'hit_func' at /d/Ocean/Main/weap/levsword#103 at line 38
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /d/Ocean/Main/weap/levsword#111 at line 38
+
+'heart_beat' at /d/Ocean/Main/mon/leviathan#110 (std/monster.c) at line 395
+'continue_attack' at /d/Ocean/Main/mon/leviathan#110 (std/body/attack.c) at line 1285
+'execute_attack' at /d/Ocean/Main/mon/leviathan#110 (std/body/attack.c) at line 1587
+'hit_func' at /d/Ocean/Main/weap/levsword#111 at line 38
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /d/Ocean/Main/weap/levsword#118 at line 38
+
+'heart_beat' at /d/Ocean/Main/mon/leviathan#117 (std/monster.c) at line 395
+'continue_attack' at /d/Ocean/Main/mon/leviathan#117 (std/body/attack.c) at line 1285
+'execute_attack' at /d/Ocean/Main/mon/leviathan#117 (std/body/attack.c) at line 1587
+'hit_func' at /d/Ocean/Main/weap/levsword#118 at line 38
+---
+*Bad argument 2 to message()
+Expected: string Got: 105.
+Object: /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+
+'heart_beat' at /d/Arctic/Sebastian/mon/penguin#126 (std/monster.c) at line 399
+'monster_chat' at /d/Arctic/Sebastian/mon/penguin#126 (std/monster.c) at line 429
+'tell_room' at /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /d/Ocean/Main/weap/levsword#138 at line 38
+
+'heart_beat' at /d/Ocean/Main/mon/leviathan#137 (std/monster.c) at line 395
+'continue_attack' at /d/Ocean/Main/mon/leviathan#137 (std/body/attack.c) at line 1285
+'execute_attack' at /d/Ocean/Main/mon/leviathan#137 (std/body/attack.c) at line 1587
+'hit_func' at /d/Ocean/Main/weap/levsword#138 at line 38
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /d/Ocean/Main/weap/levsword#147 at line 38
+
+'heart_beat' at /d/Ocean/Main/mon/leviathan#146 (std/monster.c) at line 395
+'continue_attack' at /d/Ocean/Main/mon/leviathan#146 (std/body/attack.c) at line 1285
+'execute_attack' at /d/Ocean/Main/mon/leviathan#146 (std/body/attack.c) at line 1587
+'hit_func' at /d/Ocean/Main/weap/levsword#147 at line 38
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /cmds/std/_look at line 480
+
+'cmd_hook' at /std/user#150 at line 143
+'cmd_look' at /cmds/std/_look at line 171
+'look_in_room' at /cmds/std/_look at line 480
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /d/Ocean/Main/weap/levsword#234 at line 38
+
+'heart_beat' at /d/Ocean/Main/mon/leviathan#233 (std/monster.c) at line 395
+'continue_attack' at /d/Ocean/Main/mon/leviathan#233 (std/body/attack.c) at line 1285
+'execute_attack' at /d/Ocean/Main/mon/leviathan#233 (std/body/attack.c) at line 1587
+'hit_func' at /d/Ocean/Main/weap/levsword#234 at line 38
+---
+*Bad argument 1 to explode()
+Expected: string Got: 1.
+Object: /cmds/std/_help at line 460
+
+'cmd_hook' at /std/user#601 at line 143
+'cmd_help' at /cmds/std/_help at line 369
+'which_doc' at /cmds/std/_help at line 460
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 903
+
+'heart_beat' at <none> (std/user.c) at line 903
+---
+*Bad argument 1 to userp()
+Expected: object Got: 0.
+Object: /u/s/sebastian/workroom (std/private_room.c) at line 379
+
+'toss_func' at /u/s/sebastian/workroom (std/private_room.c) at line 379
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'cmd_hook' at /std/user#670 at line 143
+'cmd_locate' at /cmds/wiz/_locate at line 20
+'send_locate_req' at /adm/daemons/network/I3/locate at line 5
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 903
+
+'heart_beat' at <none> (std/user.c) at line 903
+---
+*Bad argument 2 to message()
+Expected: string Got: 104.
+Object: /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+
+'heart_beat' at /d/Arctic/Sebastian/mon/penguin#1091 (std/monster.c) at line 399
+'monster_chat' at /d/Arctic/Sebastian/mon/penguin#1091 (std/monster.c) at line 429
+'tell_room' at /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+---
+*Bad argument 2 to message()
+Expected: string Got: 10.
+Object: /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+
+'heart_beat' at /d/Arctic/Sebastian/mon/penguin#1091 (std/monster.c) at line 399
+'monster_chat' at /d/Arctic/Sebastian/mon/penguin#1091 (std/monster.c) at line 429
+'tell_room' at /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+---
+*Can't move object inside itself.
+Object: /u/n/nsd/private/figures/bas#1046 (std/object/ob_logic.c) at line 90
+
+'cmd_hook' at /std/user#670 at line 143
+'cmd_gate' at /cmds/object/_gate at line 83
+'move' at /u/n/nsd/private/figures/bas#1046 (std/object/ob_logic.c) at line 90
+---
+*Can't move object inside itself.
+Object: /u/n/nsd/private/figures/bas#1046 (std/object/ob_logic.c) at line 90
+
+'cmd_hook' at /std/user#670 at line 143
+'cmd_gate' at /cmds/object/_gate at line 83
+'move' at /u/n/nsd/private/figures/bas#1046 (std/object/ob_logic.c) at line 90
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'cmd_hook' at /std/user#1199 at line 143
+'cmd_locate' at /cmds/wiz/_locate at line 20
+'send_locate_req' at /adm/daemons/network/I3/locate at line 5
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Bad argument 1 to all_inventory()
+Expected: object Got: 0.
+Object: /d/attic/Fooland/coffin#1223 at line 46
+
+'cmd_hook' at /std/user#670 at line 143
+'cmd_look' at /cmds/std/_look at line 136
+'look_at_item' at /cmds/std/_look at line 457
+'item_description' at /cmds/std/_look at line 371
+'query' at /d/attic/Fooland/coffin#1223 (std/object/ob.c) at std/object/prop.c:169
+'query_long' at /d/attic/Fooland/coffin#1223 at line 46
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /cmds/std/_look at line 480
+
+'cmd_hook' at /std/user#718 at line 143
+'cmd_look' at /cmds/std/_look at line 171
+'look_in_room' at /cmds/std/_look at line 480
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /cmds/std/_look at line 480
+
+'cmd_hook' at /std/user#2061 at line 143
+'cmd_look' at /cmds/std/_look at line 171
+'look_in_room' at /cmds/std/_look at line 480
+---
+*call_other() couldn't find object
+Object: /d/Prime/Central/mon/townsfolk#1682 (std/monster.c) at line 601
+
+'heart_beat' at /d/Prime/Central/mon/townsfolk#1682 (std/monster.c) at line 398
+'move_around' at /d/Prime/Central/mon/townsfolk#1682 (std/monster.c) at line 601
+---
+*call_other() couldn't find object
+Object: /d/Prime/Central/mon/townsfolk#2124 (std/monster.c) at line 601
+
+'heart_beat' at /d/Prime/Central/mon/townsfolk#2124 (std/monster.c) at line 398
+'move_around' at /d/Prime/Central/mon/townsfolk#2124 (std/monster.c) at line 601
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 903
+
+'heart_beat' at <none> (std/user.c) at line 903
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /cmds/std/_look at line 480
+
+'cmd_hook' at /std/user#2238 at line 143
+'cmd_look' at /cmds/std/_look at line 171
+'look_in_room' at /cmds/std/_look at line 480
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 903
+
+'heart_beat' at <none> (std/user.c) at line 903
+---
+*environment() of destructed object.
+Object: <none> (std/object/ob_logic.c) at line 65
+
+'heart_beat' at /u/s/shallar/monster/dsword#2393 (std/monster.c) at line 395
+'continue_attack' at /u/s/shallar/monster/dsword#2393 (std/body/attack.c) at line 1186
+'die' at /u/s/shallar/monster/dsword#2393 at line 53
+'die' at /u/s/shallar/monster/dsword#2393 (std/body/attack.c) at line 976
+'move' at <none> (std/object/ob_logic.c) at line 90
+'init' at <none> (u/s/shallar/monster/dsword-corpse.c) at line 10
+'move' at <none> (std/object/ob_logic.c) at line 65
+---
+*Can't move object inside itself.
+Object: /u/n/nsd/private/figures/chronos#2473 (std/object/ob_logic.c) at line 90
+
+'cmd_hook' at /std/user#2456 at line 145
+'cmd_move' at /cmds/object/_move at line 45
+'move' at /u/n/nsd/private/figures/chronos#2473 (std/object/ob_logic.c) at line 90
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: /cmds/file/_ed at line 137
+
+'done_editing' at /cmds/file/_ed at line 137
+---
+*Bad argument 1 to environment()
+Expected: object Got: 0.
+Object: /d/Prime/Central/mon/whore#2298 at line 52
+
+'acquire_hero' at /d/Prime/Central/mon/whore#2298 at line 52
+---
+could not bind socket: Address already in use
+Object: /adm/daemons/network/socket#7 at line 136
+
+'<function>' at /adm/daemons/network/I3 (<function>) at :0
+'check_router' at /adm/daemons/network/I3 at line 306
+'create' at /adm/daemons/network/I3 at line 285
+'create' at /adm/daemons/network/socket#7 at line 136
+---
+*Array index out of bounds.
+Object: /d/Prime/Macrosoft/mon/mitch#213 (std/body/attack.c) at line 636
+
+'run_away' at /d/Prime/Macrosoft/mon/mitch#213 (std/body/attack.c) at line 636
+---
+*Array index out of bounds.
+Object: /d/Prime/Macrosoft/mon/mitch#213 (std/body/attack.c) at line 636
+
+'run_away' at /d/Prime/Macrosoft/mon/mitch#213 (std/body/attack.c) at line 636
+---
+*Array index out of bounds.
+Object: /d/Prime/Macrosoft/mon/mitch#213 (std/body/attack.c) at line 636
+
+'run_away' at /d/Prime/Macrosoft/mon/mitch#213 (std/body/attack.c) at line 636
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 905
+
+'heart_beat' at <none> (std/user.c) at line 905
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 905
+
+'heart_beat' at <none> (std/user.c) at line 905
+---
+*Illegal to move or destruct an object defining actions from a verb function which returns zero.
+Object: <none> (0) at :0
+
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 905
+
+'heart_beat' at <none> (std/user.c) at line 905
+---
+*Bad argument 1 to keys()
+Expected: mapping Got: "suffocation".
+Object: /std/user#1359 (std/body/attack.c) at line 148
+
+'heart_beat' at /std/user#1359 at line 874
+'heart_beat' at /std/user#1359 (std/body/attack.c) at line 553
+'receive_damage' at /std/user#1359 (std/body/attack.c) at line 148
+---
+*Bad argument 2 to message()
+Expected: string Got: 32.
+Object: /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+
+'heart_beat' at /d/Arctic/Sebastian/mon/penguin#1611 (std/monster.c) at line 399
+'monster_chat' at /d/Arctic/Sebastian/mon/penguin#1611 (std/monster.c) at line 429
+'tell_room' at /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+---
+*Bad argument 2 to message()
+Expected: string Got: 101.
+Object: /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+
+'heart_beat' at /d/Arctic/Sebastian/mon/penguin#1633 (std/monster.c) at line 399
+'monster_chat' at /d/Arctic/Sebastian/mon/penguin#1633 (std/monster.c) at line 429
+'tell_room' at /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+---
+*Bad argument 2 to message()
+Expected: string Got: 102.
+Object: /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+
+'heart_beat' at /d/Arctic/Sebastian/mon/penguin#1629 (std/monster.c) at line 399
+'monster_chat' at /d/Arctic/Sebastian/mon/penguin#1629 (std/monster.c) at line 429
+'tell_room' at /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+---
+*Bad argument 2 to message()
+Expected: string Got: 111.
+Object: /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+
+'heart_beat' at /d/Arctic/Sebastian/mon/penguin#1631 (std/monster.c) at line 399
+'monster_chat' at /d/Arctic/Sebastian/mon/penguin#1631 (std/monster.c) at line 429
+'tell_room' at /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+---
+*Bad argument 2 to message()
+Expected: string Got: 114.
+Object: /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+
+'heart_beat' at /d/Arctic/Sebastian/mon/penguin#1672 (std/monster.c) at line 399
+'monster_chat' at /d/Arctic/Sebastian/mon/penguin#1672 (std/monster.c) at line 429
+'tell_room' at /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+---
+*Bad argument 2 to message()
+Expected: string Got: 102.
+Object: /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+
+'heart_beat' at /d/Arctic/Sebastian/mon/penguin#1670 (std/monster.c) at line 399
+'monster_chat' at /d/Arctic/Sebastian/mon/penguin#1670 (std/monster.c) at line 429
+'tell_room' at /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+---
+*Bad argument 2 to message()
+Expected: string Got: 115.
+Object: /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+
+'heart_beat' at /d/Arctic/Sebastian/mon/penguin#1668 (std/monster.c) at line 399
+'monster_chat' at /d/Arctic/Sebastian/mon/penguin#1668 (std/monster.c) at line 429
+'tell_room' at /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+---
+*Bad argument 2 to message()
+Expected: string Got: 112.
+Object: /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+
+'heart_beat' at /d/Arctic/Sebastian/mon/penguin#1969 (std/monster.c) at line 399
+'monster_chat' at /d/Arctic/Sebastian/mon/penguin#1969 (std/monster.c) at line 429
+'tell_room' at /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+---
+*Bad argument 2 to message()
+Expected: string Got: 105.
+Object: /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+
+'heart_beat' at /d/Arctic/Sebastian/mon/penguin#1973 (std/monster.c) at line 399
+'monster_chat' at /d/Arctic/Sebastian/mon/penguin#1973 (std/monster.c) at line 429
+'tell_room' at /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+---
+*Bad argument 1 to explode()
+Expected: string Got: 1.
+Object: /cmds/std/_help at line 460
+
+'cmd_hook' at /std/user#2182 at line 145
+'cmd_help' at /cmds/std/_help at line 369
+'which_doc' at /cmds/std/_help at line 460
+---
+*Bad argument 1 to explode()
+Expected: string Got: 1.
+Object: /cmds/std/_help at line 460
+
+'cmd_hook' at /std/user#2182 at line 145
+'cmd_help' at /cmds/std/_help at line 369
+'which_doc' at /cmds/std/_help at line 460
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 905
+
+'heart_beat' at <none> (std/user.c) at line 905
+---
+*Bad argument 1 to file_name()
+Expected: object Got: 0.
+Object: /std/user#2838 at line 246
+
+'cmd_hook' at /std/user#2838 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#2838 at line 246
+---
+*Bad argument 1 to environment()
+Expected: object Got: 0.
+Object: <none> (adm/obj/death_ob.c) at line 63
+
+'scroll_sequence' at <none> (adm/obj/death_ob.c) at line 180
+'do_death' at <none> (adm/obj/death_ob.c) at line 226
+'remove' at <none> (adm/obj/death_ob.c) at line 63
+---
+*Bad argument 2 to message()
+Expected: string Got: 116.
+Object: /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+
+'heart_beat' at /d/Arctic/Sebastian/mon/penguin#2321 (std/monster.c) at line 399
+'monster_chat' at /d/Arctic/Sebastian/mon/penguin#2321 (std/monster.c) at line 429
+'tell_room' at /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 905
+
+'heart_beat' at <none> (std/user.c) at line 905
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 905
+
+'heart_beat' at <none> (std/user.c) at line 905
+---
+*Bad argument 1 to environment()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 560
+
+'heart_beat' at <none> (std/monster.c) at line 398
+'move_around' at <none> (std/monster.c) at line 560
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 707
+
+'heart_beat' at <none> (std/monster.c) at line 405
+'environment_check' at <none> (std/monster.c) at line 707
+---
+*Bad argument 1 to environment()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 560
+
+'heart_beat' at <none> (std/monster.c) at line 398
+'move_around' at <none> (std/monster.c) at line 560
+---
+*Bad argument 1 to environment()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 560
+
+'heart_beat' at <none> (std/monster.c) at line 398
+'move_around' at <none> (std/monster.c) at line 560
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 707
+
+'heart_beat' at <none> (std/monster.c) at line 405
+'environment_check' at <none> (std/monster.c) at line 707
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 707
+
+'heart_beat' at <none> (std/monster.c) at line 405
+'environment_check' at <none> (std/monster.c) at line 707
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 707
+
+'heart_beat' at <none> (std/monster.c) at line 405
+'environment_check' at <none> (std/monster.c) at line 707
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /d/Prime/Macrosoft/armor/cec300#3923 at line 41
+
+'clean_up' at /d/Prime/Macrosoft/mon/5boss (std/monster.c) at line 850
+'remove' at /d/Prime/Macrosoft/armor/cec300#3923 (std/armor.c) at line 44
+'unequip' at /d/Prime/Macrosoft/armor/cec300#3923 (std/armor.c) at line 67
+'unequipme' at /d/Prime/Macrosoft/armor/cec300#3923 at line 41
+---
+*Bad argument 1 to environment()
+Expected: object Got: 0.
+Object: /d/class/warrior/Sharpshooter/obj/breech_ob#4041 at line 46
+
+'check_wield' at /d/class/warrior/Sharpshooter/obj/breech_ob#4041 at line 46
+---
+*Bad argument 1 to environment()
+Expected: object Got: 0.
+Object: /d/class/warrior/Sharpshooter/obj/breech_ob#4041 at line 46
+
+'check_wield' at /d/class/warrior/Sharpshooter/obj/breech_ob#4041 at line 46
+---
+*Bad argument 1 to environment()
+Expected: object Got: 0.
+Object: /d/class/warrior/Sharpshooter/obj/breech_ob#4041 at line 46
+
+'check_wield' at /d/class/warrior/Sharpshooter/obj/breech_ob#4041 at line 46
+---
+*Bad argument 2 to message()
+Expected: string Got: 103.
+Object: /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+
+'heart_beat' at /d/Arctic/Sebastian/mon/penguin#2486 (std/monster.c) at line 399
+'monster_chat' at /d/Arctic/Sebastian/mon/penguin#2486 (std/monster.c) at line 429
+'tell_room' at /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+---
+*Bad argument 2 to message()
+Expected: string Got: 110.
+Object: /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+
+'heart_beat' at /d/Arctic/Sebastian/mon/penguin#4113 (std/monster.c) at line 399
+'monster_chat' at /d/Arctic/Sebastian/mon/penguin#4113 (std/monster.c) at line 429
+'tell_room' at /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+---
+*Bad argument 2 to message()
+Expected: string Got: 105.
+Object: /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+
+'heart_beat' at /d/Arctic/Sebastian/mon/penguin#3432 (std/monster.c) at line 399
+'monster_chat' at /d/Arctic/Sebastian/mon/penguin#3432 (std/monster.c) at line 429
+'tell_room' at /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+---
+*Bad argument 2 to message()
+Expected: string Got: 102.
+Object: /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+
+'heart_beat' at /d/Arctic/Sebastian/mon/penguin#4115 (std/monster.c) at line 399
+'monster_chat' at /d/Arctic/Sebastian/mon/penguin#4115 (std/monster.c) at line 429
+'tell_room' at /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+---
+*Bad argument 2 to message()
+Expected: string Got: 114.
+Object: /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+
+'heart_beat' at /d/Arctic/Sebastian/mon/penguin#3430 (std/monster.c) at line 399
+'monster_chat' at /d/Arctic/Sebastian/mon/penguin#3430 (std/monster.c) at line 429
+'tell_room' at /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+---
+*Bad argument 2 to message()
+Expected: string Got: 110.
+Object: /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+
+'heart_beat' at /d/Arctic/Sebastian/mon/penguin#3596 (std/monster.c) at line 399
+'monster_chat' at /d/Arctic/Sebastian/mon/penguin#3596 (std/monster.c) at line 429
+'tell_room' at /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+---
+*Bad argument 2 to message()
+Expected: string Got: 103.
+Object: /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+
+'heart_beat' at /d/Arctic/Sebastian/mon/penguin#3764 (std/monster.c) at line 399
+'monster_chat' at /d/Arctic/Sebastian/mon/penguin#3764 (std/monster.c) at line 429
+'tell_room' at /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+---
+*Bad argument 2 to message()
+Expected: string Got: 110.
+Object: /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+
+'heart_beat' at /d/Arctic/Sebastian/mon/penguin#3434 (std/monster.c) at line 399
+'monster_chat' at /d/Arctic/Sebastian/mon/penguin#3434 (std/monster.c) at line 429
+'tell_room' at /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+---
+*Bad argument 2 to message()
+Expected: string Got: 110.
+Object: /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+
+'heart_beat' at /d/Arctic/Sebastian/mon/penguin#2622 (std/monster.c) at line 399
+'monster_chat' at /d/Arctic/Sebastian/mon/penguin#2622 (std/monster.c) at line 429
+'tell_room' at /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+---
+*Bad argument 2 to message()
+Expected: string Got: 101.
+Object: /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+
+'heart_beat' at /d/Arctic/Sebastian/mon/penguin#2618 (std/monster.c) at line 399
+'monster_chat' at /d/Arctic/Sebastian/mon/penguin#2618 (std/monster.c) at line 429
+'tell_room' at /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+---
+*Bad argument 2 to message()
+Expected: string Got: 103.
+Object: /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+
+'heart_beat' at /d/Arctic/Sebastian/mon/penguin#2319 (std/monster.c) at line 399
+'monster_chat' at /d/Arctic/Sebastian/mon/penguin#2319 (std/monster.c) at line 429
+'tell_room' at /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+---
+*Bad argument 2 to message()
+Expected: string Got: 10.
+Object: /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+
+'heart_beat' at /d/Arctic/Sebastian/mon/penguin#2490 (std/monster.c) at line 399
+'monster_chat' at /d/Arctic/Sebastian/mon/penguin#2490 (std/monster.c) at line 429
+'tell_room' at /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+---
+*Bad argument 2 to message()
+Expected: string Got: 114.
+Object: /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+
+'heart_beat' at /d/Arctic/Sebastian/mon/penguin#2802 (std/monster.c) at line 399
+'monster_chat' at /d/Arctic/Sebastian/mon/penguin#2802 (std/monster.c) at line 429
+'tell_room' at /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+---
+*Bad argument 2 to message()
+Expected: string Got: 115.
+Object: /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+
+'heart_beat' at /d/Arctic/Sebastian/mon/penguin#3185 (std/monster.c) at line 399
+'monster_chat' at /d/Arctic/Sebastian/mon/penguin#3185 (std/monster.c) at line 429
+'tell_room' at /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+---
+*Bad argument 2 to message()
+Expected: string Got: 103.
+Object: /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+
+'heart_beat' at /d/Arctic/Sebastian/mon/penguin#2317 (std/monster.c) at line 399
+'monster_chat' at /d/Arctic/Sebastian/mon/penguin#2317 (std/monster.c) at line 429
+'tell_room' at /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+---
+*Bad argument 2 to message()
+Expected: string Got: 119.
+Object: /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+
+'heart_beat' at /d/Arctic/Sebastian/mon/penguin#3594 (std/monster.c) at line 399
+'monster_chat' at /d/Arctic/Sebastian/mon/penguin#3594 (std/monster.c) at line 429
+'tell_room' at /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+---
+*Bad argument 2 to message()
+Expected: string Got: 116.
+Object: /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+
+'heart_beat' at /d/Arctic/Sebastian/mon/penguin#3768 (std/monster.c) at line 399
+'monster_chat' at /d/Arctic/Sebastian/mon/penguin#3768 (std/monster.c) at line 429
+'tell_room' at /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+---
+*Bad argument 2 to message()
+Expected: string Got: 107.
+Object: /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+
+'heart_beat' at /d/Arctic/Sebastian/mon/penguin#3181 (std/monster.c) at line 399
+'monster_chat' at /d/Arctic/Sebastian/mon/penguin#3181 (std/monster.c) at line 429
+'tell_room' at /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+---
+*Bad argument 2 to message()
+Expected: string Got: 32.
+Object: /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+
+'heart_beat' at /d/Arctic/Sebastian/mon/penguin#2488 (std/monster.c) at line 399
+'monster_chat' at /d/Arctic/Sebastian/mon/penguin#2488 (std/monster.c) at line 429
+'tell_room' at /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+---
+*Bad argument 2 to message()
+Expected: string Got: 101.
+Object: /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+
+'heart_beat' at /d/Arctic/Sebastian/mon/penguin#2804 (std/monster.c) at line 399
+'monster_chat' at /d/Arctic/Sebastian/mon/penguin#2804 (std/monster.c) at line 429
+'tell_room' at /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+---
+*Bad argument 2 to message()
+Expected: string Got: 101.
+Object: /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+
+'heart_beat' at /d/Arctic/Sebastian/mon/penguin#2620 (std/monster.c) at line 399
+'monster_chat' at /d/Arctic/Sebastian/mon/penguin#2620 (std/monster.c) at line 429
+'tell_room' at /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+---
+*Bad argument 2 to message()
+Expected: string Got: 112.
+Object: /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+
+'heart_beat' at /d/Arctic/Sebastian/mon/penguin#3766 (std/monster.c) at line 399
+'monster_chat' at /d/Arctic/Sebastian/mon/penguin#3766 (std/monster.c) at line 429
+'tell_room' at /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+---
+*Bad argument 2 to message()
+Expected: string Got: 97.
+Object: /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+
+'heart_beat' at /d/Arctic/Sebastian/mon/penguin#4111 (std/monster.c) at line 399
+'monster_chat' at /d/Arctic/Sebastian/mon/penguin#4111 (std/monster.c) at line 429
+'tell_room' at /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+---
+*Bad argument 2 to message()
+Expected: string Got: 115.
+Object: /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+
+'heart_beat' at /d/Arctic/Sebastian/mon/penguin#3598 (std/monster.c) at line 399
+'monster_chat' at /d/Arctic/Sebastian/mon/penguin#3598 (std/monster.c) at line 429
+'tell_room' at /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+---
+*Bad argument 2 to message()
+Expected: string Got: 110.
+Object: /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+
+'heart_beat' at /d/Arctic/Sebastian/mon/penguin#2800 (std/monster.c) at line 399
+'monster_chat' at /d/Arctic/Sebastian/mon/penguin#2800 (std/monster.c) at line 429
+'tell_room' at /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+---
+*Bad argument 2 to message()
+Expected: string Got: 119.
+Object: /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+
+'heart_beat' at /d/Arctic/Sebastian/mon/penguin#3183 (std/monster.c) at line 399
+'monster_chat' at /d/Arctic/Sebastian/mon/penguin#3183 (std/monster.c) at line 429
+'tell_room' at /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+---
+*Bad argument 2 to message()
+Expected: string Got: 111.
+Object: /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+
+'heart_beat' at /d/Arctic/Sebastian/mon/penguin#1971 (std/monster.c) at line 399
+'monster_chat' at /d/Arctic/Sebastian/mon/penguin#1971 (std/monster.c) at line 429
+'tell_room' at /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+---
+*Bad argument 1 to environment()
+Expected: object Got: 0.
+Object: /d/class/warrior/Sharpshooter/obj/breech_ob#4099 at line 46
+
+'check_wield' at /d/class/warrior/Sharpshooter/obj/breech_ob#4099 at line 46
+---
+*Bad argument 1 to environment()
+Expected: object Got: 0.
+Object: /d/class/warrior/Sharpshooter/obj/breech_ob#4099 at line 46
+
+'check_wield' at /d/class/warrior/Sharpshooter/obj/breech_ob#4099 at line 46
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /d/Prime/Macrosoft/armor/cec300#4451 at line 41
+
+'clean_up' at /d/Prime/Macrosoft/mon/5boss#4450 (std/monster.c) at line 850
+'remove' at /d/Prime/Macrosoft/armor/cec300#4451 (std/armor.c) at line 44
+'unequip' at /d/Prime/Macrosoft/armor/cec300#4451 (std/armor.c) at line 67
+'unequipme' at /d/Prime/Macrosoft/armor/cec300#4451 at line 41
+---
+*Bad argument 1 to environment()
+Expected: object Got: 0.
+Object: /d/class/warrior/Sharpshooter/obj/breech_ob#4401 at line 46
+
+'check_wield' at /d/class/warrior/Sharpshooter/obj/breech_ob#4401 at line 46
+---
+*Bad argument 1 to environment()
+Expected: object Got: 0.
+Object: /d/class/warrior/Sharpshooter/obj/breech_ob#4401 at line 46
+
+'check_wield' at /d/class/warrior/Sharpshooter/obj/breech_ob#4401 at line 46
+---
+*Bad argument 1 to environment()
+Expected: object Got: 0.
+Object: /d/class/warrior/Sharpshooter/obj/breech_ob#4401 at line 46
+
+'check_wield' at /d/class/warrior/Sharpshooter/obj/breech_ob#4401 at line 46
+---
+*Bad argument 1 to environment()
+Expected: object Got: 0.
+Object: /d/class/warrior/Sharpshooter/obj/breech_ob#4401 at line 46
+
+'check_wield' at /d/class/warrior/Sharpshooter/obj/breech_ob#4401 at line 46
+---
+*Bad argument 2 to message()
+Expected: string Got: 111.
+Object: /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+
+'heart_beat' at /d/Arctic/Sebastian/mon/penguin#4769 (std/monster.c) at line 399
+'monster_chat' at /d/Arctic/Sebastian/mon/penguin#4769 (std/monster.c) at line 429
+'tell_room' at /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+---
+*Bad argument 2 to message()
+Expected: string Got: 10.
+Object: /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+
+'heart_beat' at /d/Arctic/Sebastian/mon/penguin#4613 (std/monster.c) at line 399
+'monster_chat' at /d/Arctic/Sebastian/mon/penguin#4613 (std/monster.c) at line 429
+'tell_room' at /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+---
+could not bind socket: Address already in use
+Object: /adm/daemons/network/socket#3 at line 136
+
+'<function>' at /adm/daemons/network/I3 (<function>) at :0
+'check_router' at /adm/daemons/network/I3 at line 306
+'create' at /adm/daemons/network/I3 at line 285
+'create' at /adm/daemons/network/socket#3 at line 136
+---
+*Bad argument 2 to exec()
+Object: /adm/obj/simul_efun at adm/simul_efun/overrides.c:87
+
+'exec_old_copy' at /adm/daemons/logind at line 484
+'exec' at /adm/obj/simul_efun at adm/simul_efun/overrides.c:87
+---
+*Bad argument 2 to message()
+Expected: string Got: 104.
+Object: /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+
+'heart_beat' at /d/Arctic/Sebastian/mon/penguin#227 (std/monster.c) at line 399
+'monster_chat' at /d/Arctic/Sebastian/mon/penguin#227 (std/monster.c) at line 429
+'tell_room' at /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 905
+
+'heart_beat' at <none> (std/user.c) at line 905
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 905
+
+'heart_beat' at <none> (std/user.c) at line 905
+---
+*Bad argument 2 to message()
+Expected: string Got: 32.
+Object: /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+
+'heart_beat' at /d/Arctic/Sebastian/mon/penguin#388 (std/monster.c) at line 399
+'monster_chat' at /d/Arctic/Sebastian/mon/penguin#388 (std/monster.c) at line 429
+'tell_room' at /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+---
+*Bad argument 2 to message()
+Expected: string Got: 102.
+Object: /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+
+'heart_beat' at /d/Arctic/Sebastian/mon/penguin#386 (std/monster.c) at line 399
+'monster_chat' at /d/Arctic/Sebastian/mon/penguin#386 (std/monster.c) at line 429
+'tell_room' at /adm/obj/simul_efun at adm/simul_efun/tell_room.c:4
+---
+*Bad argument 1 to explode()
+Expected: string Got: ({ /* sizeof() == 2 */
+  "cave mouth",
+  "mouth"
+}).
+Object: /cmds/std/_look at line 392
+
+'cmd_hook' at /std/user#220 at line 145
+'cmd_look' at /cmds/std/_look at line 179
+'cmd_look' at /cmds/std/_look at line 136
+'look_at_item' at /cmds/std/_look at line 457
+'item_description' at /cmds/std/_look at line 392
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /cmds/std/_look at line 480
+
+'cmd_hook' at /std/user#1330 at line 145
+'cmd_look' at /cmds/std/_look at line 171
+'look_in_room' at /cmds/std/_look at line 480
+---
+*Bad argument 1 to explode()
+Expected: string Got: 1.
+Object: /cmds/std/_help at line 460
+
+'cmd_hook' at /std/user#1330 at line 145
+'cmd_help' at /cmds/std/_help at line 369
+'which_doc' at /cmds/std/_help at line 460
+---
+*Bad argument 1 to explode()
+Expected: string Got: 1.
+Object: /cmds/std/_help at line 460
+
+'which_doc' at /cmds/std/_help at line 460
+---
+*Bad argument 1 to explode()
+Expected: string Got: 1.
+Object: /cmds/std/_help at line 460
+
+'which_doc' at /cmds/std/_help at line 460
+---
+*Bad argument 1 to explode()
+Expected: string Got: 1.
+Object: /cmds/std/_help at line 460
+
+'cmd_hook' at /std/user#1330 at line 145
+'cmd_help' at /cmds/std/_help at line 369
+'which_doc' at /cmds/std/_help at line 460
+---
+*Bad argument 1 to explode()
+Expected: string Got: 1.
+Object: /cmds/std/_help at line 460
+
+'cmd_hook' at /std/user#1330 at line 145
+'cmd_help' at /cmds/std/_help at line 369
+'which_doc' at /cmds/std/_help at line 460
+---
+*Bad argument 1 to explode()
+Expected: string Got: 1.
+Object: /cmds/std/_help at line 460
+
+'cmd_hook' at /std/user#1330 at line 145
+'cmd_help' at /cmds/std/_help at line 369
+'which_doc' at /cmds/std/_help at line 460
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 905
+
+'heart_beat' at <none> (std/user.c) at line 905
+---
+could not bind socket: Address already in use
+Object: /adm/daemons/network/socket#3 at line 136
+
+'<function>' at /adm/daemons/network/I3 (<function>) at :0
+'check_router' at /adm/daemons/network/I3 at line 306
+'create' at /adm/daemons/network/I3 at line 285
+'create' at /adm/daemons/network/socket#3 at line 136
+---
+could not bind socket: Address already in use
+Object: /adm/daemons/network/socket#53 at line 136
+
+'<function>' at /adm/daemons/network/I3 (<function>) at :0
+'check_router' at /adm/daemons/network/I3 at line 306
+'create' at /adm/daemons/network/I3 at line 285
+'create' at /adm/daemons/network/socket#53 at line 136
+---
+*Bad argument 1 to explode()
+Expected: string Got: 1.
+Object: /cmds/std/_help at line 460
+
+'which_doc' at /cmds/std/_help at line 460
+---
+*Bad argument 1 to environment()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 560
+
+'heart_beat' at <none> (std/monster.c) at line 398
+'move_around' at <none> (std/monster.c) at line 560
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 707
+
+'heart_beat' at <none> (std/monster.c) at line 405
+'environment_check' at <none> (std/monster.c) at line 707
+---
+*Bad argument 1 to environment()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 560
+
+'heart_beat' at <none> (std/monster.c) at line 398
+'move_around' at <none> (std/monster.c) at line 560
+---
+*Array index out of bounds.
+Object: /d/Prime/Macrosoft/mon/mitch#86 (std/body/attack.c) at line 636
+
+'run_away' at /d/Prime/Macrosoft/mon/mitch#86 (std/body/attack.c) at line 636
+---
+*Array index out of bounds.
+Object: /d/Prime/Macrosoft/mon/mitch#86 (std/body/attack.c) at line 636
+
+'run_away' at /d/Prime/Macrosoft/mon/mitch#86 (std/body/attack.c) at line 636
+---
+*Bad argument 1 to environment()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 560
+
+'heart_beat' at <none> (std/monster.c) at line 398
+'move_around' at <none> (std/monster.c) at line 560
+---
+*Indexing on illegal type.
+Object: /d/Prime/Macrosoft/mon/gunner#257 (std/body/attack.c) at line 1460
+
+'heart_beat' at /d/Prime/Macrosoft/mon/gunner#257 (std/monster.c) at line 395
+'continue_attack' at /d/Prime/Macrosoft/mon/gunner#257 (std/body/attack.c) at line 1293
+'execute_attack' at /d/Prime/Macrosoft/mon/gunner#257 (std/body/attack.c) at line 1460
+---
+*Indexing on illegal type.
+Object: /d/Prime/Macrosoft/mon/gunner#268 (std/body/attack.c) at line 1460
+
+'heart_beat' at /d/Prime/Macrosoft/mon/gunner#268 (std/monster.c) at line 395
+'continue_attack' at /d/Prime/Macrosoft/mon/gunner#268 (std/body/attack.c) at line 1293
+'execute_attack' at /d/Prime/Macrosoft/mon/gunner#268 (std/body/attack.c) at line 1460
+---
+*Bad argument 1 to environment()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 560
+
+'heart_beat' at <none> (std/monster.c) at line 398
+'move_around' at <none> (std/monster.c) at line 560
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 707
+
+'heart_beat' at <none> (std/monster.c) at line 405
+'environment_check' at <none> (std/monster.c) at line 707
+---
+*Bad argument 1 to environment()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 560
+
+'heart_beat' at <none> (std/monster.c) at line 398
+'move_around' at <none> (std/monster.c) at line 560
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 707
+
+'heart_beat' at <none> (std/monster.c) at line 405
+'environment_check' at <none> (std/monster.c) at line 707
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 707
+
+'heart_beat' at <none> (d/Planar/Baator/monsters/magmagolem.c) at line 75
+'heart_beat' at <none> (std/monster.c) at line 405
+'environment_check' at <none> (std/monster.c) at line 707
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /d/class/warrior/Sharpshooter/obj/breech_ob#806 at line 56
+
+'undo' at /d/class/warrior/Sharpshooter/obj/breech_ob#806 at line 56
+---
+*Bad argument 2 to member_array()
+Expected: string or array Got: 0.
+Object: /d/Prime/Central/room/pawnshop (std/shop.c) at line 377
+
+'s_sell' at /d/Prime/Central/room/pawnshop (std/shop.c) at line 377
+---
+*Bad argument 1 to environment()
+Expected: object Got: 0.
+Object: /d/class/warrior/Sharpshooter/obj/breech_ob#952 at line 46
+
+'check_wield' at /d/class/warrior/Sharpshooter/obj/breech_ob#952 at line 46
+---
+*Bad argument 1 to environment()
+Expected: object Got: 0.
+Object: /d/class/warrior/Sharpshooter/obj/breech_ob#949 at line 46
+
+'check_wield' at /d/class/warrior/Sharpshooter/obj/breech_ob#949 at line 46
+---
+*Bad argument 1 to environment()
+Expected: object Got: 0.
+Object: /d/class/warrior/Sharpshooter/obj/breech_ob#949 at line 46
+
+'check_wield' at /d/class/warrior/Sharpshooter/obj/breech_ob#949 at line 46
+---
+*Bad argument 1 to environment()
+Expected: object Got: 0.
+Object: /d/class/warrior/Sharpshooter/obj/breech_ob#949 at line 46
+
+'check_wield' at /d/class/warrior/Sharpshooter/obj/breech_ob#949 at line 46
+---
+*Bad argument 1 to environment()
+Expected: object Got: 0.
+Object: /d/class/warrior/Sharpshooter/obj/breech_ob#949 at line 46
+
+'check_wield' at /d/class/warrior/Sharpshooter/obj/breech_ob#949 at line 46
+---
+*Bad argument 1 to userp()
+Expected: object Got: 0.
+Object: /u/s/shallar/workroom (std/private_room.c) at line 379
+
+'toss_func' at /u/s/shallar/workroom (std/private_room.c) at line 379
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 707
+
+'heart_beat' at <none> (std/monster.c) at line 405
+'environment_check' at <none> (std/monster.c) at line 707
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 707
+
+'heart_beat' at <none> (std/monster.c) at line 405
+'environment_check' at <none> (std/monster.c) at line 707
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 707
+
+'heart_beat' at <none> (std/monster.c) at line 405
+'environment_check' at <none> (std/monster.c) at line 707
+---
+*Bad argument 1 to userp()
+Expected: object Got: 0.
+Object: /u/s/shallar/workroom (std/private_room.c) at line 379
+
+'toss_func' at /u/s/shallar/workroom (std/private_room.c) at line 379
+---
+*Bad argument 1 to userp()
+Expected: object Got: 0.
+Object: /u/s/shallar/workroom (std/private_room.c) at line 379
+
+'toss_func' at /u/s/shallar/workroom (std/private_room.c) at line 379
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 707
+
+'heart_beat' at <none> (std/monster.c) at line 405
+'environment_check' at <none> (std/monster.c) at line 707
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 905
+
+'heart_beat' at <none> (std/user.c) at line 905
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 905
+
+'heart_beat' at <none> (std/user.c) at line 905
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 905
+
+'heart_beat' at <none> (std/user.c) at line 905
+---
+could not bind socket: Address already in use
+Object: /adm/daemons/network/socket#212 at line 136
+
+'<function>' at /adm/daemons/network/I3 (<function>) at :0
+'check_router' at /adm/daemons/network/I3 at line 306
+'create' at /adm/daemons/network/I3 at line 285
+'create' at /adm/daemons/network/socket#212 at line 136
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 707
+
+'heart_beat' at <none> (std/monster.c) at line 405
+'environment_check' at <none> (std/monster.c) at line 707
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 707
+
+'heart_beat' at <none> (std/monster.c) at line 405
+'environment_check' at <none> (std/monster.c) at line 707
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 707
+
+'heart_beat' at <none> (std/monster.c) at line 405
+'environment_check' at <none> (std/monster.c) at line 707
+---
+*call_other() couldn't find object
+Object: /d/Prime/Central/mon/townsfolk#1683 (std/monster.c) at line 601
+
+'heart_beat' at /d/Prime/Central/mon/townsfolk#1683 (std/monster.c) at line 398
+'move_around' at /d/Prime/Central/mon/townsfolk#1683 (std/monster.c) at line 601
+---
+*Bad argument 1 to environment()
+Expected: object Got: 0.
+Object: <none> (adm/obj/death_ob.c) at line 63
+
+'scroll_sequence' at <none> (adm/obj/death_ob.c) at line 180
+'do_death' at <none> (adm/obj/death_ob.c) at line 226
+'remove' at <none> (adm/obj/death_ob.c) at line 63
+---
+*call_other() couldn't find object
+Object: /d/Prime/Central/mon/townsfolk#1958 (std/monster.c) at line 601
+
+'heart_beat' at /d/Prime/Central/mon/townsfolk#1958 (std/monster.c) at line 398
+'move_around' at /d/Prime/Central/mon/townsfolk#1958 (std/monster.c) at line 601
+---
+*call_other() couldn't find object
+Object: /d/Prime/Central/mon/townsfolk#1448 (std/monster.c) at line 601
+
+'heart_beat' at /d/Prime/Central/mon/townsfolk#1448 (std/monster.c) at line 398
+'move_around' at /d/Prime/Central/mon/townsfolk#1448 (std/monster.c) at line 601
+---
+could not bind socket: Address already in use
+Object: /adm/daemons/network/socket#9 at line 136
+
+'<function>' at /adm/daemons/network/I3 (<function>) at :0
+'check_router' at /adm/daemons/network/I3 at line 306
+'create' at /adm/daemons/network/I3 at line 285
+'create' at /adm/daemons/network/socket#9 at line 136
+---
+*Array index out of bounds.
+Object: /d/Prime/Macrosoft/mon/mitch#165 (std/body/attack.c) at line 636
+
+'run_away' at /d/Prime/Macrosoft/mon/mitch#165 (std/body/attack.c) at line 636
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 707
+
+'heart_beat' at <none> (d/Planar/Baator/monsters/troll.c) at line 61
+'heart_beat' at <none> (std/monster.c) at line 405
+'environment_check' at <none> (std/monster.c) at line 707
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 707
+
+'heart_beat' at <none> (std/monster.c) at line 405
+'environment_check' at <none> (std/monster.c) at line 707
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 707
+
+'heart_beat' at <none> (std/monster.c) at line 405
+'environment_check' at <none> (std/monster.c) at line 707
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 707
+
+'heart_beat' at <none> (std/monster.c) at line 405
+'environment_check' at <none> (std/monster.c) at line 707
+---
+*Bad argument 2 to exec()
+Object: /adm/obj/simul_efun at adm/simul_efun/overrides.c:87
+
+'exec_old_copy' at /adm/daemons/logind at line 484
+'exec' at /adm/obj/simul_efun at adm/simul_efun/overrides.c:87
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 905
+
+'heart_beat' at <none> (std/user.c) at line 905
+---
+*call_other() couldn't find object
+Object: /d/Prime/Central/mon/townsfolk#1040 (std/monster.c) at line 601
+
+'heart_beat' at /d/Prime/Central/mon/townsfolk#1040 (std/monster.c) at line 398
+'move_around' at /d/Prime/Central/mon/townsfolk#1040 (std/monster.c) at line 601
+---
+*call_other() couldn't find object
+Object: /d/Prime/Central/mon/townsfolk#1039 (std/monster.c) at line 601
+
+'heart_beat' at /d/Prime/Central/mon/townsfolk#1039 (std/monster.c) at line 398
+'move_around' at /d/Prime/Central/mon/townsfolk#1039 (std/monster.c) at line 601
+---
+*call_other() couldn't find object
+Object: /d/Prime/Central/mon/townsfolk#1039 (std/monster.c) at line 601
+
+'heart_beat' at /d/Prime/Central/mon/townsfolk#1039 (std/monster.c) at line 398
+'move_around' at /d/Prime/Central/mon/townsfolk#1039 (std/monster.c) at line 601
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#1267 at line 923
+
+'net_dead' at /std/user#1267 at line 923
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 905
+
+'heart_beat' at <none> (std/user.c) at line 905
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 707
+
+'heart_beat' at <none> (d/Planar/Baator/monsters/magmagolem.c) at line 75
+'heart_beat' at <none> (std/monster.c) at line 405
+'environment_check' at <none> (std/monster.c) at line 707
+---
+*Bad argument 1 to environment()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 560
+
+'heart_beat' at <none> (std/monster.c) at line 398
+'move_around' at <none> (std/monster.c) at line 560
+---
+*Bad argument 1 to environment()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 560
+
+'heart_beat' at <none> (std/monster.c) at line 398
+'move_around' at <none> (std/monster.c) at line 560
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 707
+
+'heart_beat' at <none> (std/monster.c) at line 405
+'environment_check' at <none> (std/monster.c) at line 707
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 707
+
+'heart_beat' at <none> (std/monster.c) at line 405
+'environment_check' at <none> (std/monster.c) at line 707
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 707
+
+'heart_beat' at <none> (std/monster.c) at line 405
+'environment_check' at <none> (std/monster.c) at line 707
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 707
+
+'heart_beat' at <none> (std/monster.c) at line 405
+'environment_check' at <none> (std/monster.c) at line 707
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 707
+
+'heart_beat' at <none> (d/Planar/Baator/monsters/magmagolem.c) at line 75
+'heart_beat' at <none> (std/monster.c) at line 405
+'environment_check' at <none> (std/monster.c) at line 707
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 707
+
+'heart_beat' at <none> (d/Planar/Baator/monsters/magmagolem.c) at line 75
+'heart_beat' at <none> (std/monster.c) at line 405
+'environment_check' at <none> (std/monster.c) at line 707
+---
+*Bad argument 1 to environment()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 560
+
+'heart_beat' at <none> (d/Planar/Baator/monsters/magmagolem.c) at line 75
+'heart_beat' at <none> (std/monster.c) at line 398
+'move_around' at <none> (std/monster.c) at line 560
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 707
+
+'heart_beat' at <none> (std/monster.c) at line 405
+'environment_check' at <none> (std/monster.c) at line 707
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 707
+
+'heart_beat' at <none> (std/monster.c) at line 405
+'environment_check' at <none> (std/monster.c) at line 707
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 707
+
+'heart_beat' at <none> (std/monster.c) at line 405
+'environment_check' at <none> (std/monster.c) at line 707
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 707
+
+'heart_beat' at <none> (d/Planar/Baator/monsters/magmagolem.c) at line 75
+'heart_beat' at <none> (std/monster.c) at line 405
+'environment_check' at <none> (std/monster.c) at line 707
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 707
+
+'heart_beat' at <none> (std/monster.c) at line 405
+'environment_check' at <none> (std/monster.c) at line 707
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 707
+
+'heart_beat' at <none> (d/Planar/Baator/monsters/magmagolem.c) at line 75
+'heart_beat' at <none> (std/monster.c) at line 405
+'environment_check' at <none> (std/monster.c) at line 707
+---
+*Too long evaluation. Execution aborted.
+Object: /std/user#1606 (std/object/sec_ob.c) at std/object/prop.c:158
+
+'cmd_hook' at /std/user#1606 at line 145
+'cmd_clone' at /cmds/object/_clone at line 69
+'say' at /adm/obj/simul_efun at adm/simul_efun/say.c:27
+'receive_message' at /u/s/shya/tiamat#2739 (std/body.c) at line 338
+'query' at /std/user#1606 (std/object/sec_ob.c) at std/object/prop.c:158
+---
+*Bad argument 1 to environment()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 560
+
+'heart_beat' at <none> (std/monster.c) at line 398
+'move_around' at <none> (std/monster.c) at line 560
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit4 (std/room.c) at line 79
+
+'reset' at /d/Planar/Baator/pit4 (std/room.c) at line 79
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit6 (std/room.c) at line 79
+
+'reset' at /d/Planar/Baator/pit6 (std/room.c) at line 79
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit3 (std/room.c) at line 79
+
+'reset' at /d/Planar/Baator/pit3 (std/room.c) at line 79
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 905
+
+'heart_beat' at <none> (std/user.c) at line 905
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit4 (std/room.c) at line 79
+
+'reset' at /d/Planar/Baator/pit4 (std/room.c) at line 79
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit6 (std/room.c) at line 79
+
+'reset' at /d/Planar/Baator/pit6 (std/room.c) at line 79
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit3 (std/room.c) at line 79
+
+'reset' at /d/Planar/Baator/pit3 (std/room.c) at line 79
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit4 (std/room.c) at line 79
+
+'reset' at /d/Planar/Baator/pit4 (std/room.c) at line 79
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: /cmds/file/_ed at line 137
+
+'done_editing' at /cmds/file/_ed at line 137
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit6 (std/room.c) at line 79
+
+'reset' at /d/Planar/Baator/pit6 (std/room.c) at line 79
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit3 (std/room.c) at line 79
+
+'reset' at /d/Planar/Baator/pit3 (std/room.c) at line 79
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit4 (std/room.c) at line 79
+
+'reset' at /d/Planar/Baator/pit4 (std/room.c) at line 79
+---
+*Too long evaluation. Execution aborted.
+Object: /std/user#3323 (std/object/sec_ob.c) at std/object/prop_logic.c:16
+
+'cmd_hook' at /std/user#3323 at line 145
+'cmd_clone' at /cmds/object/_clone at line 69
+'say' at /adm/obj/simul_efun at adm/simul_efun/say.c:27
+'receive_message' at /u/s/shya/tiamat#3978 (std/body.c) at line 338
+'query' at /std/user#3323 (std/object/sec_ob.c) at std/object/prop.c:158
+'_query' at /std/user#3323 (std/object/sec_ob.c) at std/object/prop_logic.c:16
+---
+*Too long evaluation. Execution aborted.
+Object: /u/s/shya/workroom (std/object/ob.c) at std/object/prop.c:158
+
+'cmd_hook' at /std/user#3323 at line 145
+'cmd_clone' at /cmds/object/_clone at line 73
+'move' at /u/s/shya/tiamat#4235 (std/object/ob_logic.c) at line 82
+'query' at /u/s/shya/workroom (std/object/ob.c) at std/object/prop.c:158
+---
+*Too long evaluation. Execution aborted.
+Object: /u/s/shya/tiamat#4345 (std/priv.c) at line 198
+
+'cmd_hook' at /std/user#3323 at line 145
+'cmd_clone' at /cmds/object/_clone at line 73
+'move' at /u/s/shya/tiamat#4345 (std/object/ob_logic.c) at line 90
+'init' at /u/s/shya/workroom at line 57
+'say' at /adm/obj/simul_efun at adm/simul_efun/say.c:27
+'receive_message' at /u/s/shya/tiamat#4329 (std/body.c) at line 327
+'query' at /u/s/shya/tiamat#4345 (std/object/sec_ob.c) at std/object/prop.c:154
+'valid_read' at /u/s/shya/tiamat#4345 (std/priv.c) at line 198
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit6 (std/room.c) at line 79
+
+'reset' at /d/Planar/Baator/pit6 (std/room.c) at line 79
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit3 (std/room.c) at line 79
+
+'reset' at /d/Planar/Baator/pit3 (std/room.c) at line 79
+---
+*Too long evaluation. Execution aborted.
+Object: /std/user#3323 (std/object/sec_ob.c) at std/object/prop.c:158
+
+'cmd_hook' at /std/user#3323 at line 145
+'cmd_clone' at /cmds/object/_clone at line 69
+'say' at /adm/obj/simul_efun at adm/simul_efun/say.c:27
+'receive_message' at /u/s/shya/tiamat#4432 (std/body.c) at line 338
+'query' at /std/user#3323 (std/object/sec_ob.c) at std/object/prop.c:158
+---
+*Too long evaluation. Execution aborted.
+Object: /u/s/shya/tiamat#4432 (std/object/sec_ob.c) at std/object/prop_logic.c:25
+
+'cmd_hook' at /std/user#3323 at line 145
+'cmd_clone' at /cmds/object/_clone at line 73
+'move' at /u/s/shya/tiamat#4471 (std/object/ob_logic.c) at line 90
+'init' at /u/s/shya/tiamat#4432 (std/monster.c) at line 493
+'query' at /u/s/shya/tiamat#4432 (std/object/sec_ob.c) at std/object/prop.c:158
+'_query' at /u/s/shya/tiamat#4432 (std/object/sec_ob.c) at std/object/prop_logic.c:25
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit4 (std/room.c) at line 79
+
+'reset' at /d/Planar/Baator/pit4 (std/room.c) at line 79
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit6 (std/room.c) at line 79
+
+'reset' at /d/Planar/Baator/pit6 (std/room.c) at line 79
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit3 (std/room.c) at line 79
+
+'reset' at /d/Planar/Baator/pit3 (std/room.c) at line 79
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 905
+
+'heart_beat' at <none> (std/user.c) at line 905
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit4 (std/room.c) at line 79
+
+'reset' at /d/Planar/Baator/pit4 (std/room.c) at line 79
+---
+*call_other() couldn't find object
+Object: /d/Prime/Central/mon/townsfolk#1777 (std/monster.c) at line 601
+
+'heart_beat' at /d/Prime/Central/mon/townsfolk#1777 (std/monster.c) at line 398
+'move_around' at /d/Prime/Central/mon/townsfolk#1777 (std/monster.c) at line 601
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 707
+
+'heart_beat' at <none> (std/monster.c) at line 405
+'environment_check' at <none> (std/monster.c) at line 707
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 707
+
+'heart_beat' at <none> (std/monster.c) at line 405
+'environment_check' at <none> (std/monster.c) at line 707
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 905
+
+'heart_beat' at <none> (std/user.c) at line 905
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit6 (std/room.c) at line 79
+
+'reset' at /d/Planar/Baator/pit6 (std/room.c) at line 79
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit4 (std/room.c) at line 79
+
+'reset' at /d/Planar/Baator/pit4 (std/room.c) at line 79
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit3 (std/room.c) at line 79
+
+'reset' at /d/Planar/Baator/pit3 (std/room.c) at line 79
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 707
+
+'heart_beat' at <none> (std/monster.c) at line 405
+'environment_check' at <none> (std/monster.c) at line 707
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit6 (std/room.c) at line 79
+
+'reset' at /d/Planar/Baator/pit6 (std/room.c) at line 79
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit4 (std/room.c) at line 79
+
+'reset' at /d/Planar/Baator/pit4 (std/room.c) at line 79
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit3 (std/room.c) at line 79
+
+'reset' at /d/Planar/Baator/pit3 (std/room.c) at line 79
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit4 (std/room.c) at line 79
+
+'reset' at /d/Planar/Baator/pit4 (std/room.c) at line 79
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit6 (std/room.c) at line 79
+
+'reset' at /d/Planar/Baator/pit6 (std/room.c) at line 79
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit3 (std/room.c) at line 79
+
+'reset' at /d/Planar/Baator/pit3 (std/room.c) at line 79
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit4 (std/room.c) at line 79
+
+'reset' at /d/Planar/Baator/pit4 (std/room.c) at line 79
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit6 (std/room.c) at line 79
+
+'reset' at /d/Planar/Baator/pit6 (std/room.c) at line 79
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit3 (std/room.c) at line 79
+
+'reset' at /d/Planar/Baator/pit3 (std/room.c) at line 79
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit4 (std/room.c) at line 79
+
+'reset' at /d/Planar/Baator/pit4 (std/room.c) at line 79
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit3 (std/room.c) at line 79
+
+'reset' at /d/Planar/Baator/pit3 (std/room.c) at line 79
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit6 (std/room.c) at line 79
+
+'reset' at /d/Planar/Baator/pit6 (std/room.c) at line 79
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit4 (std/room.c) at line 79
+
+'reset' at /d/Planar/Baator/pit4 (std/room.c) at line 79
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit3 (std/room.c) at line 79
+
+'reset' at /d/Planar/Baator/pit3 (std/room.c) at line 79
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit6 (std/room.c) at line 79
+
+'reset' at /d/Planar/Baator/pit6 (std/room.c) at line 79
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit4 (std/room.c) at line 79
+
+'reset' at /d/Planar/Baator/pit4 (std/room.c) at line 79
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit3 (std/room.c) at line 79
+
+'reset' at /d/Planar/Baator/pit3 (std/room.c) at line 79
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit6 (std/room.c) at line 79
+
+'reset' at /d/Planar/Baator/pit6 (std/room.c) at line 79
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit4 (std/room.c) at line 79
+
+'reset' at /d/Planar/Baator/pit4 (std/room.c) at line 79
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit3 (std/room.c) at line 79
+
+'reset' at /d/Planar/Baator/pit3 (std/room.c) at line 79
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit6 (std/room.c) at line 79
+
+'reset' at /d/Planar/Baator/pit6 (std/room.c) at line 79
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit4 (std/room.c) at line 79
+
+'reset' at /d/Planar/Baator/pit4 (std/room.c) at line 79
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit3 (std/room.c) at line 79
+
+'reset' at /d/Planar/Baator/pit3 (std/room.c) at line 79
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit4 (std/room.c) at line 79
+
+'reset' at /d/Planar/Baator/pit4 (std/room.c) at line 79
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit6 (std/room.c) at line 79
+
+'reset' at /d/Planar/Baator/pit6 (std/room.c) at line 79
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit3 (std/room.c) at line 79
+
+'reset' at /d/Planar/Baator/pit3 (std/room.c) at line 79
+---
+could not bind socket: Address already in use
+Object: /adm/daemons/network/socket#4 at line 136
+
+'<function>' at /adm/daemons/network/I3 (<function>) at :0
+'check_router' at /adm/daemons/network/I3 at line 306
+'create' at /adm/daemons/network/I3 at line 285
+'create' at /adm/daemons/network/socket#4 at line 136
+---
+*Bad argument 1 to explode()
+Expected: string Got: 1.
+Object: /cmds/std/_help at line 460
+
+'cmd_hook' at /std/user#311 at line 145
+'cmd_help' at /cmds/std/_help at line 369
+'which_doc' at /cmds/std/_help at line 460
+---
+*Bad argument 1 to explode()
+Expected: string Got: 1.
+Object: /cmds/std/_help at line 460
+
+'cmd_hook' at /std/user#311 at line 145
+'cmd_help' at /cmds/std/_help at line 369
+'which_doc' at /cmds/std/_help at line 460
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 905
+
+'heart_beat' at <none> (std/user.c) at line 905
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /cmds/std/_look at line 480
+
+'cmd_hook' at /std/user#693 at line 145
+'cmd_look' at /cmds/std/_look at line 171
+'look_in_room' at /cmds/std/_look at line 480
+---
+*Bad argument 1 to environment()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 560
+
+'heart_beat' at <none> (d/Prime/Cyanide/monsters/balrog.c) at line 101
+'heart_beat' at <none> (std/monster.c) at line 398
+'move_around' at <none> (std/monster.c) at line 560
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: /cmds/file/_ed at line 137
+
+'done_editing' at /cmds/file/_ed at line 137
+---
+*call_other() couldn't find object
+Object: /d/Prime/Central/mon/townsfolk#1204 (std/monster.c) at line 601
+
+'heart_beat' at /d/Prime/Central/mon/townsfolk#1204 (std/monster.c) at line 398
+'move_around' at /d/Prime/Central/mon/townsfolk#1204 (std/monster.c) at line 601
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 905
+
+'heart_beat' at <none> (std/user.c) at line 905
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 905
+
+'heart_beat' at <none> (std/user.c) at line 905
+---
+*call_other() couldn't find object
+Object: /d/Prime/Central/mon/townsfolk#221 (std/monster.c) at line 601
+
+'heart_beat' at /d/Prime/Central/mon/townsfolk#221 (std/monster.c) at line 398
+'move_around' at /d/Prime/Central/mon/townsfolk#221 (std/monster.c) at line 601
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 905
+
+'heart_beat' at <none> (std/user.c) at line 905
+---
+*Bad argument 1 to explode()
+Expected: string Got: 1.
+Object: /cmds/std/_help at line 460
+
+'cmd_hook' at /std/user#1871 at line 145
+'cmd_help' at /cmds/std/_help at line 369
+'which_doc' at /cmds/std/_help at line 460
+---
+*Bad argument 1 to environment()
+Expected: object Got: 0.
+Object: /d/class/warrior/Sharpshooter/obj/breech_ob#1207 at line 46
+
+'check_wield' at /d/class/warrior/Sharpshooter/obj/breech_ob#1207 at line 46
+---
+*Bad argument 1 to environment()
+Expected: object Got: 0.
+Object: /d/class/warrior/Sharpshooter/obj/breech_ob#1207 at line 46
+
+'check_wield' at /d/class/warrior/Sharpshooter/obj/breech_ob#1207 at line 46
+---
+*Bad argument 1 to environment()
+Expected: object Got: 0.
+Object: /d/class/warrior/Sharpshooter/obj/breech_ob#1207 at line 46
+
+'check_wield' at /d/class/warrior/Sharpshooter/obj/breech_ob#1207 at line 46
+---
+*call_other() couldn't find object
+Object: /d/Prime/Central/mon/townsfolk#2090 (std/monster.c) at line 601
+
+'heart_beat' at /d/Prime/Central/mon/townsfolk#2090 (std/monster.c) at line 398
+'move_around' at /d/Prime/Central/mon/townsfolk#2090 (std/monster.c) at line 601
+---
+*call_other() couldn't find object
+Object: /d/Prime/Central/mon/townsfolk#1426 (std/monster.c) at line 601
+
+'heart_beat' at /d/Prime/Central/mon/townsfolk#1426 (std/monster.c) at line 398
+'move_around' at /d/Prime/Central/mon/townsfolk#1426 (std/monster.c) at line 601
+---
+*call_other() couldn't find object
+Object: /d/Prime/Central/mon/townsfolk#1652 (std/monster.c) at line 601
+
+'heart_beat' at /d/Prime/Central/mon/townsfolk#1652 (std/monster.c) at line 398
+'move_around' at /d/Prime/Central/mon/townsfolk#1652 (std/monster.c) at line 601
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 905
+
+'heart_beat' at <none> (std/user.c) at line 905
+---
+*Indexing on illegal type.
+Object: /d/Ocean/adm/d_master (adm/obj/master/d_master.c) at line 92
+
+'done_editing' at /cmds/file/_ed at line 143
+'valid_write' at /adm/obj/master at line 232
+'check_access' at /adm/obj/master (adm/obj/master/access.c) at line 144
+'valid_access' at /d/Ocean/adm/d_master (adm/obj/master/d_master.c) at line 75
+'check_access' at /d/Ocean/adm/d_master (adm/obj/master/d_master.c) at line 92
+---
+*Bad argument 1 to keys()
+Expected: mapping Got: 0.
+Object: /cmds/std/_xp at line 40
+
+'cmd_hook' at /std/user#2316 at line 145
+'cmd_xp' at /cmds/std/_xp at line 40
+---
+could not bind socket: Address already in use
+Object: /adm/daemons/network/socket#3 at line 136
+
+'<function>' at /adm/daemons/network/I3 (<function>) at :0
+'check_router' at /adm/daemons/network/I3 at line 306
+'create' at /adm/daemons/network/I3 at line 285
+'create' at /adm/daemons/network/socket#3 at line 136
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /cmds/std/_look at line 480
+
+'cmd_hook' at /std/user#160 at line 145
+'cmd_look' at /cmds/std/_look at line 171
+'look_in_room' at /cmds/std/_look at line 480
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /cmds/wiz/_halt at line 79
+
+'cmd_hook' at /std/user#1043 at line 145
+'cmd_halt' at /cmds/wiz/_halt at line 79
+---
+*Indexing on illegal type.
+Object: /d/Prime/Macrosoft/mon/gunner#2422 (std/body/attack.c) at line 1460
+
+'heart_beat' at /d/Prime/Macrosoft/mon/gunner#2422 (std/monster.c) at line 395
+'continue_attack' at /d/Prime/Macrosoft/mon/gunner#2422 (std/body/attack.c) at line 1293
+'execute_attack' at /d/Prime/Macrosoft/mon/gunner#2422 (std/body/attack.c) at line 1460
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 905
+
+'heart_beat' at <none> (std/user.c) at line 905
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 905
+
+'heart_beat' at <none> (std/user.c) at line 905
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 905
+
+'heart_beat' at <none> (std/user.c) at line 905
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 905
+
+'heart_beat' at <none> (std/user.c) at line 905
+---
+*Indexing on illegal type.
+Object: /d/Ocean/adm/d_master (adm/obj/master/d_master.c) at line 92
+
+'cmd_hook' at /std/user#3514 at line 145
+'cmd_cd' at /cmds/file/_cd at line 114
+'valid_read' at /adm/obj/master at line 265
+'check_access' at /adm/obj/master (adm/obj/master/access.c) at line 144
+'valid_access' at /d/Ocean/adm/d_master (adm/obj/master/d_master.c) at line 75
+'check_access' at /d/Ocean/adm/d_master (adm/obj/master/d_master.c) at line 92
+---
+*Indexing on illegal type.
+Object: /d/Ocean/adm/d_master (adm/obj/master/d_master.c) at line 92
+
+'cmd_hook' at /std/user#3514 at line 145
+'cmd_cd' at /cmds/file/_cd at line 114
+'valid_read' at /adm/obj/master at line 265
+'check_access' at /adm/obj/master (adm/obj/master/access.c) at line 144
+'valid_access' at /d/Ocean/adm/d_master (adm/obj/master/d_master.c) at line 75
+'check_access' at /d/Ocean/adm/d_master (adm/obj/master/d_master.c) at line 92
+---
+*Function for verb 'read' not found.
+Object: <none> (0) at :0
+
+---
+*Function for verb 'read' not found.
+Object: <none> (0) at :0
+
+---
+*Function for verb 'read' not found.
+Object: <none> (0) at :0
+
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: /cmds/file/_ed at line 137
+
+'done_editing' at /cmds/file/_ed at line 137
+---
+*call_other() couldn't find object
+Object: /d/Prime/Central/mon/townsfolk#4497 (std/monster.c) at line 601
+
+'heart_beat' at /d/Prime/Central/mon/townsfolk#4497 (std/monster.c) at line 398
+'move_around' at /d/Prime/Central/mon/townsfolk#4497 (std/monster.c) at line 601
+---
+*Bad argument 1 to tell_object()
+Expected: object Got: 0.
+Object: /u/c/chronos/toys/ring#4928 at line 125
+
+'blowkiss' at /u/c/chronos/toys/ring#4928 at line 125
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#3 (std/living/volcap.c) at line 43
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#3 at line 666
+'init_setup' at /std/user#3 (std/body.c) at line 227
+'query' at /std/user#3 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#3 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#3 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#3 at line 876
+'continue_attack' at /std/user#3 (std/body/attack.c) at line 1187
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#3 (std/living/volcap.c) at line 16
+
+'cmd_hook' at /std/user#3 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#3 at line 226
+'move' at /std/user#3 (std/object/ob_logic.c) at line 47
+'query' at /std/user#3 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_mass' at /std/user#3 (std/living/volcap.c) at line 16
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#3 at line 923
+
+'net_dead' at /std/user#3 at line 923
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#5 (std/living/volcap.c) at line 43
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#5 at line 666
+'init_setup' at /std/user#5 (std/body.c) at line 227
+'query' at /std/user#5 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#5 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#5 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#5 at line 876
+'continue_attack' at /std/user#5 (std/body/attack.c) at line 1187
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#5 at line 923
+
+'net_dead' at /std/user#5 at line 923
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#7 (std/living/volcap.c) at line 43
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#7 at line 666
+'init_setup' at /std/user#7 (std/body.c) at line 227
+'query' at /std/user#7 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#7 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#7 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#7 at line 876
+'continue_attack' at /std/user#7 (std/body/attack.c) at line 1187
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#7 at line 923
+
+'net_dead' at /std/user#7 at line 923
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#9 (std/living/volcap.c) at line 43
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#9 at line 666
+'init_setup' at /std/user#9 (std/body.c) at line 227
+'query' at /std/user#9 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#9 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#9 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#9 at line 876
+'continue_attack' at /std/user#9 (std/body/attack.c) at line 1187
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#9 at line 923
+
+'net_dead' at /std/user#9 at line 923
+---
+could not bind socket: Address already in use
+Object: /adm/daemons/network/socket#11 at line 136
+
+'<function>' at /adm/daemons/network/I3 (<function>) at :0
+'check_router' at /adm/daemons/network/I3 at line 306
+'create' at /adm/daemons/network/I3 at line 285
+'create' at /adm/daemons/network/socket#11 at line 136
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#13 (std/living/volcap.c) at line 43
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#13 at line 666
+'init_setup' at /std/user#13 (std/body.c) at line 227
+'query' at /std/user#13 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#13 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#13 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#13 at line 876
+'continue_attack' at /std/user#13 (std/body/attack.c) at line 1187
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#13 (std/living/volcap.c) at line 16
+
+'cmd_hook' at /std/user#13 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#13 at line 226
+'move' at /std/user#13 (std/object/ob_logic.c) at line 47
+'query' at /std/user#13 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_mass' at /std/user#13 (std/living/volcap.c) at line 16
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#13 (std/living/volcap.c) at line 43
+
+'cmd_hook' at /std/user#13 at line 145
+'cmd_inventory' at /cmds/std/_inventory at line 37
+'query' at /std/user#13 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#13 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#13 (std/living/volcap.c) at line 16
+
+'quit' at /std/user#13 at line 516
+'cmd_hook' at /std/user#13 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#13 at line 226
+'move' at /std/user#13 (std/object/ob_logic.c) at line 47
+'query' at /std/user#13 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_mass' at /std/user#13 (std/living/volcap.c) at line 16
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#13 at line 923
+
+'net_dead' at /std/user#13 at line 923
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#15 (std/living/volcap.c) at line 43
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#15 at line 666
+'init_setup' at /std/user#15 (std/body.c) at line 227
+'query' at /std/user#15 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#15 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#15 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#15 at line 876
+'continue_attack' at /std/user#15 (std/body/attack.c) at line 1187
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#15 at line 923
+
+'net_dead' at /std/user#15 at line 923
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#17 (std/living/volcap.c) at line 43
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#17 at line 666
+'init_setup' at /std/user#17 (std/body.c) at line 227
+'query' at /std/user#17 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#17 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#17 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#17 at line 876
+'continue_attack' at /std/user#17 (std/body/attack.c) at line 1187
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#17 at line 923
+
+'net_dead' at /std/user#17 at line 923
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#19 (std/living/volcap.c) at line 43
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#19 at line 666
+'init_setup' at /std/user#19 (std/body.c) at line 227
+'query' at /std/user#19 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#19 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#19 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#19 at line 876
+'continue_attack' at /std/user#19 (std/body/attack.c) at line 1187
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#19 at line 923
+
+'net_dead' at /std/user#19 at line 923
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#21 (std/living/volcap.c) at line 43
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#21 at line 666
+'init_setup' at /std/user#21 (std/body.c) at line 227
+'query' at /std/user#21 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#21 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#21 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#21 at line 876
+'continue_attack' at /std/user#21 (std/body/attack.c) at line 1187
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#21 at line 564
+
+'quit' at /std/user#21 at line 564
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#21 at line 564
+
+'quit' at /std/user#21 at line 564
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#21 at line 564
+
+'quit' at /std/user#21 at line 564
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#21 at line 564
+
+'quit' at /std/user#21 at line 564
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#21 at line 564
+
+'quit' at /std/user#21 at line 564
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#21 at line 564
+
+'quit' at /std/user#21 at line 564
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#21 at line 564
+
+'quit' at /std/user#21 at line 564
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#21 at line 564
+
+'quit' at /std/user#21 at line 564
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#21 at line 564
+
+'quit' at /std/user#21 at line 564
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#21 at line 564
+
+'quit' at /std/user#21 at line 564
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#21 at line 564
+
+'quit' at /std/user#21 at line 564
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#21 at line 564
+
+'quit' at /std/user#21 at line 564
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#21 at line 564
+
+'quit' at /std/user#21 at line 564
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#21 at line 564
+
+'quit' at /std/user#21 at line 564
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#21 at line 564
+
+'quit' at /std/user#21 at line 564
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#21 at line 564
+
+'quit' at /std/user#21 at line 564
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#21 at line 564
+
+'quit' at /std/user#21 at line 564
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#21 at line 564
+
+'quit' at /std/user#21 at line 564
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#21 at line 564
+
+'quit' at /std/user#21 at line 564
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#21 at line 564
+
+'quit' at /std/user#21 at line 564
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#21 at line 564
+
+'quit' at /std/user#21 at line 564
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#21 at line 564
+
+'quit' at /std/user#21 at line 564
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#21 at line 564
+
+'quit' at /std/user#21 at line 564
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#21 at line 564
+
+'quit' at /std/user#21 at line 564
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#21 at line 564
+
+'quit' at /std/user#21 at line 564
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#21 at line 564
+
+'quit' at /std/user#21 at line 564
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#21 at line 564
+
+'quit' at /std/user#21 at line 564
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#21 at line 564
+
+'quit' at /std/user#21 at line 564
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#21 at line 564
+
+'quit' at /std/user#21 at line 564
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#21 at line 564
+
+'quit' at /std/user#21 at line 564
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#21 at line 564
+
+'quit' at /std/user#21 at line 564
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#21 at line 564
+
+'quit' at /std/user#21 at line 564
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#21 at line 564
+
+'quit' at /std/user#21 at line 564
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#21 at line 564
+
+'quit' at /std/user#21 at line 564
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#21 at line 564
+
+'quit' at /std/user#21 at line 564
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#21 (std/living/volcap.c) at line 43
+
+'cmd_hook' at /std/user#21 at line 145
+'cmd_inventory' at /cmds/std/_inventory at line 37
+'query' at /std/user#21 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#21 (std/living/volcap.c) at line 43
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#21 at line 923
+
+'net_dead' at /std/user#21 at line 923
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#23 (std/living/volcap.c) at line 43
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#23 at line 666
+'init_setup' at /std/user#23 (std/body.c) at line 227
+'query' at /std/user#23 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#23 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#23 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#23 at line 876
+'continue_attack' at /std/user#23 (std/body/attack.c) at line 1187
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#23 (std/living/volcap.c) at line 16
+
+'quit' at /std/user#23 at line 516
+'cmd_hook' at /std/user#23 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#23 at line 226
+'move' at /std/user#23 (std/object/ob_logic.c) at line 47
+'query' at /std/user#23 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_mass' at /std/user#23 (std/living/volcap.c) at line 16
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#23 at line 923
+
+'net_dead' at /std/user#23 at line 923
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#25 (std/living/volcap.c) at line 43
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#25 at line 666
+'init_setup' at /std/user#25 (std/body.c) at line 227
+'query' at /std/user#25 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#25 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#25 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#25 at line 876
+'continue_attack' at /std/user#25 (std/body/attack.c) at line 1187
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#25 (std/living/volcap.c) at line 43
+
+'cmd_hook' at /std/user#25 at line 145
+'cmd_inventory' at /cmds/std/_inventory at line 37
+'query' at /std/user#25 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#25 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /cmds/std/_score at line 149
+
+'cmd_hook' at /std/user#25 at line 145
+'cmd_score' at /cmds/std/_score at line 149
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#25 (std/living/volcap.c) at line 16
+
+'cmd_hook' at /std/user#25 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#25 at line 226
+'move' at /std/user#25 (std/object/ob_logic.c) at line 47
+'query' at /std/user#25 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_mass' at /std/user#25 (std/living/volcap.c) at line 16
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#25 (std/living/volcap.c) at line 16
+
+'quit' at /std/user#25 at line 516
+'cmd_hook' at /std/user#25 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#25 at line 226
+'move' at /std/user#25 (std/object/ob_logic.c) at line 47
+'query' at /std/user#25 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_mass' at /std/user#25 (std/living/volcap.c) at line 16
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#25 at line 923
+
+'net_dead' at /std/user#25 at line 923
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#27 (std/living/volcap.c) at line 43
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#27 at line 666
+'init_setup' at /std/user#27 (std/body.c) at line 227
+'query' at /std/user#27 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#27 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#27 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#27 at line 876
+'continue_attack' at /std/user#27 (std/body/attack.c) at line 1187
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#27 (std/living/volcap.c) at line 16
+
+'quit' at /std/user#27 at line 516
+'cmd_hook' at /std/user#27 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#27 at line 226
+'move' at /std/user#27 (std/object/ob_logic.c) at line 47
+'query' at /std/user#27 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_mass' at /std/user#27 (std/living/volcap.c) at line 16
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#27 at line 923
+
+'net_dead' at /std/user#27 at line 923
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#29 (std/living/volcap.c) at line 43
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#29 at line 666
+'init_setup' at /std/user#29 (std/body.c) at line 227
+'query' at /std/user#29 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#29 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#29 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#29 at line 876
+'continue_attack' at /std/user#29 (std/body/attack.c) at line 1187
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#29 at line 564
+
+'quit' at /std/user#29 at line 564
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#29 at line 923
+
+'net_dead' at /std/user#29 at line 923
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#31 (std/living/volcap.c) at line 43
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#31 at line 666
+'init_setup' at /std/user#31 (std/body.c) at line 227
+'query' at /std/user#31 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#31 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#31 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#31 at line 876
+'continue_attack' at /std/user#31 (std/body/attack.c) at line 1187
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#31 (std/living/volcap.c) at line 16
+
+'quit' at /std/user#31 at line 516
+'cmd_hook' at /std/user#31 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#31 at line 226
+'move' at /std/user#31 (std/object/ob_logic.c) at line 47
+'query' at /std/user#31 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_mass' at /std/user#31 (std/living/volcap.c) at line 16
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#31 at line 923
+
+'net_dead' at /std/user#31 at line 923
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#33 (std/living/volcap.c) at line 43
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#33 at line 666
+'init_setup' at /std/user#33 (std/body.c) at line 227
+'query' at /std/user#33 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#33 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#33 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#33 at line 876
+'continue_attack' at /std/user#33 (std/body/attack.c) at line 1187
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#33 (std/living/volcap.c) at line 16
+
+'quit' at /std/user#33 at line 516
+'cmd_hook' at /std/user#33 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#33 at line 226
+'move' at /std/user#33 (std/object/ob_logic.c) at line 47
+'query' at /std/user#33 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_mass' at /std/user#33 (std/living/volcap.c) at line 16
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#33 at line 923
+
+'net_dead' at /std/user#33 at line 923
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#37 (std/living/volcap.c) at line 43
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#37 at line 666
+'init_setup' at /std/user#37 (std/body.c) at line 227
+'query' at /std/user#37 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#37 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#37 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#37 at line 876
+'continue_attack' at /std/user#37 (std/body/attack.c) at line 1187
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#37 (std/living/volcap.c) at line 16
+
+'quit' at /std/user#37 at line 516
+'cmd_hook' at /std/user#37 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#37 at line 226
+'move' at /std/user#37 (std/object/ob_logic.c) at line 47
+'query' at /std/user#37 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_mass' at /std/user#37 (std/living/volcap.c) at line 16
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#37 at line 923
+
+'net_dead' at /std/user#37 at line 923
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#35 (std/living/volcap.c) at line 43
+
+'finish_up2' at /adm/daemons/newuserd at line 887
+'finish_up3' at /adm/daemons/newuserd at line 921
+'setup' at /std/user#35 at line 666
+'init_setup' at /std/user#35 (std/body.c) at line 227
+'query' at /std/user#35 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#35 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#35 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#35 at line 876
+'continue_attack' at /std/user#35 (std/body/attack.c) at line 1187
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#35 at line 564
+
+'quit' at /std/user#35 at line 564
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#35 at line 923
+
+'net_dead' at /std/user#35 at line 923
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#39 (std/living/volcap.c) at line 43
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#39 at line 666
+'init_setup' at /std/user#39 (std/body.c) at line 227
+'query' at /std/user#39 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#39 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#39 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#39 at line 876
+'continue_attack' at /std/user#39 (std/body/attack.c) at line 1187
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#39 at line 564
+
+'quit' at /std/user#39 at line 564
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#39 (std/living/volcap.c) at line 43
+
+'cmd_hook' at /std/user#39 at line 145
+'cmd_inventory' at /cmds/std/_inventory at line 37
+'query' at /std/user#39 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#39 (std/living/volcap.c) at line 43
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#39 at line 923
+
+'net_dead' at /std/user#39 at line 923
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#41 (std/living/volcap.c) at line 43
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#41 at line 666
+'init_setup' at /std/user#41 (std/body.c) at line 227
+'query' at /std/user#41 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#41 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#41 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#41 at line 876
+'continue_attack' at /std/user#41 (std/body/attack.c) at line 1187
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /cmds/std/_whocoded at line 18
+
+'cmd_hook' at /std/user#41 at line 145
+'cmd_whocoded' at /cmds/std/_whocoded at line 18
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#41 at line 564
+
+'quit' at /std/user#41 at line 564
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#41 at line 923
+
+'net_dead' at /std/user#41 at line 923
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#45 (std/living/volcap.c) at line 43
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#45 at line 666
+'init_setup' at /std/user#45 (std/body.c) at line 227
+'query' at /std/user#45 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#45 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#45 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#45 at line 876
+'continue_attack' at /std/user#45 (std/body/attack.c) at line 1187
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#45 (std/living/volcap.c) at line 16
+
+'quit' at /std/user#45 at line 516
+'cmd_hook' at /std/user#45 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#45 at line 226
+'move' at /std/user#45 (std/object/ob_logic.c) at line 47
+'query' at /std/user#45 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_mass' at /std/user#45 (std/living/volcap.c) at line 16
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#45 at line 923
+
+'net_dead' at /std/user#45 at line 923
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#48 (std/living/volcap.c) at line 43
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#48 at line 666
+'init_setup' at /std/user#48 (std/body.c) at line 227
+'query' at /std/user#48 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#48 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#48 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#48 at line 876
+'continue_attack' at /std/user#48 (std/body/attack.c) at line 1187
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#49 (std/living/volcap.c) at line 43
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#49 at line 666
+'init_setup' at /std/user#49 (std/body.c) at line 227
+'query' at /std/user#49 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#49 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#49 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#49 at line 876
+'continue_attack' at /std/user#49 (std/body/attack.c) at line 1187
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#48 (std/living/volcap.c) at line 16
+
+'quit' at /std/user#48 at line 516
+'cmd_hook' at /std/user#48 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#48 at line 226
+'move' at /std/user#48 (std/object/ob_logic.c) at line 47
+'query' at /std/user#48 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_mass' at /std/user#48 (std/living/volcap.c) at line 16
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#48 at line 923
+
+'net_dead' at /std/user#48 at line 923
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#51 (std/living/volcap.c) at line 43
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#51 at line 666
+'init_setup' at /std/user#51 (std/body.c) at line 227
+'query' at /std/user#51 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#51 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#51 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#51 at line 876
+'continue_attack' at /std/user#51 (std/body/attack.c) at line 1187
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#51 (std/living/volcap.c) at line 16
+
+'cmd_hook' at /std/user#51 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#51 at line 226
+'move' at /std/user#51 (std/object/ob_logic.c) at line 47
+'query' at /std/user#51 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_mass' at /std/user#51 (std/living/volcap.c) at line 16
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /cmds/std/_xp at line 53
+
+'cmd_hook' at /std/user#49 at line 145
+'cmd_xp' at /cmds/std/_xp at line 53
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#51 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#51 at line 876
+'continue_attack' at /std/user#51 (std/body/attack.c) at line 1187
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#49 (std/living/volcap.c) at line 43
+
+'cmd_hook' at /std/user#49 at line 145
+'cmd_inventory' at /cmds/std/_inventory at line 37
+'query' at /std/user#49 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#49 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /cmds/std/_xp at line 53
+
+'cmd_hook' at /std/user#49 at line 145
+'cmd_xp' at /cmds/std/_xp at line 53
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#51 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#51 at line 876
+'continue_attack' at /std/user#51 (std/body/attack.c) at line 1187
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#51 (std/living/volcap.c) at line 16
+
+'cmd_hook' at /std/user#51 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#51 at line 226
+'move' at /std/user#51 (std/object/ob_logic.c) at line 47
+'query' at /std/user#51 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_mass' at /std/user#51 (std/living/volcap.c) at line 16
+---
+*Bad argument 1 to file_name()
+Expected: object Got: 0.
+Object: /cmds/wiz/_start at line 7
+
+'cmd_hook' at /std/user#51 at line 145
+'cmd_start' at /cmds/wiz/_start at line 7
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#51 (std/living/volcap.c) at line 16
+
+'quit' at /std/user#51 at line 516
+'cmd_hook' at /std/user#51 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#51 at line 226
+'move' at /std/user#51 (std/object/ob_logic.c) at line 47
+'query' at /std/user#51 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_mass' at /std/user#51 (std/living/volcap.c) at line 16
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#51 at line 923
+
+'net_dead' at /std/user#51 at line 923
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#53 (std/living/volcap.c) at line 43
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#53 at line 666
+'init_setup' at /std/user#53 (std/body.c) at line 227
+'query' at /std/user#53 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#53 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#53 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#53 at line 876
+'continue_attack' at /std/user#53 (std/body/attack.c) at line 1187
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#53 at line 923
+
+'net_dead' at /std/user#53 at line 923
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#55 (std/living/volcap.c) at line 43
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#55 at line 666
+'init_setup' at /std/user#55 (std/body.c) at line 227
+'query' at /std/user#55 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#55 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#55 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#55 at line 876
+'continue_attack' at /std/user#55 (std/body/attack.c) at line 1187
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#55 (std/living/volcap.c) at line 16
+
+'quit' at /std/user#55 at line 516
+'cmd_hook' at /std/user#55 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#55 at line 226
+'move' at /std/user#55 (std/object/ob_logic.c) at line 47
+'query' at /std/user#55 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_mass' at /std/user#55 (std/living/volcap.c) at line 16
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#55 at line 923
+
+'net_dead' at /std/user#55 at line 923
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#49 at line 564
+
+'quit' at /std/user#49 at line 564
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#49 at line 923
+
+'net_dead' at /std/user#49 at line 923
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#57 (std/living/volcap.c) at line 43
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#57 at line 666
+'init_setup' at /std/user#57 (std/body.c) at line 227
+'query' at /std/user#57 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#57 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#57 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#57 at line 876
+'continue_attack' at /std/user#57 (std/body/attack.c) at line 1187
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /cmds/std/_xp at line 53
+
+'cmd_hook' at /std/user#57 at line 145
+'cmd_xp' at /cmds/std/_xp at line 53
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#57 (std/living/volcap.c) at line 43
+
+'cmd_hook' at /std/user#57 at line 145
+'cmd_inventory' at /cmds/std/_inventory at line 37
+'query' at /std/user#57 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#57 (std/living/volcap.c) at line 43
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#57 at line 564
+
+'quit' at /std/user#57 at line 564
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#57 at line 923
+
+'net_dead' at /std/user#57 at line 923
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#59 (std/living/volcap.c) at line 43
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#59 at line 666
+'init_setup' at /std/user#59 (std/body.c) at line 227
+'query' at /std/user#59 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#59 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#59 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#59 at line 876
+'continue_attack' at /std/user#59 (std/body/attack.c) at line 1187
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#59 at line 923
+
+'net_dead' at /std/user#59 at line 923
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#61 (std/living/volcap.c) at line 43
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#61 at line 666
+'init_setup' at /std/user#61 (std/body.c) at line 227
+'query' at /std/user#61 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#61 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#61 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#61 at line 876
+'continue_attack' at /std/user#61 (std/body/attack.c) at line 1187
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#61 (std/living/volcap.c) at line 16
+
+'quit' at /std/user#61 at line 516
+'cmd_hook' at /std/user#61 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#61 at line 226
+'move' at /std/user#61 (std/object/ob_logic.c) at line 47
+'query' at /std/user#61 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_mass' at /std/user#61 (std/living/volcap.c) at line 16
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#61 at line 923
+
+'net_dead' at /std/user#61 at line 923
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#63 (std/living/volcap.c) at line 43
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#63 at line 666
+'init_setup' at /std/user#63 (std/body.c) at line 227
+'query' at /std/user#63 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#63 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#63 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#63 at line 876
+'continue_attack' at /std/user#63 (std/body/attack.c) at line 1187
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#63 (std/living/volcap.c) at line 16
+
+'cmd_hook' at /std/user#63 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#63 at line 226
+'move' at /std/user#63 (std/object/ob_logic.c) at line 47
+'query' at /std/user#63 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_mass' at /std/user#63 (std/living/volcap.c) at line 16
+---
+*Bad argument 1 to file_name()
+Expected: object Got: 0.
+Object: /cmds/wiz/_start at line 7
+
+'cmd_hook' at /std/user#63 at line 145
+'cmd_start' at /cmds/wiz/_start at line 7
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#63 (std/living/volcap.c) at line 16
+
+'cmd_hook' at /std/user#63 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#63 at line 226
+'move' at /std/user#63 (std/object/ob_logic.c) at line 47
+'query' at /std/user#63 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_mass' at /std/user#63 (std/living/volcap.c) at line 16
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#63 (std/living/volcap.c) at line 16
+
+'cmd_hook' at /std/user#63 at line 145
+'cmd_goto' at /cmds/wiz/_goto at line 59
+'goto_location' at /cmds/wiz/_goto at line 77
+'move_player' at /std/user#63 at line 226
+'move' at /std/user#63 (std/object/ob_logic.c) at line 47
+'query' at /std/user#63 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_mass' at /std/user#63 (std/living/volcap.c) at line 16
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/monster (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/monster at line 395
+'continue_attack' at /std/monster (std/body/attack.c) at line 1187
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /d/Arctic/Sebastian/mon/wolf (std/body/attack.c) at line 1187
+
+'heart_beat' at /d/Arctic/Sebastian/mon/wolf (std/monster.c) at line 395
+'continue_attack' at /d/Arctic/Sebastian/mon/wolf (std/body/attack.c) at line 1187
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /d/Arctic/Sebastian/mon/wolf#65 (std/body/attack.c) at line 1187
+
+'heart_beat' at /d/Arctic/Sebastian/mon/wolf#65 (std/monster.c) at line 395
+'continue_attack' at /d/Arctic/Sebastian/mon/wolf#65 (std/body/attack.c) at line 1187
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#63 (std/living/volcap.c) at line 16
+
+'quit' at /std/user#63 at line 516
+'cmd_hook' at /std/user#63 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#63 at line 226
+'move' at /std/user#63 (std/object/ob_logic.c) at line 47
+'query' at /std/user#63 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_mass' at /std/user#63 (std/living/volcap.c) at line 16
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#63 at line 923
+
+'net_dead' at /std/user#63 at line 923
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#68 (std/living/volcap.c) at line 43
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#68 at line 666
+'init_setup' at /std/user#68 (std/body.c) at line 227
+'query' at /std/user#68 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#68 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#68 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#68 at line 876
+'continue_attack' at /std/user#68 (std/body/attack.c) at line 1187
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#68 at line 923
+
+'net_dead' at /std/user#68 at line 923
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#72 (std/living/volcap.c) at line 43
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#72 at line 666
+'init_setup' at /std/user#72 (std/body.c) at line 227
+'query' at /std/user#72 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#72 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#72 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#72 at line 876
+'continue_attack' at /std/user#72 (std/body/attack.c) at line 1187
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#72 (std/living/volcap.c) at line 16
+
+'quit' at /std/user#72 at line 516
+'cmd_hook' at /std/user#72 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#72 at line 226
+'move' at /std/user#72 (std/object/ob_logic.c) at line 47
+'query' at /std/user#72 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_mass' at /std/user#72 (std/living/volcap.c) at line 16
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#72 at line 923
+
+'net_dead' at /std/user#72 at line 923
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#75 (std/living/volcap.c) at line 43
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#75 at line 666
+'init_setup' at /std/user#75 (std/body.c) at line 227
+'query' at /std/user#75 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#75 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#75 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#75 at line 876
+'continue_attack' at /std/user#75 (std/body/attack.c) at line 1187
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#75 (std/living/volcap.c) at line 16
+
+'quit' at /std/user#75 at line 516
+'cmd_hook' at /std/user#75 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#75 at line 226
+'move' at /std/user#75 (std/object/ob_logic.c) at line 47
+'query' at /std/user#75 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_mass' at /std/user#75 (std/living/volcap.c) at line 16
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#75 at line 923
+
+'net_dead' at /std/user#75 at line 923
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /u/s/sebastian/items/wpelt#77 (std/object/ob_logic.c) at line 93
+
+'reset' at /d/Arctic/Sebastian/rooms/cave1 (std/room.c) at line 76
+'create' at /d/Arctic/Sebastian/mon/wolf#76 at line 38
+'move' at /u/s/sebastian/items/wpelt#77 (std/object/ob_logic.c) at line 93
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /d/Arctic/Sebastian/mon/wolf#76 (std/body/attack.c) at line 1187
+
+'heart_beat' at /d/Arctic/Sebastian/mon/wolf#76 (std/monster.c) at line 395
+'continue_attack' at /d/Arctic/Sebastian/mon/wolf#76 (std/body/attack.c) at line 1187
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#79 (std/living/volcap.c) at line 43
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#79 at line 666
+'init_setup' at /std/user#79 (std/body.c) at line 227
+'query' at /std/user#79 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#79 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#79 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#79 at line 876
+'continue_attack' at /std/user#79 (std/body/attack.c) at line 1187
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#79 (std/living/volcap.c) at line 16
+
+'quit' at /std/user#79 at line 516
+'cmd_hook' at /std/user#79 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#79 at line 226
+'move' at /std/user#79 (std/object/ob_logic.c) at line 47
+'query' at /std/user#79 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_mass' at /std/user#79 (std/living/volcap.c) at line 16
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#79 at line 923
+
+'net_dead' at /std/user#79 at line 923
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#81 (std/living/volcap.c) at line 43
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#81 at line 666
+'init_setup' at /std/user#81 (std/body.c) at line 227
+'query' at /std/user#81 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#81 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#81 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#81 at line 876
+'continue_attack' at /std/user#81 (std/body/attack.c) at line 1187
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#83 (std/living/volcap.c) at line 43
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#83 at line 666
+'init_setup' at /std/user#83 (std/body.c) at line 227
+'query' at /std/user#83 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#83 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#83 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#83 at line 876
+'continue_attack' at /std/user#83 (std/body/attack.c) at line 1187
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#83 at line 564
+
+'quit' at /std/user#83 at line 564
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#85 (std/living/volcap.c) at line 43
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#85 at line 666
+'init_setup' at /std/user#85 (std/body.c) at line 227
+'query' at /std/user#85 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#85 (std/living/volcap.c) at line 43
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#83 at line 564
+
+'quit' at /std/user#83 at line 564
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#85 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#85 at line 876
+'continue_attack' at /std/user#85 (std/body/attack.c) at line 1187
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#83 at line 923
+
+'net_dead' at /std/user#83 at line 923
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#85 at line 923
+
+'net_dead' at /std/user#85 at line 923
+---
+*Too long evaluation. Execution aborted.
+Object: /adm/daemons/flock at line 177
+
+'get_password' at /adm/daemons/logind at line 382
+'remove' at /std/user#81 at line 424
+'free_lockobj' at /adm/daemons/flock at line 177
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#89 (std/living/volcap.c) at line 43
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#89 at line 666
+'init_setup' at /std/user#89 (std/body.c) at line 227
+'query' at /std/user#89 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#89 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#89 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#89 at line 876
+'continue_attack' at /std/user#89 (std/body/attack.c) at line 1187
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#89 (std/living/volcap.c) at line 16
+
+'quit' at /std/user#89 at line 516
+'cmd_hook' at /std/user#89 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#89 at line 226
+'move' at /std/user#89 (std/object/ob_logic.c) at line 47
+'query' at /std/user#89 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_mass' at /std/user#89 (std/living/volcap.c) at line 16
+---
+*Too long evaluation. Execution aborted.
+Object: /adm/daemons/flock at line 177
+
+'get_password' at /adm/daemons/logind at line 382
+'remove' at /std/user#81 at line 424
+'free_lockobj' at /adm/daemons/flock at line 177
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#89 at line 923
+
+'net_dead' at /std/user#89 at line 923
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#92 (std/living/volcap.c) at line 43
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#92 at line 666
+'init_setup' at /std/user#92 (std/body.c) at line 227
+'query' at /std/user#92 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#92 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#92 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#92 at line 876
+'continue_attack' at /std/user#92 (std/body/attack.c) at line 1187
+---
+*Too long evaluation. Execution aborted.
+Object: /adm/daemons/flock at line 177
+
+'get_password' at /adm/daemons/logind at line 382
+'remove' at /std/user#81 at line 424
+'free_lockobj' at /adm/daemons/flock at line 177
+---
+*Too long evaluation. Execution aborted.
+Object: /adm/daemons/flock at line 177
+
+'get_password' at /adm/daemons/logind at line 382
+'remove' at /std/user#81 at line 424
+'free_lockobj' at /adm/daemons/flock at line 177
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#97 (std/living/volcap.c) at line 43
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#97 at line 666
+'init_setup' at /std/user#97 (std/body.c) at line 227
+'query' at /std/user#97 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#97 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#97 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#97 at line 876
+'continue_attack' at /std/user#97 (std/body/attack.c) at line 1187
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#97 (std/living/volcap.c) at line 43
+
+'cmd_hook' at /std/user#97 at line 145
+'cmd_inventory' at /cmds/std/_inventory at line 37
+'query' at /std/user#97 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#97 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#97 (std/living/volcap.c) at line 43
+
+'cmd_hook' at /std/user#97 at line 145
+'cmd_inventory' at /cmds/std/_inventory at line 37
+'query' at /std/user#97 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#97 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#97 (std/living/volcap.c) at line 16
+
+'cmd_hook' at /std/user#97 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#97 at line 226
+'move' at /std/user#97 (std/object/ob_logic.c) at line 47
+'query' at /std/user#97 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_mass' at /std/user#97 (std/living/volcap.c) at line 16
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#97 (std/living/volcap.c) at line 43
+
+'cmd_hook' at /std/user#97 at line 145
+'cmd_inventory' at /cmds/std/_inventory at line 37
+'query' at /std/user#97 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#97 (std/living/volcap.c) at line 43
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'cmd_hook' at /std/user#97 at line 145
+'cmd_locate' at /cmds/wiz/_locate at line 20
+'send_locate_req' at /adm/daemons/network/I3/locate at line 5
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /d/Prime/Magehouse/items/hcall#98 (std/object/ob_logic.c) at line 93
+
+'cmd_hook' at /std/user#97 at line 145
+'cmd_clone' at /cmds/object/_clone at line 71
+'move' at /d/Prime/Magehouse/items/hcall#98 (std/object/ob_logic.c) at line 93
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#97 (std/living/volcap.c) at line 16
+
+'cmd_hook' at /std/user#97 at line 145
+'cmd_goto' at /cmds/wiz/_goto at line 59
+'goto_location' at /cmds/wiz/_goto at line 77
+'move_player' at /std/user#97 at line 226
+'move' at /std/user#97 (std/object/ob_logic.c) at line 47
+'query' at /std/user#97 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_mass' at /std/user#97 (std/living/volcap.c) at line 16
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /u/s/sebastian/items/wpelt#100 (std/object/ob_logic.c) at line 93
+
+'reset' at /d/Arctic/Sebastian/rooms/cave1 (std/room.c) at line 76
+'create' at /d/Arctic/Sebastian/mon/wolf#99 at line 38
+'move' at /u/s/sebastian/items/wpelt#100 (std/object/ob_logic.c) at line 93
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /d/Arctic/Sebastian/mon/wolf#99 (std/body/attack.c) at line 1187
+
+'heart_beat' at /d/Arctic/Sebastian/mon/wolf#99 (std/monster.c) at line 395
+'continue_attack' at /d/Arctic/Sebastian/mon/wolf#99 (std/body/attack.c) at line 1187
+---
+*Too long evaluation. Execution aborted.
+Object: /adm/daemons/flock at line 177
+
+'get_password' at /adm/daemons/logind at line 382
+'remove' at /std/user#81 at line 424
+'free_lockobj' at /adm/daemons/flock at line 177
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#103 (std/living/volcap.c) at line 43
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#103 at line 666
+'init_setup' at /std/user#103 (std/body.c) at line 227
+'query' at /std/user#103 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#103 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#103 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#103 at line 876
+'continue_attack' at /std/user#103 (std/body/attack.c) at line 1187
+---
+*Bad argument 1 to all_inventory()
+Expected: object Got: 0.
+Object: /cmds/std/_say at line 24
+
+'cmd_hook' at /std/user#103 at line 145
+'cmd_say' at /cmds/std/_say at line 24
+---
+*Bad argument 1 to all_inventory()
+Expected: object Got: 0.
+Object: /cmds/std/_say at line 24
+
+'cmd_hook' at /std/user#103 at line 145
+'cmd_say' at /cmds/std/_say at line 24
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#103 at line 564
+
+'quit' at /std/user#103 at line 564
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#103 at line 923
+
+'net_dead' at /std/user#103 at line 923
+---
+*Too long evaluation. Execution aborted.
+Object: /adm/daemons/flock at line 177
+
+'get_password' at /adm/daemons/logind at line 382
+'remove' at /std/user#81 at line 424
+'free_lockobj' at /adm/daemons/flock at line 177
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#109 (std/living/volcap.c) at line 43
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#109 at line 666
+'init_setup' at /std/user#109 (std/body.c) at line 227
+'query' at /std/user#109 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#109 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#109 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#109 at line 876
+'continue_attack' at /std/user#109 (std/body/attack.c) at line 1187
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#81 at line 923
+
+'net_dead' at /std/user#81 at line 923
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: /cmds/file/_ed at line 137
+
+'done_editing' at /cmds/file/_ed at line 137
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#112 (std/living/volcap.c) at line 43
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#112 at line 666
+'init_setup' at /std/user#112 (std/body.c) at line 227
+'query' at /std/user#112 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#112 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#112 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#112 at line 876
+'continue_attack' at /std/user#112 (std/body/attack.c) at line 1187
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#112 (std/living/volcap.c) at line 16
+
+'quit' at /std/user#112 at line 516
+'cmd_hook' at /std/user#112 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#112 at line 226
+'move' at /std/user#112 (std/object/ob_logic.c) at line 47
+'query' at /std/user#112 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_mass' at /std/user#112 (std/living/volcap.c) at line 16
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /adm/obj/mailer#113 (std/object/ob_logic.c) at line 93
+
+'cmd_hook' at /std/user#112 at line 145
+'cmd_mail' at /cmds/wiz/_mail at line 22
+'move' at /adm/obj/mailer#113 (std/object/ob_logic.c) at line 93
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#112 at line 923
+
+'net_dead' at /std/user#112 at line 923
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#117 (std/living/volcap.c) at line 43
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#117 at line 666
+'init_setup' at /std/user#117 (std/body.c) at line 227
+'query' at /std/user#117 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#117 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#117 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#117 at line 876
+'continue_attack' at /std/user#117 (std/body/attack.c) at line 1187
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#117 at line 564
+
+'quit' at /std/user#117 at line 564
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#109 at line 564
+
+'quit' at /std/user#109 at line 564
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#120 (std/living/volcap.c) at line 43
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#120 at line 666
+'init_setup' at /std/user#120 (std/body.c) at line 227
+'query' at /std/user#120 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#120 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#120 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#120 at line 876
+'continue_attack' at /std/user#120 (std/body/attack.c) at line 1187
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#109 at line 923
+
+'net_dead' at /std/user#109 at line 923
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#121 (std/living/volcap.c) at line 43
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#121 at line 666
+'init_setup' at /std/user#121 (std/body.c) at line 227
+'query' at /std/user#121 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#121 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#121 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#121 at line 876
+'continue_attack' at /std/user#121 (std/body/attack.c) at line 1187
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#121 at line 923
+
+'net_dead' at /std/user#121 at line 923
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#123 (std/living/volcap.c) at line 43
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#123 at line 666
+'init_setup' at /std/user#123 (std/body.c) at line 227
+'query' at /std/user#123 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#123 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#123 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#123 at line 876
+'continue_attack' at /std/user#123 (std/body/attack.c) at line 1187
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#123 (std/living/volcap.c) at line 16
+
+'cmd_hook' at /std/user#123 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#123 at line 226
+'move' at /std/user#123 (std/object/ob_logic.c) at line 47
+'query' at /std/user#123 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_mass' at /std/user#123 (std/living/volcap.c) at line 16
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#125 (std/living/volcap.c) at line 43
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#125 at line 666
+'init_setup' at /std/user#125 (std/body.c) at line 227
+'query' at /std/user#125 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#125 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#125 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#125 at line 876
+'continue_attack' at /std/user#125 (std/body/attack.c) at line 1187
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#123 (std/living/volcap.c) at line 16
+
+'cmd_hook' at /std/user#123 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#123 at line 226
+'move' at /std/user#123 (std/object/ob_logic.c) at line 47
+'query' at /std/user#123 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_mass' at /std/user#123 (std/living/volcap.c) at line 16
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /u/s/sebastian/items/wpelt#127 (std/object/ob_logic.c) at line 93
+
+'reset' at /d/Arctic/Sebastian/rooms/cave1 (std/room.c) at line 76
+'create' at /d/Arctic/Sebastian/mon/wolf#126 at line 38
+'move' at /u/s/sebastian/items/wpelt#127 (std/object/ob_logic.c) at line 93
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /d/Arctic/Sebastian/mon/wolf#126 (std/body/attack.c) at line 1187
+
+'heart_beat' at /d/Arctic/Sebastian/mon/wolf#126 (std/monster.c) at line 395
+'continue_attack' at /d/Arctic/Sebastian/mon/wolf#126 (std/body/attack.c) at line 1187
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#123 (std/living/volcap.c) at line 16
+
+'quit' at /std/user#123 at line 516
+'cmd_hook' at /std/user#123 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#123 at line 226
+'move' at /std/user#123 (std/object/ob_logic.c) at line 47
+'query' at /std/user#123 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_mass' at /std/user#123 (std/living/volcap.c) at line 16
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#123 (std/living/volcap.c) at line 16
+
+'quit' at /std/user#123 at line 516
+'cmd_hook' at /std/user#123 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#123 at line 226
+'move' at /std/user#123 (std/object/ob_logic.c) at line 47
+'query' at /std/user#123 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_mass' at /std/user#123 (std/living/volcap.c) at line 16
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#123 (std/living/volcap.c) at line 16
+
+'quit' at /std/user#123 at line 516
+'cmd_hook' at /std/user#123 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#123 at line 226
+'move' at /std/user#123 (std/object/ob_logic.c) at line 47
+'query' at /std/user#123 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_mass' at /std/user#123 (std/living/volcap.c) at line 16
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#123 (std/living/volcap.c) at line 16
+
+'quit' at /std/user#123 at line 516
+'cmd_hook' at /std/user#123 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#123 at line 226
+'move' at /std/user#123 (std/object/ob_logic.c) at line 47
+'query' at /std/user#123 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_mass' at /std/user#123 (std/living/volcap.c) at line 16
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#123 (std/living/volcap.c) at line 16
+
+'quit' at /std/user#123 at line 516
+'cmd_hook' at /std/user#123 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#123 at line 226
+'move' at /std/user#123 (std/object/ob_logic.c) at line 47
+'query' at /std/user#123 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_mass' at /std/user#123 (std/living/volcap.c) at line 16
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#123 (std/living/volcap.c) at line 16
+
+'quit' at /std/user#123 at line 516
+'cmd_hook' at /std/user#123 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#123 at line 226
+'move' at /std/user#123 (std/object/ob_logic.c) at line 47
+'query' at /std/user#123 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_mass' at /std/user#123 (std/living/volcap.c) at line 16
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#123 (std/living/volcap.c) at line 16
+
+'quit' at /std/user#123 at line 516
+'cmd_hook' at /std/user#123 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#123 at line 226
+'move' at /std/user#123 (std/object/ob_logic.c) at line 47
+'query' at /std/user#123 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_mass' at /std/user#123 (std/living/volcap.c) at line 16
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#123 at line 923
+
+'net_dead' at /std/user#123 at line 923
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#129 (std/living/volcap.c) at line 43
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#129 at line 666
+'init_setup' at /std/user#129 (std/body.c) at line 227
+'query' at /std/user#129 (std/object/sec_ob.c) at std/object/prop.c:169
+'query_max_cap' at /std/user#129 (std/living/volcap.c) at line 43
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#129 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#129 at line 876
+'continue_attack' at /std/user#129 (std/body/attack.c) at line 1187
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /std/user#120 (std/body/attack.c) at line 1187
+
+'heart_beat' at /std/user#120 at line 876
+'continue_attack' at /std/user#120 (std/body/attack.c) at line 1187
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#120 at line 923
+
+'net_dead' at /std/user#120 at line 923
+---
+*Array index out of bounds.
+Object: /d/Ocean/ships/pirate (std/ship_ob.c) at line 138
+
+'move_ship' at /d/Ocean/ships/pirate (std/ship_ob.c) at line 229
+'moore_ship' at /d/Ocean/ships/pirate (std/ship_ob.c) at line 138
+---
+*Array index out of bounds.
+Object: /d/Ocean/ships/saipan (std/ship_ob.c) at line 138
+
+'move_ship' at /d/Ocean/ships/saipan (std/ship_ob.c) at line 229
+'moore_ship' at /d/Ocean/ships/saipan (std/ship_ob.c) at line 138
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /cmds/std/_look at line 480
+
+'cmd_hook' at /std/user#141 at line 145
+'cmd_look' at /cmds/std/_look at line 171
+'look_in_room' at /cmds/std/_look at line 480
+---
+*Array index out of bounds.
+Object: /d/Prime/Macrosoft/mon/mitch#622 (std/body/attack.c) at line 637
+
+'run_away' at /d/Prime/Macrosoft/mon/mitch#622 (std/body/attack.c) at line 637
+---
+*Array index out of bounds.
+Object: /d/Prime/Macrosoft/mon/mitch#622 (std/body/attack.c) at line 637
+
+'run_away' at /d/Prime/Macrosoft/mon/mitch#622 (std/body/attack.c) at line 637
+---
+*Array index out of bounds.
+Object: /d/Prime/Macrosoft/mon/mitch#622 (std/body/attack.c) at line 637
+
+'run_away' at /d/Prime/Macrosoft/mon/mitch#622 (std/body/attack.c) at line 637
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: /cmds/file/_ed at line 137
+
+'done_editing' at /cmds/file/_ed at line 137
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 905
+
+'heart_beat' at <none> (std/user.c) at line 905
+---
+*call_other() couldn't find object
+Object: /d/Arctic/Shya/monsters/icegolem#2034 (std/monster.c) at line 601
+
+'heart_beat' at /d/Arctic/Shya/monsters/icegolem#2034 (std/monster.c) at line 398
+'move_around' at /d/Arctic/Shya/monsters/icegolem#2034 (std/monster.c) at line 601
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /u/c/chronos/toys/pie#2167 at line 79
+
+'pie' at /u/c/chronos/toys/pie#2167 at line 79
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 905
+
+'heart_beat' at <none> (std/user.c) at line 905
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 905
+
+'heart_beat' at <none> (std/user.c) at line 905
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 707
+
+'heart_beat' at <none> (std/monster.c) at line 405
+'environment_check' at <none> (std/monster.c) at line 707
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 707
+
+'heart_beat' at <none> (std/monster.c) at line 405
+'environment_check' at <none> (std/monster.c) at line 707
+---
+*Bad argument 1 to interactive()
+Expected: object Got: 0.
+Object: <none> (std/monster.c) at line 707
+
+'heart_beat' at <none> (d/Planar/Baator/monsters/magmagolem.c) at line 75
+'heart_beat' at <none> (std/monster.c) at line 405
+'environment_check' at <none> (std/monster.c) at line 707
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 905
+
+'heart_beat' at <none> (std/user.c) at line 905
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 905
+
+'heart_beat' at <none> (std/user.c) at line 905
+---
+*call_other() couldn't find object
+Object: /d/Prime/Central/mon/townsfolk#3165 (std/monster.c) at line 601
+
+'heart_beat' at /d/Prime/Central/mon/townsfolk#3165 (std/monster.c) at line 398
+'move_around' at /d/Prime/Central/mon/townsfolk#3165 (std/monster.c) at line 601
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 905
+
+'heart_beat' at <none> (std/user.c) at line 905
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 905
+
+'heart_beat' at <none> (std/user.c) at line 905

@@ -1,0 +1,2687 @@
+---
+could not close: Descriptor is invalid
+Object: /adm/daemons/network/socket#0 at line 351
+
+'close_callback' at /adm/daemons/network/socket#0 at line 229
+'CATCH' at /adm/daemons/network/socket#0 at line 229
+'<function>' at /adm/daemons/network/I3 (<function>) at :0
+'close_callback' at /adm/daemons/network/I3 at line 96
+'remove' at /adm/daemons/network/socket#0 at line 351
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#3 at line 690
+'initialize_user' at /adm/daemons/channels at line 262
+'register_channel' at /adm/daemons/channels at line 666
+'add_user' at /adm/daemons/channels at line 192
+'CATCH' at /adm/daemons/channels at line 192
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+could not close: Descriptor is invalid
+Object: /adm/daemons/network/socket#6 at line 351
+
+'close_callback' at /adm/daemons/network/socket#6 at line 229
+'CATCH' at /adm/daemons/network/socket#6 at line 229
+'<function>' at /adm/daemons/network/I3 (<function>) at :0
+'close_callback' at /adm/daemons/network/I3 at line 96
+'remove' at /adm/daemons/network/socket#6 at line 351
+---
+*Can't load objects when no effective user.
+Object: /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+
+'cmd_hook' at /std/user#9 at line 145
+'cmd_go' at /cmds/std/_go at line 64
+'find_object_or_load' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+'CATCH' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'heart_beat' at /std/user#3 at line 889
+'call_user_dump' at /std/user#3 at line 991
+'quit' at /std/user#3 at line 472
+'cleanup_user' at /adm/daemons/channels at line 232
+'kill_user' at /adm/daemons/channels at line 125
+'CATCH' at /adm/daemons/channels at line 125
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#450 at line 690
+'initialize_user' at /adm/daemons/channels at line 262
+'register_channel' at /adm/daemons/channels at line 666
+'add_user' at /adm/daemons/channels at line 192
+'CATCH' at /adm/daemons/channels at line 192
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Error in loading object '/u/c/cyanide/cmds/_resist'
+Object: /cmds/object/_update at line 217
+
+'cmd_hook' at /std/user#1359 at line 145
+'cmd_update' at /cmds/object/_update at line 162
+'do_update' at /cmds/object/_update at line 217
+'CATCH' at /cmds/object/_update at line 217
+---
+*Error in loading object '/u/c/cyanide/cmds/_resist'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#1359 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/s/sophia/workroom'
+Object: /std/user#2544 (std/object/ob_logic.c) at line 55
+
+'call_user_dump' at /std/user#2544 at line 991
+'quit' at /std/user#2544 at line 516
+'cmd_hook' at /std/user#2544 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#2544 at line 226
+'move' at /std/user#2544 (std/object/ob_logic.c) at line 55
+'CATCH' at /std/user#2544 (std/object/ob_logic.c) at line 55
+---
+could not close: Descriptor is invalid
+Object: /adm/daemons/network/socket#0 at line 351
+
+'close_callback' at /adm/daemons/network/socket#0 at line 229
+'CATCH' at /adm/daemons/network/socket#0 at line 229
+'<function>' at /adm/daemons/network/I3 (<function>) at :0
+'close_callback' at /adm/daemons/network/I3 at line 96
+'remove' at /adm/daemons/network/socket#0 at line 351
+---
+could not close: Descriptor is invalid
+Object: /adm/daemons/network/socket#2 at line 351
+
+'close_callback' at /adm/daemons/network/socket#2 at line 229
+'CATCH' at /adm/daemons/network/socket#2 at line 229
+'<function>' at /adm/daemons/network/I3 (<function>) at :0
+'close_callback' at /adm/daemons/network/I3 at line 96
+'remove' at /adm/daemons/network/socket#2 at line 351
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#18 at line 690
+'initialize_user' at /adm/daemons/channels at line 262
+'register_channel' at /adm/daemons/channels at line 666
+'add_user' at /adm/daemons/channels at line 192
+'CATCH' at /adm/daemons/channels at line 192
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'quit' at /std/user#18 at line 472
+'cleanup_user' at /adm/daemons/channels at line 232
+'kill_user' at /adm/daemons/channels at line 125
+'CATCH' at /adm/daemons/channels at line 125
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#33 at line 690
+'initialize_user' at /adm/daemons/channels at line 262
+'register_channel' at /adm/daemons/channels at line 666
+'add_user' at /adm/daemons/channels at line 192
+'CATCH' at /adm/daemons/channels at line 192
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Error in loading object '/u/s/sophia/workroom'
+Object: /std/user#27 (std/object/ob_logic.c) at line 55
+
+'call_user_dump' at /std/user#27 at line 991
+'quit' at /std/user#27 at line 516
+'cmd_hook' at /std/user#27 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#27 at line 226
+'move' at /std/user#27 (std/object/ob_logic.c) at line 55
+'CATCH' at /std/user#27 (std/object/ob_logic.c) at line 55
+---
+*Error in loading object '/u/n/nsd/ragevortex/room/entrancebk'
+Object: /cmds/object/_update at line 217
+
+'cmd_hook' at /std/user#69 at line 145
+'cmd_update' at /cmds/object/_update at line 162
+'do_update' at /cmds/object/_update at line 217
+'CATCH' at /cmds/object/_update at line 217
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /u/n/nsd/ragevortex/room/passage1 (std/room.c) at line 79
+
+'cmd_hook' at /std/user#69 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+'create' at /u/n/nsd/ragevortex/room/passage1 at line 47
+'reset' at /u/n/nsd/ragevortex/room/passage1 (std/room.c) at line 79
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /u/n/nsd/ragevortex/room/passage1 (std/room.c) at line 79
+
+'cmd_hook' at /std/user#69 at line 145
+'cmd_update' at /cmds/object/_update at line 162
+'do_update' at /cmds/object/_update at line 217
+'CATCH' at /cmds/object/_update at line 217
+'create' at /u/n/nsd/ragevortex/room/passage1 at line 47
+'reset' at /u/n/nsd/ragevortex/room/passage1 (std/room.c) at line 79
+---
+*Indexing on illegal type.
+Object: /adm/daemons/weaparmd at line 223
+
+'cmd_hook' at /std/user#220 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+'create' at /d/Arctic/Sebastian/weapon/greataxe at line 18
+'set_weapon_type' at /d/Arctic/Sebastian/weapon/greataxe (std/weapon.c) at line 150
+'set_weapon_type' at /adm/daemons/weaparmd at line 223
+---
+*Error in loading object '/d/Arctic/Sebastian/weapon/greataxe'
+Object: /cmds/object/_update at line 217
+
+'cmd_hook' at /std/user#220 at line 145
+'cmd_update' at /cmds/object/_update at line 162
+'do_update' at /cmds/object/_update at line 217
+'CATCH' at /cmds/object/_update at line 217
+---
+*Error in loading object '/u/n/nsd/ragevortex/room/room2'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#69 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*call_other() couldn't find object
+Object: /cmds/wiz/_exits at line 27
+
+'cmd_hook' at /std/user#347 at line 145
+'cmd_exits' at /cmds/wiz/_exits at line 27
+'CATCH' at /cmds/wiz/_exits at line 27
+---
+*call_other() couldn't find object
+Object: /cmds/wiz/_exits at line 27
+
+'cmd_hook' at /std/user#347 at line 145
+'cmd_exits' at /cmds/wiz/_exits at line 27
+'CATCH' at /cmds/wiz/_exits at line 27
+---
+*Error in loading object '/d/Prime/Cyanide/area1/a1forest17'
+Object: /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+
+'cmd_hook' at /std/user#351 at line 145
+'cmd_go' at /cmds/std/_go at line 64
+'find_object_or_load' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+'CATCH' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+---
+*Error in loading object '/d/Prime/Cyanide/area1/a1forest17'
+Object: /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+
+'cmd_hook' at /std/user#351 at line 145
+'cmd_go' at /cmds/std/_go at line 64
+'find_object_or_load' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+'CATCH' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+---
+*Error in loading object '/d/Prime/Cyanide/area1/a1forest17'
+Object: /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+
+'cmd_hook' at /std/user#347 at line 145
+'cmd_go' at /cmds/std/_go at line 64
+'find_object_or_load' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+'CATCH' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+---
+*Error in loading object '/d/Prime/Cyanide/area1/a1forest17'
+Object: /cmds/wiz/_exits at line 27
+
+'cmd_hook' at /std/user#347 at line 145
+'cmd_exits' at /cmds/wiz/_exits at line 27
+'CATCH' at /cmds/wiz/_exits at line 27
+---
+*Error in loading object '/u/s/shallar/monster/dsword'
+Object: /cmds/object/_update at line 217
+
+'cmd_hook' at /std/user#466 at line 145
+'cmd_update' at /cmds/object/_update at line 162
+'do_update' at /cmds/object/_update at line 217
+'CATCH' at /cmds/object/_update at line 217
+---
+*Error in loading object '/u/s/shallar/monster/dsword'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#466 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/s/shallar/monster/dsword'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#466 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/s/shallar/monster/dsword'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#466 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Can't load objects when no effective user.
+Object: /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+
+'cmd_hook' at /std/user#1206 at line 145
+'cmd_go' at /cmds/std/_go at line 64
+'find_object_or_load' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+'CATCH' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+---
+*Error in loading object '/d/Ocean/Main/mon/siren'
+Object: /cmds/object/_update at line 217
+
+'cmd_hook' at /std/user#1167 at line 145
+'cmd_update' at /cmds/object/_update at line 162
+'do_update' at /cmds/object/_update at line 217
+'CATCH' at /cmds/object/_update at line 217
+---
+*Error in loading object '/d/Ocean/Main/mon/siren'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#1167 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/d/Ocean/Main/mon/cat'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#1330 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /u/s/shallar/looney/cave15 at line 46
+
+'cmd_hook' at /std/user#1342 at line 145
+'cmd_update' at /cmds/object/_update at line 162
+'do_update' at /cmds/object/_update at line 217
+'CATCH' at /cmds/object/_update at line 217
+'create' at /u/s/shallar/looney/cave15 at line 9
+'create' at /u/s/shallar/looney/cave15 (std/room.c) at line 42
+'reset' at /u/s/shallar/looney/cave15 at line 46
+---
+*Error in loading object '/d/Ocean/Main/room/deep/deep_sea'
+Object: /cmds/object/_update at line 217
+
+'cmd_hook' at /std/user#1330 at line 145
+'cmd_update' at /cmds/object/_update at line 162
+'do_update' at /cmds/object/_update at line 217
+'CATCH' at /cmds/object/_update at line 217
+---
+*Error in loading object '/u/s/shallar/looney/cave15'
+Object: /cmds/object/_update at line 217
+
+'cmd_hook' at /std/user#1342 at line 145
+'cmd_update' at /cmds/object/_update at line 162
+'do_update' at /cmds/object/_update at line 217
+'CATCH' at /cmds/object/_update at line 217
+---
+*Error in loading object '/u/s/shallar/looney/cave15'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#1342 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*call_other() couldn't find object
+Object: /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+
+'cmd_hook' at /std/user#1330 at line 145
+'cmd_look' at /cmds/std/_look at line 170
+'find_object_or_load' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+'CATCH' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+---
+*Error in loading object '/u/s/shallar/looney/cave15'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#1342 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/s/shallar/looney/cave15'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#1342 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/s/shallar/looney/cave15'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#1342 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/s/shallar/looney/cave15'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#1342 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/open/cave'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#1060 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/s/shallar/looney/cave15'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#1342 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/open/cave'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#1060 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/open/cave'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#1060 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/s/shallar/looney/cave14'
+Object: /cmds/object/_update at line 217
+
+'cmd_hook' at /std/user#1342 at line 145
+'cmd_update' at /cmds/object/_update at line 162
+'do_update' at /cmds/object/_update at line 217
+'CATCH' at /cmds/object/_update at line 217
+---
+*Error in loading object '/u/s/shallar/looney/cave14'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#1342 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/s/shallar/looney/cave14'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#1342 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/s/sophia/workroom'
+Object: /std/user#1291 (std/object/ob_logic.c) at line 55
+
+'call_user_dump' at /std/user#1291 at line 991
+'quit' at /std/user#1291 at line 516
+'cmd_hook' at /std/user#1291 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#1291 at line 226
+'move' at /std/user#1291 (std/object/ob_logic.c) at line 55
+'CATCH' at /std/user#1291 (std/object/ob_logic.c) at line 55
+---
+*Error in loading object '/d/Prime/Mall/mons/mermaid'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#1330 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/d/Prime/Mall/mons/mermaid'
+Object: /cmds/object/_update at line 217
+
+'cmd_hook' at /std/user#1330 at line 145
+'cmd_update' at /cmds/object/_update at line 162
+'do_update' at /cmds/object/_update at line 217
+'CATCH' at /cmds/object/_update at line 217
+---
+*Error in loading object '/d/Ocean/Main/mon/siren'
+Object: /cmds/object/_update at line 217
+
+'cmd_hook' at /std/user#1330 at line 145
+'cmd_update' at /cmds/object/_update at line 162
+'do_update' at /cmds/object/_update at line 217
+'CATCH' at /cmds/object/_update at line 217
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'heart_beat' at /std/user#1406 at line 889
+'call_user_dump' at /std/user#1406 at line 991
+'quit' at /std/user#1406 at line 472
+'cleanup_user' at /adm/daemons/channels at line 232
+'kill_user' at /adm/daemons/channels at line 125
+'CATCH' at /adm/daemons/channels at line 125
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+could not close: Descriptor is invalid
+Object: /adm/daemons/network/socket#0 at line 351
+
+'close_callback' at /adm/daemons/network/socket#0 at line 229
+'CATCH' at /adm/daemons/network/socket#0 at line 229
+'<function>' at /adm/daemons/network/I3 (<function>) at :0
+'close_callback' at /adm/daemons/network/I3 at line 96
+'remove' at /adm/daemons/network/socket#0 at line 351
+---
+could not close: Descriptor is invalid
+Object: /adm/daemons/network/socket#2 at line 351
+
+'close_callback' at /adm/daemons/network/socket#2 at line 229
+'CATCH' at /adm/daemons/network/socket#2 at line 229
+'<function>' at /adm/daemons/network/I3 (<function>) at :0
+'close_callback' at /adm/daemons/network/I3 at line 96
+'remove' at /adm/daemons/network/socket#2 at line 351
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#8 at line 690
+'initialize_user' at /adm/daemons/channels at line 262
+'register_channel' at /adm/daemons/channels at line 666
+'add_user' at /adm/daemons/channels at line 192
+'CATCH' at /adm/daemons/channels at line 192
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+could not close: Descriptor is invalid
+Object: /adm/daemons/network/socket#0 at line 351
+
+'close_callback' at /adm/daemons/network/socket#0 at line 229
+'CATCH' at /adm/daemons/network/socket#0 at line 229
+'<function>' at /adm/daemons/network/I3 (<function>) at :0
+'close_callback' at /adm/daemons/network/I3 at line 96
+'remove' at /adm/daemons/network/socket#0 at line 351
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#3 at line 690
+'initialize_user' at /adm/daemons/channels at line 262
+'register_channel' at /adm/daemons/channels at line 666
+'add_user' at /adm/daemons/channels at line 192
+'CATCH' at /adm/daemons/channels at line 192
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+could not close: Descriptor is invalid
+Object: /adm/daemons/network/socket#52 at line 351
+
+'close_callback' at /adm/daemons/network/socket#52 at line 229
+'CATCH' at /adm/daemons/network/socket#52 at line 229
+'<function>' at /adm/daemons/network/I3 (<function>) at :0
+'close_callback' at /adm/daemons/network/I3 at line 96
+'remove' at /adm/daemons/network/socket#52 at line 351
+---
+*Can't load objects when no effective user.
+Object: /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+
+'cmd_hook' at /std/user#9 at line 145
+'cmd_go' at /cmds/std/_go at line 64
+'find_object_or_load' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+'CATCH' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+---
+*Error in loading object '/u/h/herself/obj/mybed'
+Object: /cmds/object/_update at line 217
+
+'cmd_hook' at /std/user#3 at line 145
+'cmd_update' at /cmds/object/_update at line 162
+'do_update' at /cmds/object/_update at line 217
+'CATCH' at /cmds/object/_update at line 217
+---
+*Error in loading object '/u/h/herself/obj/mybed'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#3 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/h/herself/obj/mybed'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#3 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/h/herself/obj/mybed'
+Object: /cmds/object/_update at line 217
+
+'cmd_hook' at /std/user#3 at line 145
+'cmd_update' at /cmds/object/_update at line 162
+'do_update' at /cmds/object/_update at line 217
+'CATCH' at /cmds/object/_update at line 217
+---
+*Error in loading object '/u/s/sebastian/items/sticker'
+Object: /cmds/object/_update at line 217
+
+'cmd_hook' at /std/user#1414 at line 145
+'cmd_update' at /cmds/object/_update at line 162
+'do_update' at /cmds/object/_update at line 217
+'CATCH' at /cmds/object/_update at line 217
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'heart_beat' at /std/user#1514 at line 889
+'call_user_dump' at /std/user#1514 at line 991
+'quit' at /std/user#1514 at line 472
+'cleanup_user' at /adm/daemons/channels at line 232
+'kill_user' at /adm/daemons/channels at line 125
+'CATCH' at /adm/daemons/channels at line 125
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#1610 at line 690
+'initialize_user' at /adm/daemons/channels at line 262
+'register_channel' at /adm/daemons/channels at line 666
+'add_user' at /adm/daemons/channels at line 192
+'CATCH' at /adm/daemons/channels at line 192
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Error in loading object '/u/s/sophia/workroom'
+Object: /std/user#561 (std/object/ob_logic.c) at line 55
+
+'call_user_dump' at /std/user#561 at line 991
+'quit' at /std/user#561 at line 516
+'cmd_hook' at /std/user#561 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#561 at line 226
+'move' at /std/user#561 (std/object/ob_logic.c) at line 55
+'CATCH' at /std/user#561 (std/object/ob_logic.c) at line 55
+---
+could not close: Descriptor is invalid
+Object: /adm/daemons/network/socket#0 at line 351
+
+'close_callback' at /adm/daemons/network/socket#0 at line 229
+'CATCH' at /adm/daemons/network/socket#0 at line 229
+'<function>' at /adm/daemons/network/I3 (<function>) at :0
+'close_callback' at /adm/daemons/network/I3 at line 96
+'remove' at /adm/daemons/network/socket#0 at line 351
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#3 at line 690
+'initialize_user' at /adm/daemons/channels at line 262
+'register_channel' at /adm/daemons/channels at line 666
+'add_user' at /adm/daemons/channels at line 192
+'CATCH' at /adm/daemons/channels at line 192
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Can't load objects when no effective user.
+Object: /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+
+'cmd_hook' at /std/user#69 at line 145
+'cmd_go' at /cmds/std/_go at line 64
+'find_object_or_load' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+'CATCH' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+---
+could not close: Descriptor is invalid
+Object: /adm/daemons/network/socket#211 at line 351
+
+'close_callback' at /adm/daemons/network/socket#211 at line 229
+'CATCH' at /adm/daemons/network/socket#211 at line 229
+'<function>' at /adm/daemons/network/I3 (<function>) at :0
+'close_callback' at /adm/daemons/network/I3 at line 96
+'remove' at /adm/daemons/network/socket#211 at line 351
+---
+*Error in loading object '/u/e/enzyme/area/room2'
+Object: /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+
+'cmd_hook' at /std/user#1574 at line 145
+'cmd_go' at /cmds/std/_go at line 64
+'find_object_or_load' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+'CATCH' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+---
+*Error in loading object '/u/s/sophia/workroom'
+Object: /std/user#1562 (std/object/ob_logic.c) at line 55
+
+'call_user_dump' at /std/user#1562 at line 991
+'quit' at /std/user#1562 at line 516
+'cmd_hook' at /std/user#1562 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#1562 at line 226
+'move' at /std/user#1562 (std/object/ob_logic.c) at line 55
+'CATCH' at /std/user#1562 (std/object/ob_logic.c) at line 55
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'call_user_dump' at /std/user#74 at line 991
+'quit' at /std/user#74 at line 472
+'cleanup_user' at /adm/daemons/channels at line 232
+'kill_user' at /adm/daemons/channels at line 125
+'CATCH' at /adm/daemons/channels at line 125
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+could not close: Descriptor is invalid
+Object: /adm/daemons/network/socket#0 at line 351
+
+'close_callback' at /adm/daemons/network/socket#0 at line 229
+'CATCH' at /adm/daemons/network/socket#0 at line 229
+'<function>' at /adm/daemons/network/I3 (<function>) at :0
+'close_callback' at /adm/daemons/network/I3 at line 96
+'remove' at /adm/daemons/network/socket#0 at line 351
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#3 at line 690
+'initialize_user' at /adm/daemons/channels at line 262
+'register_channel' at /adm/daemons/channels at line 666
+'add_user' at /adm/daemons/channels at line 192
+'CATCH' at /adm/daemons/channels at line 192
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'quit' at /std/user#3 at line 472
+'cleanup_user' at /adm/daemons/channels at line 232
+'kill_user' at /adm/daemons/channels at line 125
+'CATCH' at /adm/daemons/channels at line 125
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#6 at line 690
+'initialize_user' at /adm/daemons/channels at line 262
+'register_channel' at /adm/daemons/channels at line 666
+'add_user' at /adm/daemons/channels at line 192
+'CATCH' at /adm/daemons/channels at line 192
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+could not close: Descriptor is invalid
+Object: /adm/daemons/network/socket#8 at line 351
+
+'close_callback' at /adm/daemons/network/socket#8 at line 229
+'CATCH' at /adm/daemons/network/socket#8 at line 229
+'<function>' at /adm/daemons/network/I3 (<function>) at :0
+'close_callback' at /adm/daemons/network/I3 at line 96
+'remove' at /adm/daemons/network/socket#8 at line 351
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'call_user_dump' at /std/user#6 at line 991
+'quit' at /std/user#6 at line 472
+'cleanup_user' at /adm/daemons/channels at line 232
+'kill_user' at /adm/daemons/channels at line 125
+'CATCH' at /adm/daemons/channels at line 125
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#13 at line 690
+'initialize_user' at /adm/daemons/channels at line 262
+'register_channel' at /adm/daemons/channels at line 666
+'add_user' at /adm/daemons/channels at line 192
+'CATCH' at /adm/daemons/channels at line 192
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Can't load objects when no effective user.
+Object: /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+
+'cmd_hook' at /std/user#129 at line 145
+'cmd_go' at /cmds/std/_go at line 64
+'find_object_or_load' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+'CATCH' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+---
+*Error in loading object '/u/n/nsd/obj/toys/razor'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#266 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/n/nsd/obj/toys/razor'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#266 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/n/nsd/obj/toys/razor'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#266 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/h/herself/obj/teddy'
+Object: /cmds/object/_clone at line 59
+
+'cmd_hook' at /std/user#123 at line 145
+'cmd_clone' at /cmds/object/_clone at line 59
+'CATCH' at /cmds/object/_clone at line 59
+---
+*Error in loading object '/u/s/sophia/workroom'
+Object: /std/user#132 (std/object/ob_logic.c) at line 55
+
+'heart_beat' at /std/user#132 at line 889
+'call_user_dump' at /std/user#132 at line 991
+'quit' at /std/user#132 at line 516
+'cmd_hook' at /std/user#132 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#132 at line 226
+'move' at /std/user#132 (std/object/ob_logic.c) at line 55
+'CATCH' at /std/user#132 (std/object/ob_logic.c) at line 55
+---
+*Error in loading object '/u/h/herself/obj/teddy'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#123 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/h/herself/obj/teddy'
+Object: /cmds/object/_update at line 217
+
+'cmd_hook' at /std/user#123 at line 145
+'cmd_update' at /cmds/object/_update at line 162
+'do_update' at /cmds/object/_update at line 217
+'CATCH' at /cmds/object/_update at line 217
+---
+*Error in loading object '/u/h/herself/obj/teddy'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#123 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/open/sign'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#266 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/h/herself/obj/teddy'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#123 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/h/herself/obj/teddy'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#123 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/h/herself/obj/teddy'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#123 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/open/sign'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#266 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/open/sign'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#266 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/open/sign'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#266 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/open/sign2'
+Object: /cmds/object/_update at line 217
+
+'cmd_hook' at /std/user#964 at line 145
+'cmd_update' at /cmds/object/_update at line 162
+'do_update' at /cmds/object/_update at line 217
+'CATCH' at /cmds/object/_update at line 217
+---
+*Error in loading object '/open/sign2'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#964 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/s/sophia/workroom'
+Object: /std/user#905 (std/object/ob_logic.c) at line 55
+
+'call_user_dump' at /std/user#905 at line 991
+'quit' at /std/user#905 at line 516
+'cmd_hook' at /std/user#905 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#905 at line 226
+'move' at /std/user#905 (std/object/ob_logic.c) at line 55
+'CATCH' at /std/user#905 (std/object/ob_logic.c) at line 55
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit3 (std/room.c) at line 79
+
+'cmd_hook' at /std/user#2150 at line 145
+'cmd_goto' at /cmds/wiz/_goto at line 52
+'CATCH' at /cmds/wiz/_goto at line 52
+'create' at /d/Planar/Baator/pit3 at line 19
+'reset' at /d/Planar/Baator/pit3 (std/room.c) at line 79
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit6 (std/room.c) at line 79
+
+'cmd_hook' at /std/user#2150 at line 145
+'cmd_goto' at /cmds/wiz/_goto at line 52
+'CATCH' at /cmds/wiz/_goto at line 52
+'create' at /d/Planar/Baator/pit6 at line 19
+'reset' at /d/Planar/Baator/pit6 (std/room.c) at line 79
+---
+*Bad argument 1 to living()
+Expected: object Got: 0.
+Object: /d/Planar/Baator/pit4 (std/room.c) at line 79
+
+'cmd_hook' at /std/user#2150 at line 145
+'cmd_goto' at /cmds/wiz/_goto at line 52
+'CATCH' at /cmds/wiz/_goto at line 52
+'create' at /d/Planar/Baator/pit4 at line 19
+'reset' at /d/Planar/Baator/pit4 (std/room.c) at line 79
+---
+*Error in loading object '/u/n/nsd/obj/toys/razor'
+Object: /cmds/object/_update at line 217
+
+'cmd_hook' at /std/user#3158 at line 145
+'cmd_update' at /cmds/object/_update at line 162
+'do_update' at /cmds/object/_update at line 217
+'CATCH' at /cmds/object/_update at line 217
+---
+*Error in loading object '/u/n/nsd/obj/toys/razor'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#3158 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/n/nsd/obj/toys/razor'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#3158 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/s/shya/private/license'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#3323 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Bad type argument to +. Had mapping and string
+Object: /std/user#3121 (std/object/sec_ob.c) at std/object/prop.c:223
+
+'cmd_hook' at /std/user#3121 at line 145
+'cmd_call' at /cmds/object/_call at line 151
+'do_call' at /cmds/object/_call at line 213
+'CATCH' at /cmds/object/_call at line 212
+'add' at /std/user#3121 (std/object/sec_ob.c) at std/object/prop.c:223
+---
+*Bad type argument to +. Had mapping and string
+Object: /std/user#3121 (std/object/sec_ob.c) at std/object/prop.c:223
+
+'cmd_hook' at /std/user#3121 at line 145
+'cmd_call' at /cmds/object/_call at line 151
+'do_call' at /cmds/object/_call at line 213
+'CATCH' at /cmds/object/_call at line 212
+'add' at /std/user#3121 (std/object/sec_ob.c) at std/object/prop.c:223
+---
+*Error in loading object '/u/s/sophia/workroom'
+Object: /std/user#5006 (std/object/ob_logic.c) at line 55
+
+'call_user_dump' at /std/user#5006 at line 991
+'quit' at /std/user#5006 at line 516
+'cmd_hook' at /std/user#5006 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#5006 at line 226
+'move' at /std/user#5006 (std/object/ob_logic.c) at line 55
+'CATCH' at /std/user#5006 (std/object/ob_logic.c) at line 55
+---
+*Error in loading object '/u/t/tyran/spider/rooms/spcave01'
+Object: /cmds/object/_update at line 217
+
+'cmd_hook' at /std/user#4617 at line 145
+'cmd_update' at /cmds/object/_update at line 162
+'do_update' at /cmds/object/_update at line 217
+'CATCH' at /cmds/object/_update at line 217
+---
+*Error in loading object '/u/t/tyran/spider/rooms/spcave02'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#4617 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/t/tyran/spider/rooms/spcave10'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#4617 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /u/t/tyran/spider/rooms/spcave13 at line 37
+
+'cmd_hook' at /std/user#4617 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+'create' at /u/t/tyran/spider/rooms/spcave13 at line 37
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /u/t/tyran/spider/rooms/spcave10 at line 40
+
+'cmd_hook' at /std/user#4617 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+'create' at /u/t/tyran/spider/rooms/spcave10 at line 40
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /u/t/tyran/spider/rooms/spcave13 at line 37
+
+'cmd_hook' at /std/user#4617 at line 145
+'cmd_update' at /cmds/object/_update at line 162
+'do_update' at /cmds/object/_update at line 217
+'CATCH' at /cmds/object/_update at line 217
+'create' at /u/t/tyran/spider/rooms/spcave13 at line 37
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /u/t/tyran/spider/rooms/spcave10 at line 40
+
+'cmd_hook' at /std/user#4617 at line 145
+'cmd_update' at /cmds/object/_update at line 162
+'do_update' at /cmds/object/_update at line 217
+'CATCH' at /cmds/object/_update at line 217
+'create' at /u/t/tyran/spider/rooms/spcave10 at line 40
+---
+could not close: Descriptor is invalid
+Object: /adm/daemons/network/socket#0 at line 351
+
+'close_callback' at /adm/daemons/network/socket#0 at line 229
+'CATCH' at /adm/daemons/network/socket#0 at line 229
+'<function>' at /adm/daemons/network/I3 (<function>) at :0
+'close_callback' at /adm/daemons/network/I3 at line 96
+'remove' at /adm/daemons/network/socket#0 at line 351
+---
+could not close: Descriptor is invalid
+Object: /adm/daemons/network/socket#3 at line 351
+
+'close_callback' at /adm/daemons/network/socket#3 at line 229
+'CATCH' at /adm/daemons/network/socket#3 at line 229
+'<function>' at /adm/daemons/network/I3 (<function>) at :0
+'close_callback' at /adm/daemons/network/I3 at line 96
+'remove' at /adm/daemons/network/socket#3 at line 351
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#6 at line 690
+'initialize_user' at /adm/daemons/channels at line 262
+'register_channel' at /adm/daemons/channels at line 666
+'add_user' at /adm/daemons/channels at line 192
+'CATCH' at /adm/daemons/channels at line 192
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Error in loading object '/u/n/nemar/water/city/rooms/square1'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#6 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/n/nemar/water/city/rooms/square1'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#6 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/n/nemar/water/city/rooms/square1'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#6 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'quit' at /std/user#6 at line 472
+'cleanup_user' at /adm/daemons/channels at line 232
+'kill_user' at /adm/daemons/channels at line 125
+'CATCH' at /adm/daemons/channels at line 125
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#11 at line 690
+'initialize_user' at /adm/daemons/channels at line 262
+'register_channel' at /adm/daemons/channels at line 666
+'add_user' at /adm/daemons/channels at line 192
+'CATCH' at /adm/daemons/channels at line 192
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'quit' at /std/user#11 at line 472
+'cleanup_user' at /adm/daemons/channels at line 232
+'kill_user' at /adm/daemons/channels at line 125
+'CATCH' at /adm/daemons/channels at line 125
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#15 at line 690
+'initialize_user' at /adm/daemons/channels at line 262
+'register_channel' at /adm/daemons/channels at line 666
+'add_user' at /adm/daemons/channels at line 192
+'CATCH' at /adm/daemons/channels at line 192
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'call_user_dump' at /std/user#15 at line 991
+'quit' at /std/user#15 at line 472
+'cleanup_user' at /adm/daemons/channels at line 232
+'kill_user' at /adm/daemons/channels at line 125
+'CATCH' at /adm/daemons/channels at line 125
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#33 at line 690
+'initialize_user' at /adm/daemons/channels at line 262
+'register_channel' at /adm/daemons/channels at line 666
+'add_user' at /adm/daemons/channels at line 192
+'CATCH' at /adm/daemons/channels at line 192
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'quit' at /std/user#33 at line 472
+'cleanup_user' at /adm/daemons/channels at line 232
+'kill_user' at /adm/daemons/channels at line 125
+'CATCH' at /adm/daemons/channels at line 125
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#311 at line 690
+'initialize_user' at /adm/daemons/channels at line 262
+'register_channel' at /adm/daemons/channels at line 666
+'add_user' at /adm/daemons/channels at line 192
+'CATCH' at /adm/daemons/channels at line 192
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /u/t/tyran/spider/rooms/spcave10 at line 40
+
+'cmd_hook' at /std/user#311 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+'create' at /u/t/tyran/spider/rooms/spcave10 at line 40
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /u/t/tyran/spider/rooms/spcave10 at line 40
+
+'cmd_hook' at /std/user#420 at line 145
+'cmd_update' at /cmds/object/_update at line 162
+'do_update' at /cmds/object/_update at line 217
+'CATCH' at /cmds/object/_update at line 217
+'create' at /u/t/tyran/spider/rooms/spcave10 at line 40
+---
+*Error in loading object '/open/spcave10'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#311 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/open/spcave10'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#311 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /open/spcave10 at line 40
+
+'cmd_hook' at /std/user#311 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+'create' at /open/spcave10 at line 40
+---
+*call_other() couldn't find object
+Object: /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+
+'cmd_hook' at /std/user#420 at line 145
+'cmd_go' at /cmds/std/_go at line 64
+'find_object_or_load' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+'CATCH' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+---
+*call_other() couldn't find object
+Object: /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+
+'cmd_hook' at /std/user#420 at line 145
+'cmd_go' at /cmds/std/_go at line 64
+'find_object_or_load' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+'CATCH' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+---
+*call_other() couldn't find object
+Object: /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+
+'cmd_hook' at /std/user#420 at line 145
+'cmd_go' at /cmds/std/_go at line 64
+'find_object_or_load' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+'CATCH' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+---
+*call_other() couldn't find object
+Object: /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+
+'cmd_hook' at /std/user#335 at line 145
+'cmd_go' at /cmds/std/_go at line 64
+'find_object_or_load' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+'CATCH' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+---
+*call_other() couldn't find object
+Object: /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+
+'cmd_hook' at /std/user#335 at line 145
+'cmd_go' at /cmds/std/_go at line 64
+'find_object_or_load' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+'CATCH' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+---
+*Error in loading object '/u/a/ashdraven/items/rose'
+Object: /cmds/object/_clone at line 59
+
+'cmd_hook' at /std/user#693 at line 145
+'cmd_clone' at /cmds/object/_clone at line 59
+'CATCH' at /cmds/object/_clone at line 59
+---
+*Error in loading object '/u/s/sophia/workroom'
+Object: /std/user#115 (std/object/ob_logic.c) at line 55
+
+'heart_beat' at /std/user#115 at line 889
+'call_user_dump' at /std/user#115 at line 991
+'quit' at /std/user#115 at line 516
+'cmd_hook' at /std/user#115 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#115 at line 226
+'move' at /std/user#115 (std/object/ob_logic.c) at line 55
+'CATCH' at /std/user#115 (std/object/ob_logic.c) at line 55
+---
+*call_other() couldn't find object
+Object: /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+
+'cmd_hook' at /std/user#693 at line 145
+'cmd_look' at /cmds/std/_look at line 170
+'find_object_or_load' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+'CATCH' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+---
+*Error in loading object '/u/s/sophia/workroom'
+Object: /std/user#899 (std/object/ob_logic.c) at line 55
+
+'call_user_dump' at /std/user#899 at line 991
+'quit' at /std/user#899 at line 516
+'cmd_hook' at /std/user#899 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#899 at line 226
+'move' at /std/user#899 (std/object/ob_logic.c) at line 55
+'CATCH' at /std/user#899 (std/object/ob_logic.c) at line 55
+---
+*Can't load objects when no effective user.
+Object: /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+
+'cmd_hook' at /std/user#440 at line 145
+'cmd_go' at /cmds/std/_go at line 64
+'find_object_or_load' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+'CATCH' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+---
+*Error in loading object '/u/a/ashdraven/town/std'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#693 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/open/bathroom'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#925 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /u/t/tyran/spider/rooms/spcave13 at line 37
+
+'cmd_hook' at /std/user#420 at line 145
+'cmd_update' at /cmds/object/_update at line 162
+'do_update' at /cmds/object/_update at line 217
+'CATCH' at /cmds/object/_update at line 217
+'create' at /u/t/tyran/spider/rooms/spcave13 at line 37
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /u/t/tyran/spider/rooms/spcave13 at line 37
+
+'cmd_hook' at /std/user#420 at line 145
+'cmd_update' at /cmds/object/_update at line 162
+'do_update' at /cmds/object/_update at line 217
+'CATCH' at /cmds/object/_update at line 217
+'create' at /u/t/tyran/spider/rooms/spcave13 at line 37
+---
+*Bad argument 1 to getuid()
+Expected: object Got: 0.
+Object: <none> (d/attic/Conf/obj/badge.c) at line 35
+
+'cmd_hook' at /std/user#1381 at line 145
+'cmd_clone' at /cmds/object/_clone at line 59
+'CATCH' at /cmds/object/_clone at line 59
+'create' at <none> (d/attic/Conf/obj/badge.c) at line 35
+---
+*Error in loading object '/open/license'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#1759 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/n/nemar/water/city/rooms/square1'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#1884 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/n/nemar/water/city/rooms/square1'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#1884 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/n/nemar/water/city/rooms/square1'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#1884 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/s/sophia/workroom'
+Object: /std/user#1076 (std/object/ob_logic.c) at line 55
+
+'call_user_dump' at /std/user#1076 at line 991
+'quit' at /std/user#1076 at line 516
+'cmd_hook' at /std/user#1076 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#1076 at line 226
+'move' at /std/user#1076 (std/object/ob_logic.c) at line 55
+'CATCH' at /std/user#1076 (std/object/ob_logic.c) at line 55
+---
+*Error in loading object '/u/h/herself/obj/tank'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#2035 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/h/herself/obj/tank'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#2035 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/h/herself/obj/tank'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#2035 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/h/herself/obj/tank'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#2035 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/h/herself/obj/tank'
+Object: /cmds/object/_update at line 217
+
+'cmd_hook' at /std/user#2035 at line 145
+'cmd_update' at /cmds/object/_update at line 162
+'do_update' at /cmds/object/_update at line 217
+'CATCH' at /cmds/object/_update at line 217
+---
+*Error in loading object '/u/h/herself/obj/tank'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#2035 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/h/herself/obj/tank'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#2035 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/h/herself/obj/tank'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#2035 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/h/herself/obj/tank'
+Object: /cmds/object/_update at line 217
+
+'cmd_hook' at /std/user#2035 at line 145
+'cmd_update' at /cmds/object/_update at line 162
+'do_update' at /cmds/object/_update at line 217
+'CATCH' at /cmds/object/_update at line 217
+---
+*Error in loading object '/u/n/nemar/water/city/rooms/square1'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#2316 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/n/nemar/water/city/rooms/square1'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#2316 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/n/nemar/water/city/rooms/square3'
+Object: /cmds/object/_load at line 30
+
+'cmd_hook' at /std/user#2316 at line 145
+'cmd_load' at /cmds/object/_load at line 30
+'CATCH' at /cmds/object/_load at line 30
+---
+*Error in loading object '/u/s/sophia/workroom'
+Object: /std/user#2385 (std/object/ob_logic.c) at line 55
+
+'call_user_dump' at /std/user#2385 at line 991
+'quit' at /std/user#2385 at line 516
+'cmd_hook' at /std/user#2385 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#2385 at line 226
+'move' at /std/user#2385 (std/object/ob_logic.c) at line 55
+'CATCH' at /std/user#2385 (std/object/ob_logic.c) at line 55
+---
+could not close: Descriptor is invalid
+Object: /adm/daemons/network/socket#0 at line 351
+
+'close_callback' at /adm/daemons/network/socket#0 at line 229
+'CATCH' at /adm/daemons/network/socket#0 at line 229
+'<function>' at /adm/daemons/network/I3 (<function>) at :0
+'close_callback' at /adm/daemons/network/I3 at line 96
+'remove' at /adm/daemons/network/socket#0 at line 351
+---
+could not close: Descriptor is invalid
+Object: /adm/daemons/network/socket#2 at line 351
+
+'close_callback' at /adm/daemons/network/socket#2 at line 229
+'CATCH' at /adm/daemons/network/socket#2 at line 229
+'<function>' at /adm/daemons/network/I3 (<function>) at :0
+'close_callback' at /adm/daemons/network/I3 at line 96
+'remove' at /adm/daemons/network/socket#2 at line 351
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'get_password' at /adm/daemons/logind at line 424
+'login_new_copy' at /adm/daemons/logind at line 438
+'enter_world' at /adm/daemons/logind at line 512
+'setup' at /std/user#54 at line 690
+'initialize_user' at /adm/daemons/channels at line 262
+'register_channel' at /adm/daemons/channels at line 666
+'add_user' at /adm/daemons/channels at line 192
+'CATCH' at /adm/daemons/channels at line 192
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Can't load objects when no effective user.
+Object: /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+
+'cmd_hook' at /std/user#57 at line 145
+'cmd_go' at /cmds/std/_go at line 64
+'find_object_or_load' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+'CATCH' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+---
+*call_other() couldn't find object
+Object: /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+
+'cmd_hook' at /std/user#160 at line 145
+'cmd_look' at /cmds/std/_look at line 170
+'find_object_or_load' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+'CATCH' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+---
+*Error in loading object '/u/s/sophia/workroom'
+Object: /std/user#352 (std/object/ob_logic.c) at line 55
+
+'call_user_dump' at /std/user#352 at line 991
+'quit' at /std/user#352 at line 516
+'cmd_hook' at /std/user#352 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#352 at line 226
+'move' at /std/user#352 (std/object/ob_logic.c) at line 55
+'CATCH' at /std/user#352 (std/object/ob_logic.c) at line 55
+---
+*Error in loading object '/d/Ocean/Main/room/deep/deepstd'
+Object: /cmds/object/_update at line 217
+
+'cmd_hook' at /std/user#160 at line 145
+'cmd_update' at /cmds/object/_update at line 162
+'do_update' at /cmds/object/_update at line 217
+'CATCH' at /cmds/object/_update at line 217
+---
+*Error in loading object '/u/a/ashdraven/items/rose'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#997 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/a/ashdraven/items/rose'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#997 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*call_other() couldn't find object
+Object: /cmds/object/_gate at line 61
+
+'cmd_hook' at /std/user#997 at line 145
+'cmd_gate' at /cmds/object/_gate at line 61
+'CATCH' at /cmds/object/_gate at line 61
+---
+*Bad type argument to +.  Had mapping and int.
+Object: /std/user#1043 (std/object/sec_ob.c) at std/object/prop.c:223
+
+'cmd_hook' at /std/user#1043 at line 145
+'cmd_call' at /cmds/object/_call at line 151
+'do_call' at /cmds/object/_call at line 213
+'CATCH' at /cmds/object/_call at line 212
+'add' at /std/user#1043 (std/object/sec_ob.c) at std/object/prop.c:223
+---
+*Bad type argument to +. Had mapping and string
+Object: /std/user#1043 (std/object/sec_ob.c) at std/object/prop.c:223
+
+'cmd_hook' at /std/user#1043 at line 145
+'cmd_call' at /cmds/object/_call at line 151
+'do_call' at /cmds/object/_call at line 213
+'CATCH' at /cmds/object/_call at line 212
+'add' at /std/user#1043 (std/object/sec_ob.c) at std/object/prop.c:223
+---
+*Bad type argument to +. Had mapping and string
+Object: /std/user#1043 (std/object/sec_ob.c) at std/object/prop.c:223
+
+'cmd_hook' at /std/user#1043 at line 145
+'cmd_call' at /cmds/object/_call at line 151
+'do_call' at /cmds/object/_call at line 213
+'CATCH' at /cmds/object/_call at line 212
+'add' at /std/user#1043 (std/object/sec_ob.c) at std/object/prop.c:223
+---
+*Error in loading object '/u/s/sophia/workroom'
+Object: /std/user#1446 (std/object/ob_logic.c) at line 55
+
+'call_user_dump' at /std/user#1446 at line 991
+'quit' at /std/user#1446 at line 516
+'cmd_hook' at /std/user#1446 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#1446 at line 226
+'move' at /std/user#1446 (std/object/ob_logic.c) at line 55
+'CATCH' at /std/user#1446 (std/object/ob_logic.c) at line 55
+---
+*Error in loading object '/d/Arctic/Sebastian/rooms/steam/stpub'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#54 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/n/nemar/water/city/rooms/square5'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#2697 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/n/nemar/water/city/rooms/square8'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#2697 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/n/nemar/water/city/rooms/square8'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#2697 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/c/chronos/thunderdome/td_d'
+Object: /u/c/chronos/CMD_EVAL_TMP_FILE at line 13
+
+'cmd_hook' at /std/user#3066 at line 145
+'cmd_eval' at /cmds/adm/_eval at line 186
+'CATCH' at /cmds/adm/_eval at line 186
+'eval' at /u/c/chronos/CMD_EVAL_TMP_FILE at line 13
+---
+*Error in loading object '/u/c/chronos/thunderdome/td_d'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#3066 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/c/chronos/thunderdome/td_d'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#3066 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/c/chronos/thunderdome/td_d'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#3066 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/c/chronos/thunderdome/start'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#3066 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/c/chronos/thunderdome/start'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#3066 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/c/chronos/thunderdome/start'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#3066 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/n/nemar/central1b'
+Object: /cmds/object/_load at line 30
+
+'cmd_hook' at /std/user#2697 at line 145
+'cmd_load' at /cmds/object/_load at line 30
+'CATCH' at /cmds/object/_load at line 30
+---
+*Error in loading object '/u/c/chronos/thunderdome/td_d'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#3066 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/s/sophia/workroom'
+Object: /std/user#3270 (std/object/ob_logic.c) at line 55
+
+'heart_beat' at /std/user#3270 at line 889
+'call_user_dump' at /std/user#3270 at line 991
+'quit' at /std/user#3270 at line 516
+'cmd_hook' at /std/user#3270 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#3270 at line 226
+'move' at /std/user#3270 (std/object/ob_logic.c) at line 55
+'CATCH' at /std/user#3270 (std/object/ob_logic.c) at line 55
+---
+*Error in loading object '/u/n/nemar/water/city/rooms/post'
+Object: /cmds/object/_load at line 30
+
+'cmd_hook' at /std/user#3514 at line 145
+'cmd_load' at /cmds/object/_load at line 30
+'CATCH' at /cmds/object/_load at line 30
+---
+*Error in loading object '/u/n/nemar/water/city/rooms/post'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#3514 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/s/sophia/workroom'
+Object: /cmds/wiz/_goto at line 52
+
+'cmd_hook' at /std/user#4409 at line 145
+'cmd_goto' at /cmds/wiz/_goto at line 52
+'CATCH' at /cmds/wiz/_goto at line 52
+---
+*Error in loading object '/std/body/attack'
+Object: /cmds/object/_update at line 217
+
+'cmd_hook' at /std/user#4474 at line 145
+'cmd_update' at /cmds/object/_update at line 161
+'do_update' at /cmds/object/_update at line 217
+'CATCH' at /cmds/object/_update at line 217
+---
+*Error in loading object '/std/body/attack'
+Object: /cmds/object/_update at line 217
+
+'cmd_hook' at /std/user#4474 at line 145
+'cmd_update' at /cmds/object/_update at line 161
+'do_update' at /cmds/object/_update at line 217
+'CATCH' at /cmds/object/_update at line 217
+---
+*Error in loading object '/std/body/attack'
+Object: /cmds/object/_update at line 217
+
+'cmd_hook' at /std/user#4474 at line 145
+'cmd_update' at /cmds/object/_update at line 161
+'do_update' at /cmds/object/_update at line 217
+'CATCH' at /cmds/object/_update at line 217
+---
+*Error in loading object '/std/body/attack'
+Object: /cmds/object/_update at line 217
+
+'cmd_hook' at /std/user#4474 at line 145
+'cmd_update' at /cmds/object/_update at line 162
+'do_update' at /cmds/object/_update at line 217
+'CATCH' at /cmds/object/_update at line 217
+---
+*Error in loading object '/std/body/attack'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#4474 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/std/body/attack'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#4474 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/s/sophia/workroom'
+Object: /std/user#4409 (std/object/ob_logic.c) at line 55
+
+'call_user_dump' at /std/user#4409 at line 991
+'quit' at /std/user#4409 at line 516
+'cmd_hook' at /std/user#4409 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#4409 at line 226
+'move' at /std/user#4409 (std/object/ob_logic.c) at line 55
+'CATCH' at /std/user#4409 (std/object/ob_logic.c) at line 55
+---
+*Error in loading object '/u/n/nemar/water/city/rooms/square6'
+Object: /cmds/object/_update at line 217
+
+'cmd_hook' at /std/user#4945 at line 145
+'cmd_update' at /cmds/object/_update at line 162
+'do_update' at /cmds/object/_update at line 217
+'CATCH' at /cmds/object/_update at line 217
+---
+*Error in loading object '/u/n/nemar/water/city/rooms/square6'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#4945 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/n/nemar/water/city/rooms/square6'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#4945 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/d/Ocean/Eloria/rooms/monk_bar'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#4945 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/d/Ocean/Eloria/rooms/monk_bar'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#4945 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/d/Ocean/Eloria/rooms/monk_bar'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#4945 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/d/Ocean/Eloria/rooms/monk_bar'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#4945 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/d/Ocean/Eloria/rooms/monk_bar'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#4945 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+could not close: Descriptor is invalid
+Object: /adm/daemons/network/socket#0 at line 351
+
+'close_callback' at /adm/daemons/network/socket#0 at line 229
+'CATCH' at /adm/daemons/network/socket#0 at line 229
+'<function>' at /adm/daemons/network/I3 (<function>) at :0
+'close_callback' at /adm/daemons/network/I3 at line 96
+'remove' at /adm/daemons/network/socket#0 at line 351
+---
+could not close: Descriptor is invalid
+Object: /adm/daemons/network/socket#10 at line 351
+
+'close_callback' at /adm/daemons/network/socket#10 at line 229
+'CATCH' at /adm/daemons/network/socket#10 at line 229
+'<function>' at /adm/daemons/network/I3 (<function>) at :0
+'close_callback' at /adm/daemons/network/I3 at line 96
+'remove' at /adm/daemons/network/socket#10 at line 351
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'quit' at /std/user#13 at line 472
+'cleanup_user' at /adm/daemons/channels at line 232
+'kill_user' at /adm/daemons/channels at line 125
+'CATCH' at /adm/daemons/channels at line 125
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'quit' at /std/user#23 at line 472
+'cleanup_user' at /adm/daemons/channels at line 232
+'kill_user' at /adm/daemons/channels at line 125
+'CATCH' at /adm/daemons/channels at line 125
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'quit' at /std/user#25 at line 472
+'cleanup_user' at /adm/daemons/channels at line 232
+'kill_user' at /adm/daemons/channels at line 125
+'CATCH' at /adm/daemons/channels at line 125
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'quit' at /std/user#27 at line 472
+'cleanup_user' at /adm/daemons/channels at line 232
+'kill_user' at /adm/daemons/channels at line 125
+'CATCH' at /adm/daemons/channels at line 125
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'quit' at /std/user#31 at line 472
+'cleanup_user' at /adm/daemons/channels at line 232
+'kill_user' at /adm/daemons/channels at line 125
+'CATCH' at /adm/daemons/channels at line 125
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'quit' at /std/user#33 at line 472
+'cleanup_user' at /adm/daemons/channels at line 232
+'kill_user' at /adm/daemons/channels at line 125
+'CATCH' at /adm/daemons/channels at line 125
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'quit' at /std/user#37 at line 472
+'cleanup_user' at /adm/daemons/channels at line 232
+'kill_user' at /adm/daemons/channels at line 125
+'CATCH' at /adm/daemons/channels at line 125
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'quit' at /std/user#45 at line 472
+'cleanup_user' at /adm/daemons/channels at line 232
+'kill_user' at /adm/daemons/channels at line 125
+'CATCH' at /adm/daemons/channels at line 125
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'quit' at /std/user#48 at line 472
+'cleanup_user' at /adm/daemons/channels at line 232
+'kill_user' at /adm/daemons/channels at line 125
+'CATCH' at /adm/daemons/channels at line 125
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#51 at line 959
+
+'cmd_hook' at /std/user#51 at line 145
+'cmd_call' at /cmds/object/_call at line 151
+'do_call' at /cmds/object/_call at line 209
+'CATCH' at /cmds/object/_call at line 208
+'restart_heart' at /std/user#51 at line 959
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#51 at line 959
+
+'cmd_hook' at /std/user#51 at line 145
+'cmd_call' at /cmds/object/_call at line 151
+'do_call' at /cmds/object/_call at line 209
+'CATCH' at /cmds/object/_call at line 208
+'restart_heart' at /std/user#51 at line 959
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'quit' at /std/user#51 at line 472
+'cleanup_user' at /adm/daemons/channels at line 232
+'kill_user' at /adm/daemons/channels at line 125
+'CATCH' at /adm/daemons/channels at line 125
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'quit' at /std/user#55 at line 472
+'cleanup_user' at /adm/daemons/channels at line 232
+'kill_user' at /adm/daemons/channels at line 125
+'CATCH' at /adm/daemons/channels at line 125
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'quit' at /std/user#61 at line 472
+'cleanup_user' at /adm/daemons/channels at line 232
+'kill_user' at /adm/daemons/channels at line 125
+'CATCH' at /adm/daemons/channels at line 125
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /u/s/sebastian/items/wpelt#64 (std/object/ob_logic.c) at line 93
+
+'cmd_hook' at /std/user#63 at line 145
+'cmd_goto' at /cmds/wiz/_goto at line 52
+'CATCH' at /cmds/wiz/_goto at line 52
+'create' at /d/Arctic/Sebastian/rooms/cave1 at line 29
+'reset' at /d/Arctic/Sebastian/rooms/cave1 (std/room.c) at line 76
+'create' at /d/Arctic/Sebastian/mon/wolf at line 38
+'move' at /u/s/sebastian/items/wpelt#64 (std/object/ob_logic.c) at line 93
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /u/s/sebastian/items/wpelt#66 (std/object/ob_logic.c) at line 93
+
+'cmd_hook' at /std/user#63 at line 145
+'cmd_update' at /cmds/object/_update at line 162
+'do_update' at /cmds/object/_update at line 217
+'CATCH' at /cmds/object/_update at line 217
+'create' at /d/Arctic/Sebastian/rooms/cave1 at line 29
+'reset' at /d/Arctic/Sebastian/rooms/cave1 (std/room.c) at line 76
+'create' at /d/Arctic/Sebastian/mon/wolf#65 at line 38
+'move' at /u/s/sebastian/items/wpelt#66 (std/object/ob_logic.c) at line 93
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'quit' at /std/user#63 at line 472
+'cleanup_user' at /adm/daemons/channels at line 232
+'kill_user' at /adm/daemons/channels at line 125
+'CATCH' at /adm/daemons/channels at line 125
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'quit' at /std/user#72 at line 472
+'cleanup_user' at /adm/daemons/channels at line 232
+'kill_user' at /adm/daemons/channels at line 125
+'CATCH' at /adm/daemons/channels at line 125
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'quit' at /std/user#75 at line 472
+'cleanup_user' at /adm/daemons/channels at line 232
+'kill_user' at /adm/daemons/channels at line 125
+'CATCH' at /adm/daemons/channels at line 125
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'quit' at /std/user#79 at line 472
+'cleanup_user' at /adm/daemons/channels at line 232
+'kill_user' at /adm/daemons/channels at line 125
+'CATCH' at /adm/daemons/channels at line 125
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Error in loading object '/u/s/sophia/workroom'
+Object: /cmds/wiz/_goto at line 52
+
+'cmd_hook' at /std/user#97 at line 145
+'cmd_goto' at /cmds/wiz/_goto at line 52
+'CATCH' at /cmds/wiz/_goto at line 52
+---
+*call_other() couldn't find object
+Object: /cmds/object/_gate at line 61
+
+'cmd_hook' at /std/user#97 at line 145
+'cmd_gate' at /cmds/object/_gate at line 61
+'CATCH' at /cmds/object/_gate at line 61
+---
+*call_other() couldn't find object
+Object: /cmds/object/_gate at line 61
+
+'cmd_hook' at /std/user#97 at line 145
+'cmd_gate' at /cmds/object/_gate at line 61
+'CATCH' at /cmds/object/_gate at line 61
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'quit' at /std/user#112 at line 472
+'cleanup_user' at /adm/daemons/channels at line 232
+'kill_user' at /adm/daemons/channels at line 125
+'CATCH' at /adm/daemons/channels at line 125
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'quit' at /std/user#123 at line 472
+'cleanup_user' at /adm/daemons/channels at line 232
+'kill_user' at /adm/daemons/channels at line 125
+'CATCH' at /adm/daemons/channels at line 125
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'quit' at /std/user#123 at line 472
+'cleanup_user' at /adm/daemons/channels at line 232
+'kill_user' at /adm/daemons/channels at line 125
+'CATCH' at /adm/daemons/channels at line 125
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'quit' at /std/user#123 at line 472
+'cleanup_user' at /adm/daemons/channels at line 232
+'kill_user' at /adm/daemons/channels at line 125
+'CATCH' at /adm/daemons/channels at line 125
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'quit' at /std/user#123 at line 472
+'cleanup_user' at /adm/daemons/channels at line 232
+'kill_user' at /adm/daemons/channels at line 125
+'CATCH' at /adm/daemons/channels at line 125
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'quit' at /std/user#123 at line 472
+'cleanup_user' at /adm/daemons/channels at line 232
+'kill_user' at /adm/daemons/channels at line 125
+'CATCH' at /adm/daemons/channels at line 125
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'quit' at /std/user#123 at line 472
+'cleanup_user' at /adm/daemons/channels at line 232
+'kill_user' at /adm/daemons/channels at line 125
+'CATCH' at /adm/daemons/channels at line 125
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'quit' at /std/user#123 at line 472
+'cleanup_user' at /adm/daemons/channels at line 232
+'kill_user' at /adm/daemons/channels at line 125
+'CATCH' at /adm/daemons/channels at line 125
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'cmd_hook' at /std/user#120 at line 145
+'cmd_tune' at /cmds/std/_tune at line 44
+'register_channel' at /adm/daemons/channels at line 666
+'add_user' at /adm/daemons/channels at line 192
+'CATCH' at /adm/daemons/channels at line 192
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+Object: /std/user#120 at line 959
+
+'cmd_hook' at /std/user#120 at line 145
+'cmd_call' at /cmds/object/_call at line 151
+'do_call' at /cmds/object/_call at line 209
+'CATCH' at /cmds/object/_call at line 208
+'restart_heart' at /std/user#120 at line 959
+---
+*Error in loading object '/adm/daemons/propertyd'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#129 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/adm/daemons/receive_data'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#129 at line 145
+'cmd_dupdate' at /cmds/object/_dupdate at line 23
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/network/I3 at line 114
+
+'initialize_user' at /adm/daemons/channels at line 262
+'register_channel' at /adm/daemons/channels at line 666
+'add_user' at /adm/daemons/channels at line 192
+'CATCH' at /adm/daemons/channels at line 192
+'daemon_apply' at /adm/daemons/network/I3/channel at line 91
+'send_channel_listen' at /adm/daemons/network/I3/channel at line 22
+'send_packet' at /adm/daemons/network/I3 at line 114
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /std/exchange at line 22
+
+'cmd_hook' at /std/user#129 at line 145
+'cmd_dupdate' at /cmds/object/_dupdate at line 23
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+'create' at /std/exchange at line 22
+---
+*call_other() couldn't find object
+Object: /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+
+'move_ship' at /d/Ocean/ships/pirate (std/ship_ob.c) at line 225
+'find_object_or_load' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+'CATCH' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+---
+*call_other() couldn't find object
+Object: /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+
+'move_ship' at /d/Ocean/ships/pirate (std/ship_ob.c) at line 225
+'find_object_or_load' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+'CATCH' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+---
+*call_other() couldn't find object
+Object: /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+
+'move_ship' at /d/Ocean/ships/pirate (std/ship_ob.c) at line 225
+'find_object_or_load' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+'CATCH' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+---
+*call_other() couldn't find object
+Object: /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+
+'cmd_hook' at /std/user#141 at line 145
+'cmd_look' at /cmds/std/_look at line 170
+'find_object_or_load' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+'CATCH' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+---
+*Can't load objects when no effective user.
+Object: /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+
+'cmd_hook' at /std/user#391 at line 145
+'cmd_go' at /cmds/std/_go at line 64
+'find_object_or_load' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+'CATCH' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+---
+*Error in loading object '/u/e/enzyme/mon/corpse'
+Object: /cmds/object/_clone at line 59
+
+'cmd_hook' at /std/user#725 at line 145
+'cmd_clone' at /cmds/object/_clone at line 59
+'CATCH' at /cmds/object/_clone at line 59
+---
+*Error in loading object '/u/h/herself/enzyme/mons/corpse'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#725 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/h/herself/enzyme/mons/corpse'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#725 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/h/herself/enzyme/mons/corpse'
+Object: /cmds/object/_update at line 217
+
+'cmd_hook' at /std/user#725 at line 145
+'cmd_update' at /cmds/object/_update at line 162
+'do_update' at /cmds/object/_update at line 217
+'CATCH' at /cmds/object/_update at line 217
+---
+*Error in loading object '/u/h/herself/enzyme/mons/corpse'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#725 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/e/enzyme/mon/corpse'
+Object: /cmds/object/_clone at line 59
+
+'cmd_hook' at /std/user#141 at line 145
+'cmd_clone' at /cmds/object/_clone at line 59
+'CATCH' at /cmds/object/_clone at line 59
+---
+*Error in loading object '/d/Arctic/Sebastian/rooms/steam/town2'
+Object: /cmds/object/_update at line 217
+
+'cmd_hook' at /std/user#651 at line 145
+'cmd_update' at /cmds/object/_update at line 162
+'do_update' at /cmds/object/_update at line 217
+'CATCH' at /cmds/object/_update at line 217
+---
+*Error in loading object '/u/e/enzyme/mon/corpse'
+Object: /cmds/object/_load at line 30
+
+'cmd_hook' at /std/user#141 at line 145
+'cmd_load' at /cmds/object/_load at line 30
+'CATCH' at /cmds/object/_load at line 30
+---
+*Error in loading object '/d/Arctic/Sebastian/rooms/steam/stpub'
+Object: /cmds/object/_update at line 217
+
+'cmd_hook' at /std/user#651 at line 145
+'cmd_update' at /cmds/object/_update at line 162
+'do_update' at /cmds/object/_update at line 217
+'CATCH' at /cmds/object/_update at line 217
+---
+*Error in loading object '/d/Arctic/Sebastian/rooms/steam/stpub'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#651 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*call_other() couldn't find object
+Object: /u/s/sophia/feather#1729 (std/object/ob_logic.c) at line 55
+
+'get' at /u/s/sophia/home/playground at line 36
+'move' at /u/s/sophia/feather#1729 (std/object/ob_logic.c) at line 55
+'CATCH' at /u/s/sophia/feather#1729 (std/object/ob_logic.c) at line 55
+---
+*call_other() couldn't find object
+Object: /std/user#1562 (std/object/ob_logic.c) at line 55
+
+'enter_veil' at /u/s/sophia/home/playground at line 52
+'move_player' at /std/user#1562 at line 226
+'move' at /std/user#1562 (std/object/ob_logic.c) at line 55
+'CATCH' at /std/user#1562 (std/object/ob_logic.c) at line 55
+---
+*Error in loading object '/u/s/sophia/workroom'
+Object: /std/user#1562 (std/object/ob_logic.c) at line 55
+
+'heart_beat' at /std/user#1562 at line 889
+'call_user_dump' at /std/user#1562 at line 991
+'quit' at /std/user#1562 at line 516
+'cmd_hook' at /std/user#1562 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#1562 at line 226
+'move' at /std/user#1562 (std/object/ob_logic.c) at line 55
+'CATCH' at /std/user#1562 (std/object/ob_logic.c) at line 55
+---
+*Error in loading object '/u/e/enzyme/area/room2'
+Object: /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+
+'cmd_hook' at /std/user#2358 at line 145
+'cmd_go' at /cmds/std/_go at line 64
+'find_object_or_load' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+'CATCH' at /adm/obj/simul_efun at adm/simul_efun/find_object_or_load.c:20
+---
+*Error in loading object '/u/e/enzyme/area/room2'
+Object: /cmds/object/_load at line 30
+
+'cmd_hook' at /std/user#2358 at line 145
+'cmd_load' at /cmds/object/_load at line 30
+'CATCH' at /cmds/object/_load at line 30
+---
+*Error in loading object '/u/s/sophia/workroom'
+Object: /std/user#2203 (std/object/ob_logic.c) at line 55
+
+'heart_beat' at /std/user#2203 at line 889
+'call_user_dump' at /std/user#2203 at line 991
+'quit' at /std/user#2203 at line 516
+'cmd_hook' at /std/user#2203 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#2203 at line 226
+'move' at /std/user#2203 (std/object/ob_logic.c) at line 55
+'CATCH' at /std/user#2203 (std/object/ob_logic.c) at line 55
+---
+*Error in loading object '/u/s/sophia/workroom'
+Object: /std/user#2680 (std/object/ob_logic.c) at line 55
+
+'heart_beat' at /std/user#2680 at line 889
+'call_user_dump' at /std/user#2680 at line 991
+'quit' at /std/user#2680 at line 516
+'cmd_hook' at /std/user#2680 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#2680 at line 226
+'move' at /std/user#2680 (std/object/ob_logic.c) at line 55
+'CATCH' at /std/user#2680 (std/object/ob_logic.c) at line 55
+---
+*Error in loading object '/u/h/herself/enzyme/mons/ghoul'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#3176 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/h/herself/enzyme/armor/rags'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#3176 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/h/herself/enzyme/armor/rags'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#3176 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/h/herself/enzyme/armor/rags'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#3176 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/h/herself/enzyme/armor/chain'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#3176 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/h/herself/enzyme/armor/chain'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#3176 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/h/herself/enzyme/armor/chain'
+Object: /cmds/object/_update at line 217
+
+'cmd_hook' at /std/user#3176 at line 145
+'cmd_update' at /cmds/object/_update at line 162
+'do_update' at /cmds/object/_update at line 217
+'CATCH' at /cmds/object/_update at line 217
+---
+*Error in loading object '/u/h/herself/enzyme/mons/skeleton'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#3176 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/h/herself/enzyme/mons/skeleton'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#3176 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/h/herself/enzyme/mons/skeleton'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#3176 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Bad argument 1 to explode()
+Expected: string Got: -300.
+Object: /u/h/herself/enzyme/mons/skeleton (std/body/align.c) at line 36
+
+'cmd_hook' at /std/user#3176 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+'create' at /u/h/herself/enzyme/mons/skeleton at line 18
+'set_alignment' at /u/h/herself/enzyme/mons/skeleton (std/body/align.c) at line 53
+'set_align' at /u/h/herself/enzyme/mons/skeleton (std/body/align.c) at line 36
+---
+*Bad argument 1 to explode()
+Expected: string Got: -300.
+Object: /u/h/herself/enzyme/mons/skeleton (std/body/align.c) at line 36
+
+'cmd_hook' at /std/user#3176 at line 145
+'cmd_update' at /cmds/object/_update at line 162
+'do_update' at /cmds/object/_update at line 217
+'CATCH' at /cmds/object/_update at line 217
+'create' at /u/h/herself/enzyme/mons/skeleton at line 19
+'set_alignment' at /u/h/herself/enzyme/mons/skeleton (std/body/align.c) at line 53
+'set_align' at /u/h/herself/enzyme/mons/skeleton (std/body/align.c) at line 36
+---
+*Error in loading object '/u/h/herself/enzyme/mons/skeleton'
+Object: /cmds/object/_update at line 217
+
+'cmd_hook' at /std/user#3176 at line 145
+'cmd_update' at /cmds/object/_update at line 162
+'do_update' at /cmds/object/_update at line 217
+'CATCH' at /cmds/object/_update at line 217
+---
+*Error in loading object '/u/h/herself/enzyme/mons/slime'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#3176 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/h/herself/enzyme/mons/slime'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#3176 at line 145
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/u/s/sophia/workroom'
+Object: /std/user#3506 (std/object/ob_logic.c) at line 55
+
+'heart_beat' at /std/user#3506 at line 889
+'call_user_dump' at /std/user#3506 at line 991
+'quit' at /std/user#3506 at line 516
+'cmd_hook' at /std/user#3506 at line 145
+'cmd_home' at /cmds/wiz/_home at line 65
+'move_player' at /std/user#3506 at line 226
+'move' at /std/user#3506 (std/object/ob_logic.c) at line 55
+'CATCH' at /std/user#3506 (std/object/ob_logic.c) at line 55

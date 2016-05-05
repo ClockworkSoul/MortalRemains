@@ -1,0 +1,1078 @@
+d/Prime/Crackhouse/room/basement.c line 27: parse error before .c",
+d/Prime/Crackhouse/room/basement.c line 30: End of file in string before  can't go that way!\
+d/Prime/Crackhouse/room/basement.c line 27: parse error before .c",
+d/Prime/Crackhouse/room/basement.c line 30: End of file in string before o allow a connection
+d/Prime/Crackhouse/room/basement2.c line 21: parse error before " on them. \n",
+d/Prime/Crackhouse/room/basement2.c line 28: End of file in string before s"
+d/Prime/Sewers/room/sewer01.c line 28: Undefined variable 'M_ROOm' before "sewer00.c",
+d/Prime/Sewers/room/sewer02.c line 28: parse error before ":M_ROOM+"sewer01.c
+d/Prime/Park/room/enter.c line 11: parse error before short", "The entranc
+d/Prime/Park/room/enter.c line 21: End of file in string before the end of line
+d/Prime/Park/room/enter.c line 11: parse error before short", "The entranc
+d/Prime/Park/room/enter.c line 21: End of file in string before _me();
+d/Prime/Central/room/road11.c line 27: Undefined variable 'MOBS' before  "homeless"  ]) );
+d/Prime/Central/room/road11.c line 27: Undefined variable 'MOBS' before  "homeless"  ]) );
+d/Prime/Central/room/road12.c line 28: Undefined variable 'APT' before "hall01",
+d/Prime/Central/room/road18.c line 26: Undefined variable 'APT' before "hall00",
+d/Prime/Central/mon/path.h line 1: Cannot #include ../path.h before the end of file
+d/Prime/Central/mon/homeless.c line 56: Undefined variable 'OBJS' before  "rags");
+d/Prime/Central/room/road11.c line 2: Cannot #include path.h before the end of line
+d/Prime/Central/room/road11.c line 24: Undefined variable 'M_ROOM' before "road12",
+d/Prime/Central/room/road11.c line 27: Undefined variable 'M_MON' before  "homeless"  ]) );
+d/Prime/Central/room/road14.c line 2: Cannot #include path.h before the end of line
+d/Prime/Central/room/road14.c line 25: Undefined variable 'ROOMS' before "road12",
+d/Prime/Central/room/road06.c line 2: Cannot #include path.h before the end of line
+d/Prime/Central/room/road06.c line 24: Undefined variable 'ROOMS' before "road03",
+d/Prime/Central/room/road11.c line 2: Cannot #include path.h before the end of line
+d/Prime/Central/room/road11.c line 24: Undefined variable 'M_ROOM' before "road12",
+d/Prime/Central/room/road11.c line 27: Undefined variable 'M_MON' before  "homeless"  ]) );
+d/Prime/Central/room/road06.c line 2: Cannot #include path.h before the end of line
+d/Prime/Central/room/road06.c line 24: Undefined variable 'ROOMS' before "road03",
+d/Prime/Central/room/road18.c line 2: Cannot #include path.h before the end of line
+d/Prime/Central/room/road18.c line 25: Undefined variable 'ROOMS' before "road14",
+d/Prime/Central/room/road18.c line 26: Undefined variable 'APT' before "hall00",
+d/Prime/Central/room/alley1.c line 2: Cannot #include path.h before the end of line
+d/Prime/Central/room/alley1.c line 23: Undefined variable 'ROOMS' before "alley2.c",
+d/Prime/Central/room/alley1.c line 26: Undefined variable 'MOBS' before  "punk" ]) );
+d/Prime/Central/room/alley1.c line 2: Cannot #include path.h before the end of line
+d/Prime/Central/room/alley1.c line 23: Undefined variable 'ROOMS' before "alley2.c",
+d/Prime/Central/room/alley1.c line 26: Undefined variable 'MOBS' before  "punk" ]) );
+d/Prime/Central/mon/punk.c line 2: Cannot #include path.h before the end of line
+d/Prime/Central/mon/punk.c line 38: Undefined variable 'OBJS' before "blade", "blade");
+d/Prime/Central/room/alley2.c line 2: Cannot #include path.h before the end of line
+d/Prime/Central/room/alley2.c line 21: Undefined variable 'ROOMS' before "alley3.c",
+d/Prime/Central/room/alley3.c line 2: Cannot #include path.h before the end of line
+d/Prime/Central/room/alley3.c line 20: Undefined variable 'ROOMS' before "alley2.c",
+d/Prime/Central/room/road06.c line 2: Cannot #include path.h before the end of line
+d/Prime/Central/room/road06.c line 24: Undefined variable 'ROOMS' before "road03",
+d/Prime/Central/room/junkyard02.c line 2: Cannot #include path.h before the end of line
+d/Prime/Central/room/junkyard02.c line 24: Undefined variable 'ROOMS' before "road03",
+d/Prime/Central/room/road11.c line 2: Cannot #include path.h before the end of line
+d/Prime/Central/room/road11.c line 24: Undefined variable 'M_ROOM' before "road12",
+d/Prime/Central/room/road11.c line 27: Undefined variable 'M_MON' before  "homeless"  ]) );
+d/Prime/Central/room/road0_-5.c line 2: Cannot #include path.h before the end of line
+d/Prime/Central/room/road0_-5.c line 10: Undefined variable 'RD_Y' before ;
+d/Prime/Central/room/road0_-5.c line 25: Undefined variable 'M_ROOM' before "road0_-4.c",
+d/Prime/Central/room/road0_-5.c line 26: Undefined variable 'ROOMS' before "road11",
+d/Prime/Asylum/rooms/groom.c line 19: Undefined variable 'M_ROOM' before "gate.c"
+d/Prime/Asylum/rooms/groom.c line 19: Undefined variable 'M_ROOM' before "gate.c",
+d/Prime/Asylum/rooms/groom.c line 19: Undefined variable 'M_ROOM' before "gate.c",
+d/Prime/Asylum/rooms/groom.c line 19: Undefined variable 'M_ROOM' before "gate.c",
+d/Prime/Asylum/rooms/grounds1.c line 29: parse error before  "grounds2.c"
+d/Prime/Asylum/rooms/grounds1.c line 29: parse error before  M_ROOM+"grounds2.c"
+d/Prime/Asylum/rooms/grounds1.c line 34: parse error before  M_ROOM+"grnds11.c",
+d/Prime/Central/room/hospital/lobby.c line 6: Cannot #include central.h before the end of line
+d/Prime/Central/room/hospital/lobby.c line 12: Undefined variable 'CITY_NAME' before " Hope Hospital");
+d/Prime/Central/room/hospital/lobby.c line 21: Undefined variable 'M_ROOM' before "hospital/ER.c",
+d/Prime/Park/room/lily2.c line 42: parse error before  P_MON+"dove.c",
+d/Prime/Central/room/pitfighterguild.c line 9: Cannot #include c_warriors.h before #include <config.h>
+d/Prime/Central/room/pitfighterguild.c line 9: Cannot #include c_warriors.h before #include <config.h>
+d/Prime/Central/room/pitfighterguild.c line 44: Undefined variable 'WARRIOR_XP' before ;
+d/Prime/Central/room/pitfighterguild.c line 116: Undefined variable 'FIGHTER' before "obj/badge.c");
+d/Prime/Central/room/pitfighterguild.c line 161: Undefined variable 'WAR_HP_ROLL' before the end of line
+d/Prime/Central/room/pitfighterguild.c line 9: Cannot #include c_warriors.h before #include <config.h>
+d/Prime/Central/room/pitfighterguild.c line 44: Undefined variable 'WARRIOR_XP' before ;
+d/Prime/Central/room/pitfighterguild.c line 116: Undefined variable 'FIGHTER' before "obj/badge.c");
+d/Prime/Central/room/pitfighterguild.c line 161: Undefined variable 'WAR_HP_ROLL' before the end of line
+d/Prime/Central/room/gymnasium.c line 9: Cannot #include sigil.h before the end of line
+d/Prime/Central/room/gymnasium.c line 25: Undefined variable 'SIGIL' before "wproom.c",
+d/Prime/Central/room/road4_0.c line 24: parse error before the end of line
+d/Prime/Macrosoft/7/elevators.c line 3: Cannot #include macrosoft.h before the end of line
+d/Prime/Macrosoft/7/elevators.c line 5: parse error before ;
+d/Prime/Macrosoft/6/elevators.c line 3: Cannot #include macrosoft.h before the end of line
+d/Prime/Macrosoft/6/elevators.c line 5: parse error before ;
+d/Prime/Macrosoft/5/elevators.c line 3: Cannot #include macrosoft.h before the end of line
+d/Prime/Macrosoft/5/elevators.c line 5: parse error before ;
+d/Prime/Macrosoft/4/elevators.c line 3: Cannot #include macrosoft.h before the end of line
+d/Prime/Macrosoft/4/elevators.c line 5: parse error before ;
+d/Prime/Macrosoft/3/elevators.c line 3: Cannot #include macrosoft.h before the end of line
+d/Prime/Macrosoft/3/elevators.c line 5: parse error before ;
+d/Prime/Macrosoft/7/n_hall1.c line 9: Undefined variable 'wrap' before +
+d/Prime/Macrosoft/7/n_hall1.c line 9: parse error before +
+d/Prime/Macrosoft/7/n_hall1.c line 9: Undefined variable 'wrap' before +
+d/Prime/Macrosoft/7/n_hall1.c line 9: parse error before +
+d/Prime/Macrosoft/7/n_hall2.c line 11: parse error before the end of line
+d/Prime/Macrosoft/7/n_hall2.c line 24: Illegal LHS before the end of line
+d/Prime/Macrosoft/7/n_hall2.c line 24: parse error before the end of line
+d/Prime/Macrosoft/7/n_hall2.c line 28: Illegal LHS before the end of line
+d/Prime/Macrosoft/7/n_hall2.c line 28: parse error before the end of line
+d/Prime/Macrosoft/7/n_hall3.c line 12: parse error before the end of line
+d/Prime/Macrosoft/7/n_hall4.c line 12: parse error before the end of line
+d/Prime/Macrosoft/7/n_hall5.c line 12: parse error before the end of line
+d/Prime/Macrosoft/7/torture.c line 18: parse error before the end of line
+d/Prime/Macrosoft/3/office8e.c line 31: parse error before  {
+d/Prime/Crackhouse/room/lroom.c line 7: parse error before ;
+d/Prime/Crackhouse/room/lroom.c line 7: parse error before ;
+d/Prime/Crackhouse/room/lroom.c line 7: parse error before ;
+d/Prime/Crackhouse/room/lroom.c line 7: parse error before ;
+d/Prime/Crackhouse/room/lroom.c line 7: parse error before ;
+d/Prime/Crackhouse/room/lroom.c line 7: parse error before ;
+d/Prime/Crackhouse/room/lroom.c line 7: parse error before ;
+d/Prime/Crackhouse/room/lroom.c line 7: parse error before ;
+d/Prime/Crackhouse/room/lroom.c line 7: parse error before ;
+d/Prime/Crackhouse/room/lroom.c line 7: parse error before ;
+d/Prime/Crackhouse/room/lroom.c line 7: parse error before ;
+d/Prime/Crackhouse/room/lroom.c line 7: parse error before ;
+d/Prime/Crackhouse/room/lroom.c line 7: parse error before ;
+d/Prime/Crackhouse/room/lroom.c line 7: parse error before ;
+d/Prime/Crackhouse/room/lroom.c line 7: parse error before ;
+d/Prime/Crackhouse/room/lroom.c line 7: parse error before ;
+d/Prime/Crackhouse/room/lroom.c line 7: parse error before ;
+d/Prime/Crackhouse/room/lroom.c line 7: parse error before ;
+d/Prime/Crackhouse/room/lroom.c line 7: parse error before ;
+d/Prime/Crackhouse/room/lroom.c line 7: parse error before ;
+d/Prime/Crackhouse/room/lroom.c line 7: parse error before ;
+d/Prime/Crackhouse/room/lroom.c line 7: parse error before ;
+d/Prime/Crackhouse/room/lroom.c line 7: parse error before ;
+d/Prime/Crackhouse/room/lroom.c line 7: parse error before ;
+d/Prime/Crackhouse/room/lroom.c line 7: parse error before ;
+d/Prime/Crackhouse/room/lroom.c line 7: parse error before ;
+d/Prime/Crackhouse/room/lroom.c line 7: parse error before ;
+d/Prime/Crackhouse/room/lroom.c line 7: parse error before ;
+d/Prime/Crackhouse/room/lroom.c line 7: parse error before ;
+d/Prime/Crackhouse/room/lroom.c line 7: parse error before ;
+d/Prime/Crackhouse/room/lroom.c line 7: parse error before ;
+d/Prime/Crackhouse/room/lroom.c line 7: parse error before ;
+d/Prime/Crackhouse/room/lroom.c line 7: parse error before ;
+d/Prime/Crackhouse/room/lroom.c line 7: parse error before ;
+d/Prime/Crackhouse/room/lroom.c line 7: parse error before ;
+d/Prime/Central/room/court.c line 40: Undefined variable 'This' before  looks very messy fr
+d/Prime/Central/room/court.c line 40: parse error before  looks very messy fr
+d/Prime/Central/room/court.c line 40: Illegal character constant before  problems, you also 
+d/Prime/Central/room/court.c line 40: Illegal character constant before  "What to do in even
+d/Prime/Central/room/court.c line 44: Illegal LHS before the end of line
+d/Prime/Central/room/court.c line 45: Illegal LHS before the end of line
+d/Prime/Cyanide/area1/a1climb01.c line 28: End of file in text block before the end of line
+d/Prime/Cyanide/area1/a1climb01.c line 28: parse error before the end of line
+d/Prime/Crackhouse/room/lroom.c line 7: parse error before ;
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Cyanide/area2/phallcn.c line 4: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/obj/wetness.c line 13: "#pragma strict_types" requires type of function before )
+d/Prime/Cyanide/obj/wetness.c line 20: Undefined function dryout1 before ;
+d/Prime/Cyanide/obj/wetness.c line 28: "#pragma strict_types" requires type of function before )
+d/Prime/Cyanide/obj/wetness.c line 33: Redeclaration of function dryout1. before the end of line
+d/Prime/Cyanide/obj/wetness.c line 35: "#pragma strict_types" requires type of function before )
+d/Prime/Cyanide/obj/wetness.c line 43: "#pragma strict_types" requires type of function before )
+d/Prime/Cyanide/obj/wetness.c line 13: "#pragma strict_types" requires type of function before )
+d/Prime/Cyanide/obj/wetness.c line 20: Undefined function dryout1 before ;
+d/Prime/Cyanide/obj/wetness.c line 28: "#pragma strict_types" requires type of function before )
+d/Prime/Cyanide/obj/wetness.c line 33: Redeclaration of function dryout1. before the end of line
+d/Prime/Cyanide/obj/wetness.c line 35: "#pragma strict_types" requires type of function before )
+d/Prime/Cyanide/obj/wetness.c line 43: "#pragma strict_types" requires type of function before )
+d/Prime/Crackhouse/room/lroom.c line 7: parse error before ;
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Crackhouse/room/lroom.c line 7: parse error before ;
+d/Prime/Crackhouse/room/lroom.c line 7: parse error before ;
+d/Prime/Crackhouse/room/lroom.c line 7: parse error before ;
+d/Prime/Crackhouse/room/lroom.c line 7: parse error before ;
+d/Prime/Crackhouse/room/lroom.c line 7: parse error before ;
+d/Prime/Crackhouse/room/lroom.c line 7: parse error before ;
+d/Prime/Crackhouse/room/lroom.c line 7: parse error before ;
+d/Prime/Crackhouse/room/lroom.c line 7: parse error before ;
+d/Prime/Crackhouse/room/lroom.c line 7: parse error before ;
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Crackhouse/room/lroom.c line 7: parse error before ;
+d/Prime/Central/room/pawnshop.c line 22: Undefined variable 'WASTE_CAN' before ;
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Magehouse/newbie.h line 4: Warning: redefinition of #define BASE_PATH
+ before #define N_ROOM BASE_
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Magehouse/newbie.h line 4: Warning: redefinition of #define BASE_PATH
+ before #define N_ROOM BASE_
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Magehouse/newbie.h line 4: Warning: redefinition of #define BASE_PATH
+ before #define N_ROOM BASE_
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Cyanide/area2/phallcn.c line 4: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area2/phallcn.c line 4: "#pragma strict_types" requires type of function before ) {
+d/Prime/Magehouse/newbie.h line 4: Warning: redefinition of #define BASE_PATH
+ before #define N_ROOM BASE_
+d/Prime/Magehouse/newbie.h line 4: Warning: redefinition of #define BASE_PATH
+ before #define N_ROOM BASE_
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Tokyo/items/lagob.c line 45: Too many arguments to command before ;
+d/Prime/Tokyo/items/lagob.c line 45: Too many arguments to command before ;
+d/Prime/Tokyo/items/lagob.c line 45: Too many arguments to command before ;
+d/Prime/Tokyo/items/lagob.c line 45: Too many arguments to command before ;
+d/Prime/Central/room/road1_-2.c line 40: parse error before  {
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Central/room/road1_-2.c line 40: parse error before ;
+d/Prime/Central/room/road1_-2.c line 40: parse error before ;
+d/Prime/Central/room/road1_-2.c line 40: parse error before ;
+d/Prime/Central/room/road1_-2.c line 40: "#pragma strict_types" requires type of function before )
+d/Prime/Central/room/road1_-2.c line 42: parse error before 		"/tmp/" + report_t
+d/Prime/Central/room/road1_-2.c line 48: Type mismatch ( unknown vs object ) when initializing where before the end of line
+d/Prime/Central/room/road1_-2.c line 48: Missing type before the end of line
+d/Prime/Central/room/road1_-2.c line 50: Bad argument 1 to efun file_name() before +"\n"):"\n" "-+-+-+-
+d/Prime/Central/room/road1_-2.c line 50: Undefined variable 'report' before ;
+d/Prime/Central/room/road1_-2.c line 40: "#pragma strict_types" requires type of function before )
+d/Prime/Central/room/road1_-2.c line 42: parse error before 		"/tmp/" + report_t
+d/Prime/Central/room/road1_-2.c line 48: Type mismatch ( unknown vs object ) when initializing where before the end of line
+d/Prime/Central/room/road1_-2.c line 48: Missing type before the end of line
+d/Prime/Central/room/road1_-2.c line 50: Bad argument 1 to efun file_name() before +"\n"):"\n" "-+-+-+-
+d/Prime/Central/room/road1_-2.c line 50: Undefined variable 'report' before ;
+d/Prime/Central/room/road1_-2.c line 40: "#pragma strict_types" requires type of function before )
+d/Prime/Central/room/road1_-2.c line 42: parse error before 		"/tmp/" + report_t
+d/Prime/Central/room/road1_-2.c line 48: Type mismatch ( unknown vs object ) when initializing where before the end of line
+d/Prime/Central/room/road1_-2.c line 48: Missing type before the end of line
+d/Prime/Central/room/road1_-2.c line 50: Bad argument 1 to efun file_name() before +"\n"):"\n" "-+-+-+-
+d/Prime/Central/room/road1_-2.c line 50: Undefined variable 'report' before ;
+d/Prime/Central/room/road1_-2.c line 40: "#pragma strict_types" requires type of function before )
+d/Prime/Central/room/road1_-2.c line 42: parse error before 		"/tmp/" + report_t
+d/Prime/Central/room/road1_-2.c line 48: Type mismatch ( unknown vs object ) when initializing where before the end of line
+d/Prime/Central/room/road1_-2.c line 48: Missing type before the end of line
+d/Prime/Central/room/road1_-2.c line 50: Bad argument 1 to efun file_name() before +"\n"):"\n" "-+-+-+-
+d/Prime/Central/room/road1_-2.c line 50: Undefined variable 'report' before ;
+d/Prime/Central/room/road1_-2.c line 43: parse error before off generagor") && !
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Magehouse/newbie.h line 4: Warning: redefinition of #define BASE_PATH
+ before #define N_ROOM BASE_
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Sewers/obj/rock.c line 66: Warning: /* found in comment. before the end of line
+d/Prime/Sewers/obj/rock.c line 66: Warning: /* found in comment. before the end of line
+d/Prime/Sewers/obj/rock.c line 66: Warning: /* found in comment. before the end of line
+d/Prime/Sewers/obj/rock.c line 66: Warning: /* found in comment. before the end of line
+d/Prime/Sewers/obj/rock.c line 66: Warning: /* found in comment. before the end of line
+d/Prime/Sewers/obj/rock.c line 66: Warning: /* found in comment. before the end of line
+d/Prime/Sewers/obj/rock.c line 66: Warning: /* found in comment. before the end of line
+d/Prime/Sewers/obj/rock.c line 66: Warning: /* found in comment. before the end of line
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Sewers/obj/rock.c line 66: Warning: /* found in comment. before the end of line
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Sewers/obj/rock.c line 66: Warning: /* found in comment. before the end of line
+d/Prime/Sewers/obj/rock.c line 66: Warning: /* found in comment. before the end of line
+d/Prime/Sewers/obj/rock.c line 66: Warning: /* found in comment. before the end of line
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/monsters/balrog.c line 110: Redeclaration of function receive_message. before the end of line
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Macrosoft/mon/borg.c line 133: Undefined variable 'MS_D' before ;
+d/Prime/Macrosoft/mon/borg.c line 136: parse error before  return 0;
+d/Prime/Macrosoft/mon/borg.c line 133: Undefined variable 'MS_D' before ;
+d/Prime/Macrosoft/mon/borg.c line 136: parse error before  return 0;
+d/Prime/Macrosoft/mon/borg.c line 133: Undefined variable 'MS_D' before ;
+d/Prime/Macrosoft/mon/borg.c line 136: parse error before  return 0;
+d/Prime/Macrosoft/mon/borg.c line 133: Undefined variable 'MS_D' before ;
+d/Prime/Macrosoft/mon/borg.c line 136: parse error before  return 0;
+d/Prime/Macrosoft/mon/borg.c line 133: Undefined variable 'MS_D' before ;
+d/Prime/Macrosoft/mon/borg.c line 136: parse error before  return 0;
+d/Prime/Macrosoft/mon/borg.c line 133: Undefined variable 'MS_D' before ;
+d/Prime/Macrosoft/mon/borg.c line 136: parse error before  return 0;
+d/Prime/Macrosoft/mon/borg.c line 133: Undefined variable 'MS_D' before ;
+d/Prime/Macrosoft/mon/borg.c line 136: parse error before  return 0;
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/HillVally/room/gatehouse.c line 63: Reserved type name unexpected. before (string str){
+d/Prime/HillVally/room/gatehouse.c line 63: parse error before (string str){
+d/Prime/HillVally/room/gatehouse.c line 63: Reserved type name unexpected. before (string str){
+d/Prime/HillVally/room/gatehouse.c line 63: parse error before (string str){
+d/Prime/HillVally/room/gatehouse.c line 63: Reserved type name unexpected. before (string str){
+d/Prime/HillVally/room/gatehouse.c line 63: parse error before (string str){
+d/Prime/HillVally/room/gatehouse.c line 63: Reserved type name unexpected. before (string str){
+d/Prime/HillVally/room/gatehouse.c line 63: parse error before (string str){
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area2/phallcn.c line 4: "#pragma strict_types" requires type of function before ) {
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Magehouse/basement/gcamp12.c line 68: parse error before the end of line
+d/Prime/Magehouse/basement/gcamp12.c line 68: parse error before the end of line
+d/Prime/Magehouse/basement/tvault.c line 1: Cannot #include newbie.h before #include <config.h>
+d/Prime/Magehouse/godroom.c line 49: Undefined variable 'N_ITEM' before "darkheart.c");
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/School/room/h17.c line 3: Cannot #include macrosoft.h before the end of line
+d/Prime/School/room/h17.c line 5: parse error before ;
+d/Prime/School/room/h17.c line 3: Cannot #include macrosoft.h before the end of line
+d/Prime/School/room/h17.c line 5: parse error before ;
+d/Prime/School/room/h17.c line 3: Cannot #include macrosoft.h before the end of line
+d/Prime/School/room/h17.c line 5: parse error before ;
+d/Prime/School/room/entrance.c line 3: Cannot #include macrosoft.h before the end of line
+d/Prime/School/room/entrance.c line 5: parse error before ;
+d/Prime/School/room/entrance.c line 3: Cannot #include macrosoft.h before the end of line
+d/Prime/School/room/entrance.c line 5: parse error before ;
+d/Prime/School/room/h10.c line 23: parse error before " : "A tiled suspens
+d/Prime/School/room/h10.c line 27: End of file in string before ad" : "It is divided
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Magehouse/monsters/mage11.c line 12: parse error before the end of line
+d/Prime/Magehouse/monsters/mage11.c line 31: Illegal LHS before the end of line
+d/Prime/Magehouse/monsters/mage11.c line 31: parse error before the end of line
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Norva/rooms/gym1.c line 4: parse error before the end of line
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Central/room/road01.c line 2: Cannot #include path.h before the end of line
+d/Prime/Central/room/road01.c line 19: Undefined variable 'ROOMS' before "alley2.c",
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Norva/rooms/plot2.c line 4: parse error before the end of line
+d/Prime/Norva/rooms/plot2.c line 4: parse error before the end of line
+d/Prime/Norva/rooms/3beq2.c line 4: parse error before the end of line
+d/Prime/Norva/rooms/3beq3.c line 4: parse error before the end of line
+d/Prime/Norva/rooms/3beq3.c line 4: parse error before the end of line
+d/Prime/Norva/rooms/3beq3.c line 4: parse error before the end of line
+d/Prime/Norva/rooms/3beq4.c line 4: parse error before the end of line
+d/Prime/Norva/rooms/3beq4.c line 4: parse error before the end of line
+d/Prime/Norva/rooms/3beq4.c line 4: parse error before the end of line
+d/Prime/Norva/rooms/3beq5.c line 4: parse error before the end of line
+d/Prime/Norva/rooms/3beq5.c line 4: parse error before the end of line
+d/Prime/Norva/rooms/3beqrm1.c line 4: parse error before the end of line
+d/Prime/Norva/rooms/3beqrm1.c line 4: parse error before the end of line
+d/Prime/Mall/mons/kid.c line 4: Cannot #include mall.h before inherit MONSTER ;
+d/Prime/Mall/mons/kid.c line 43: Undefined variable 'MALL' before "mons/dad.c");
+d/Prime/Mall/mons/kid.c line 43: Type mismatch ( unknown vs object ) when initializing dad before the end of line
+d/Prime/Mall/mons/kid.c line 43: Missing type before the end of line
+d/Prime/Mall/mons/kid.c line 44: parse error before (dad && dad_flag) {
+d/Prime/Mall/mons/kid.c line 4: Cannot #include mall.h before inherit MONSTER ;
+d/Prime/Mall/mons/kid.c line 43: Undefined variable 'MALL' before "mons/dad.c");
+d/Prime/Mall/mons/kid.c line 43: Type mismatch ( unknown vs object ) when initializing dad before the end of line
+d/Prime/Mall/mons/kid.c line 43: Missing type before the end of line
+d/Prime/Mall/mons/kid.c line 44: parse error before (dad && dad_flag) {
+d/Prime/Mall/mons/kid.c line 44: Type mismatch ( unknown vs object ) when initializing dad before the end of line
+d/Prime/Mall/mons/kid.c line 44: Missing type before the end of line
+d/Prime/Mall/mons/kid.c line 45: parse error before (dad && dad_flag) {
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Macrosoft/mon/officewkr.c line 41: parse error before  4 }) );
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+d/Prime/Cyanide/area2/ngarden.c line 2: Warning: /* found in comment. before the end of line

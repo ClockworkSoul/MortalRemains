@@ -1,0 +1,709 @@
+u/d/dilligaf/workroom.c line 20: parse error before the end of line
+u/d/dilligaf/street/street2.c line 25: parse error before the end of line
+u/d/dilligaf/street/cp.c line 3: parse error before inherit "rooms.h"
+u/d/dilligaf/street/cp.c line 3: Unrecognised # directive before the end of line
+u/d/dilligaf/street/street6.c line 27: parse error before  "You can see four l
+u/d/dilligaf/street/street22.c line 27: parse error before the end of line
+u/d/dilligaf/street/street22.c line 27: parse error before the end of line
+u/d/dilligaf/shop/shop1.c line 26: Undefined variable 'SHOP' before "shop2.c",
+u/d/dilligaf/shop/shop3.c line 12: parse error before  "The Stage Room" );
+u/d/dilligaf/gate/gate2.c line 29: parse error before  "\n"+
+u/d/dilligaf/gate/gate2.c line 37: parse error before  "Stone fingers reac
+u/d/dilligaf/forest/frst1.c line 13: Undefined variable 'You' before  standing on a small
+u/d/dilligaf/forest/frst1.c line 13: parse error before  standing on a small
+u/d/dilligaf/forest/frst1.c line 13: Undefined variable 'You' before  standing on a small
+u/d/dilligaf/forest/frst1.c line 13: parse error before  standing on a small
+u/d/dilligaf/cellar.c line 3: Cannot #include rooms.h before the end of line
+u/d/dilligaf/cellar.c line 43: parse error before ));
+u/y/yvan/thrudd.c line 7: Cannot #include shit.h before the end of line
+u/y/yvan/thrudd.c line 7: Cannot #include shit.h before the end of line
+obj/obj/magic_scroll.c line 28: Undefined variable 'SPELLS' before ==-1) {
+obj/obj/magic_scroll.c line 70: Undefined variable 'PATH' before query("spell")+EXTEN
+obj/obj/magic_scroll.c line 70: Undefined variable 'EXTENSION' before the end of line
+std/lock.c line 66: Warning: Value of conditional expression is unused before the end of line
+std/lock.c line 157: "#pragma strict_types" requires type of function before ) {
+u/d/dilligaf/obj/stick.c line 9: Cannot #include area.h before the end of line
+u/d/dilligaf/obj/test.c line 44: End of file in text block before "/std/object/ob"
+u/d/dilligaf/obj/test.c line 44: parse error before "/std/object/ob"
+u/d/dilligaf/obj/test.c line 41: End of file in text block before ");
+u/d/dilligaf/obj/test.c line 41: parse error before ");
+u/d/dilligaf/obj/test.c line 42: End of file in text block before );
+u/d/dilligaf/obj/test.c line 42: parse error before );
+u/d/dilligaf/obj/ball.c line 47: End of file in text block before    Check for multipl
+u/d/dilligaf/obj/ball.c line 47: parse error before    Check for multipl
+u/d/dilligaf/obj/ball.c line 48: End of file in text block before     count_down = (re
+u/d/dilligaf/obj/ball.c line 48: parse error before     count_down = (re
+u/d/dilligaf/obj/ball.c line 59: End of file in text block before eturn time to next r
+u/d/dilligaf/obj/ball.c line 59: parse error before eturn time to next r
+u/d/dilligaf/obj/ball.c line 46: End of file in text block before ampese himself and t
+u/d/dilligaf/obj/ball.c line 46: parse error before ampese himself and t
+u/d/dilligaf/obj/ball.c line 46: End of file in text block before ampese himself and t
+u/d/dilligaf/obj/ball.c line 46: parse error before ampese himself and t
+u/d/dilligaf/obj/ball.c line 46: End of file in text block before (extract(str, strlen
+u/d/dilligaf/obj/ball.c line 46: parse error before (extract(str, strlen
+u/d/dilligaf/obj/ball.c line 46: End of file in text block before (extract(str, strlen
+u/d/dilligaf/obj/ball.c line 46: parse error before (extract(str, strlen
+u/d/dilligaf/obj/ball.c line 46: End of file in text block before g item, object user,
+u/d/dilligaf/obj/ball.c line 46: parse error before g item, object user,
+u/d/dilligaf/obj/test.c line 44: End of file in text block before \n");
+u/d/dilligaf/obj/test.c line 44: parse error before \n");
+u/d/dilligaf/obj/test.c line 45: End of file in text block before ");
+u/d/dilligaf/obj/test.c line 45: parse error before ");
+u/d/dilligaf/obj/test.c line 44: End of file in text block before hadowed.
+u/d/dilligaf/obj/test.c line 44: parse error before hadowed.
+u/d/dilligaf/obj/test.c line 45: End of file in text block before dowed.
+u/d/dilligaf/obj/test.c line 45: parse error before dowed.
+u/d/dilligaf/obj/shit.c line 31: End of file in text block before t"
+u/d/dilligaf/obj/shit.c line 31: parse error before t"
+u/d/dilligaf/obj/shit.c line 31: End of file in text block before the end of file
+u/d/dilligaf/obj/shit.c line 31: parse error before the end of file
+u/d/dilligaf/obj/shit.c line 32: End of file in text block before define CONTAINER 	"/
+u/d/dilligaf/obj/shit.c line 32: parse error before define CONTAINER 	"/
+u/d/dilligaf/obj/ball.c line 49: parse error before (!str){
+u/d/dilligaf/obj/ball.c line 54: Warning: Value of conditional expression is unused before ("A dummy appears ou
+u/d/dilligaf/obj/ball.c line 58: parse error before  1;
+u/d/dilligaf/obj/test.c line 27: parse error before n);
+u/d/dilligaf/shop/shop4.c line 62: Undefined variable 'ob' before  clone_object("/u/d/
+u/d/dilligaf/shop/shop4.c line 69: End of file in string before operty is on.\n");
+u/d/dilligaf/shop/shop4.c line 69: parse error before operty is on.\n");
+u/d/dilligaf/shop/shop4.c line 70: End of file in string before  ,dir_flag);
+u/d/dilligaf/shop/shop4.c line 70: parse error before  ,dir_flag);
+u/d/dilligaf/shop/shop4.c line 70: End of file in string before  domain, string lev,
+u/d/dilligaf/shop/shop4.c line 70: parse error before  domain, string lev,
+u/d/dilligaf/shop/shop4.c line 70: End of file in string before  domain, string lev,
+u/d/dilligaf/shop/shop4.c line 70: parse error before  domain, string lev,
+u/d/dilligaf/armour/rshirt.c line 25: End of file in text block before the end of line
+u/d/dilligaf/armour/rshirt.c line 25: parse error before the end of line
+u/d/dilligaf/armour/rshirt.c line 25: End of file in text block before Magic +2 Jersey */
+u/d/dilligaf/armour/rshirt.c line 25: parse error before Magic +2 Jersey */
+u/d/dilligaf/armour/rshirt.c line 25: End of file in text block before Magic +2 Jersey */
+u/d/dilligaf/armour/rshirt.c line 25: parse error before Magic +2 Jersey */
+u/d/dilligaf/armour/rshirt.c line 24: End of file in text block before  set("armour" , -4);
+u/d/dilligaf/armour/rshirt.c line 24: parse error before  set("armour" , -4);
+u/d/dilligaf/armour/rshirt.c line 24: End of file in text block before  set("armour" , -4);
+u/d/dilligaf/armour/rshirt.c line 24: parse error before  set("armour" , -4);
+u/d/dilligaf/armour/rshirt.c line 25: End of file in text block before ) and deep_inherit_l
+u/d/dilligaf/armour/rshirt.c line 25: parse error before ) and deep_inherit_l
+u/d/dilligaf/armour/rshirt.c line 13: Undefined function set_material before ;
+u/d/dilligaf/armour/rshirt.c line 13: Undefined function set_material_type before ;
+u/d/dilligaf/monster/Os.c line 9: parse error before  280lbs. Hes a rugby
+u/d/dilligaf/monster/Os.c line 9: Illegal character constant before  take any shit.\n");
+u/d/dilligaf/monster/Os.c line 25: End of file in string before y", "dead body",
+u/d/dilligaf/obj/cigar.c line 60: parse error before  would you like to e
+u/d/dilligaf/obj/cigar.c line 70: End of file in string before copy(emotes); }
+u/d/dilligaf/obj/cigar.c line 60: parse error before  would you like to e
+u/d/dilligaf/obj/cigar.c line 71: End of file in string before py(emotes); }
+u/d/dilligaf/obj/cigar.c line 60: parse error before  would you like to e
+u/d/dilligaf/obj/cigar.c line 71: End of file in string before py(emotes); }
+u/d/dilligaf/obj/cigar.c line 58: End of file in string before nt extinguish(string
+u/d/dilligaf/obj/cigar.c line 58: parse error before nt extinguish(string
+u/d/dilligaf/monster/Os.c line 9: parse error before create();
+u/d/dilligaf/monster/Os.c line 28: Illegal LHS before the end of line
+u/d/dilligaf/monster/Os.c line 29: Undefined variable 'this_object' before ;
+u/d/dilligaf/monster/Os.c line 9: parse error before create();
+u/d/dilligaf/monster/Os.c line 28: Illegal LHS before the end of line
+u/d/dilligaf/monster/Os.c line 9: Reserved type name unexpected. before , ob2, ob3
+u/d/dilligaf/monster/Os.c line 9: parse error before , ob2, ob3
+u/d/dilligaf/monster/Os.c line 28: Illegal LHS before the end of line
+u/d/dilligaf/monster/Os.c line 29: Undefined variable 'ob1' before move(this_object());
+u/d/dilligaf/monster/Os.c line 30: Undefined variable 'ob2' before  clone_object("/u/d/
+u/d/dilligaf/monster/Os.c line 32: Undefined variable 'ob3' before  clone_object("/u/d/
+u/d/dilligaf/monster/Os.c line 8: parse error before create();
+u/d/dilligaf/monster/Os.c line 28: Illegal LHS before the end of line
+u/d/dilligaf/street/street6.c line 10: parse error before the end of line
+u/d/dilligaf/gate/gate1.c line 25: parse error before  "You are looking at
+u/d/dilligaf/gate/gate1.c line 31: End of file in string before dded the help file 1
+u/d/dilligaf/forest/frst3.c line 23: parse error before ;
+u/d/dilligaf/forest/frst3.c line 35: Illegal LHS before the end of line
+u/d/dilligaf/forest/frst3.c line 35: parse error before the end of line
+u/d/dilligaf/forest/frst3.c line 36: Illegal LHS before  return 0;
+u/d/dilligaf/forest/frst3.c line 42: Illegal LHS before the end of line
+u/d/dilligaf/forest/frst3.c line 42: parse error before the end of line
+u/d/dilligaf/forest/frst3.c line 36: parse error before  = "east") return 0;
+u/d/dilligaf/forest/frst3.c line 36: Illegal LHS before  return 0;
+u/d/dilligaf/forest/frst3.c line 43: parse error before  = "north") return 0
+u/d/dilligaf/forest/frst3.c line 43: Illegal LHS before  return 0;
+u/d/dilligaf/forest/frst3.c line 50: parse error before  = "s") return 0;
+u/d/dilligaf/forest/frst3.c line 50: Illegal LHS before  return 0;
+u/d/dilligaf/forest/frst3.c line 38: parse error before  = "east") return 0;
+u/d/dilligaf/forest/frst3.c line 38: Illegal LHS before  return 0;
+u/d/dilligaf/forest/frst3.c line 45: parse error before  = "north") return 0
+u/d/dilligaf/forest/frst3.c line 45: Illegal LHS before  return 0;
+u/d/dilligaf/forest/frst3.c line 52: parse error before  = "s") return 0;
+u/d/dilligaf/forest/frst3.c line 52: Illegal LHS before  return 0;
+u/d/dilligaf/forest/frst3.c line 43: parse error before  = "east") return 0;
+u/d/dilligaf/forest/frst3.c line 43: Illegal LHS before  return 0;
+u/d/dilligaf/forest/frst3.c line 50: parse error before  = "north") return 0
+u/d/dilligaf/forest/frst3.c line 50: Illegal LHS before  return 0;
+u/d/dilligaf/forest/frst3.c line 57: parse error before  = "s") return 0;
+u/d/dilligaf/forest/frst3.c line 57: Illegal LHS before  return 0;
+u/d/dilligaf/armour/mring.c line 19: Reserved type name unexpected. before { return 1; }
+u/d/dilligaf/armour/mring.c line 19: parse error before { return 1; }
+u/d/dilligaf/armour/mring.c line 24: parse error before the end of line
+u/d/dilligaf/armour/mring.c line 22: parse error before ){
+u/d/dilligaf/armour/mring.c line 20: Reserved type name unexpected. before () {
+u/d/dilligaf/armour/mring.c line 20: parse error before () {
+u/d/dilligaf/forest/frst12.c line 23: parse error before  FOREST+"frst13.c",
+u/d/dilligaf/forest/frst12.c line 23: parse error before ([
+u/d/dilligaf/forest/frst12.c line 23: parse error before the end of line
+u/d/dilligaf/forest/frst12.c line 24: parse error before " : FOREST+"frst13.c
+u/d/dilligaf/forest/frst12.c line 36: End of file in string before the end of line
+u/d/dilligaf/armour/tarmour.c line 19: Undefined function set_armour_type before ;
+u/d/dilligaf/forest/frst26.c line 13: parse error before  ([ "Thief" : "/u/d/
+u/d/dilligaf/forest/frst13.c line 13: parse error before  ([ "Thief" : "/u/d/
+u/d/dilligaf/monster/thief.c line 48: Redeclaration of function init. before the end of line
+u/d/dilligaf/monster/thief.c line 28: Undefined variable 'enable' before ();
+u/d/dilligaf/monster/thief.c line 28: parse error before ();
+u/d/dilligaf/monster/thief.c line 35: Illegal LHS before the end of line
+u/d/dilligaf/armour/cowl.c line 22: End of file in text block before ;
+u/d/dilligaf/armour/cowl.c line 22: parse error before ;
+u/d/dilligaf/weapons/gsword.c line 19: End of file in text block before ");
+u/d/dilligaf/weapons/gsword.c line 19: parse error before ");
+u/d/dilligaf/armour/garmour.c line 18: Undefined function set_armour_type before ;
+u/d/dilligaf/armour/KEG.c line 20: Undefined function set_armour_type before ;
+u/d/dilligaf/armour/KEG.c line 67: End of file in string before (i != -1)
+u/d/dilligaf/armour/KEG.c line 67: parse error before (i != -1)
+u/d/dilligaf/armour/KEG.c line 67: End of file in string before (i != -1)
+u/d/dilligaf/armour/KEG.c line 67: parse error before (i != -1)
+u/d/dilligaf/armour/KEG.c line 67: End of file in string before = -1)
+u/d/dilligaf/armour/KEG.c line 67: parse error before = -1)
+u/d/dilligaf/armour/KEG.c line 68: End of file in string before -1)
+u/d/dilligaf/armour/KEG.c line 68: parse error before -1)
+u/d/dilligaf/armour/KEG.c line 65: End of file in string before  return 1;
+u/d/dilligaf/armour/KEG.c line 65: parse error before  return 1;
+u/d/dilligaf/armour/gofh.c line 29: parse error before the end of line
+u/d/dilligaf/cemetary/keep/keep1.c line 3: Cannot #include rooms.h before the end of line
+u/d/dilligaf/cemetary/keep/keep1.c line 3: Cannot #include rooms.h before the end of line
+u/d/dilligaf/cemetary/cem4.c line 57: parse error before  1; }
+u/d/dilligaf/cemetary/cem4.c line 57: parse error before  1; }
+u/d/dilligaf/cemetary/cem4.c line 58: parse error before  1; }
+u/d/dilligaf/cemetary/cem4.c line 58: parse error before  1;
+u/d/dilligaf/cemetary/cem4.c line 58: parse error before  1;
+u/d/dilligaf/cemetary/keep/keep1.c line 3: Cannot #include rooms.h before the end of line
+u/d/dilligaf/cemetary/keep/keep1.c line 3: Cannot #include rooms.h before the end of line
+u/d/dilligaf/cemetary/keep/keep1.c line 3: Cannot #include rooms.h before the end of line
+u/d/dilligaf/cemetary/keep/keep1.c line 3: Cannot #include rooms.h before the end of line
+u/d/dilligaf/cemetary/keep/keep1.c line 3: Cannot #include rooms.h before the end of line
+u/d/dilligaf/cemetary/cem4.c line 57: Undefined function move_player before ->this_player("/u/d/
+u/d/dilligaf/cemetary/cem4.c line 57: Undefined function move_player before ;
+u/d/dilligaf/cemetary/cem7.c line 24: parse error before  CEMETARY+"cem6.c",
+u/d/dilligaf/cemetary/cem4.c line 57: parse error before ("/u/d/dilligaf/ceme
+u/d/dilligaf/cemetary/cem4.c line 59: Warning: Value of conditional expression is unused before  1;
+u/d/dilligaf/cemetary/cem4.c line 57: parse error before ("/u/d/dilligaf/ceme
+u/d/dilligaf/cemetary/cem4.c line 59: Warning: Value of conditional expression is unused before  1;
+u/d/dilligaf/cemetary/cem4.c line 57: parse error before ("/u/d/dilligaf/ceme
+u/d/dilligaf/cemetary/cem4.c line 59: Warning: Value of conditional expression is unused before  1;
+u/d/dilligaf/cemetary/cem4.c line 57: parse error before ("/u/d/dilligaf/ceme
+u/d/dilligaf/cemetary/cem4.c line 59: Warning: Value of conditional expression is unused before  1;
+u/d/dilligaf/cemetary/grave1.c line 27: Reserved type name unexpected. before (){
+u/d/dilligaf/cemetary/grave1.c line 27: parse error before (){
+u/d/dilligaf/cemetary/keep/keep1.c line 3: Cannot #include rooms.h before the end of line
+u/d/dilligaf/cemetary/keep/keep1.c line 3: Cannot #include rooms.h before the end of line
+u/d/dilligaf/cemetary/keep/keep1.c line 3: Cannot #include rooms.h before the end of line
+u/d/dilligaf/cemetary/cem7.c line 13: Undefined variable 'set' before  , 1);
+u/d/dilligaf/cemetary/cem7.c line 13: parse error before  , 1);
+u/d/dilligaf/monster/wraith.c line 25: Undefined function set_gender before ;
+u/d/dilligaf/monster/wraith.c line 43: parse error before the end of file
+u/d/dilligaf/monster/wraith.c line 25: Undefined function set_gender before ;
+u/d/dilligaf/cemetary/grave1.c line 13: Illegal character constant before bjects" , ([ "phanto
+u/d/dilligaf/cemetary/grave1.c line 13: parse error before " , ([ "phantom" : "
+u/d/dilligaf/cemetary/grave1.c line 43: End of file in string before the end of file
+u/d/dilligaf/forest/frst26.c line 13: parse error before  ([ "Thief" : "/u/d/
+u/d/dilligaf/forest/frst26.c line 13: parse error before  ([ "Thief" : "/u/d/
+u/d/dilligaf/forest/frst26.c line 13: parse error before  ([ "Thief" : "/u/d/
+u/d/dilligaf/cemetary/keep/keep2.c line 3: Cannot #include rooms.h before the end of line
+u/d/dilligaf/keep/keep2.c line 56: Warning: Value of conditional expression is unused before {
+u/d/dilligaf/street/street18.c line 27: parse error before the end of line
+u/d/dilligaf/street/street18.c line 27: parse error before the end of line
+u/d/dilligaf/street/street17.c line 32: parse error before the end of line
+u/d/dilligaf/street/pub1.c line 39: parse error before the end of line
+u/z/zykor/pstuff/statue.c line 4: No such inherited function ::create before ;
+u/d/dilligaf/armour/gofh.c line 39: "#pragma strict_types" requires type of function before "You look at "+targe
+u/d/dilligaf/armour/gofh.c line 39: parse error before +target->query("cap_
+u/d/dilligaf/armour/gofh.c line 35: "#pragma strict_types" requires type of function before "You look at "+targe
+u/d/dilligaf/armour/gofh.c line 35: parse error before +target->query("cap_
+u/d/dilligaf/armour/gofh.c line 35: "#pragma strict_types" requires type of function before TPN+" looks at "+tar
+u/d/dilligaf/armour/gofh.c line 35: Missing type for argument before ()->query("cap_name"
+u/d/dilligaf/armour/gofh.c line 35: parse error before )->query("cap_name")
+u/d/dilligaf/obj/shit.c line 39: Invalid argument types to '+' ( object vs string ) before ;
+u/d/dilligaf/obj/shit.c line 42: parse error before the end of file
+u/d/dilligaf/obj/shit.c line 41: == always false because of incompatible types ( string vs object ). before {
+u/d/dilligaf/armour/gofh.c line 35: "#pragma strict_types" requires type of function before TPN+" looks at "+tar
+u/d/dilligaf/armour/gofh.c line 35: Missing type for argument before ()->query("cap_name"
+u/d/dilligaf/armour/gofh.c line 35: parse error before )->query("cap_name")
+u/d/dilligaf/monster/exp.c line 15: Undefined function set_exp before ;
+u/d/dilligaf/monster/exp.c line 29: Undefined function set_experience before ;
+u/d/dilligaf/monster/exp.c line 29: Undefined function set_exp before ;
+u/d/dilligaf/weapons/gsword.c line 7: Undefined variable 'k' before (20, 20, 20);
+u/d/dilligaf/weapons/gsword.c line 7: parse error before (20, 20, 20);
+u/d/dilligaf/monster/wraith.c line 42: "#pragma strict_types" requires type of function before ({ "touches", "grabs
+u/d/dilligaf/monster/wraith.c line 42: parse error before  "touches", "grabs a
+u/d/dilligaf/cemetary/grave1.c line 10: parse error before  ob1;
+u/d/dilligaf/cemetary/grave1.c line 11: parse error before the end of line
+u/d/dilligaf/cemetary/grave1.c line 52: Undefined variable 'ob1' before  clone_object("/u/d/
+u/d/dilligaf/add_action_exa.c line 38: parse error before the end of line
+u/d/dilligaf/add_action_exa.c line 38: parse error before the end of line
+u/d/dilligaf/keep/keep4.c line 59: Warning: Value of conditional expression is unused before ("As you pick the bo
+u/d/dilligaf/keep/keep4.c line 62: parse error before  1;
+u/d/dilligaf/keep/keep4.c line 59: Warning: Value of conditional expression is unused before ("As you pick the bo
+u/d/dilligaf/keep/keep4.c line 62: parse error before  1;
+u/d/dilligaf/keep/keep5.c line 34: parse error before ;
+u/d/dilligaf/keep/keep3.c line 58: parse error before n);
+u/d/dilligaf/jail/jail1.c line 73: parse error before (TPN+" reads a warra
+u/d/dilligaf/jail/jail1.c line 90: parse error before  pull on absolutely 
+u/d/dilligaf/jail/jail1.c line 93: Illegal character constant before AIL BREAK!', they pr
+u/d/dilligaf/jail/jail1.c line 93: Illegal character constant before  they proceed to see
+u/d/dilligaf/jail/jail1.c line 94: Illegal character constant before AIL BREAK!', the gua
+u/d/dilligaf/jail/jail1.c line 94: Illegal character constant before  the guards beat the
+u/d/dilligaf/jail/jail1.c line 94: Illegal character constant before  pull it.\n");
+u/d/dilligaf/jail/jail1.c line 90: parse error before  pull on absolutely 
+u/d/dilligaf/jail/jail1.c line 93: Illegal character constant before AIL BREAK!', they pr
+u/d/dilligaf/jail/jail1.c line 93: Illegal character constant before  they proceed to see
+u/d/dilligaf/jail/jail1.c line 94: Illegal character constant before AIL BREAK!'. They be
+u/d/dilligaf/jail/jail1.c line 94: Illegal character constant before  They beat the shit 
+u/d/dilligaf/jail/jail1.c line 99: End of file in string before ommands. The\n"
+u/d/dilligaf/jail/jail1.c line 90: parse error before  what?\n");
+u/d/dilligaf/jail/jail1.c line 93: Illegal character constant before AIL BREAK!', they pr
+u/d/dilligaf/jail/jail1.c line 93: Illegal character constant before  they proceed to see
+u/d/dilligaf/jail/jail1.c line 94: Illegal character constant before AIL BREAK!'. They be
+u/d/dilligaf/jail/jail1.c line 94: Illegal character constant before  They beat the shit 
+u/d/dilligaf/jail/jail1.c line 99: End of file in string before rn 1; }
+u/d/dilligaf/jail/jail1.c line 88: End of file in string before nt pull_func(string 
+u/d/dilligaf/jail/jail1.c line 88: parse error before nt pull_func(string 
+u/d/dilligaf/jail/jail1.c line 87: End of file in string before eld.\n);
+u/d/dilligaf/jail/jail1.c line 87: parse error before eld.\n);
+u/d/dilligaf/Vikings/area/ice2.c line 30: parse error before  "You lift your nose
+u/d/dilligaf/Vikings/area/house1.c line 50: parse error before the end of line
+u/d/dilligaf/obj/bone.c line 31: parse error before (str == "bone"){
+u/d/dilligaf/obj/bone.c line 42: parse error before "gender")+" for wast
+u/d/dilligaf/obj/bone.c line 55: Reserved type name unexpected. before (string str){
+u/d/dilligaf/obj/bone.c line 55: parse error before (string str){
+u/d/dilligaf/obj/bone.c line 58: parse error before the end of file
+u/d/dilligaf/obj/bone.c line 22: Undefined function set_name before ;
+u/d/dilligaf/obj/bone.c line 21: Undefined function set_name before ;
+u/d/dilligaf/obj/bone.c line 20: Undefined function set_name before ;
+u/d/dilligaf/Vikings/cmds/_hbutt.c line 17: Undefined variable 'COST' before ){
+u/d/dilligaf/Vikings/cmds/_hbutt.c line 21: Undefined variable 'target' before block_attack(random(
+u/d/dilligaf/Vikings/cmds/_hbutt.c line 17: Undefined variable 'COST' before ){
+u/d/dilligaf/Vikings/cmds/_hbutt.c line 17: Undefined variable 'COST' before ){
+u/d/dilligaf/Vikings/cmds/_hbutt.c line 18: parse error before  this_player()->quer
+u/d/dilligaf/Vikings/cmds/_hbutt.c line 18: Illegal LHS before )){
+u/d/dilligaf/Vikings/cmds/_hbutt.c line 18: parse error before )){
+u/d/dilligaf/Vikings/cmds/_hbutt.c line 13: Undefined variable 'COST' before  this_player()->quer
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/forest/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/cemetary/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/cemetary/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/cemetary/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/cemetary/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/cemetary/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/cemetary/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/cemetary/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/cemetary/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/keep/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/keep/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/keep/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/keep/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/shop/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/shop/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/shop/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/shop/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/gate/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/jail/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/gate/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/forest/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/forest/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/forest/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/forest/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/cemetary/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/cemetary/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/cemetary/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/cemetary/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/cemetary/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/cemetary/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/cemetary/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/cemetary/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/keep/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/keep/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/keep/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/keep/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/keep/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/Vikings/area/ice8.c line 20: Illegal lvalue before  ICE+"ice7.c"
+u/d/dilligaf/Vikings/area/ice8.c line 21: Illegal lvalue before  ICE+"ice9.c"
+u/d/dilligaf/Vikings/area/ice8.c line 22: parse error before ) );
+u/d/dilligaf/Vikings/area/ice8.c line 21: parse error before  ICE+"ice9.c"
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/forest/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/forest/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/cemetary/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/cemetary/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/cemetary/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/cemetary/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/cemetary/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/cemetary/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/cemetary/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/cemetary/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/cemetary/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/cemetary/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/cemetary/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/cemetary/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/cemetary/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/cemetary/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/cemetary/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/cemetary/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/keep/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/keep/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/keep/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/keep/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/keep/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/keep/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/keep/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/keep/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/keep/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/keep/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/pub/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/pub/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/pub/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/pub/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/jail/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/jail/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/viking_helmet.c line 51: End of file in text block before  %s", str) == 1)  fl
+u/d/dilligaf/viking_helmet.c line 51: parse error before  %s", str) == 1)  fl
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/pub/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/pub/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/vat.c line 7: No such inherited function ::create before ;
+u/d/dilligaf/vat.c line 9: Undefined function set before ;
+u/d/dilligaf/vat.c line 47: No such inherited function ::init before ;
+u/d/dilligaf/vat.c line 5: parse error before  create()
+u/d/dilligaf/vat.c line 48: No such inherited function ::init before ;
+u/d/dilligaf/vat.c line 48: No such inherited function ::init before ;
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/forest/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/forest/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/cemetary/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/cemetary/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/cemetary/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/cemetary/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/cemetary/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/cemetary/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/cemetary/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/cemetary/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/vat.c line 3: Cannot #include rooms.h before the end of line
+u/d/dilligaf/vat.c line 25: Undefined variable 'CEMETARY' before "cem3.c",
+u/d/dilligaf/vat.c line 3: Cannot #include rooms.h before the end of line
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/forest/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/forest/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/cemetary/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/cemetary/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/cemetary/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/cemetary/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/cemetary/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/cemetary/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/cemetary/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/cemetary/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/cemetary/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/cemetary/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/cemetary/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/cemetary/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/pub/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/pub/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/forest/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/forest/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/forest/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/forest/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/forest/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/forest/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/forest/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/forest/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/street/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/street/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u
+u/d/dilligaf/gate/rooms.h line 2: Warning: redefinition of #define SHOP
+ before #define GATE "/u/d/d
+u/d/dilligaf/gate/rooms.h line 6: Warning: redefinition of #define PUB
+ before #define CEMETARY "/u

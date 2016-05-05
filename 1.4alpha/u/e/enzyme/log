@@ -1,0 +1,22 @@
+u/e/enzyme/mon/slime.c line 4: Missing type for argument before  arg) {
+u/e/enzyme/mon/slime.c line 4: parse error before ) {
+u/h/herself/junk/xxx.c line 1: Cannot #include mall.h before the end of line
+u/h/herself/junk/xxx.c line 11: Undefined variable 'MALL' before "mons/bondage.c" ]) 
+d/Prime/Cyanide/area1/a1forest17.c line 11: Undefined variable 'x' before (getuid());
+d/Prime/Cyanide/area1/a1forest17.c line 11: parse error before (getuid());
+u/e/enzyme/area/room2.c line 42: parse error before "west",
+u/e/enzyme/area/room2.c line 72: Illegal LHS before the end of line
+u/e/enzyme/area/room2.c line 72: parse error before the end of line
+u/e/enzyme/area/room2.c line 76: Illegal LHS before the end of line
+u/e/enzyme/mon/corpse.c line 4: Cannot #include area.h before the end of line
+u/e/enzyme/mon/corpse.c line 23: Undefined variable 'PATH' before "armour/rags.c");
+u/e/enzyme/mon/corpse.c line 4: Cannot #include area.h before the end of line
+u/e/enzyme/mon/corpse.c line 23: Undefined variable 'PATH' before "armour/rags.c");
+u/e/enzyme/area/room2.c line 42: parse error before "west",
+u/e/enzyme/area/room2.c line 72: Illegal LHS before the end of line
+u/e/enzyme/area/room2.c line 72: parse error before the end of line
+u/e/enzyme/area/room2.c line 76: Illegal LHS before the end of line
+u/e/enzyme/area/room2.c line 42: parse error before "west",
+u/e/enzyme/area/room2.c line 72: Illegal LHS before the end of line
+u/e/enzyme/area/room2.c line 72: parse error before the end of line
+u/e/enzyme/area/room2.c line 76: Illegal LHS before the end of line

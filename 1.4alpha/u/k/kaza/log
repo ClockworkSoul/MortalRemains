@@ -1,0 +1,12 @@
+u/k/kaza/bubble.c line 1: "#pragma strict_types" requires type of function before str) {return str == 
+u/k/kaza/bubble.c line 1: Missing type for argument before ) {return str == "fl
+u/k/kaza/bubble.c line 2: "#pragma strict_types" requires type of function before ) {return "flask";}
+u/k/kaza/bubble.c line 2: Type of returned value doesn't match function return type ( string vs int ). before }
+u/k/kaza/bubble.c line 3: "#pragma strict_types" requires type of function before ) {write("It is a bu
+u/k/kaza/bubble.c line 5: "#pragma strict_types" requires type of function before arg) {
+u/k/kaza/bubble.c line 2: "#pragma strict_types" requires type of function before str) {return str == 
+u/k/kaza/bubble.c line 2: Missing type for argument before ) {return str == "fl
+u/k/kaza/bubble.c line 3: "#pragma strict_types" requires type of function before ) {return "flask";}
+u/k/kaza/bubble.c line 3: Type of returned value doesn't match function return type ( string vs int ). before }
+u/k/kaza/bubble.c line 4: "#pragma strict_types" requires type of function before ) {write("It is a bu
+u/k/kaza/bubble.c line 6: "#pragma strict_types" requires type of function before arg) {

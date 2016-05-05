@@ -1,0 +1,4 @@
+d/Ocean/Eloria/rooms/monk_bar.c line 41: Undefined variable 'O_CITY' before "magog02", 
+d/Ocean/Eloria/rooms/monk_bar.c line 41: Undefined variable 'eloria' before "central1a.c",
+d/Ocean/Eloria/rooms/monk_bar.c line 7: Cannot #include eloria.h before #include "mpub.h"
+d/Ocean/Eloria/rooms/monk_bar.c line 42: Undefined variable 'eloria' before "central1a.c",

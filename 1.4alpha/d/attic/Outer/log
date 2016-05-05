@@ -1,0 +1,295 @@
+d/Outer/Sigil/mainst1.c line 0: Cannot #include mudlib.h before   /include/pr
+d/Outer/Sigil/mainst1.c line 1: parse error before include/pr
+d/Outer/Sigil/mainst1.c line 0: Cannot #include mudlib.h before   /include/pr
+d/Outer/Sigil/mainst1.c line 1: parse error before include/pr
+d/Outer/Sigil/stdroom.c line 0: Cannot #include mudlib.h before   /include/pr
+d/Outer/Sigil/stdroom.c line 1: parse error before include/pr
+d/Outer/Sigil/armory.c line 13: Undefined variable 'SIGIL' before "armory2.c"
+d/Outer/Sigil/armory.c line 14: parse error before  SIGIL+"petitionerst
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/ambar.c line 54: parse error before ("wield sword");
+d/Outer/Sigil/monsters/ambar.c line 54: parse error before ("wield sword");
+d/Outer/Sigil/monsters/ambar.c line 54: parse error before ("wield sword");
+d/Outer/Sigil/monsters/ambar.c line 54: parse error before ("wield sword");
+d/Outer/Sigil/monsters/ambar.c line 54: parse error before ("wield sword");
+d/Outer/Sigil/monsters/ambar.c line 54: parse error before ("wield sword");
+d/Outer/Sigil/monsters/ambar.c line 54: parse error before ("wield sword");
+d/Outer/Sigil/monsters/ambar.c line 54: parse error before ("wield sword");
+d/Outer/Sigil/monsters/ambar.c line 54: parse error before ("wield sword");
+d/Outer/Sigil/monsters/ambar.c line 54: parse error before ("wield sword");
+d/Outer/Sigil/monsters/ambar.c line 54: parse error before ("wield sword");
+d/Outer/Sigil/monsters/ambar.c line 54: parse error before ("wield sword");
+d/Outer/Sigil/monsters/ambar.c line 54: parse error before ("wield sword");
+d/Outer/Sigil/monsters/ambar.c line 54: parse error before ("wield sword");
+d/Outer/Sigil/monsters/ambar.c line 54: parse error before ("wield sword");
+d/Outer/Sigil/monsters/ambar.c line 54: parse error before ("wield sword");
+d/Outer/Sigil/monsters/ambar.c line 54: parse error before ("wield sword");
+d/Outer/Sigil/monsters/ambar.c line 54: parse error before ("wield sword");
+d/Outer/Sigil/monsters/ambar.c line 54: parse error before ("wield sword");
+d/Outer/Sigil/monsters/ambar.c line 54: parse error before ("wield sword");
+d/Outer/Sigil/monsters/ambar.c line 54: parse error before ("wield sword");
+d/Outer/Sigil/monsters/ambar.c line 54: parse error before ("wield sword");
+d/Outer/Sigil/monsters/ambar.c line 54: parse error before ("wield sword");
+d/Outer/Sigil/monsters/ambar.c line 54: parse error before ("wield sword");
+d/Outer/Sigil/monsters/ambar.c line 54: parse error before ("wield sword");
+d/Outer/Sigil/monsters/ambar.c line 54: parse error before ("wield sword");
+d/Outer/Sigil/monsters/ambar.c line 54: parse error before ("wield sword");
+d/Outer/Sigil/monsters/ambar.c line 54: parse error before ("wield sword");
+d/Outer/Sigil/monsters/ambar.c line 54: parse error before ("wield sword");
+d/Outer/Sigil/monsters/ambar.c line 54: parse error before ("wield sword");
+d/Outer/Sigil/monsters/ambar.c line 54: parse error before ("wield sword");
+d/Outer/Sigil/monsters/ambar.c line 54: parse error before ("wield sword");
+d/Outer/Sigil/monsters/ambar.c line 54: parse error before ("wield sword");
+d/Outer/Sigil/monsters/ambar.c line 54: parse error before ("wield sword");
+d/Outer/Sigil/monsters/ambar.c line 54: parse error before ("wield sword");
+d/Outer/Sigil/monsters/ambar.c line 54: parse error before ("wield sword");
+d/Outer/Sigil/monsters/ambar.c line 54: parse error before ("wield sword");
+d/Outer/Sigil/monsters/ambar.c line 54: parse error before ("wield sword");
+d/Outer/Sigil/monsters/ambar.c line 54: parse error before ("wield sword");
+d/Outer/Sigil/monsters/ambar.c line 54: parse error before ("wield sword");
+d/Outer/Sigil/monsters/ambar.c line 54: parse error before ("wield sword");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/slag8.c line 18: parse error before  SIGIL+"slag7.c" ]) 
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/fighterguild.c line 5: Illegal to redefine 'nomask' function "query" before the end of line
+d/Outer/Sigil/fighterguild.c line 5: Illegal to redefine 'nomask' function "set" before the end of line
+d/Outer/Sigil/fighterguild.c line 5: Illegal to redefine 'nomask' function "_query" before the end of line
+d/Outer/Sigil/fighterguild.c line 5: Illegal to redefine 'nomask' function "_delete" before the end of line
+d/Outer/Sigil/fighterguild.c line 5: Illegal to redefine 'nomask' function "_set" before the end of line
+d/Outer/Sigil/fighterguild.c line 5: Illegal to redefine 'nomask' function "query_temp" before the end of line
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Sigil/monsters/alisohn.c line 49: parse error before ("wield dagger");
+d/Outer/Baator/dis/dcity30.c line 22: Undefined variable 'black1' before set("aggressive", 9)
+d/Outer/Baator/dis/dcity30.c line 23: Undefined variable 'black2' before set("aggressive", 9)
+d/Outer/Baator/dis/dcity30.c line 24: Undefined variable 'black3' before set("aggressive", 9)
+d/Outer/Baator/dis/dcity9.c line 22: Undefined variable 'black1' before set("aggressive", 9)
+d/Outer/Baator/dis/dcity9.c line 23: Undefined variable 'black2' before set("aggressive", 9)
+d/Outer/Baator/dis/dcity9.c line 24: Undefined variable 'black3' before set("aggressive", 9)
+d/Outer/Baator/minauros/city9.c line 21: Reserved type name unexpected. before , ob2, ob3;
+d/Outer/Baator/minauros/city9.c line 21: parse error before , ob2, ob3;
+d/Outer/Baator/minauros/city9.c line 24: Illegal LHS before the end of line
+d/Outer/Baator/minauros/city9.c line 25: Undefined variable 'ob1' before move(this_object());
+d/Outer/Baator/minauros/city9.c line 26: Undefined variable 'ob2' before  clone_object(BAATOR
+d/Outer/Baator/minauros/city9.c line 28: Undefined variable 'ob3' before  clone_object(BAATOR
+d/Outer/Baator/minauros/city23.c line 21: Reserved type name unexpected. before , ob2, ob3;
+d/Outer/Baator/minauros/city23.c line 21: parse error before , ob2, ob3;
+d/Outer/Baator/minauros/city23.c line 24: Illegal LHS before the end of line
+d/Outer/Baator/minauros/city23.c line 25: Undefined variable 'ob1' before move(this_object());
+d/Outer/Baator/minauros/city23.c line 26: Undefined variable 'ob2' before  clone_object(BAATOR
+d/Outer/Baator/minauros/city23.c line 28: Undefined variable 'ob3' before  clone_object(BAATOR
+d/Outer/Baator/minauros/city15.c line 22: Reserved type name unexpected. before , ob2, ob3;
+d/Outer/Baator/minauros/city15.c line 22: parse error before , ob2, ob3;
+d/Outer/Baator/minauros/city15.c line 25: Illegal LHS before the end of line
+d/Outer/Baator/minauros/city15.c line 26: Undefined variable 'ob1' before move(this_object());
+d/Outer/Baator/minauros/city15.c line 27: Undefined variable 'ob2' before  clone_object(BAATOR
+d/Outer/Baator/minauros/city15.c line 29: Undefined variable 'ob3' before  clone_object(BAATOR
+d/Outer/Baator/minauros/city15.c line 22: Reserved type name unexpected. before , ob2, ob3;
+d/Outer/Baator/minauros/city15.c line 22: parse error before , ob2, ob3;
+d/Outer/Baator/minauros/city15.c line 25: Illegal LHS before the end of line
+d/Outer/Baator/minauros/city15.c line 26: Undefined variable 'ob1' before move(this_object());
+d/Outer/Baator/minauros/city15.c line 27: Undefined variable 'ob2' before  clone_object(BAATOR
+d/Outer/Baator/minauros/city15.c line 29: Undefined variable 'ob3' before  clone_object(BAATOR
+d/Outer/Baator/minauros/city30.c line 21: Reserved type name unexpected. before , ob2, ob3;
+d/Outer/Baator/minauros/city30.c line 21: parse error before , ob2, ob3;
+d/Outer/Baator/minauros/city30.c line 24: Illegal LHS before the end of line
+d/Outer/Baator/minauros/city30.c line 25: Undefined variable 'ob1' before move(this_object());
+d/Outer/Baator/minauros/city30.c line 26: Undefined variable 'ob2' before  clone_object(BAATOR
+d/Outer/Baator/minauros/city30.c line 21: Reserved type name unexpected. before , ob2, ob3;
+d/Outer/Baator/minauros/city30.c line 21: parse error before , ob2, ob3;
+d/Outer/Baator/minauros/city30.c line 24: Illegal LHS before the end of line
+d/Outer/Baator/minauros/city30.c line 25: Undefined variable 'ob1' before move(this_object());
+d/Outer/Baator/minauros/city30.c line 26: Undefined variable 'ob2' before  clone_object(BAATOR
+d/Outer/Baator/monsters/gelugon.c line 76: Too few arguments to tell_object before ;
+d/Outer/Baator/maldomini/gren1.c line 20: End of file in string before   "/d/Outer/Baator/"
+d/Outer/Baator/maldomini/gren1.c line 20: parse error before   "/d/Outer/Baator/"
+d/Outer/Baator/maldomini/gren3.c line 22: End of file in string before omposed of flame.\n"
+d/Outer/Baator/maldomini/gren3.c line 22: parse error before omposed of flame.\n"
+d/Outer/Baator/maldomini/gren3.c line 22: End of file in string before ng slightly.\n"
+d/Outer/Baator/maldomini/gren3.c line 22: parse error before ng slightly.\n"
+d/Outer/Sigil/toys/nmdoll.c line 9: Cannot #include area.h before #include <config.h>
+d/Outer/Sigil/toys/nmdoll.c line 43: Undefined variable 'NAME' before " pulls the string o
+d/Outer/Sigil/coffin.c line 14: Type mismatch ( object vs string ) when initializing outside before the end of line
+d/Outer/Mountcelestia/Area1/heaven.h line 3: "#pragma strict_types" requires type of function before "cap_name") 
+d/Outer/Mountcelestia/Area1/heaven.h line 3: parse error before ) 
+d/Outer/Mountcelestia/Area1/meadow02.c line 27: parse error before the end of line
+d/Outer/Mountcelestia/Area1/pyr_base.c line 29: parse error before  "It seems to be wai
+d/Outer/Sigil/gymnasium.c line 55: parse error before :2, "Portal Feel":1,
+d/Outer/Sigil/gymnasium.c line 56: Illegal LHS before i<sizeof(skills); i+
+d/Outer/Sigil/gymnasium.c line 57: Illegal LHS before the end of line
+d/Outer/Sigil/gymnasium.c line 57: parse error before the end of line
+d/Outer/Sigil/gymnasium.c line 58: Illegal LHS before the end of line
+d/Outer/Sigil/gymnasium.c line 58: parse error before the end of line
+d/Outer/Sigil/gymnasium.c line 55: parse error before :2, "Portal Feel":1,
+d/Outer/Sigil/gymnasium.c line 56: Illegal LHS before i<sizeof(skills); i+
+d/Outer/Sigil/gymnasium.c line 57: Illegal LHS before the end of line
+d/Outer/Sigil/gymnasium.c line 57: parse error before the end of line
+d/Outer/Sigil/gymnasium.c line 58: Illegal LHS before the end of line
+d/Outer/Sigil/gymnasium.c line 58: parse error before the end of line
+d/Outer/Baator/monsters/amnizu.c line 42: Undefined variable 'ob1' before  clone_object ("/d/c
+d/Outer/Baator/monsters/amnizu.c line 42: Undefined variable 'ob1' before  clone_object ("/d/c
+d/Outer/Baator/monsters/amnizu.c line 42: Undefined variable 'ob1' before  clone_object ("/d/c
+d/Outer/Baator/monsters/amnizu.c line 42: Undefined variable 'ob1' before  clone_object ("/d/c
+d/Outer/Baator/monsters/amnizu.c line 42: Undefined variable 'ob1' before  clone_object ("/d/c
+d/Outer/Baator/monsters/amnizu.c line 42: Undefined variable 'ob1' before  clone_object ("/d/c
+d/Outer/Baator/monsters/amnizu.c line 42: Undefined variable 'ob1' before  clone_object ("/d/c
+d/Outer/Baator/monsters/amnizu.c line 42: Undefined variable 'ob1' before  clone_object ("/d/c
+d/Outer/Baator/monsters/amnizu.c line 42: Undefined variable 'ob1' before  clone_object ("/d/c
+d/Outer/Baator/monsters/amnizu.c line 42: Undefined variable 'ob1' before  clone_object ("/d/c
+d/Outer/Baator/monsters/amnizu.c line 42: Undefined variable 'ob1' before  clone_object ("/d/c
+d/Outer/Baator/monsters/amnizu.c line 42: Undefined variable 'ob1' before  clone_object ("/d/c
+d/Outer/Baator/monsters/amnizu.c line 42: Undefined variable 'ob1' before  clone_object ("/d/c
+d/Outer/Baator/monsters/amnizu.c line 42: Undefined variable 'ob1' before  clone_object ("/d/c
+d/Outer/Baator/monsters/amnizu.c line 42: Undefined variable 'ob1' before  clone_object ("/d/c
+d/Outer/Baator/monsters/amnizu.c line 42: Undefined variable 'ob1' before  clone_object ("/d/c
+d/Outer/Baator/monsters/amnizu.c line 42: Undefined variable 'ob1' before  clone_object ("/d/c
+d/Outer/Baator/monsters/amnizu.c line 42: Undefined variable 'ob1' before  clone_object ("/d/c
+d/Outer/Baator/monsters/amnizu.c line 42: Undefined variable 'ob1' before  clone_object ("/d/c
+d/Outer/Baator/monsters/amnizu.c line 42: Undefined variable 'ob1' before  clone_object ("/d/c
+d/Outer/Baator/monsters/amnizu.c line 42: Undefined variable 'ob1' before  clone_object ("/d/c
+d/Outer/Baator/monsters/amnizu.c line 42: Undefined variable 'ob1' before  clone_object ("/d/c
+d/Outer/Baator/monsters/amnizu.c line 42: Undefined variable 'ob1' before  clone_object ("/d/c
+d/Outer/Baator/monsters/amnizu.c line 42: Undefined variable 'ob1' before  clone_object ("/d/c
+d/Outer/Baator/monsters/amnizu.c line 42: Undefined variable 'ob1' before  clone_object ("/d/c
+d/Outer/Baator/monsters/amnizu.c line 42: Undefined variable 'ob1' before  clone_object ("/d/c
+d/Outer/Baator/monsters/amnizu.c line 42: Undefined variable 'ob1' before  clone_object ("/d/c
+d/Outer/Baator/monsters/amnizu.c line 42: Undefined variable 'ob1' before  clone_object ("/d/c
+d/Outer/Baator/monsters/amnizu.c line 42: Undefined variable 'ob1' before  clone_object ("/d/c
+d/Outer/Baator/monsters/amnizu.c line 42: Undefined variable 'ob1' before  clone_object ("/d/c
+d/Outer/Baator/monsters/amnizu.c line 42: Undefined variable 'ob1' before  clone_object ("/d/c
+d/Outer/Baator/monsters/amnizu.c line 42: Undefined variable 'ob1' before  clone_object ("/d/c
+d/Outer/Sigil/wproom.c line 16: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/Outer/Sigil/wproom.c line 16: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/Outer/Sigil/wproom.c line 16: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/Outer/Sigil/wproom.c line 16: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/Outer/Sigil/wproom.c line 16: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/Outer/Sigil/wproom.c line 16: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/Outer/Sigil/wproom.c line 16: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/Outer/Sigil/wproom.c line 16: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/Outer/Sigil/wproom.c line 16: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/Outer/Sigil/wproom.c line 16: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/Outer/Sigil/wproom.c line 16: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/Outer/Sigil/wproom.c line 16: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/Outer/Sigil/wproom.c line 16: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/Outer/Sigil/wproom.c line 16: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/Outer/Sigil/wproom.c line 16: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/Outer/Sigil/wproom.c line 16: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/Outer/Sigil/wproom.c line 16: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/Outer/Sigil/wproom.c line 16: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/Outer/Sigil/wproom.c line 16: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/Outer/Sigil/wproom.c line 16: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/Outer/Sigil/wproom.c line 16: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/Outer/Sigil/wproom.c line 16: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/Outer/Sigil/wproom.c line 16: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/Outer/Sigil/wproom.c line 16: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/Outer/Sigil/wproom.c line 16: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/Outer/Baator/items/parawhip.c line 11: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Outer/Baator/items/parawhip.c line 35: Undefined function DEBUG before ;
+d/Outer/Baator/items/parawhip.c line 11: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Outer/Baator/items/parawhip.c line 35: Undefined function DEBUG before ;
+d/Outer/Baator/items/parawhip.c line 11: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Outer/Baator/items/parawhip.c line 35: Undefined function DEBUG before ;
+d/Outer/Baator/items/parawhip.c line 11: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Outer/Baator/items/parawhip.c line 35: Undefined function DEBUG before ;
+d/Outer/Baator/items/parawhip.c line 11: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Outer/Baator/items/parawhip.c line 35: Undefined function DEBUG before ;
+d/Outer/Sigil/wproom.c line 16: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/Outer/Sigil/wproom.c line 16: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/Outer/Sigil/wproom.c line 16: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/Outer/Sigil/wproom.c line 16: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/Outer/Sigil/wproom.c line 16: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/Outer/Sigil/wproom.c line 16: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/Outer/Sigil/wproom.c line 16: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/Outer/Baator/items/parawhip.c line 11: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Outer/Baator/items/parawhip.c line 35: Undefined function DEBUG before ;
+d/Outer/Baator/items/parawhip.c line 11: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Outer/Baator/items/parawhip.c line 35: Undefined function DEBUG before ;
+d/Outer/Baator/items/parawhip.c line 11: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Outer/Baator/items/parawhip.c line 35: Undefined function DEBUG before ;
+d/Outer/Sigil/wproom.c line 16: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/Outer/Sigil/wproom.c line 16: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/Outer/Sigil/wproom.c line 16: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/Outer/Baator/items/parawhip.c line 11: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Outer/Baator/items/parawhip.c line 35: Undefined function DEBUG before ;
+d/Outer/Baator/items/parawhip.c line 11: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Outer/Baator/items/parawhip.c line 35: Undefined function DEBUG before ;
+d/Outer/Sigil/wproom.c line 16: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/Outer/Sigil/wproom.c line 16: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/Outer/Sigil/wproom.c line 16: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/Outer/Baator/items/parawhip.c line 11: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Outer/Baator/items/parawhip.c line 35: Undefined function DEBUG before ;
+d/Outer/Baator/items/parawhip.c line 11: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Outer/Baator/items/parawhip.c line 35: Undefined function DEBUG before ;
+d/Outer/Baator/items/parawhip.c line 11: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Outer/Baator/items/parawhip.c line 35: Undefined function DEBUG before ;
+d/Outer/Baator/items/parawhip.c line 11: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Outer/Baator/items/parawhip.c line 35: Undefined function DEBUG before ;
+d/Outer/Baator/items/parawhip.c line 11: Cannot #include /u/c/cyanide/debug.h before #include <mudlib.h>
+d/Outer/Baator/items/parawhip.c line 35: Undefined function DEBUG before ;
+d/Outer/Beastlands/rooms/enterance.c line 2: Cannot #include blah.h before inherit ROOM;
+d/Outer/Beastlands/rooms/blah.h line 1: Warning: redefinition of #define ROOM
+ before the end of file
+d/Outer/Beastlands/rooms/jungle5.c line 23: parse error before ;
+d/Outer/Beastlands/rooms/jungle5.c line 23: parse error before ;
+d/Outer/Beastlands/rooms/jungle5.c line 22: parse error before ;
+d/Outer/Sigil/mortuary.c line 11: Cannot #include /u/c/cyanide/debug.h before #include "sigil.h"
+d/Outer/Sigil/mortuary.c line 11: Cannot #include /u/c/cyanide/debug.h before #include "sigil.h"
+d/Outer/Sigil/mortuary.c line 11: Cannot #include /u/c/cyanide/debug.h before #include "sigil.h"
+d/Outer/Sigil/mortuary.c line 11: Cannot #include /u/c/cyanide/debug.h before #include "sigil.h"
+d/Outer/Sigil/mortuary.c line 11: Cannot #include /u/c/cyanide/debug.h before #include "sigil.h"
+d/Outer/Sigil/mortuary.c line 11: Cannot #include /u/c/cyanide/debug.h before #include "sigil.h"
+d/Outer/Sigil/mortuary.c line 11: Cannot #include /u/c/cyanide/debug.h before #include "sigil.h"
+d/Outer/Sigil/mortuary.c line 11: Cannot #include /u/c/cyanide/debug.h before #include "sigil.h"
+d/Outer/Sigil/mortuary.c line 11: Cannot #include /u/c/cyanide/debug.h before #include "sigil.h"

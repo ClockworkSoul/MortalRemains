@@ -1,0 +1,35 @@
+cmds/adm/_nuke.c line 89: parse error before the end of line
+cmds/adm/_nuke.c line 95: parse error before (archive) {
+std/user.c line 1045: Warning: Value of conditional expression is unused before the end of line
+std/user.c line 1045: Warning: Value of conditional expression is unused before the end of line
+cmds/adm/_netmail.c line 80: parse error before , mud );
+cmds/adm/_netmail.c line 81: Illegal LHS before  {
+cmds/adm/_netmail.c line 81: parse error before the end of line
+cmds/adm/_netmail.c line 84: Illegal LHS before the end of line
+cmds/adm/_netmail.c line 87: parse error before the end of line
+u/z/zur/priv/priests/spells/clw.c line 11: Warning: Value of conditional expression is unused before the end of line
+u/z/zur/priv/priests/spells/clw.c line 25: parse error before the end of line
+u/z/zur/priv/priests/spells/clw.c line 49: Illegal LHS before the end of line
+u/z/zur/priv/priests/spells/clw.c line 49: parse error before the end of line
+u/z/zur/priv/priests/std/spell.c line 39: Undefined variable 'targ' before ));
+u/z/zur/priv/priests/std/spell.c line 39: Undefined variable 'targ' before ));
+u/z/zur/priv/priests/std/spell.c line 47: Undefined function subject before +"self";
+u/z/zur/priv/priests/std/spell.c line 47: Invalid argument types to '+' ( unknown vs string ) before the end of line
+u/z/zur/priv/priests/std/spell.c line 47: Undefined function subject before +"self";
+u/z/zur/priv/priests/std/spell.c line 47: Invalid argument types to '+' ( unknown vs string ) before the end of line
+u/z/zur/priv/priests/std/spell.c line 44: parse error before  
+u/z/zur/priv/priests/std/spell.c line 44: parse error before  
+u/z/zur/priv/priests/spells/clw.c line 18: Undefined function tell_player before ;
+cmds/std/_who.c line 39: parse error before )
+cmds/std/_who.c line 41: Illegal LHS before the end of line
+cmds/std/_who.c line 43: Illegal LHS before the end of line
+cmds/std/_who.c line 64: Illegal LHS before the end of line
+cmds/std/_who.c line 66: Illegal LHS before the end of line
+cmds/std/_who.c line 66: parse error before the end of line
+cmds/std/_who.c line 40: Illegal lvalue before )
+cmds/std/_who.c line 40: parse error before )
+cmds/std/_who.c line 42: Illegal LHS before the end of line
+cmds/std/_who.c line 44: Illegal LHS before the end of line
+cmds/std/_who.c line 65: Illegal LHS before the end of line
+cmds/std/_who.c line 67: Illegal LHS before the end of line
+cmds/std/_who.c line 67: parse error before the end of line

@@ -1,0 +1,18 @@
+u/v/vera/jukebox.c line 27: parse error before  allocate(MAX_SONGS)
+u/v/vera/jukebox.c line 27: Illegal LHS before the end of line
+u/v/vera/jukebox.c line 27: Bad argument number 1 to '*': "string * " before the end of line
+u/v/vera/jukebox.c line 28: Bad assignment ( mixed * vs string ). before the end of line
+u/v/vera/jukebox.c line 29: Bad assignment ( mixed * vs string ). before the end of line
+u/v/vera/jukebox.c line 39: Bad assignment ( string vs int ). before ", ({"juke box", "ju
+u/v/vera/jukebox.c line 27: parse error before  allocate(MAX_SONGS)
+u/v/vera/jukebox.c line 27: Illegal LHS before the end of line
+u/v/vera/jukebox.c line 27: Bad argument number 1 to '*': "string * " before the end of line
+u/v/vera/jukebox.c line 28: Bad assignment ( mixed * vs string ). before the end of line
+u/v/vera/jukebox.c line 29: Bad assignment ( mixed * vs string ). before the end of line
+u/v/vera/jukebox.c line 39: Bad assignment ( string vs int ). before ", ({"juke box", "ju
+u/v/vera/jukebox.c line 27: parse error before  allocate(MAX_SONGS)
+u/v/vera/jukebox.c line 27: Illegal LHS before the end of line
+u/v/vera/jukebox.c line 27: Bad argument number 1 to '*': "string * " before the end of line
+u/v/vera/jukebox.c line 28: Bad assignment ( mixed * vs string ). before the end of line
+u/v/vera/jukebox.c line 29: Bad assignment ( mixed * vs string ). before the end of line
+u/v/vera/jukebox.c line 39: Bad assignment ( string vs int ). before ", ({"juke box", "ju

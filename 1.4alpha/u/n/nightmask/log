@@ -1,0 +1,175 @@
+u/n/nightmask/private/trench.c line 43: Undefined function set_verbs before ;  
+d/class/warrior/Sharpshooter/cmds/_makemyday.c line 28: parse error before the end of file
+d/Prime/HillVally/room/AR1.c line 33: parse error before n",
+d/Prime/HillVally/room/AR1.c line 36: End of file in string before hop" : "Looks like t
+d/Prime/HillVally/room/AR4.c line 44: Undefined function Write before ;
+d/Prime/HillVally/room/AR4.c line 45: Undefined variable 'stone' before  clone_object(ITEM+"
+d/Prime/HillVally/room/mos1.c line 61: parse error before the end of file
+d/class/warrior/Sharpshooter/cmds/_makemyday.c line 20: parse error before query("weapon1");
+d/class/warrior/Sharpshooter/cmds/_brandish.c line 15: parse error before the end of line
+d/class/warrior/Sharpshooter/cmds/_brandish.c line 20: Illegal LHS before the end of line
+d/class/warrior/Sharpshooter/cmds/_brandish.c line 20: parse error before the end of line
+u/s/sophia/workroom.c line 61: Wrong number of arguments to remove
+    Expected: 0  Got: 1 before ;
+u/n/nightmask/nmstrench.c line 18: parse error before ;
+u/n/nightmask/nmstrench.c line 28: Undefined function set_armour_type before ;
+u/n/nightmask/nmstrench.c line 43: Undefined function set_verbs before ;  
+u/n/nightmask/nmstrench.c line 28: Undefined function set_armour_type before ;
+u/n/nightmask/nmstrench.c line 28: Undefined function set_type before ;
+d/Prime/HillVally/mon/citizen.c line 21: Undefined variable 'race' before ) );
+d/Prime/HillVally/weap/random.c line 13: parse error before mudlib.h>
+d/Prime/HillVally/weap/random.c line 13: parse error before mudlib.h>
+d/Prime/HillVally/weap/random.c line 47: parse error before the end of file
+d/Prime/HillVally/weap/random.c line 48: parse error before the end of file
+d/Prime/HillVally/weap/random.c line 54: parse error before the end of file
+d/Prime/HillVally/weap/random.c line 67: parse error before the end of file
+d/Prime/HillVally/weap/random.c line 85: parse error before  long sword") {
+d/Prime/HillVally/weap/random.c line 93: End of file in string before >\n\nThis makes your
+d/Prime/HillVally/weap/random.c line 85: parse error before  long sword") {
+d/Prime/HillVally/weap/random.c line 93: End of file in string before n\nThis makes your c
+d/Prime/HillVally/weap/random.c line 85: parse error before  long sword") {
+d/Prime/HillVally/weap/random.c line 93: End of file in string before ");
+d/Prime/HillVally/weap/random.c line 54: Undefined function set_name before ;
+d/Prime/HillVally/weap/random.c line 133: parse error before  == "a warhammer") {
+d/Prime/HillVally/weap/random.c line 174: End of file in string before a steel lance. It lo
+d/Prime/HillVally/weap/random.c line 174: parse error before a steel lance. It lo
+d/Prime/HillVally/weap/random.c line 174: End of file in string before a steel lance. It lo
+d/Prime/HillVally/weap/random.c line 174: parse error before a steel lance. It lo
+d/Prime/HillVally/mon/citizen.c line 37: Reserved type name unexpected. before () {
+d/Prime/HillVally/mon/citizen.c line 37: parse error before () {
+d/Prime/HillVally/mon/citizen.c line 39: Illegal LHS before the end of line
+d/Prime/HillVally/mon/citizen.c line 41: Undefined variable 'num' before  {
+d/Prime/HillVally/mon/citizen.c line 42: Undefined variable 'str' before  "dwarf";break;
+d/Prime/HillVally/mon/citizen.c line 37: Reserved type name unexpected. before () {
+d/Prime/HillVally/mon/citizen.c line 37: parse error before () {
+d/Prime/HillVally/mon/citizen.c line 39: Illegal LHS before the end of line
+d/Prime/HillVally/mon/citizen.c line 41: Undefined variable 'num' before  {
+d/Prime/HillVally/mon/citizen.c line 42: Undefined variable 'str' before  "dwarf";break;
+d/Prime/HillVally/mon/citizen.c line 37: Reserved type name unexpected. before () {
+d/Prime/HillVally/mon/citizen.c line 37: parse error before () {
+d/Prime/HillVally/mon/citizen.c line 39: Illegal LHS before the end of line
+d/Prime/HillVally/mon/citizen.c line 41: Undefined variable 'num' before  {
+d/Prime/HillVally/mon/citizen.c line 42: Undefined variable 'str' before  "dwarf";break;
+d/Prime/HillVally/mon/citizen.c line 37: Reserved type name unexpected. before () {
+d/Prime/HillVally/mon/citizen.c line 37: parse error before () {
+d/Prime/HillVally/mon/citizen.c line 39: Illegal LHS before the end of line
+d/Prime/HillVally/mon/citizen.c line 41: Undefined variable 'num' before  {
+d/Prime/HillVally/mon/citizen.c line 42: Undefined variable 'str' before  "dwarf";break;
+d/Prime/HillVally/mon/citizen.c line 37: Reserved type name unexpected. before () {
+d/Prime/HillVally/mon/citizen.c line 37: parse error before () {
+d/Prime/HillVally/mon/citizen.c line 39: Illegal LHS before the end of line
+d/Prime/HillVally/mon/citizen.c line 41: Undefined variable 'boo' before  {
+d/Prime/HillVally/mon/citizen.c line 42: Undefined variable 'blah' before  "dwarf";break;
+d/Prime/HillVally/mon/citizen.c line 50: Undefined variable 'str' before the end of line
+d/Prime/HillVally/mon/citizen.c line 37: Reserved type name unexpected. before () {
+d/Prime/HillVally/mon/citizen.c line 37: parse error before () {
+d/Prime/HillVally/mon/citizen.c line 39: Illegal LHS before the end of line
+d/Prime/HillVally/mon/citizen.c line 41: Undefined variable 'boo' before  {
+d/Prime/HillVally/mon/citizen.c line 42: Undefined variable 'blah' before  "dwarf";break;
+d/Prime/HillVally/mon/citizen.c line 50: Undefined variable 'str' before the end of line
+d/Prime/HillVally/mon/citizen.c line 37: Reserved type name unexpected. before () {
+d/Prime/HillVally/mon/citizen.c line 37: parse error before () {
+d/Prime/HillVally/mon/citizen.c line 39: Illegal LHS before the end of line
+d/Prime/HillVally/mon/citizen.c line 41: Undefined variable 'boo' before  {
+d/Prime/HillVally/mon/citizen.c line 42: Undefined variable 'blah' before  "dwarf";break;
+d/Prime/HillVally/mon/citizen.c line 50: Undefined variable 'str' before the end of line
+d/Prime/HillVally/mon/citizen.c line 37: Reserved type name unexpected. before () {
+d/Prime/HillVally/mon/citizen.c line 37: parse error before () {
+d/Prime/HillVally/mon/citizen.c line 39: Illegal LHS before the end of line
+d/Prime/HillVally/mon/citizen.c line 41: Undefined variable 'boo' before  {
+d/Prime/HillVally/mon/citizen.c line 42: Undefined variable 'blah' before  "dwarf";break;
+d/Prime/HillVally/mon/citizen.c line 49: Undefined variable 'str' before the end of line
+d/Law/room/jail.c line 5: Cannot #include area.h before the end of line
+d/Law/room/jail.c line 23: Illegal character constant before izhall", "wizhall");
+d/Law/room/jail.c line 23: parse error before ", "wizhall");
+d/Law/room/jail.c line 187: Illegal character constant before  who in the jail.\n"
+d/Law/room/jail.c line 193: Illegal character constant before  on?\n");
+d/Law/room/jail.c line 198: Illegal character constant before .\n");
+d/Law/room/jail.c line 5: Cannot #include area.h before the end of line
+d/Law/room/jail.c line 56: Undefined variable 'NAME' before " just tried to esca
+d/Law/room/jail.c line 62: Undefined variable 'NAME' before " just tried to leav
+d/Law/room/jail.c line 67: Undefined variable 'NAME' before " tried to send a te
+d/Law/room/jail.c line 73: Undefined variable 'NAME' before " tried to leave the
+d/Law/room/jail.c line 79: Undefined variable 'NAME' before " tried to use wiz c
+d/Law/room/jail.c line 5: Cannot #include area.h before the end of line
+d/Law/cmds/_arrest.c line 10: Warning: redefinition of #define TPN
+ before the end of line
+d/Law/cmds/_arrest.c line 34: parse error before d/Law/room/jail.c", 
+d/Law/cmds/_arrest.c line 37: End of file in string before  "Language", "Signat
+d/Law/cmds/_arrest.c line 10: Warning: redefinition of #define TPN
+ before the end of line
+d/Law/cmds/_arrest.c line 34: parse error before d/Law/room/jail.c", 
+d/Law/cmds/_arrest.c line 37: End of file in string before t","Weapon Proficien
+d/Law/cmds/_arrest.c line 10: Warning: redefinition of #define TPN
+ before the end of line
+d/Law/cmds/_arrest.c line 10: Warning: redefinition of #define TPN
+ before the end of line
+d/Law/room/jail.c line 57: parse error before (){
+d/Law/room/jail.c line 57: parse error before (){
+d/Prime/HillVally/weap/pickle.c line 35: Warning: Value of conditional expression is unused before  (str == "pickle") {
+d/Planar/Food/room/std.c line 6: Cannot #include ../camel.h before the end of line
+d/Planar/Food/room/rm2.c line 22: parse error before " : RM+"rm3.c",
+d/Planar/Food/room/rm2.c line 30: End of file in string before fail;
+d/Planar/Food/weap/bombpop.c line 19: parse error before ", "bombpop");
+d/Planar/Food/weap/bombpop.c line 39: End of file in string before <sizeof(stuff); i++)
+d/Planar/Food/mon/foodman.c line 31: Undefined variable 'WEAP' before "licorice.c");
+d/Planar/Food/mon/foodman.c line 31: Undefined function wield before ;
+d/Planar/Food/mon/foodman.c line 33: Undefined function wield before ;
+d/Planar/Food/mon/foodman.c line 33: Undefined function wield before ;
+d/Planar/Food/mon/foodman.c line 33: Undefined function wield before ;
+d/Planar/Food/room/rm9.c line 12: parse error before  ([ "dope1" : MON+"f
+u/n/nightmask/private/towel.c line 30: Illegal to redeclare local name 'target' before ;
+u/n/nightmask/private/towel.c line 31: Undefined variable 'environment' before ;
+u/n/nightmask/private/towel.c line 11: Undefined variable 'OBJT' before );
+u/n/nightmask/private/towel.c line 11: parse error before );
+u/n/nightmask/private/towel.c line 17: Illegal LHS before the end of line
+u/n/nightmask/private/towel.c line 18: Undefined variable 'str' before  environment(TP));
+u/n/nightmask/private/towel.c line 18: Illegal LHS before the end of line
+u/n/nightmask/private/towel.c line 18: parse error before the end of line
+u/n/nightmask/private/towel.c line 13: parse error before );
+u/n/nightmask/private/towel.c line 19: Illegal LHS before the end of line
+u/n/nightmask/private/towel.c line 20: Undefined variable 'str' before  environment(TP));
+u/n/nightmask/private/towel.c line 20: Illegal LHS before the end of line
+u/n/nightmask/private/towel.c line 20: parse error before the end of line
+u/n/nightmask/private/towel.c line 13: parse error before );
+u/n/nightmask/private/towel.c line 23: Undefined variable 'str' before  environment(TP));
+u/n/nightmask/private/towel.c line 23: Illegal LHS before the end of line
+u/n/nightmask/private/towel.c line 23: parse error before the end of line
+u/n/nightmask/private/towel.c line 13: parse error before );
+u/n/nightmask/private/towel.c line 23: Undefined variable 'str' before  environment(TP));
+u/n/nightmask/private/towel.c line 23: Illegal LHS before the end of line
+u/n/nightmask/private/towel.c line 23: parse error before the end of line
+u/n/nightmask/private/towel.c line 13: parse error before );
+u/n/nightmask/private/towel.c line 23: Undefined variable 'str' before  environment(TP));
+u/n/nightmask/private/towel.c line 23: Illegal LHS before the end of line
+u/n/nightmask/private/towel.c line 23: parse error before the end of line
+u/n/nightmask/private/towel.c line 13: parse error before );
+u/n/nightmask/private/towel.c line 23: Undefined variable 'targ' before  environment(TP));
+u/n/nightmask/private/towel.c line 23: Illegal LHS before the end of line
+u/n/nightmask/private/towel.c line 23: parse error before the end of line
+u/n/nightmask/private/towel.c line 13: parse error before );
+u/n/nightmask/private/towel.c line 23: Undefined variable 'targ' before  environment(TP));
+u/n/nightmask/private/towel.c line 23: Illegal LHS before the end of line
+u/n/nightmask/private/towel.c line 23: parse error before the end of line
+u/n/nightmask/private/towel.c line 13: parse error before );
+u/n/nightmask/private/towel.c line 20: Illegal LHS before  (!str) {
+u/n/nightmask/private/towel.c line 20: parse error before  (!str) {
+u/n/nightmask/private/towel.c line 24: Undefined variable 'targ' before  environment(TP));
+u/n/nightmask/private/towel.c line 24: Illegal LHS before the end of line
+u/n/nightmask/private/towel.c line 24: parse error before the end of line
+u/n/nightmask/private/towel.c line 37: Undefined variable 'target' before ) {
+d/class/warrior/BSD/obj/talisman.c line 30: Undefined function set_armour_type before ;
+d/class/warrior/BSD/obj/talisman.c line 30: Undefined function set_armour_type before ;
+d/class/warrior/BSD/room/BSD_guild.c line 54: Undefined variable 'SK_BSD' before ;
+d/class/warrior/BSD/room/BSD_guild.c line 54: Undefined variable 'SK_BSD' before ;
+d/Law/obj/move.c line 15: Too many arguments to command before ;
+d/Law/obj/move.c line 21: Undefined variable 'move' before ()->east
+d/Law/obj/move.c line 21: parse error before ()->east
+d/Law/obj/move.c line 26: parse error before ()->north
+d/Law/obj/move.c line 31: parse error before ()->south
+d/Law/obj/move.c line 15: Too many arguments to command before ;
+d/Law/obj/move.c line 34: parse error before the end of file
+d/Law/obj/move.c line 15: Too many arguments to command before ;
+d/Law/obj/move.c line 21: Undefined variable 'move' before ()->east
+d/Law/obj/move.c line 21: parse error before ()->east
+d/Law/obj/move.c line 21: parse error before "east"));

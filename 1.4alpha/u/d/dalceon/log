@@ -1,0 +1,374 @@
+u/d/dalceon/ronin/wildbonus.c line 24: Undefined function increase before ;
+u/d/dalceon/ronin/wildbonus.c line 37: Illegal character constant before  armour has reached 
+u/d/dalceon/ronin/wildbonus.c line 37: parse error before  armour has reached 
+u/d/dalceon/ronin/wildbonus.c line 56: Illegal character constant before  armour loses some o
+u/d/dalceon/ronin/wildbonus.c line 71: Illegal character constant before  armour loses some o
+u/d/dalceon/ronin/wildbonus.c line 108: End of file in string before -destruct, if not in
+u/d/dalceon/ronin/wildbonus.c line 24: Undefined function increase before ;
+u/d/dalceon/ronin/wildbonus.c line 40: Redeclaration of function increase. before the end of line
+u/d/dalceon/ronin/wildbonus.c line 46: Undefined function decrease before ;
+u/d/dalceon/ronin/wildbonus.c line 58: Redeclaration of function decrease. before the end of line
+u/d/dalceon/ronin/wildbonus.c line 24: Undefined function increase before ;
+u/d/dalceon/ronin/wildbonus.c line 41: Redeclaration of function increase. before the end of line
+u/d/dalceon/ronin/wildbonus.c line 47: Undefined function decrease before ;
+u/d/dalceon/ronin/wildbonus.c line 59: Redeclaration of function decrease. before the end of line
+u/d/dalceon/ronin/left_sword.c line 40: End of file in text block before n",
+u/d/dalceon/ronin/left_sword.c line 40: parse error before n",
+u/d/dalceon/ronin/left_sword.c line 39: End of file in text block before the end of line
+u/d/dalceon/ronin/left_sword.c line 39: parse error before the end of line
+u/d/dalceon/ronin/left_sword.c line 40: End of file in text block before n",
+u/d/dalceon/ronin/left_sword.c line 40: parse error before n",
+u/d/dalceon/ronin/right_sword.c line 38: "#pragma strict_types" requires type of function before "weapon",15);
+u/d/dalceon/ronin/right_sword.c line 38: parse error before ,15);
+u/d/dalceon/ronin/wildgloves.c line 13: Undefined function set before ;
+u/d/dalceon/ronin/wildgloves.c line 33: Undefined function set_armor_type before ;
+u/d/dalceon/ronin/right_sword.c line 42: "#pragma strict_types" requires type of function before ) {
+u/d/dalceon/ronin/right_sword.c line 46: "#pragma strict_types" requires type of function before string arg} {
+u/d/dalceon/ronin/right_sword.c line 46: parse error before  {
+u/d/dalceon/ronin/right_sword.c line 51: Undefined function valid_arg before )
+u/d/dalceon/ronin/right_sword.c line 63: Too many arguments to move_object before ;
+u/d/dalceon/ronin/right_sword.c line 64: Undefined function left_sword before );
+u/d/dalceon/ronin/right_sword.c line 46: parse error before  {
+u/d/dalceon/ronin/right_sword.c line 52: Undefined function valid_arg before )
+u/d/dalceon/ronin/right_sword.c line 65: Too many arguments to move_object before ;
+u/d/dalceon/ronin/right_sword.c line 66: Undefined function left_sword before );
+u/d/dalceon/ronin/right_sword.c line 76: Redeclaration of function valid_arg. before the end of line
+u/d/dalceon/ronin/right_sword.c line 52: Undefined function valid_arg before )
+u/d/dalceon/ronin/right_sword.c line 65: Too many arguments to move_object before ;
+u/d/dalceon/ronin/right_sword.c line 76: Redeclaration of function valid_arg. before the end of line
+u/d/dalceon/ronin/right_sword.c line 66: Too many arguments to move_object before ;
+u/d/dalceon/ronin/right_sword.c line 66: Too many arguments to move_object before ;
+u/d/dalceon/ronin/right_sword.c line 66: Too many arguments to move_object before ;
+u/d/dalceon/ronin/wildfire.c line 68: parse error before  if(everything() == 
+u/d/dalceon/ronin/wildfire.c line 78: parse error before the end of line
+u/d/dalceon/ronin/wildfire.c line 80: parse error before the end of line
+u/d/dalceon/ronin/wildfire.c line 60: parse error before  if(!can_attack) {
+u/d/dalceon/ronin/wildfire.c line 85: Undefined variable 'PN' before " screams 'Flare up 
+u/d/dalceon/ronin/wildfire.c line 85: Undefined variable 'and' before  armour glows bright
+u/d/dalceon/ronin/wildfire.c line 85: parse error before  armour glows bright
+u/d/dalceon/ronin/wildfire.c line 99: Illegal character constant before  eyes become flames!
+u/d/dalceon/ronin/wildfire.c line 115: Illegal character constant before  Flare, but you can'
+u/d/dalceon/ronin/wildfire.c line 86: Undefined variable 'PN' before " screams 'Flare up 
+u/d/dalceon/ronin/wildfire.c line 86: Undefined variable 'and' before  armour glows bright
+u/d/dalceon/ronin/wildfire.c line 86: parse error before  armour glows bright
+u/d/dalceon/ronin/wildfire.c line 100: Illegal character constant before  eyes become flames!
+u/d/dalceon/ronin/wildfire.c line 116: Illegal character constant before  Flare, but you can'
+u/d/dalceon/ronin/wildfire.c line 116: Illegal character constant before  channel the \n");
+u/d/dalceon/ronin/wildfire.c line 86: Undefined variable 'PN' before " screams 'Flare up 
+u/d/dalceon/ronin/wildfire.c line 86: Undefined variable 'and' before  armour glows bright
+u/d/dalceon/ronin/wildfire.c line 86: parse error before  armour glows bright
+u/d/dalceon/ronin/wildfire.c line 100: Illegal character constant before  eyes become flames!
+u/d/dalceon/ronin/wildfire.c line 116: Illegal character constant before  Flare, but you can'
+u/d/dalceon/ronin/wildfire.c line 116: Illegal character constant before  channel the \n");
+u/d/dalceon/ronin/wildfire.c line 86: Undefined variable 'PN' before " screams: Flare up 
+u/d/dalceon/ronin/wildfire.c line 93: Undefined variable 'PN' before " is engulfed by a m
+u/d/dalceon/ronin/wildfire.c line 100: Undefined variable 'PN' before "'s eyes become flam
+u/d/dalceon/ronin/wildfire.c line 107: parse error before the end of line
+u/d/dalceon/ronin/wildfire.c line 111: Illegal LHS before the end of line
+u/d/dalceon/ronin/wildfire.c line 115: Illegal LHS before  {
+u/d/dalceon/ronin/wildfire.c line 108: parse error before the end of line
+u/d/dalceon/ronin/wildfire.c line 112: Illegal LHS before the end of line
+u/d/dalceon/ronin/wildfire.c line 116: Illegal LHS before  {
+u/d/dalceon/ronin/wildfire.c line 116: parse error before the end of line
+u/d/dalceon/ronin/wildfire.c line 108: parse error before the end of line
+u/d/dalceon/ronin/wildfire.c line 112: Illegal LHS before the end of line
+u/d/dalceon/ronin/wildfire.c line 116: Illegal LHS before  {
+u/d/dalceon/ronin/wildfire.c line 116: parse error before the end of line
+u/d/dalceon/ronin/wildfire.c line 129: parse error before ;
+u/d/dalceon/ronin/wildfire.c line 134: parse error before the end of line
+u/d/dalceon/ronin/wildfire.c line 129: parse error before ;
+u/d/dalceon/ronin/wildfire.c line 134: parse error before the end of line
+u/d/dalceon/ronin/wildfire.c line 130: parse error before ",20);
+u/d/dalceon/ronin/wildfire.c line 157: End of file in string before nery though the this
+u/d/dalceon/ronin/wildfire.c line 134: parse error before the end of line
+u/d/dalceon/ronin/wildfire.c line 137: "#pragma strict_types" requires type of function before ) {
+u/d/dalceon/ronin/wildfire.c line 137: Warning: Return type doesn't match prototype ( unknown vs int ) before  {
+u/d/dalceon/ronin/wildfire.c line 150: Warning: Return type doesn't match prototype ( unknown vs int ) before the end of line
+u/d/dalceon/ronin/wildfire.c line 157: parse error before the end of line
+u/d/dalceon/ronin/wildfire.c line 157: parse error before the end of line
+u/d/dalceon/ronin/wildfire.c line 157: parse error before the end of line
+open/ir.c line 25: Type of returned value doesn't match function return type ( string vs int ). before the end of line
+open/ir.c line 31: Type of returned value doesn't match function return type ( string vs int ). before the end of line
+open/ir.c line 25: Type of returned value doesn't match function return type ( string vs int ). before the end of line
+open/ir.c line 31: Type of returned value doesn't match function return type ( string vs int ). before the end of line
+u/d/dalceon/ronin/left_sword.c line 39: parse error before 2,10});
+u/d/dalceon/ronin/left_sword.c line 39: parse error before 2,10}));
+u/d/dalceon/ronin/wildgloves.c line 30: parse error before );
+u/d/dalceon/ronin/wildgloves.c line 31: parse error before );
+u/d/dalceon/ronin/wild_sword.c line 47: "#pragma strict_types" requires type of function before ) {
+u/d/dalceon/ronin/wild_sword.c line 57: Undefined variable 'PN' before " unassembles the Sw
+u/d/dalceon/ronin/wild_sword.c line 62: parse error before ->move(this_player()
+u/d/dalceon/ronin/wild_sword.c line 63: parse error before ->move(this_player()
+u/d/dalceon/ronin/wildbonus.c line 69: Undefined variable 'get_items' before  1)
+u/d/dalceon/ronin/right_sword.c line 39: parse error before the end of line
+u/d/dalceon/ronin/right_sword.c line 53: Illegal LHS before the end of line
+u/d/dalceon/ronin/right_sword.c line 53: parse error before the end of line
+u/d/dalceon/ronin/right_sword.c line 67: Illegal LHS before the end of line
+u/d/dalceon/ronin/right_sword.c line 67: parse error before the end of line
+u/d/dalceon/ronin/wildbonus.c line 110: Undefined variable 'wriHELMET' before n");
+u/d/dalceon/ronin/wildbonus.c line 110: parse error before n");
+u/d/dalceon/ronin/wildbonus.c line 149: End of file in string before message>}\n\nThis co
+open/cm.c line 39: Undefined variable 'MOVE_OK' before  {
+open/cm.c line 52: parse error before the end of line
+open/cm.c line 54: parse error before the end of line
+u/d/dalceon/realms/tokyo/cityent.c line 21: parse error before  "A large dark omino
+u/d/dalceon/myroom.c line 10: Undefined function orb_tell before ;
+u/d/dalceon/myroom.c line 10: Undefined variable 'thiso' before query("short"));
+u/d/dalceon/realms/tokyo/cityent.c line 2: parse error before ;
+u/d/dalceon/realms/tokyo/items/sorb.c line 2: Missing trailing " or > in #include before inherit OBJECT;
+u/d/dalceon/realms/tokyo/items/sorb.c line 38: parse error before  = "") {
+u/d/dalceon/realms/tokyo/items/sorb.c line 38: Illegal LHS before  {
+u/d/dalceon/realms/tokyo/items/sorb.c line 52: Undefined function sense_messages before ;
+u/d/dalceon/realms/tokyo/items/sorb.c line 60: Left argument of -> is not a class before the end of line
+u/d/dalceon/realms/tokyo/items/sorb.c line 67: Undefined variable 'PLAYER' before QN+" is watching you
+u/d/dalceon/realms/tokyo/items/sorb.c line 2: Cannot #include /u/d/dalceon/ydefines.h before inherit OBJECT;
+u/d/dalceon/realms/tokyo/items/sorb.c line 38: parse error before  = "") {
+u/d/dalceon/realms/tokyo/items/sorb.c line 38: Illegal LHS before  {
+u/d/dalceon/realms/tokyo/items/sorb.c line 52: Undefined function sense_messages before ;
+u/d/dalceon/realms/tokyo/items/sorb.c line 60: Left argument of -> is not a class before the end of line
+u/d/dalceon/realms/tokyo/items/sorb.c line 67: Undefined variable 'PLAYER' before QN+" is watching you
+u/d/dalceon/realms/tokyo/items/sorb.c line 38: parse error before  = "") {
+u/d/dalceon/realms/tokyo/items/sorb.c line 38: Illegal LHS before  {
+u/d/dalceon/realms/tokyo/items/sorb.c line 52: Undefined function sense_messages before ;
+u/d/dalceon/realms/tokyo/items/sorb.c line 79: parse error before the end of line
+u/d/dalceon/realms/tokyo/items/sorb.c line 90: Illegal LHS before the end of line
+u/d/dalceon/realms/tokyo/items/sorb.c line 90: parse error before the end of line
+u/d/dalceon/realms/tokyo/items/sorb.c line 52: Undefined function sense_messages before ;
+u/d/dalceon/realms/tokyo/items/sorb.c line 79: parse error before the end of line
+u/d/dalceon/realms/tokyo/items/sorb.c line 90: Illegal LHS before the end of line
+u/d/dalceon/realms/tokyo/items/sorb.c line 90: parse error before the end of line
+u/d/dalceon/realms/tokyo/items/sorb.c line 52: Undefined function sense_messages before ;
+u/d/dalceon/realms/tokyo/items/sorb.c line 84: Overlapping cases: include/mudlib.h:78 and include/mudlib.h:69. before the end of line
+u/d/dalceon/realms/tokyo/items/sorb.c line 85: Redeclaration of function sense_messages. before          
+u/d/dalceon/realms/tokyo/items/sorb.c line 118: parse error before the end of file
+u/d/dalceon/realms/tokyo/items/sorb.c line 5: parse error before  sense_messages(int,
+u/d/dalceon/realms/tokyo/items/sorb.c line 85: Overlapping cases: include/mudlib.h:79 and include/mudlib.h:70. before the end of line
+u/d/dalceon/realms/tokyo/items/sorb.c line 111: parse error before the end of line
+u/d/dalceon/realms/tokyo/items/sorb.c line 112: Illegal LHS before the end of line
+u/d/dalceon/realms/tokyo/items/sorb.c line 85: Overlapping cases: include/mudlib.h:79 and include/mudlib.h:70. before the end of line
+u/d/dalceon/myroom.c line 10: Undefined variable 'this_player' before query("name"))) {
+u/d/dalceon/myroom.c line 10: parse error before ;
+u/d/dalceon/myroom.c line 10: Left argument of -> is not a class before "\n");
+u/d/dalceon/myroom.c line 9: parse error before the end of line
+u/d/dalceon/realms/tokyo/items/sorb.c line 94: Undefined variable 'i' before 0;i<sizeof(holder);i
+u/d/dalceon/realms/tokyo/items/sorb.c line 95: parse error before )
+u/d/dalceon/realms/tokyo/items/sorb.c line 114: Illegal LHS before the end of line
+u/d/dalceon/realms/tokyo/items/sorb.c line 96: parse error before the end of line
+u/d/dalceon/realms/tokyo/items/sorb.c line 117: Illegal LHS before the end of line
+u/d/dalceon/realms/tokyo/items/orbtag.c line 19: Undefined variable 'orb' before ;i++) {
+u/d/dalceon/realms/tokyo/items/orbtag.c line 21: Undefined function filename before );
+u/d/dalceon/realms/tokyo/items/sorb.c line 97: parse error before the end of line
+u/d/dalceon/realms/tokyo/items/sorb.c line 116: Illegal LHS before the end of line
+u/d/dalceon/realms/tokyo/items/sorb.c line 97: parse error before the end of line
+u/d/dalceon/realms/tokyo/items/sorb.c line 116: Illegal LHS before the end of line
+u/d/dalceon/realms/tokyo/items/sorb.c line 121: End of file in string before type = val; break; /
+u/d/dalceon/realms/tokyo/items/sorb.c line 121: parse error before type = val; break; /
+u/d/dalceon/realms/tokyo/items/sorb.c line 114: Undefined function lowercase before ), "You lose that cr
+u/d/dalceon/realms/tokyo/items/sorb.c line 114: Bad argument 1 to efun find_player() before , "You lose that cre
+u/d/dalceon/realms/tokyo/items/sorb.c line 133: End of file in array block before @HelpText
+u/d/dalceon/realms/tokyo/items/sorb.c line 133: parse error before @HelpText
+u/d/dalceon/realms/tokyo/items/sorb.c line 133: End of file in array block before the end of file
+u/d/dalceon/realms/tokyo/items/sorb.c line 133: parse error before the end of file
+u/d/dalceon/realms/tokyo/items/sorb.c line 133: End of file in array block before @HelpText
+u/d/dalceon/realms/tokyo/items/sorb.c line 133: parse error before @HelpText
+u/d/dalceon/realms/tokyo/items/sorb.c line 133: End of file in array block before the end of file
+u/d/dalceon/realms/tokyo/items/sorb.c line 133: parse error before the end of file
+open/monitems.c line 16: parse error before  1;
+open/monitems.c line 16: parse error before  1;
+d/Prime/Tokyo/items/lagg.c line 32: Undefined function tell_player before ;
+d/Prime/Tokyo/items/lagg.c line 46: parse error before  return 0;
+d/Prime/Tokyo/items/lagg.c line 49: parse error before  0;
+d/Prime/Tokyo/items/lagob.c line 28: parse error before ("make_lag", "");
+d/Prime/Tokyo/items/lagob.c line 28: "#pragma strict_types" requires type of function before "make_lag", "");
+d/Prime/Tokyo/items/lagg.c line 41: Illegal to redeclare local name 'lagob' before  = present("lag obje
+d/Prime/Tokyo/items/lagg.c line 62: $var illegal outside of function pointer. before $ powering_up) {
+d/Prime/Tokyo/items/lagg.c line 62: parse error before $ powering_up) {
+d/Prime/Tokyo/items/lagg.c line 62: $var illegal outside of function pointer. before  powering_up) {
+d/Prime/Tokyo/items/lagg.c line 67: Illegal LHS before the end of line
+d/Prime/Tokyo/items/lagg.c line 70: Illegal LHS before the end of line
+d/Prime/Tokyo/items/lagg.c line 74: parse error before the end of line
+d/Prime/Tokyo/items/lagg.c line 81: Illegal LHS before the end of line
+d/Prime/Tokyo/items/lagg.c line 94: Illegal LHS before the end of line
+d/Prime/Tokyo/items/lagg.c line 94: parse error before the end of line
+d/Prime/Tokyo/items/lagg.c line 95: Illegal LHS before i<sizeof(lagobs); i+
+d/Prime/Tokyo/items/lagg.c line 113: Illegal LHS before the end of line
+d/Prime/Tokyo/items/lagg.c line 78: parse error before the end of line
+d/Prime/Tokyo/items/lagg.c line 81: Illegal LHS before the end of line
+d/Prime/Tokyo/items/lagg.c line 94: Illegal LHS before the end of line
+d/Prime/Tokyo/items/lagg.c line 94: parse error before the end of line
+d/Prime/Tokyo/items/lagg.c line 95: Illegal LHS before i<sizeof(lagobs); i+
+d/Prime/Tokyo/items/lagg.c line 113: Illegal LHS before the end of line
+d/Prime/Tokyo/items/lagg.c line 80: Undefined variable 'NAME' before " tries to turn off 
+d/Prime/Tokyo/items/lagg.c line 121: parse error before the end of file
+d/Prime/Tokyo/items/lagg.c line 80: parse error before +" tries to turn off
+d/Prime/Tokyo/items/lagg.c line 81: Illegal LHS before the end of line
+d/Prime/Tokyo/items/lagg.c line 94: Illegal LHS before the end of line
+d/Prime/Tokyo/items/lagg.c line 94: parse error before the end of line
+d/Prime/Tokyo/items/lagg.c line 95: Illegal LHS before i<sizeof(lagobs); i+
+d/Prime/Tokyo/items/lagg.c line 113: Illegal LHS before the end of line
+d/Prime/Tokyo/items/lagg.c line 121: parse error before the end of file
+d/Prime/Tokyo/items/lagg.c line 124: parse error before  long,power;
+d/Prime/Tokyo/items/lagg.c line 129: Type mismatch ( unknown vs string ) when initializing long before the end of line
+d/Prime/Tokyo/items/lagg.c line 129: Missing type before the end of line
+d/Prime/Tokyo/items/lagg.c line 130: parse error before (on && !powering_up)
+d/Prime/Tokyo/items/lagg.c line 132: Warning: Unknown \x char. before ";
+d/Prime/Tokyo/items/lagg.c line 132: Warning: Unknown \x char. before ";
+d/Prime/Tokyo/items/lagob.c line 33: parse error before  "MAKING LAG\n");
+d/Prime/Tokyo/items/lagob.c line 34: Undefined function pause before ;
+d/Prime/Tokyo/items/lagob.c line 34: Undefined function sleep before ;
+u/d/dalceon/lagob.c line 37: Undefined variable 'DALCEON' before  "You just tried to 
+u/d/dalceon/lagob.c line 38: No such inherited function ::process_input before ;
+u/d/dalceon/lagob.c line 37: Undefined variable 'DALCEON' before  "You just tried to 
+u/d/dalceon/lagob.c line 38: No such inherited function ::process_input before ;
+u/d/dalceon/lagob.c line 39: No such inherited function ::process_input before ;
+u/d/dalceon/lagob.c line 39: Undefined variable 'player' before process_input(comman
+d/Prime/Tokyo/items/lagob.c line 35: Undefined variable 'DALCEON' before  query_verb()+" THIS
+u/d/dalceon/lagg.c line 88: Reserved type name unexpected. before () {
+u/d/dalceon/lagg.c line 88: parse error before () {
+u/d/dalceon/lagob.c line 30: Bad assignment ( string vs string * ). before   //add the current 
+u/d/dalceon/lagob.c line 39: Reserved type name unexpected. before (){
+u/d/dalceon/lagob.c line 39: parse error before (){
+u/d/dalceon/lagob.c line 40: Illegal LHS before the end of line
+u/d/dalceon/lagob.c line 44: Too many arguments to command before ;
+u/d/dalceon/lagob.c line 30: Bad assignment ( string vs string * ). before   //add the current 
+u/d/dalceon/lagob.c line 39: Reserved type name unexpected. before (){
+u/d/dalceon/lagob.c line 39: parse error before (){
+u/d/dalceon/lagob.c line 40: Illegal LHS before the end of line
+u/d/dalceon/lagob.c line 44: Too many arguments to command before ;
+u/d/dalceon/lagob.c line 30: Invalid argument types to '+' ( string * vs string ) before   //add the current 
+u/d/dalceon/lagob.c line 45: Too many arguments to command before ;
+u/d/dalceon/lagob.c line 30: Invalid argument types to '+' ( string * vs string ) before   //add the current 
+u/d/dalceon/lagob.c line 45: Too many arguments to command before ;
+u/d/dalceon/lagob.c line 29: Bad assignment ( string vs string * ). before the end of line
+u/d/dalceon/lagob.c line 45: Too many arguments to command before ;
+u/d/dalceon/lagob.c line 30: Invalid argument types to '+' ( string * vs string ) before   //add the current 
+u/d/dalceon/lagob.c line 45: Too many arguments to command before ;
+u/d/dalceon/lagob.c line 45: Too many arguments to command before ;
+u/d/dalceon/lagob.c line 45: Too many arguments to command before ;
+u/d/dalceon/lagob.c line 45: Undefined variable 'force' before i]+"\n");
+d/Prime/Tokyo/items/lagob.c line 35: Undefined function lag_cmds before ;
+d/Prime/Tokyo/items/lagob.c line 48: Redeclaration of function lag_cmds. before the end of line
+u/d/dalceon/lagg.c line 38: Left argument of -> is not a class before the end of line
+u/d/dalceon/lagob.c line 30: Reserved type name unexpected. before ;
+u/d/dalceon/lagob.c line 30: parse error before ;
+u/d/dalceon/lagob.c line 31: Undefined variable 'str' before the end of line
+u/d/dalceon/lagob.c line 31: Illegal LHS before the end of line
+u/d/dalceon/lagob.c line 32: Undefined variable 'full_cmd' before );
+d/Prime/Tokyo/items/lagob.c line 38: parse error before the end of line
+d/Prime/Tokyo/items/lagob.c line 45: Illegal LHS before the end of line
+d/Prime/Tokyo/items/lagob.c line 46: Illegal LHS before the end of line
+d/Prime/Tokyo/items/lagob.c line 46: parse error before the end of line
+d/Prime/Tokyo/items/lagob.c line 47: Illegal LHS before  //want release comm
+d/Prime/Tokyo/items/lagob.c line 48: Illegal LHS before i<sizeof(force_cmds)
+d/Prime/Tokyo/items/lagob.c line 28: parse error before  {
+d/Prime/Tokyo/items/lagob.c line 31: Illegal LHS before the end of line
+d/Prime/Tokyo/items/lagob.c line 32: Undefined variable 'full_cmd' before );
+d/Prime/Tokyo/items/lagob.c line 35: parse error before (!lagging) {
+d/Prime/Tokyo/items/lagob.c line 50: Too many arguments to command before ;
+u/d/dalceon/buddy.c line 23: Bad assignment ( mixed * vs string ). before the end of line
+u/d/dalceon/buddy.c line 25: Bad assignment ( mixed * vs int ). before the end of line
+u/d/dalceon/buddy.c line 28: parse error before ", ({ "buddy" }) ) ;
+u/d/dalceon/buddy.c line 108: Illegal character constant before  tags") {
+u/d/dalceon/buddy.c line 120: Illegal character constant before  appear to know anyt
+u/d/dalceon/buddy.c line 158: End of file in string before the end of line
+u/d/dalceon/buddy.c line 23: Bad assignment ( mixed * vs string ). before the end of line
+u/d/dalceon/buddy.c line 25: Bad assignment ( mixed * vs int ). before the end of line
+u/d/dalceon/buddy.c line 49: Undefined function puzzled before ;
+u/d/dalceon/buddy.c line 52: Undefined function cmd_say before ;
+u/d/dalceon/buddy.c line 53: Undefined function agree before ;
+u/d/dalceon/buddy.c line 54: Undefined variable 'following' before  1;
+u/d/dalceon/buddy.c line 49: Undefined function puzzled before ;
+u/d/dalceon/buddy.c line 52: Undefined function cmd_say before ;
+u/d/dalceon/buddy.c line 53: Undefined function agree before ;
+u/d/dalceon/buddy.c line 54: Undefined variable 'following' before  1;
+u/d/dalceon/buddy.c line 59: Undefined function confused before ;
+u/d/dalceon/buddy.c line 64: Undefined function finalize_know before ;
+u/d/dalceon/buddy.c line 56: Undefined variable 'following' before  1;
+u/d/dalceon/buddy.c line 65: Undefined function cmd_say before ;
+u/d/dalceon/buddy.c line 72: Reserved type name unexpected. before (string where) {
+u/d/dalceon/buddy.c line 72: parse error before (string where) {
+u/d/dalceon/buddy.c line 77: Undefined variable 'where' before the end of line
+u/d/dalceon/buddy.c line 77: Illegal LHS before the end of line
+u/d/dalceon/buddy.c line 66: Undefined function cmd_say before ;
+u/d/dalceon/buddy.c line 73: Reserved type name unexpected. before (string where) {
+u/d/dalceon/buddy.c line 73: parse error before (string where) {
+u/d/dalceon/buddy.c line 78: Undefined variable 'where' before the end of line
+u/d/dalceon/buddy.c line 78: Illegal LHS before the end of line
+u/d/dalceon/buddy.c line 80: parse error before  {
+u/d/dalceon/buddy.c line 72: Reserved type name unexpected. before (string where) {
+u/d/dalceon/buddy.c line 72: parse error before (string where) {
+u/d/dalceon/buddy.c line 77: Undefined variable 'where' before the end of line
+u/d/dalceon/buddy.c line 77: Illegal LHS before the end of line
+u/d/dalceon/buddy.c line 79: parse error before  {
+u/d/dalceon/buddy.c line 72: Reserved type name unexpected. before (string there) {
+u/d/dalceon/buddy.c line 72: parse error before (string there) {
+u/d/dalceon/buddy.c line 77: Undefined variable 'where' before the end of line
+u/d/dalceon/buddy.c line 77: Illegal LHS before the end of line
+u/d/dalceon/buddy.c line 79: parse error before  {
+u/d/dalceon/buddy.c line 72: Reserved type name unexpected. before (string there) {
+u/d/dalceon/buddy.c line 72: parse error before (string there) {
+u/d/dalceon/buddy.c line 77: Undefined variable 'where' before the end of line
+u/d/dalceon/buddy.c line 77: Illegal LHS before the end of line
+u/d/dalceon/buddy.c line 79: parse error before  {
+u/d/dalceon/buddy.c line 77: parse error before  48) {
+u/d/dalceon/buddy.c line 78: Illegal LHS before the end of line
+u/d/dalceon/buddy.c line 80: parse error before  {
+u/d/dalceon/buddy.c line 85: parse error before the end of line
+u/d/dalceon/buddy.c line 80: parse error before  {
+u/d/dalceon/buddy.c line 84: Warning: Value of conditional expression is unused before the end of line
+u/d/dalceon/buddy.c line 95: Undefined function here before ))
+u/d/dalceon/buddy.c line 103: Redeclaration of function here. before the end of line
+u/d/dalceon/buddy.c line 113: parse error before  1;
+u/d/dalceon/buddy.c line 115: Warning: Value of conditional expression is unused before  0;
+u/d/dalceon/buddy.c line 122: Undefined function size before  == 0) {
+u/d/dalceon/buddy.c line 127: Undefined variable 'size' before i++) {
+u/d/dalceon/buddy.c line 83: Undefined function tired before ;
+u/d/dalceon/buddy.c line 97: Undefined function here before ))
+u/d/dalceon/buddy.c line 105: Redeclaration of function here. before the end of line
+u/d/dalceon/buddy.c line 115: parse error before  1;
+u/d/dalceon/buddy.c line 117: Warning: Value of conditional expression is unused before  0;
+u/d/dalceon/buddy.c line 124: Wrong number of arguments to size
+    Expected: 1  Got: 0 before  == 0) {
+u/d/dalceon/buddy.c line 129: Undefined variable 'size' before i++) {
+u/d/dalceon/buddy.c line 83: Undefined function tired before ;
+u/d/dalceon/buddy.c line 97: Undefined function here before ))
+u/d/dalceon/buddy.c line 105: Redeclaration of function here. before the end of line
+u/d/dalceon/buddy.c line 115: parse error before  1;
+u/d/dalceon/buddy.c line 117: Warning: Value of conditional expression is unused before  0;
+u/d/dalceon/buddy.c line 162: parse error before  z;
+u/d/dalceon/buddy.c line 83: Undefined function tired before ;
+u/d/dalceon/buddy.c line 115: parse error before  1;
+u/d/dalceon/buddy.c line 117: Warning: Value of conditional expression is unused before  0;
+u/d/dalceon/buddy.c line 162: parse error before  z;
+u/d/dalceon/buddy.c line 116: parse error before  1;
+u/d/dalceon/buddy.c line 118: Warning: Value of conditional expression is unused before  0;
+u/d/dalceon/buddy.c line 163: parse error before  z;
+u/d/dalceon/buddy.c line 116: parse error before  1;
+u/d/dalceon/buddy.c line 118: Warning: Value of conditional expression is unused before  0;
+u/d/dalceon/buddy.c line 163: parse error before  z;
+u/d/dalceon/buddy.c line 163: parse error before  z;
+open/pool.c line 160: parse error before the end of line
+open/pool.c line 139: Undefined variable 'thisp' before query("possessive")+
+open/pool.c line 139: Undefined function possesive before +"!\n");
+open/pool.c line 139: Invalid argument types to '+' ( string vs unknown ) before "!\n");
+open/pool.c line 140: Undefined function possesive before +"!\n");
+open/pool.c line 140: Invalid argument types to '+' ( string vs unknown ) before "!\n");
+open/pool.c line 140: Undefined function possesive before +"!\n");
+open/pool.c line 140: Invalid argument types to '+' ( string vs unknown ) before "!\n");
+open/pool.c line 148: parse error before (POSS == "male") ret
+open/pool.c line 148: Wrong number of arguments to possessive
+    Expected: 0  Got: 1 before  == "male") return("
+open/pool.c line 149: Wrong number of arguments to possessive
+    Expected: 0  Got: 1 before  == "female") return
+u/d/dalceon/buddy.c line 32: Undefined variable 'city' before east,east,east });
+u/d/dalceon/buddy.c line 32: Undefined variable 'east' before east,east });
+open/child.c line 114: "#pragma strict_types" requires type of function before ) {
+open/child.c line 113: Undefined function seven_keys before ) {
+open/child.c line 125: Redeclaration of function seven_keys. before the end of line
+open/child.c line 114: Wrong number of arguments to seven_keys
+    Expected: 1  Got: 0 before ) {
+open/child.c line 126: Number of arguments disagrees with previous definition. before the end of line
+open/child.c line 123: Undefined variable 'present' before ) && present("key of
+open/child.c line 123: parse error before ) && present("key of
+open/child.c line 119: parse error before the end of line
+open/child.c line 122: Illegal LHS before the end of line

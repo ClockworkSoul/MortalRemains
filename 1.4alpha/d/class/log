@@ -1,0 +1,1695 @@
+d/class/wizard/obj/minorglobe.c line 36: Illegal character constant before  spell.\n");    retu
+d/class/wizard/obj/minorglobe.c line 36: parse error before  spell.\n");    retu
+d/class/wizard/obj/minorglobe.c line 37: End of file in string before list = users();
+d/class/wizard/general/rooms/m_profhall.c line 24: Undefined variable 'M_GUILD' before "mainst5.c",
+d/class/wizard/general/rooms/m_profhall.c line 62: parse error before the end of line
+d/class/wizard/general/rooms/m_profhall.c line 24: Undefined variable 'M_GUILD' before "mainst5.c",
+d/class/wizard/general/rooms/m_profhall.c line 62: parse error before the end of line
+d/class/priest/battleguard/rooms/priest_guild.c line 90: parse error before the end of line
+d/class/priest/battleguard/rooms/priest_guild.c line 96: Illegal LHS before break;
+d/class/priest/battleguard/rooms/priest_guild.c line 97: Illegal LHS before break;
+d/class/priest/battleguard/rooms/priest_guild.c line 98: Illegal LHS before break;
+d/class/priest/battleguard/rooms/priest_guild.c line 99: Illegal LHS before break;
+d/class/priest/battleguard/rooms/priest_guild.c line 100: Illegal LHS before break;
+d/class/priest/spells/heal.c line 42: parse error before  (ob) ob->remove();
+d/class/rogue/Assasins/cmds/_backstab.c line 46: parse error before  ((string)weapon->qu
+d/class/rogue/Assasins/cmds/_backstab.c line 51: Illegal LHS before the end of line
+d/class/rogue/Assasins/cmds/_backstab.c line 52: Warning: Value of conditional expression is unused before  = weapon->query("da
+d/class/rogue/Assasins/cmds/_backstab.c line 46: parse error before  ((string)weapon->qu
+d/class/rogue/Assasins/cmds/_backstab.c line 51: Illegal LHS before the end of line
+d/class/rogue/Assasins/cmds/_backstab.c line 52: Warning: Value of conditional expression is unused before  = weapon->query("da
+d/class/wizard/spells/vocalize.c line 32: Undefined function cast_spell before ) return 0;
+d/class/rogue/Assasins/cmds/_backstab.c line 46: parse error before  ((string)weapon->qu
+d/class/rogue/Assasins/cmds/_backstab.c line 51: Illegal LHS before the end of line
+d/class/rogue/Assasins/cmds/_backstab.c line 52: Warning: Value of conditional expression is unused before  = weapon->query("da
+d/class/priest/stormlord/obj/talosrobes.c line 23: Undefined variable 'robes' before ;
+d/class/rogue/Assasins/cmds/_backstab.c line 46: parse error before  ((string)weapon->qu
+d/class/rogue/Assasins/cmds/_backstab.c line 51: Illegal LHS before the end of line
+d/class/rogue/Assasins/cmds/_backstab.c line 52: Warning: Value of conditional expression is unused before  = weapon->query("da
+d/class/wizard/spells/invis.c line 46: parse error before  players" command in
+d/class/wizard/spells/invis.c line 68: Illegal LHS before the end of line
+d/class/wizard/spells/invis.c line 68: parse error before the end of line
+d/class/wizard/spells/invis.c line 80: Illegal LHS before ->begin_spell(obj);
+d/class/wizard/spells/invis.c line 80: parse error before ->begin_spell(obj);
+d/class/wizard/obj/vocalize_ob.c line 30: Undefined function query_caster_level before  );
+d/class/rogue/Assasins/cmds/_backstab.c line 46: parse error before  ((string)weapon->qu
+d/class/rogue/Assasins/cmds/_backstab.c line 51: Illegal LHS before the end of line
+d/class/rogue/Assasins/cmds/_backstab.c line 52: Warning: Value of conditional expression is unused before  = weapon->query("da
+d/class/wizard/obj/vocalize_ob.c line 30: Undefined function query_caster_level before  );
+d/class/wizard/spells/glitter.c line 41: Undefined function do_dust before ;
+d/class/wizard/spells/glitter.c line 49: Bad argument 2 to efun present() before ;
+d/class/wizard/spells/glitter.c line 56: Too few arguments to tell_object before ;
+d/class/wizard/spells/glitter.c line 61: Redeclaration of function do_dust. before the end of line
+d/class/wizard/obj/vocalize_ob.c line 30: Undefined function query_caster_level before  );
+d/class/wizard/spells/armor.c line 25: Undefined variable 'NO_STREGTH' before the end of line
+d/class/wizard/spells/armor.c line 33: parse error before  (firstarmor) {
+d/class/wizard/spells/armor.c line 36: Illegal LHS before the end of line
+d/class/wizard/spells/armor.c line 39: Type mismatch ( unknown vs object ) when initializing armor before the end of line
+d/class/wizard/spells/armor.c line 39: Missing type before the end of line
+d/class/wizard/spells/armor.c line 40: parse error before  (!armor) {
+d/class/wizard/spells/armor.c line 25: Undefined variable 'NO_STREGTH' before the end of line
+d/class/wizard/spells/armor.c line 33: parse error before  (firstarmor) {
+d/class/wizard/spells/armor.c line 36: Illegal LHS before the end of line
+d/class/wizard/spells/armor.c line 39: Type mismatch ( unknown vs object ) when initializing armor before the end of line
+d/class/wizard/spells/armor.c line 39: Missing type before the end of line
+d/class/wizard/spells/armor.c line 40: parse error before  (!armor) {
+d/class/wizard/spells/armor.c line 25: Undefined variable 'NO_STREGTH' before the end of line
+d/class/wizard/spells/armor.c line 33: parse error before  (firstarmor) {
+d/class/wizard/spells/armor.c line 36: Illegal LHS before the end of line
+d/class/wizard/spells/armor.c line 39: Type mismatch ( unknown vs object ) when initializing armor before the end of line
+d/class/wizard/spells/armor.c line 39: Missing type before the end of line
+d/class/wizard/spells/armor.c line 40: parse error before  (!armor) {
+d/class/wizard/obj/vocalize_ob.c line 30: Undefined function query_caster_level before  );
+d/class/wizard/general/obj/m_board.c line 10: parse error before /rooms/m_boardrm");
+d/class/wizard/general/obj/m_board.c line 13: End of file in string before s the mages' board r
+d/class/wizard/general/obj/m_board.c line 10: parse error before /rooms/m_boardrm");
+d/class/wizard/general/obj/m_board.c line 13: End of file in string before s the mages' board r
+d/class/wizard/spells/armor.c line 25: Undefined variable 'NO_STREGTH' before the end of line
+d/class/wizard/spells/armor.c line 33: parse error before  (firstarmor) {
+d/class/wizard/spells/armor.c line 36: Illegal LHS before the end of line
+d/class/wizard/spells/armor.c line 39: Type mismatch ( unknown vs object ) when initializing armor before the end of line
+d/class/wizard/spells/armor.c line 39: Missing type before the end of line
+d/class/wizard/spells/armor.c line 40: parse error before  (!armor) {
+d/class/wizard/obj/vocalize_ob.c line 30: Undefined function query_caster_level before  );
+d/class/wizard/obj/armor_ob.c line 41: Undefined variable 'caster' before add("magical_defense
+d/class/wizard/obj/vocalize_ob.c line 30: Undefined function query_caster_level before  );
+d/class/wizard/std/daemons/learn.c line 25: Cannot #include /u/c/cyanide/inclide/debug.h before #include <m_spells.h
+d/class/wizard/std/daemons/learn.c line 160: Undefined function DEBUG before ;
+d/class/wizard/spells/teleport.c line 36: parse error before  = TP->query("telepo
+d/class/wizard/spells/teleport.c line 36: Illegal LHS before the end of line
+d/class/wizard/spells/teleport.c line 36: parse error before the end of line
+d/class/wizard/spells/teleport.c line 37: Illegal LHS before the end of line
+d/class/wizard/spells/teleport.c line 37: parse error before the end of line
+d/class/wizard/spells/teleport.c line 38: Illegal LHS before the end of line
+d/class/wizard/spells/teleport.c line 36: parse error before  = TP->query("telepo
+d/class/wizard/spells/teleport.c line 36: Illegal LHS before the end of line
+d/class/wizard/spells/teleport.c line 36: parse error before the end of line
+d/class/wizard/spells/teleport.c line 37: Illegal LHS before the end of line
+d/class/wizard/spells/teleport.c line 37: parse error before the end of line
+d/class/wizard/spells/teleport.c line 38: Illegal LHS before the end of line
+d/class/wizard/spells/invisibility.c line 46: parse error before  players" command in
+d/class/wizard/spells/invisibility.c line 68: Illegal LHS before the end of line
+d/class/wizard/spells/invisibility.c line 68: parse error before the end of line
+d/class/wizard/spells/invisibility.c line 80: Illegal LHS before ->begin_spell(obj);
+d/class/wizard/spells/invisibility.c line 80: parse error before ->begin_spell(obj);
+d/class/wizard/obj/invis_ob.c line 16: Undefined variable 'called' before  0;
+d/class/wizard/obj/invis_ob.c line 46: Undefined variable 'called' before 0)) { 
+d/class/wizard/spells/wilting.c line 61: Warning: Return type doesn't match prototype ( int vs void ) before  {
+d/class/wizard/spells/wilting.c line 84: Undefined variable 'room' before  "The dehydration ac
+d/class/wizard/spells/wilting.c line 107: parse error before the end of line
+d/class/wizard/spells/wilting.c line 61: Warning: Return type doesn't match prototype ( int vs void ) before  {
+d/class/wizard/spells/wilting.c line 84: Undefined variable 'room' before  "The dehydration ac
+d/class/wizard/spells/wilting.c line 107: parse error before the end of line
+d/class/wizard/spells/wilting.c line 61: Warning: Return type doesn't match prototype ( int vs void ) before  {
+d/class/wizard/spells/wilting.c line 84: Undefined variable 'room' before  "The dehydration ac
+d/class/wizard/spells/wilting.c line 107: parse error before the end of line
+d/class/wizard/obj/wraithform_ob.c line 40: Undefined variable 'weap' before   caster->set("weap_
+d/class/priest/lorekeeper/obj/pen.c line 26: Illegal character constant before urning", 1);
+d/class/priest/lorekeeper/obj/pen.c line 26: parse error before ", 1);
+d/class/priest/lorekeeper/obj/pen.c line 54: End of file in string before T
+d/class/priest/lorekeeper/obj/pen.c line 26: Illegal character constant before urning", 1);
+d/class/priest/lorekeeper/obj/pen.c line 26: parse error before ", 1);
+d/class/priest/lorekeeper/obj/pen.c line 54: End of file in string before ll points stored!\n"
+d/class/priest/lorekeeper/obj/pen.c line 26: Illegal character constant before urning", 1);
+d/class/priest/lorekeeper/obj/pen.c line 26: parse error before ", 1);
+d/class/priest/lorekeeper/obj/pen.c line 54: End of file in string before PUSER_D             
+d/class/wizard/spells/wilting.c line 61: Warning: Return type doesn't match prototype ( int vs void ) before  {
+d/class/wizard/spells/wilting.c line 84: Undefined variable 'room' before  "The dehydration ac
+d/class/wizard/spells/wilting.c line 107: parse error before the end of line
+d/class/wizard/spells/wilting.c line 61: Warning: Return type doesn't match prototype ( int vs void ) before  {
+d/class/wizard/spells/wilting.c line 84: Undefined variable 'room' before  "The dehydration ac
+d/class/wizard/spells/wilting.c line 107: parse error before the end of line
+d/class/wizard/spells/wilting.c line 61: Warning: Return type doesn't match prototype ( int vs void ) before  {
+d/class/wizard/spells/wilting.c line 84: Undefined variable 'room' before  "The dehydration ac
+d/class/wizard/spells/wilting.c line 107: parse error before the end of line
+d/class/wizard/spells/wilting.c line 61: Warning: Return type doesn't match prototype ( int vs void ) before  {
+d/class/wizard/spells/wilting.c line 84: Undefined variable 'room' before  "The dehydration ac
+d/class/wizard/spells/wilting.c line 107: parse error before the end of line
+d/class/wizard/spells/wilting.c line 61: Warning: Return type doesn't match prototype ( int vs void ) before  {
+d/class/wizard/spells/wilting.c line 84: Undefined variable 'room' before  "The dehydration ac
+d/class/wizard/spells/wilting.c line 107: parse error before the end of line
+d/class/wizard/spells/swarm.c line 11: parse error before the end of line
+d/class/wizard/spells/swarm.c line 11: parse error before the end of line
+d/class/wizard/spells/swarm.c line 11: parse error before the end of line
+d/class/wizard/spells/swarm.c line 11: parse error before the end of line
+d/class/wizard/spells/swarm.c line 11: parse error before the end of line
+d/class/wizard/spells/swarm.c line 11: parse error before the end of line
+d/class/wizard/spells/item.c line 26: parse error before );
+d/class/wizard/spells/item.c line 35: Illegal LHS before the end of line
+d/class/wizard/spells/item.c line 36: Illegal LHS before the end of line
+d/class/wizard/spells/item.c line 37: Illegal LHS before the end of line
+d/class/wizard/spells/item.c line 44: Undefined variable 'item_ob' before );
+d/class/wizard/spells/item.c line 44: Undefined function M_OBJ before );
+d/class/wizard/spells/item.c line 26: parse error before );
+d/class/wizard/spells/item.c line 35: Illegal LHS before the end of line
+d/class/wizard/spells/item.c line 36: Illegal LHS before the end of line
+d/class/wizard/spells/item.c line 37: Illegal LHS before the end of line
+d/class/wizard/spells/item.c line 44: Undefined variable 'item_ob' before );
+d/class/wizard/spells/item.c line 44: Undefined function M_OBJ before );
+d/class/wizard/obj/item_ob.c line 32: Undefined function do_switch before ;
+d/class/wizard/obj/item_ob.c line 49: Undefined variable 'STORAGE_B' before ;   // Non-resetting
+d/class/wizard/obj/item_ob.c line 101: Undefined variable 'inf' before ;
+d/class/wizard/obj/item_ob.c line 101: parse error before ;
+d/class/wizard/obj/item_ob.c line 106: Redeclaration of function do_switch. before  else {
+d/class/rogue/thief/cmds/_Hide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Hide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Hide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Hide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Hide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Hide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Hide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Hide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Hide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Hide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Hide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Hide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Hide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Hide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Hide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/wizard/spells/wyrmfury.c line 24: parse error before ;
+d/class/rogue/thief/cmds/_Hide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Hide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Hide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Hide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Hide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Hide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Hide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Hide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/wizard/obj/acidstorm_ob.c line 33: Undefined variable 'MSG_SPELL' before  "The acid rain fina
+d/class/wizard/obj/acidstorm_ob.c line 45: Reserved type name unexpected. before (int power, object c
+d/class/wizard/obj/acidstorm_ob.c line 45: parse error before (int power, object c
+d/class/wizard/obj/acidstorm_ob.c line 49: Illegal LHS before the end of line
+d/class/wizard/obj/acidstorm_ob.c line 50: Undefined variable 'inv' before  !sizeof(inv)) {
+d/class/wizard/obj/acidstorm_ob.c line 51: Undefined variable 'power' before  caster);
+d/class/priest/stormlord/rooms/priest_guild.c line 36: parse error before  "/u/d/darkangel/pri
+d/class/priest/stormlord/rooms/priest_guild.c line 36: parse error before  "/u/d/darkangel/pri
+d/class/wizard/obj/acidstorm_ob.c line 33: Undefined variable 'MSG_SPELL' before  "The acid rain fina
+d/class/wizard/obj/acidstorm_ob.c line 45: Reserved type name unexpected. before (int power, object c
+d/class/wizard/obj/acidstorm_ob.c line 45: parse error before (int power, object c
+d/class/wizard/obj/acidstorm_ob.c line 49: Illegal LHS before the end of line
+d/class/wizard/obj/acidstorm_ob.c line 50: Undefined variable 'inv' before  !sizeof(inv)) {
+d/class/wizard/obj/acidstorm_ob.c line 51: Undefined variable 'power' before  caster);
+d/class/wizard/obj/acidstorm_ob.c line 33: Undefined variable 'MSG_SPELL' before  "The acid rain fina
+d/class/wizard/obj/acidstorm_ob.c line 45: Reserved type name unexpected. before (int power, object c
+d/class/wizard/obj/acidstorm_ob.c line 45: parse error before (int power, object c
+d/class/wizard/obj/acidstorm_ob.c line 49: Illegal LHS before the end of line
+d/class/wizard/obj/acidstorm_ob.c line 50: Undefined variable 'inv' before  !sizeof(inv)) {
+d/class/wizard/obj/acidstorm_ob.c line 51: Undefined variable 'power' before  caster);
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/warrior/general/rooms/fighter_guild2.c line 38: Undefined variable 'SIGIL' before "mainst3.c",
+d/class/warrior/general/rooms/fighter_guild2.c line 43: Undefined variable 'WARRIOR_XP' before ;
+d/class/warrior/general/rooms/fighter_guild2.c line 189: Undefined variable 'FIGHTER' before "obj/badge.c");
+d/class/warrior/general/rooms/fighter_guild2.c line 226: Undefined variable 'WAR_HP_ROLL' before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/rooms/Assasin_guild.c line 176: parse error before ()->set_skill("Long 
+d/class/rogue/Assasins/rooms/Assasin_guild.c line 183: Illegal LHS before the end of line
+d/class/rogue/Assasins/rooms/Assasin_guild.c line 183: parse error before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/wizard/general/rooms/m_profhall.c line 49: parse error before ;
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/wizard/spells/scare.c line 27: Undefined function check_valid_target before ) return 0;
+d/class/wizard/spells/scare.c line 67: End of file in text block before Unkn         spri   
+d/class/wizard/spells/scare.c line 67: parse error before Unkn         spri   
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_backstab.c line 35: Undefined function this_ before ->query("weapon"+
+d/class/rogue/Assasins/cmds/_backstab.c line 35: Undefined function this_ before ->query("weapon"+
+d/class/rogue/Assasins/cmds/_backstab.c line 35: Undefined function this_ before ->query("weapon"+
+d/class/rogue/Assasins/cmds/_backstab.c line 35: Undefined function this_ before ->query("weapon"+
+d/class/rogue/Assasins/cmds/_backstab.c line 35: Undefined function this_ before ->query("weapon"+
+d/class/rogue/Assasins/cmds/_backstab.c line 35: Undefined function this_ before ->query("weapon"+
+d/class/rogue/Assasins/cmds/_backstab.c line 35: Undefined function this_ before ->query("weapon"+
+d/class/rogue/Assasins/cmds/_backstab.c line 35: Undefined function this_ before ->query("weapon"+
+d/class/rogue/Assasins/cmds/_backstab.c line 36: parse error before ;
+d/class/rogue/Assasins/cmds/_backstab.c line 36: parse error before ;
+d/class/rogue/Assasins/cmds/_backstab.c line 36: parse error before ;
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/wizard/obj/heartstone_ob.c line 29: End of file in string before  muttering arcane ve
+d/class/wizard/obj/heartstone_ob.c line 29: parse error before  muttering arcane ve
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/wizard/spells/coldcone.c line 10: Cannot #include /u/c/cyanide/debug.h before #define ROLL random(
+d/class/wizard/spells/coldcone.c line 10: Cannot #include /u/c/cyanide/debug.h before #define ROLL random(
+d/class/wizard/spells/coldcone.c line 10: Cannot #include /u/c/cyanide/debug.h before #define ROLL random(
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/rooms/assassin_guild.c line 13: Cannot #include /u/c/cyanide/debug.h before #include <daemons.h>
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_backstab.c line 12: Cannot #include /u/c/cyanide/debug.h before #include <daemons.h>
+d/class/rogue/Assasins/cmds/_backstab.c line 12: Cannot #include /u/c/cyanide/debug.h before #include <daemons.h>
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/wizard/spells/coldcone.c line 10: Cannot #include /u/c/cyanide/debug.h before #define ROLL random(
+d/class/wizard/spells/coldcone.c line 10: Cannot #include /u/c/cyanide/debug.h before #define ROLL random(
+d/class/wizard/spells/coldcone.c line 10: Cannot #include /u/c/cyanide/debug.h before #define ROLL random(
+d/class/wizard/spells/coldcone.c line 10: Cannot #include /u/c/cyanide/debug.h before #define ROLL random(
+d/class/rogue/Assasins/rooms/assassin_guild.c line 13: Cannot #include /u/c/cyanide/debug.h before #include <daemons.h>
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/rogue/Assasins/cmds/_backstab.c line 12: Cannot #include /u/c/cyanide/debug.h before #include <daemons.h>
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_backstab.c line 12: Cannot #include /u/c/cyanide/debug.h before #include <daemons.h>
+d/class/rogue/Assasins/cmds/_backstab.c line 12: Cannot #include /u/c/cyanide/debug.h before #include <daemons.h>
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/wizard/spells/coldcone.c line 10: Cannot #include /u/c/cyanide/debug.h before #define ROLL random(
+d/class/wizard/spells/coldcone.c line 10: Cannot #include /u/c/cyanide/debug.h before #define ROLL random(
+d/class/wizard/spells/coldcone.c line 10: Cannot #include /u/c/cyanide/debug.h before #define ROLL random(
+d/class/wizard/spells/coldcone.c line 10: Cannot #include /u/c/cyanide/debug.h before #define ROLL random(
+d/class/psionicist/std/cmds/_psi.c line 9: Cannot #include /u/c/cyanide/debug.h before #include <psionics.h
+d/class/wizard/spells/coldcone.c line 10: Cannot #include /u/c/cyanide/debug.h before #define ROLL random(
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/wizard/spells/coldcone.c line 10: Cannot #include /u/c/cyanide/debug.h before #define ROLL random(
+d/class/wizard/spells/coldcone.c line 10: Cannot #include /u/c/cyanide/debug.h before #define ROLL random(
+d/class/wizard/spells/coldcone.c line 10: Cannot #include /u/c/cyanide/debug.h before #define ROLL random(
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/wizard/spells/coldcone.c line 10: Cannot #include /u/c/cyanide/debug.h before #define ROLL random(
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/wizard/spells/coldcone.c line 10: Cannot #include /u/c/cyanide/debug.h before #define ROLL random(
+d/class/wizard/spells/coldcone.c line 10: Cannot #include /u/c/cyanide/debug.h before #define ROLL random(
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/wizard/spells/coldcone.c line 10: Cannot #include /u/c/cyanide/debug.h before #define ROLL random(
+d/class/wizard/spells/coldcone.c line 10: Cannot #include /u/c/cyanide/debug.h before #define ROLL random(
+d/class/wizard/spells/coldcone.c line 10: Cannot #include /u/c/cyanide/debug.h before #define ROLL random(
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/rooms/assassin_guild.c line 13: Cannot #include /u/c/cyanide/debug.h before #include <daemons.h>
+d/class/rogue/Assasins/cmds/_backstab.c line 12: Cannot #include /u/c/cyanide/debug.h before #include <daemons.h>
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/rooms/assassin_guild.c line 13: Cannot #include /u/c/cyanide/debug.h before #include <daemons.h>
+d/class/wizard/spells/coldcone.c line 10: Cannot #include /u/c/cyanide/debug.h before #define ROLL random(
+d/class/wizard/spells/vocalize.c line 11: Cannot #include /u/c/cyanide/debug.h before #include <m_spells.h
+d/class/wizard/spells/vocalize.c line 45: Undefined function DEBUG before ;
+d/class/wizard/spells/coldcone.c line 10: Cannot #include /u/c/cyanide/debug.h before #define ROLL random(
+d/class/wizard/spells/coldcone.c line 10: Cannot #include /u/c/cyanide/debug.h before #define ROLL random(
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/wizard/spells/coldcone.c line 10: Cannot #include /u/c/cyanide/debug.h before #define ROLL random(
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_backstab.c line 12: Cannot #include /u/c/cyanide/debug.h before #include <daemons.h>
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/wizard/spells/chill.c line 15: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/wizard/spells/chill.c line 15: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_backstab.c line 12: Cannot #include /u/c/cyanide/debug.h before #include <daemons.h>
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_backstab.c line 12: Cannot #include /u/c/cyanide/debug.h before #include <daemons.h>
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_backstab.c line 12: Cannot #include /u/c/cyanide/debug.h before #include <daemons.h>
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/wizard/spells/chill.c line 15: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/wizard/spells/chill.c line 15: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/wizard/spells/chill.c line 15: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/wizard/spells/chill.c line 15: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/wizard/spells/chill.c line 15: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/wizard/spells/chill.c line 15: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/wizard/spells/chill.c line 15: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/dragon/cmds/_cast.c line 4: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/wizard/spells/chill.c line 15: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/wizard/spells/chill.c line 15: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/wizard/spells/chill.c line 15: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/wizard/spells/chill.c line 15: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/wizard/spells/chill.c line 15: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/wizard/spells/chill.c line 15: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/wizard/spells/chill.c line 15: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/wizard/spells/chill.c line 15: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/wizard/spells/chill.c line 15: Cannot #include /u/c/cyanide/debug.h before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/wizard/obj/vocalize_ob.c line 10: Warning: redefinition of #define DEBUG
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/Assasins/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/warrior/general/rooms/sigilfighterguild.c line 13: Cannot #include /d/Outer/Sigil/sigil.h before the end of line
+d/class/warrior/general/rooms/sigilfighterguild.c line 13: Cannot #include /d/Outer/Sigil/sigil.h before the end of line
+d/class/warrior/general/rooms/sigilfighterguild.c line 41: Undefined variable 'SIGIL' before "mainst3.c",
+d/class/rogue/thief/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_aim.c line 71: parse error before the end of file
+d/class/rogue/thief/cmds/_Walk.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/warrior/deathdealer/rooms/ddguild.c line 17: Cannot #include /d/Outer/Sigil/sigil.h before inherit GUILD;
+d/class/warrior/deathdealer/rooms/ddguild.c line 31: Undefined variable 'SIGIL' before "barracks.c",
+d/class/warrior/barbarian/rooms/barbguild.c line 15: Cannot #include /d/Outer/Sigil/sigil.h before inherit GUILD;
+d/class/warrior/barbarian/rooms/barbguild.c line 15: Cannot #include /d/Outer/Sigil/sigil.h before inherit GUILD;
+d/class/warrior/barbarian/rooms/barbguild.c line 31: Undefined variable 'SIGIL' before "hive.c",
+d/class/wizard/general/rooms/mage_guild.c line 21: Cannot #include c_wizards.h before #include "guildhall.
+d/class/wizard/general/rooms/mage_guild.c line 47: Undefined variable 'WIZARD_XP' before ;
+d/class/wizard/general/rooms/mage_guild.c line 157: Undefined variable 'MAGE' before "obj/book.c");
+d/class/wizard/general/rooms/mage_guild.c line 207: Undefined variable 'WIZ_HP_ROLL' before the end of line
+d/class/wizard/general/rooms/mage_guild.c line 245: Undefined variable 'MAGE' before "obj/book.c");
+d/class/wizard/general/rooms/mage_guild.c line 21: Cannot #include c_wizards.h before #include "guildhall.
+d/class/wizard/general/rooms/mage_guild.c line 47: Undefined variable 'WIZARD_XP' before ;
+d/class/wizard/general/rooms/mage_guild.c line 157: Undefined variable 'MAGE' before "obj/book.c");
+d/class/wizard/general/rooms/mage_guild.c line 207: Undefined variable 'WIZ_HP_ROLL' before the end of line
+d/class/wizard/general/rooms/mage_guild.c line 245: Undefined variable 'MAGE' before "obj/book.c");
+d/class/priest/battleguard/rooms/priest_guild.c line 16: Cannot #include c_priests.h before int query_bonus_tp (
+d/class/priest/battleguard/rooms/priest_guild.c line 16: Cannot #include c_priests.h before int query_bonus_tp (
+d/class/priest/battleguard/rooms/priest_guild.c line 31: Undefined variable 'PRIEST_XP' before ;
+d/class/priest/battleguard/rooms/priest_guild.c line 174: Undefined variable 'TEMPUS' before "obj/gauntlets.c");
+d/class/priest/battleguard/rooms/priest_guild.c line 205: Undefined variable 'PRIEST_HP_ROLL' before the end of line
+d/class/priest/battleguard/rooms/priest_guild.c line 232: Undefined variable 'TEMPUS' before "obj/gauntlets.c");
+d/class/warrior/general/rooms/fighter_guild.c line 13: Cannot #include c_warriors.h before #include <config.h>
+d/class/warrior/general/rooms/fighter_guild.c line 35: Undefined variable 'WARRIOR_XP' before ;
+d/class/warrior/general/rooms/fighter_guild.c line 146: Undefined variable 'FIGHTER' before "obj/badge.c");
+d/class/warrior/general/rooms/fighter_guild.c line 186: Undefined variable 'WAR_HP_ROLL' before the end of line
+d/class/rogue/thief/room/thief_guild.c line 30: Undefined variable 'WIZARD_XP' before ;
+d/class/rogue/thief/room/thief_guild.c line 30: Undefined variable 'WIZARD_XP' before ;
+d/class/wizard/general/rooms/mage_guild.c line 21: Cannot #include c_wizards.h before #include "guildhall.
+d/class/wizard/general/rooms/mage_guild.c line 47: Undefined variable 'WIZARD_XP' before ;
+d/class/wizard/general/rooms/mage_guild.c line 157: Undefined variable 'MAGE' before "obj/book.c");
+d/class/wizard/general/rooms/mage_guild.c line 207: Undefined variable 'WIZ_HP_ROLL' before the end of line
+d/class/wizard/general/rooms/mage_guild.c line 245: Undefined variable 'MAGE' before "obj/book.c");
+d/class/wizard/general/rooms/mage_guild.c line 21: Cannot #include c_wizards.h before #include "guildhall.
+d/class/wizard/general/rooms/mage_guild.c line 47: Undefined variable 'WIZARD_XP' before ;
+d/class/wizard/general/rooms/mage_guild.c line 157: Undefined variable 'MAGE' before "obj/book.c");
+d/class/wizard/general/rooms/mage_guild.c line 207: Undefined variable 'WIZ_HP_ROLL' before the end of line
+d/class/wizard/general/rooms/mage_guild.c line 245: Undefined variable 'MAGE' before "obj/book.c");
+d/class/wizard/general/rooms/mage_guild.c line 21: Cannot #include c_wizards.h before #include "guildhall.
+d/class/wizard/general/rooms/mage_guild.c line 21: Cannot #include c_wizards.h before #include "guildhall.
+d/class/wizard/general/rooms/mage_guild.c line 47: Undefined variable 'WIZARD_XP' before ;
+d/class/wizard/general/rooms/mage_guild.c line 157: Undefined variable 'MAGE' before "obj/book.c");
+d/class/wizard/general/rooms/mage_guild.c line 207: Undefined variable 'WIZ_HP_ROLL' before the end of line
+d/class/wizard/general/rooms/mage_guild.c line 245: Undefined variable 'MAGE' before "obj/book.c");
+d/class/wizard/general/rooms/mage_guild.c line 21: Cannot #include c_wizards.h before #include "guildhall.
+d/class/wizard/general/rooms/mage_guild.c line 47: Undefined variable 'WIZARD_XP' before ;
+d/class/wizard/general/rooms/mage_guild.c line 157: Undefined variable 'MAGE' before "obj/book.c");
+d/class/wizard/general/rooms/mage_guild.c line 207: Undefined variable 'WIZ_HP_ROLL' before the end of line
+d/class/wizard/general/rooms/mage_guild.c line 245: Undefined variable 'MAGE' before "obj/book.c");
+d/class/wizard/general/rooms/mage_guild.c line 21: Cannot #include c_wizards.h before #include "guildhall.
+d/class/wizard/general/rooms/mage_guild.c line 47: Undefined variable 'WIZARD_XP' before ;
+d/class/wizard/general/rooms/mage_guild.c line 157: Undefined variable 'MAGE' before "obj/book.c");
+d/class/wizard/general/rooms/mage_guild.c line 207: Undefined variable 'WIZ_HP_ROLL' before the end of line
+d/class/wizard/general/rooms/mage_guild.c line 245: Undefined variable 'MAGE' before "obj/book.c");
+d/class/wizard/general/rooms/mage_guild.c line 21: Cannot #include c_wizards.h before #include "guildhall.
+d/class/wizard/general/rooms/mage_guild.c line 47: Undefined variable 'WIZARD_XP' before ;
+d/class/wizard/general/rooms/mage_guild.c line 157: Undefined variable 'MAGE' before "obj/book.c");
+d/class/wizard/general/rooms/mage_guild.c line 207: Undefined variable 'WIZ_HP_ROLL' before the end of line
+d/class/wizard/general/rooms/mage_guild.c line 245: Undefined variable 'MAGE' before "obj/book.c");
+d/class/wizard/general/rooms/mage_guild.c line 21: Cannot #include c_wizards.h before #include "guildhall.
+d/class/wizard/general/rooms/mage_guild.c line 47: Undefined variable 'WIZARD_XP' before ;
+d/class/wizard/general/rooms/mage_guild.c line 157: Undefined variable 'MAGE' before "obj/book.c");
+d/class/wizard/general/rooms/mage_guild.c line 207: Undefined variable 'WIZ_HP_ROLL' before the end of line
+d/class/wizard/general/rooms/mage_guild.c line 245: Undefined variable 'MAGE' before "obj/book.c");
+d/class/wizard/general/rooms/mage_guild.c line 21: Cannot #include c_wizards.h before #include "guildhall.
+d/class/wizard/general/rooms/mage_guild.c line 47: Undefined variable 'WIZARD_XP' before ;
+d/class/wizard/general/rooms/mage_guild.c line 157: Undefined variable 'MAGE' before "obj/book.c");
+d/class/wizard/general/rooms/mage_guild.c line 207: Undefined variable 'WIZ_HP_ROLL' before the end of line
+d/class/wizard/general/rooms/mage_guild.c line 245: Undefined variable 'MAGE' before "obj/book.c");
+d/class/wizard/general/rooms/mage_guild.c line 21: Cannot #include c_wizards.h before #include "guildhall.
+d/class/wizard/general/rooms/mage_guild.c line 47: Undefined variable 'WIZARD_XP' before ;
+d/class/wizard/general/rooms/mage_guild.c line 157: Undefined variable 'MAGE' before "obj/book.c");
+d/class/wizard/general/rooms/mage_guild.c line 207: Undefined variable 'WIZ_HP_ROLL' before the end of line
+d/class/wizard/general/rooms/mage_guild.c line 245: Undefined variable 'MAGE' before "obj/book.c");
+d/class/wizard/necromancer/rooms/necro_guild.c line 21: Cannot #include c_wizards.h before the end of line
+d/class/wizard/necromancer/rooms/necro_guild.c line 44: Undefined variable 'WIZARD_XP' before ;
+d/class/wizard/necromancer/rooms/necro_guild.c line 216: Undefined variable 'WIZ_HP_ROLL' before the end of line
+d/class/wizard/general/rooms/mage_guild.c line 21: Cannot #include c_wizards.h before #include "guildhall.
+d/class/wizard/general/rooms/mage_guild.c line 47: Undefined variable 'WIZARD_XP' before ;
+d/class/wizard/general/rooms/mage_guild.c line 157: Undefined variable 'MAGE' before "obj/book.c");
+d/class/wizard/general/rooms/mage_guild.c line 207: Undefined variable 'WIZ_HP_ROLL' before the end of line
+d/class/wizard/general/rooms/mage_guild.c line 245: Undefined variable 'MAGE' before "obj/book.c");
+d/class/wizard/diviner/rooms/diviner_guild.c line 22: Cannot #include c_wizards.h before the end of line
+d/class/wizard/diviner/rooms/diviner_guild.c line 37: Undefined variable 'WIZARD_XP' before ;
+d/class/wizard/diviner/rooms/diviner_guild.c line 206: Undefined variable 'WIZ_HP_ROLL' before the end of line
+d/class/wizard/diviner/rooms/diviner_guild.c line 22: Cannot #include c_wizards.h before the end of line
+d/class/wizard/diviner/rooms/diviner_guild.c line 22: Cannot #include c_wizards.h before the end of line
+d/class/wizard/diviner/rooms/diviner_guild.c line 37: Undefined variable 'WIZARD_XP' before ;
+d/class/wizard/diviner/rooms/diviner_guild.c line 206: Undefined variable 'WIZ_HP_ROLL' before the end of line
+d/class/wizard/general/rooms/mage_guild.c line 21: Cannot #include c_wizards.h before #include "guildhall.
+d/class/wizard/general/rooms/mage_guild.c line 47: Undefined variable 'WIZARD_XP' before ;
+d/class/wizard/general/rooms/mage_guild.c line 157: Undefined variable 'MAGE' before "obj/book.c");
+d/class/wizard/general/rooms/mage_guild.c line 207: Undefined variable 'WIZ_HP_ROLL' before the end of line
+d/class/wizard/general/rooms/mage_guild.c line 245: Undefined variable 'MAGE' before "obj/book.c");
+d/class/wizard/general/rooms/mage_guild.c line 21: Cannot #include c_wizards.h before #include "guildhall.
+d/class/wizard/general/rooms/mage_guild.c line 47: Undefined variable 'WIZARD_XP' before ;
+d/class/wizard/general/rooms/mage_guild.c line 157: Undefined variable 'MAGE' before "obj/book.c");
+d/class/wizard/general/rooms/mage_guild.c line 207: Undefined variable 'WIZ_HP_ROLL' before the end of line
+d/class/wizard/general/rooms/mage_guild.c line 245: Undefined variable 'MAGE' before "obj/book.c");
+d/class/wizard/general/rooms/mage_guild.c line 21: Cannot #include c_wizards.h before #include "guildhall.
+d/class/wizard/general/rooms/mage_guild.c line 47: Undefined variable 'WIZARD_XP' before ;
+d/class/wizard/general/rooms/mage_guild.c line 157: Undefined variable 'MAGE' before "obj/book.c");
+d/class/wizard/general/rooms/mage_guild.c line 207: Undefined variable 'WIZ_HP_ROLL' before the end of line
+d/class/wizard/general/rooms/mage_guild.c line 245: Undefined variable 'MAGE' before "obj/book.c");
+d/class/wizard/general/rooms/mage_guild.c line 21: Cannot #include c_wizards.h before #include "guildhall.
+d/class/wizard/general/rooms/mage_guild.c line 47: Undefined variable 'WIZARD_XP' before ;
+d/class/wizard/general/rooms/mage_guild.c line 157: Undefined variable 'MAGE' before "obj/book.c");
+d/class/wizard/general/rooms/mage_guild.c line 207: Undefined variable 'WIZ_HP_ROLL' before the end of line
+d/class/wizard/general/rooms/mage_guild.c line 245: Undefined variable 'MAGE' before "obj/book.c");
+d/class/wizard/general/rooms/mage_guild.c line 21: Cannot #include c_wizards.h before #include "guildhall.
+d/class/wizard/general/rooms/mage_guild.c line 47: Undefined variable 'WIZARD_XP' before ;
+d/class/wizard/general/rooms/mage_guild.c line 157: Undefined variable 'MAGE' before "obj/book.c");
+d/class/wizard/general/rooms/mage_guild.c line 207: Undefined variable 'WIZ_HP_ROLL' before the end of line
+d/class/wizard/general/rooms/mage_guild.c line 245: Undefined variable 'MAGE' before "obj/book.c");
+d/class/wizard/general/rooms/mage_guild.c line 21: Cannot #include c_wizards.h before #include "guildhall.
+d/class/wizard/general/rooms/mage_guild.c line 47: Undefined variable 'WIZARD_XP' before ;
+d/class/wizard/general/rooms/mage_guild.c line 157: Undefined variable 'MAGE' before "obj/book.c");
+d/class/wizard/general/rooms/mage_guild.c line 207: Undefined variable 'WIZ_HP_ROLL' before the end of line
+d/class/wizard/general/rooms/mage_guild.c line 245: Undefined variable 'MAGE' before "obj/book.c");
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/priest/battleguard/rooms/priest_guild.c line 16: Cannot #include c_priests.h before int query_bonus_tp (
+d/class/priest/battleguard/rooms/priest_guild.c line 16: Cannot #include c_priests.h before int query_bonus_tp (
+d/class/priest/battleguard/rooms/priest_guild.c line 31: Undefined variable 'PRIEST_XP' before ;
+d/class/priest/battleguard/rooms/priest_guild.c line 174: Undefined variable 'TEMPUS' before "obj/gauntlets.c");
+d/class/priest/battleguard/rooms/priest_guild.c line 205: Undefined variable 'PRIEST_HP_ROLL' before the end of line
+d/class/priest/battleguard/rooms/priest_guild.c line 232: Undefined variable 'TEMPUS' before "obj/gauntlets.c");
+d/class/priest/lorekeeper/rooms/priest_guild.c line 16: Cannot #include c_priests.h before inherit "/d/class/pr
+d/class/priest/lorekeeper/rooms/priest_guild.c line 29: Undefined variable 'PRIEST_XP' before ;
+d/class/priest/lorekeeper/rooms/priest_guild.c line 128: Undefined variable 'OGHMA' before "obj/pen.c");
+d/class/priest/lorekeeper/rooms/priest_guild.c line 169: Undefined variable 'PRIEST_HP_ROLL' before the end of line
+d/class/warrior/knight/rooms/knightguild.c line 12: Cannot #include /d/Outer/Sigil/sigil.h before #include "../c_knigh
+d/class/warrior/knight/rooms/knightguild.c line 12: Cannot #include /d/Outer/Sigil/sigil.h before #include "../c_knigh
+d/class/warrior/knight/rooms/knightguild.c line 12: Cannot #include /d/Outer/Sigil/sigil.h before #include "../c_knigh
+d/class/rogue/thief/cmds/_Hide2.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Appear.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/wizard/spells/bolt.c line 64: Undefined function DEBUG before ;
+d/class/wizard/spells/necrobolt.c line 65: Undefined function DEBUG before ;
+d/class/wizard/spells/necrobolt.c line 65: Undefined function DEBUG before ;
+d/class/wizard/spells/necrobolt.c line 65: Undefined function DEBUG before ;
+d/class/wizard/spells/necrobolt.c line 65: Undefined function DEBUG before ;
+d/class/wizard/spells/necrobolt.c line 65: Undefined function DEBUG before ;
+d/class/wizard/spells/necrobolt.c line 65: Undefined function DEBUG before ;
+d/class/wizard/spells/necrobolt.c line 65: Undefined function DEBUG before ;
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/warrior/Sharpshooter/cmds/_scan.c line 41: parse error before the end of file
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/priest/stormlord/rooms/boardrm.c line 8: Cannot #include guildhall.h before the end of line
+d/class/priest/stormlord/rooms/boardrm.c line 27: Undefined variable 'RM_MAGES' before "m_lobby.c",
+d/class/priest/stormlord/rooms/boardrm.c line 8: Cannot #include guildhall.h before the end of line
+d/class/priest/stormlord/rooms/boardrm.c line 27: Undefined variable 'RM_MAGES' before "m_lobby.c",
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/wizard/spells/summon1.c line 32: Undefined variable 'SUMMON_MULT' before .5, SUMMON_MULT);
+d/class/wizard/spells/summon1.c line 32: parse error before 5, SUMMON_MULT);
+d/class/wizard/spells/summon1.c line 33: Illegal LHS before the end of line
+d/class/wizard/spells/summon1.c line 33: parse error before the end of line
+d/class/wizard/spells/summon1.c line 35: Illegal LHS before the end of line
+d/class/wizard/spells/summon1.c line 35: parse error before the end of line
+d/class/wizard/spells/summon1.c line 32: Undefined variable 'SUMMON_MULT' before .5, SUMMON_MULT);
+d/class/wizard/spells/summon1.c line 32: parse error before 5, SUMMON_MULT);
+d/class/wizard/spells/summon1.c line 33: Illegal LHS before the end of line
+d/class/wizard/spells/summon1.c line 33: parse error before the end of line
+d/class/wizard/spells/summon1.c line 35: Illegal LHS before the end of line
+d/class/wizard/spells/summon1.c line 35: parse error before the end of line
+d/class/wizard/spells/summon1.c line 32: Undefined variable 'SUMMON_MULT' before .5, SUMMON_MULT);
+d/class/wizard/spells/summon1.c line 32: parse error before 5, SUMMON_MULT);
+d/class/wizard/spells/summon1.c line 33: Illegal LHS before the end of line
+d/class/wizard/spells/summon1.c line 33: parse error before the end of line
+d/class/wizard/spells/summon1.c line 35: Illegal LHS before the end of line
+d/class/wizard/spells/summon1.c line 35: parse error before the end of line
+d/class/wizard/spells/summon1.c line 32: Undefined variable 'SUMMON_MULT' before .5, SUMMON_MULT);
+d/class/wizard/spells/summon1.c line 32: parse error before 5, SUMMON_MULT);
+d/class/wizard/spells/summon1.c line 33: Illegal LHS before the end of line
+d/class/wizard/spells/summon1.c line 33: parse error before the end of line
+d/class/wizard/spells/summon1.c line 35: Illegal LHS before the end of line
+d/class/wizard/spells/summon1.c line 35: parse error before the end of line
+d/class/wizard/spells/summon1.c line 32: Undefined variable 'SUMMON_MULT' before .5, SUMMON_MULT);
+d/class/wizard/spells/summon1.c line 32: parse error before 5, SUMMON_MULT);
+d/class/wizard/spells/summon1.c line 33: Illegal LHS before the end of line
+d/class/wizard/spells/summon1.c line 33: parse error before the end of line
+d/class/wizard/spells/summon1.c line 35: Illegal LHS before the end of line
+d/class/wizard/spells/summon1.c line 35: parse error before the end of line
+d/class/wizard/spells/summon1.c line 32: Undefined variable 'SUMMON_MULT' before .5, SUMMON_MULT);
+d/class/wizard/spells/summon1.c line 32: parse error before 5, SUMMON_MULT);
+d/class/wizard/spells/summon1.c line 33: Illegal LHS before the end of line
+d/class/wizard/spells/summon1.c line 33: parse error before the end of line
+d/class/wizard/spells/summon1.c line 35: Illegal LHS before the end of line
+d/class/wizard/spells/summon1.c line 35: parse error before the end of line
+d/class/wizard/spells/summon1.c line 32: Undefined variable 'SUMMON_MULT' before .5, SUMMON_MULT);
+d/class/wizard/spells/summon1.c line 32: parse error before 5, SUMMON_MULT);
+d/class/wizard/spells/summon1.c line 33: Illegal LHS before the end of line
+d/class/wizard/spells/summon1.c line 33: parse error before the end of line
+d/class/wizard/spells/summon1.c line 35: Illegal LHS before the end of line
+d/class/wizard/spells/summon1.c line 35: parse error before the end of line
+d/class/wizard/obj/vocalize_ob.c line 10: Warning: redefinition of #define DEBUG
+ before the end of line
+d/class/warrior/Sharpshooter/cmds/_breech.c line 26: parse error before set("tmp_enchantment
+d/class/warrior/Sharpshooter/cmds/_breech.c line 26: parse error before set("tmp_enchantment
+d/class/warrior/Sharpshooter/cmds/_breech.c line 26: parse error before set("tmp_enchantment
+d/class/warrior/Sharpshooter/cmds/_breech.c line 26: parse error before set("tmp_enchantment
+d/class/warrior/Sharpshooter/cmds/_breech.c line 26: parse error before set("tmp_enchantment
+d/class/warrior/Sharpshooter/cmds/_breech.c line 26: parse error before set("tmp_enchantment
+d/class/warrior/Sharpshooter/cmds/_breech.c line 26: parse error before set("tmp_enchantment
+d/class/wizard/obj/vocalize_ob.c line 10: Warning: redefinition of #define DEBUG
+ before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line
+d/class/warrior/Sharpshooter/cmds/_guntwirl.c line 3: Cannot #include camel.h before the end of line
+d/class/warrior/Sharpshooter/cmds/_blowsmoke.c line 3: Cannot #include camel.h before the end of line
+d/class/warrior/Sharpshooter/cmds/_blowsmoke.c line 3: Cannot #include camel.h before the end of line
+d/class/warrior/Sharpshooter/cmds/_guntwirl.c line 3: Cannot #include camel.h before the end of line
+d/class/warrior/Sharpshooter/cmds/_blowsmoke.c line 3: Cannot #include camel.h before the end of line
+d/class/wizard/obj/shape_ob.c line 30: Invalid types to '-' ( string vs int ) before ;
+d/class/wizard/obj/shape_ob.c line 34: Invalid types to '-' ( string vs int ) before ;
+d/class/wizard/obj/shape_ob.c line 38: Undefined variable 'str_con' before ;
+d/class/wizard/obj/shape_ob.c line 38: Bad argument number 1 to '-': "string " before ;
+d/class/wizard/obj/vocalize_ob.c line 10: Warning: redefinition of #define DEBUG
+ before the end of line
+d/class/warrior/Sharpshooter/cmds/_guntwirl.c line 3: Cannot #include camel.h before the end of line
+d/class/warrior/Sharpshooter/cmds/_guntwirl.c line 3: Cannot #include camel.h before the end of line
+d/class/warrior/Sharpshooter/cmds/_blowsmoke.c line 3: Cannot #include camel.h before the end of line
+d/class/warrior/Sharpshooter/cmds/_blowsmoke.c line 3: Cannot #include camel.h before the end of line
+d/class/warrior/Sharpshooter/cmds/_guntwirl.c line 3: Cannot #include camel.h before the end of line
+d/class/warrior/Sharpshooter/cmds/_guntwirl.c line 3: Cannot #include camel.h before the end of line
+d/class/warrior/Sharpshooter/cmds/_blowsmoke.c line 3: Cannot #include camel.h before the end of line
+d/class/warrior/Sharpshooter/cmds/_blowsmoke.c line 3: Cannot #include camel.h before the end of line
+d/class/warrior/Sharpshooter/cmds/_guntwirl.c line 3: Cannot #include camel.h before the end of line
+d/class/rogue/thief/cmds/_Unhide.c line 7: Warning: redefinition of #define TPN
+ before the end of line

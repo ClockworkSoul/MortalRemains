@@ -1,0 +1,147 @@
+---
+could not bind socket: Address already in use
+Object: /adm/daemons/network/socket#3 at line 136
+
+'<function>' at /adm/daemons/network/I3 (<function>) at :0
+'check_router' at /adm/daemons/network/I3 at line 306
+'create' at /adm/daemons/network/I3 at line 285
+'create' at /adm/daemons/network/socket#3 at line 136
+---
+could not bind socket: Address already in use
+Object: /adm/daemons/network/socket#3 at line 136
+
+'<function>' at /adm/daemons/network/I3 (<function>) at :0
+'check_router' at /adm/daemons/network/I3 at line 306
+'create' at /adm/daemons/network/I3 at line 285
+'create' at /adm/daemons/network/socket#3 at line 136
+---
+*Array index out of bounds.
+Object: /d/Prime/Macrosoft/mon/mitch#412 (std/body/attack.c) at line 637
+
+'run_away' at /d/Prime/Macrosoft/mon/mitch#412 (std/body/attack.c) at line 637
+---
+*Array index out of bounds.
+Object: /d/Prime/Macrosoft/mon/mitch#412 (std/body/attack.c) at line 637
+
+'run_away' at /d/Prime/Macrosoft/mon/mitch#412 (std/body/attack.c) at line 637
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 905
+
+'heart_beat' at <none> (std/user.c) at line 905
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 905
+
+'heart_beat' at <none> (std/user.c) at line 905
+---
+*Bad argument 1 to geteuid()
+Expected: object or function Got: 0.
+Object: <none> (std/user.c) at line 905
+
+'heart_beat' at <none> (std/user.c) at line 905
+---
+*Bad argument 1 to capitalize()
+Expected: string Got: std/user#714.
+Object: /adm/daemons/finger at line 203
+
+'cmd_hook' at /std/user#714 at line 145
+'cmd_finger' at /cmds/std/_finger at line 66
+'finger_user' at /adm/daemons/finger at line 203
+---
+*Bad argument 1 to capitalize()
+Expected: string Got: std/user#714.
+Object: /adm/daemons/finger at line 203
+
+'cmd_hook' at /std/user#591 at line 145
+'cmd_finger' at /cmds/std/_finger at line 66
+'finger_user' at /adm/daemons/finger at line 203
+---
+*Bad argument 1 to capitalize()
+Expected: string Got: std/user#714.
+Object: /adm/daemons/finger at line 203
+
+'cmd_hook' at /std/user#591 at line 145
+'cmd_finger' at /cmds/std/_finger at line 66
+'finger_user' at /adm/daemons/finger at line 203
+---
+*Bad argument 1 to capitalize()
+Expected: string Got: std/user#714.
+Object: /adm/daemons/finger at line 203
+
+'cmd_hook' at /std/user#714 at line 145
+'cmd_finger' at /cmds/std/_finger at line 66
+'finger_user' at /adm/daemons/finger at line 203
+---
+*Bad argument 1 to capitalize()
+Expected: string Got: std/user#714.
+Object: /adm/daemons/finger at line 203
+
+'cmd_hook' at /std/user#714 at line 145
+'cmd_finger' at /cmds/std/_finger at line 66
+'finger_user' at /adm/daemons/finger at line 203
+---
+*Bad argument 1 to capitalize()
+Expected: string Got: std/user#714.
+Object: /adm/daemons/finger at line 203
+
+'cmd_hook' at /std/user#714 at line 145
+'cmd_finger' at /cmds/std/_finger at line 66
+'finger_user' at /adm/daemons/finger at line 203
+---
+*Bad argument 1 to capitalize()
+Expected: string Got: std/user#714.
+Object: /adm/daemons/finger at line 203
+
+'cmd_hook' at /std/user#714 at line 145
+'cmd_finger' at /cmds/std/_finger at line 66
+'finger_user' at /adm/daemons/finger at line 203
+---
+*Bad argument 1 to capitalize()
+Expected: string Got: std/user#714.
+Object: /adm/daemons/finger at line 203
+
+'cmd_hook' at /std/user#395 at line 145
+'cmd_finger' at /cmds/std/_finger at line 66
+'finger_user' at /adm/daemons/finger at line 203
+---
+*Bad argument 1 to capitalize()
+Expected: string Got: std/user#714.
+Object: /adm/daemons/finger at line 203
+
+'cmd_hook' at /std/user#714 at line 145
+'cmd_finger' at /cmds/std/_finger at line 66
+'finger_user' at /adm/daemons/finger at line 203
+---
+*Bad argument 1 to capitalize()
+Expected: string Got: std/user#714.
+Object: /adm/daemons/finger at line 203
+
+'cmd_hook' at /std/user#714 at line 145
+'cmd_finger' at /cmds/std/_finger at line 66
+'finger_user' at /adm/daemons/finger at line 203
+---
+*Negative index passed to array.
+Object: /adm/daemons/newuserd at line 710
+
+'get_stat_switch2' at /adm/daemons/newuserd at line 710
+---
+could not bind socket: Address already in use
+Object: /adm/daemons/network/socket#91 at line 136
+
+'<function>' at /adm/daemons/network/I3 (<function>) at :0
+'check_router' at /adm/daemons/network/I3 at line 306
+'create' at /adm/daemons/network/I3 at line 285
+'create' at /adm/daemons/network/socket#91 at line 136
+---
+*Bad argument 1 to values()
+Expected: mapping Got: 0.
+Object: /d/Ocean/Main/mon/whaler#572 (std/monster.c) at line 165
+
+'heart_beat' at /d/Ocean/Main/mon/whaler#572 (std/monster.c) at line 398
+'move_around' at /d/Ocean/Main/mon/whaler#572 (std/monster.c) at line 613
+'cmd_hook' at /d/Ocean/Main/mon/whaler#572 (std/monster.c) at line 126
+'cmd_go' at /cmds/std/_go at line 117
+'move_player' at /d/Ocean/Main/mon/whaler#572 (std/monster.c) at line 165

@@ -1,0 +1,5 @@
+#adm/daemons/event.c
+HOURLY ({})
+DAILY ({({966070200,"/cmds/adm/_wall","cmd_wall","-w The /log directory will be pruned by an automated daemon in 10 minutes.","Root",}),({966070800,"/cmds/adm/_wall","cmd_wall","-w /log is now being pruned...","Root",}),({966070800,"/adm/daemons/prune_logdir","prune_logdir","","Root",}),({966078900,"/cmds/adm/_wall","cmd_wall","-w The /open directory will be purged by an automated daemon in 15 minutes.","Root",}),({966079800,"/adm/daemons/clean_dir","clean_dir","/open","Root",}),({966079800,"/cmds/adm/_wall","cmd_wall","-w /open is now being purged...","Root",}),({966079860,"/cmds/object/_dest","cmd_dest","-ga /open/","Root",}),})
+WEEKLY ({})
+ONCE ({})

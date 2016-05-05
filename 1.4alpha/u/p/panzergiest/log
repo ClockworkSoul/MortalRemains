@@ -1,0 +1,155 @@
+u/p/panzergiest/workroom.c line 13: parse error before ;
+u/p/panzergiest/workroom.c line 13: parse error before ;;
+u/p/panzergiest/workroom.c line 43: End of file in string before scanf(str, "%s to %s
+u/p/panzergiest/workroom.c line 43: parse error before scanf(str, "%s to %s
+u/p/panzergiest/workroom.c line 43: End of file in string before DDDDDDDDDD
+u/p/panzergiest/workroom.c line 43: parse error before DDDDDDDDDD
+u/p/panzergiest/workroom.c line 40: parse error before the end of line
+u/p/panzergiest/workroom.c line 42: parse error before  jesus cut open on t
+u/p/panzergiest/workroom.c line 44: End of file in string before     " + "Unknown") +
+u/p/panzergiest/workroom.c line 42: Undefined variable 'Shows' before  cut open on the Mot
+u/p/panzergiest/workroom.c line 42: parse error before  cut open on the Mot
+u/p/panzergiest/workroom.c line 44: End of file in string before     " + "Unknown") +
+u/p/panzergiest/bedroom.c line 34: parse error before u/p/panzergiest/work
+u/p/panzergiest/bedroom.c line 37: End of file in string before rime/Central/room   
+u/p/panzergiest/bedroom.c line 34: parse error before the end of line
+u/p/panzergiest/workroom.c line 44: parse error before the end of line
+u/p/panzergiest/workroom.c line 45: parse error before  issue of shaved
+u/p/panzergiest/workroom.c line 45: parse error before  issue of shaved
+u/p/panzergiest/workroom.c line 48: Undefined variable 'l' before ) );
+u/p/panzergiest/workroom.c line 48: parse error before ) );
+u/p/panzergiest/bedroom.c line 34: parse error before ) );
+u/p/panzergiest/bathroom.c line 30: parse error before the end of line
+u/p/panzergiest/bank.c line 6: Cannot #include central.h before #include <money.h>
+u/p/panzergiest/bank.c line 6: Cannot #include central.h before #include <money.h>
+u/p/panzergiest/bank.c line 14: Undefined variable 'CITY_NAME' before " Branch") ;
+u/p/panzergiest/bank.c line 22: Undefined variable 'M_ROOM' before "road2_0.c",
+u/p/panzergiest/kitchen.c line 33: Undefined variable 'item_desc' before , ([
+u/p/panzergiest/kitchen.c line 33: parse error before , ([
+u/p/panzergiest/kitchen.c line 33: parse error before ", ([
+u/p/panzergiest/kitchen.c line 35: End of file in string before ay(vars, "sort_set",
+u/p/panzergiest/kitchen.c line 33: parse error before the end of line
+u/p/panzergiest/kitchen.c line 33: Illegal character constant before ]) )
+u/p/panzergiest/kitchen.c line 33: parse error before ]) )
+u/p/panzergiest/bank.c line 6: Cannot #include central.h before #include <money.h>
+u/p/panzergiest/bank.c line 14: Undefined variable 'CITY_NAME' before " Branch") ;
+u/p/panzergiest/bank.c line 22: Undefined variable 'M_ROOM' before "road2_0.c",
+d/Prime/Central/mon/jessica.c line 2: Cannot #include path.h before the end of line
+d/Prime/Central/mon/jessica.c line 38: Undefined variable 'TPCN' before  " tried to attack t
+u/p/panzergiest/war.c line 48: Undefined variable 'undead' before /doc/examples/axe.c"
+u/p/panzergiest/war.c line 48: parse error before /doc/examples/axe.c"
+u/p/panzergiest/war.c line 81: Illegal character constant before  servos whine,click,
+u/p/panzergiest/war.c line 110: End of file in string before  }) );
+u/p/panzergiest/workroom.c line 40: parse error before  "poster of jesus cu
+u/p/panzergiest/room/bedroom.c line 33: Undefined variable 'M_ROOM' before  "bathroom.c",
+u/p/panzergiest/room/bedroom.c line 33: Undefined variable 'M_ROOM' before  "bathroom.c",
+u/p/panzergiest/room/bedroom.c line 33: Undefined variable 'M_ROOM' before  "bathroom.c",
+u/p/panzergiest/room/bedroom.c line 33: Undefined variable 'M_ROOM' before  "bathroom.c",
+u/p/panzergiest/room/bedroom.c line 33: Undefined variable 'M_ROOM' before  "bathroom.c",
+u/p/panzergiest/room/bedroom.c line 33: Undefined variable 'M_ROOM' before "bathroom.c",
+u/p/panzergiest/room/bedroom.c line 12: Cannot #include pan.h before the end of line
+u/p/panzergiest/room/bedroom.c line 34: Undefined variable 'M_ROOM' before "bathroom.c",
+u/p/panzergiest/room/bedroom.c line 12: Cannot #include pan.h before the end of line
+u/p/panzergiest/room/bedroom.c line 34: Undefined variable 'M_ROOM' before "bathroom.c",
+u/p/panzergiest/room/bedroom.c line 12: Cannot #include pan.h before the end of line
+u/p/panzergiest/room/bedroom.c line 34: Undefined variable 'M_ROOM' before "bathroom.c",
+u/p/panzergiest/room/bedroom.c line 12: Cannot #include pan.h before the end of line
+u/p/panzergiest/room/bedroom.c line 34: Undefined variable 'M_ROOM' before "bathroom.c",
+u/p/panzergiest/room/bedroom.c line 12: Cannot #include pan.h before the end of line
+u/p/panzergiest/room/bedroom.c line 34: Undefined variable 'M_ROOM' before  "bathroom.c",
+u/p/panzergiest/room/bedroom.c line 12: Cannot #include pan.h before the end of line
+u/p/panzergiest/room/bedroom.c line 33: Undefined variable 'M_ROOM' before  "workroom.c",
+u/p/panzergiest/room/bedroom.c line 32: Undefined variable 'M_ROOM' before  "workroom.c",
+u/p/panzergiest/room/bedroom.c line 12: Cannot #include pan.z before the end of line
+u/p/panzergiest/room/bedroom.c line 33: Undefined variable 'M_ROOM' before  "workroom.c",
+u/p/panzergiest/room/bedroom.c line 12: Cannot #include pan.h before the end of line
+u/p/panzergiest/room/bedroom.c line 33: Undefined variable 'M_ROOM' before  "workroom.c",
+u/p/panzergiest/room/bedroom.c line 12: Cannot #include pan.h before the end of line
+u/p/panzergiest/room/bedroom.c line 33: Undefined variable 'M_ROOM' before  "/u/p/panzergiest/r
+u/p/panzergiest/room/bedroom.c line 12: Cannot #include pan.h before the end of line
+u/p/panzergiest/room/bedroom.c line 33: Undefined variable 'M_ROOM' before  "/u/p/panzergiest/r
+u/p/panzergiest/room/bedroom.c line 12: Cannot #include pan.h before the end of line
+u/p/panzergiest/room/bedroom.c line 12: Cannot #include pan.h before the end of line
+u/p/panzergiest/weapon/weapon.c line 33: Undefined variable 'hand' before metal/silver");
+u/p/panzergiest/weapon/weapon.c line 33: Bad argument 1 to '/': "string " before metal/silver");
+u/p/panzergiest/weapon/weapon.c line 33: parse error before metal/silver");
+u/p/panzergiest/weapon/weapon.c line 66: End of file in string before  int i, sz;
+u/p/panzergiest/weapon/weapon.c line 33: Undefined variable 'hand' before metal/silver");
+u/p/panzergiest/weapon/weapon.c line 33: Bad argument 1 to '/': "string " before metal/silver");
+u/p/panzergiest/weapon/weapon.c line 33: parse error before metal/silver");
+u/p/panzergiest/weapon/weapon.c line 66: End of file in string before prompt) : "PI>"));
+u/p/panzergiest/weapon/weapon.c line 33: Undefined function set_meterial_type before ;
+u/p/panzergiest/mon/war.c line 29: Undefined variable 'set' before ("id", ({ "Golem"}) 
+u/p/panzergiest/mon/war.c line 29: parse error before ("id", ({ "Golem"}) 
+u/p/panzergiest/room/warroom.c line 7: Cannot #include central.h before #include <pan.h>
+u/p/panzergiest/room/warroom.c line 8: Cannot #include pan.h before the end of line
+u/p/panzergiest/room/warroom.c line 27: Undefined variable 'M_ROOM' before "road0_-1",
+u/p/panzergiest/room/warroom.c line 7: Cannot #include central.h before #include "pan.h"
+u/p/panzergiest/room/warroom.c line 8: Cannot #include pan.h before the end of line
+u/p/panzergiest/room/warroom.c line 27: Undefined variable 'M_ROOM' before "road0_-1",
+u/p/panzergiest/room/warroom.c line 7: Cannot #include central.h before the end of line
+u/p/panzergiest/room/warroom.c line 26: Undefined variable 'M_ROOM' before "road0_-1",
+d/Prime/Asylum/rooms/grounds.c line 31: parse error before  "/d/Prime/rooms/gat
+d/Prime/Asylum/rooms/grounds.c line 31: parse error before the end of file
+d/Prime/Asylum/rooms/gate.c line 20: Undefined variable 'The' before  Phillips Memorial A
+d/Prime/Asylum/rooms/gate.c line 20: parse error before  Phillips Memorial A
+d/Prime/Asylum/rooms/grounds1.c line 21: parse error before the end of line
+d/Prime/Asylum/rooms/gate.c line 12: Cannot #include asy.h before the end of line
+d/Prime/Asylum/rooms/gate.c line 12: Missing trailing " or > in #include before the end of line
+d/Prime/Asylum/rooms/gate.c line 17: No such inherited function ::create before ;
+d/Prime/Asylum/rooms/gate.c line 19: Undefined function set before ;
+d/Prime/Asylum/rooms/gate.c line 17: No such inherited function ::create before ;
+d/Prime/Asylum/rooms/gate.c line 19: Undefined function set before ;
+d/Prime/Asylum/rooms/gate.c line 16: parse error before  ROOM'
+d/Prime/Asylum/rooms/gate.c line 16: Illegal character constant before {
+d/Prime/Asylum/rooms/gate.c line 16: parse error before  ROOM,
+d/Prime/Asylum/rooms/gate.c line 14: parse error before the end of line
+d/Prime/Asylum/rooms/gate.c line 13: parse error before the end of line
+d/Prime/Asylum/rooms/gate.c line 13: parse error before the end of line
+d/Prime/Asylum/rooms/gate.c line 15: parse error before  ROOM;
+d/Prime/Asylum/rooms/gate.c line 16: parse error before the end of line
+d/Prime/Asylum/rooms/gate.c line 4: parse error before ;
+d/Prime/Asylum/rooms/gate.c line 3: Missing trailing " or > in #include before the end of line
+d/Prime/Asylum/rooms/gate.c line 26: parse error before the end of line
+d/Prime/Asylum/rooms/gate.c line 26: parse error before  "The black Iron see
+d/Prime/Asylum/rooms/gate.c line 26: parse error before  "The black Iron see
+d/Prime/Asylum/rooms/groom.c line 19: Undefined variable 'M_ROOM' before "gate.c"
+d/Prime/Asylum/rooms/groom.c line 19: Undefined variable 'M_ROOM' before "gate.c",
+d/Prime/Asylum/rooms/groom.c line 19: Undefined variable 'M_ROOM' before "gate.c",
+d/Prime/Asylum/rooms/groom.c line 19: Undefined variable 'MROOM' before "/d/Prime/Asylum/roo
+d/Prime/Asylum/rooms/groom.c line 3: Missing trailing " or > in #include before the end of line
+d/Prime/Asylum/rooms/grounds1.c line 29: parse error before  "gate.c"
+d/Prime/Asylum/rooms/grounds1.c line 29: parse error before  "grounds2.c"
+d/Prime/Asylum/rooms/grounds1.c line 29: parse error before  "grounds2.c"
+d/Prime/Asylum/rooms/grounds1.c line 29: parse error before  M_ROOM+"grounds2.c"
+d/Prime/Asylum/rooms/grounds1.c line 29: parse error before  M_ROOM+"grounds2.c"
+d/Prime/Asylum/rooms/grounds1.c line 29: parse error before  "gate.c"
+d/Prime/Asylum/rooms/grounds2.c line 20: Undefined variable 'd' before Prime/Asylum/rooms/g
+d/Prime/Asylum/rooms/grounds2.c line 20: Bad argument 1 to '/': "string " before Prime/Asylum/rooms/g
+d/Prime/Asylum/rooms/grounds2.c line 20: Undefined variable 'Prime' before Asylum/rooms/grounds
+d/Prime/Asylum/rooms/grounds2.c line 20: Undefined variable 'Asylum' before rooms/grounds.c",
+d/Prime/Asylum/rooms/grounds2.c line 20: Undefined variable 'rooms' before grounds.c",
+d/Prime/Asylum/rooms/grounds2.c line 20: Undefined variable 'grounds' before c",
+d/Prime/Asylum/rooms/grounds2.c line 20: Undefined variable 'MROOM' before "grounds1.c",
+u/p/panzergiest/mon/war.c line 12: parse error before mmauto;
+d/Prime/Asylum line 2: Unexpected #endif before the end of line
+d/Prime/Asylum line 2: parse error before the end of line
+d/Prime/Asylum/rooms/grounds5.c line 19: parse error before  "grounds3.c",
+d/Prime/Asylum/rooms/grounds5.c line 19: parse error before  M_ROOM+"grounds3.c"
+d/Prime/Asylum/rooms/grounds5.c line 21: parse error before  "grounds3.c",
+d/Prime/Asylum/rooms/grounds1.c line 34: parse error before  "grnds11.c",
+d/Prime/Asylum/rooms/grounds1.c line 34: parse error before  M_ROOM+"grnds11.c",
+d/Prime/Asylum/rooms/grnds7.c line 21: Undefined variable 'grounds6' before c",
+d/Prime/Asylum/rooms/grnds7.c line 21: parse error before c",
+d/Prime/Asylum/rooms/grnds7.c line 24: End of file in string before rnds23.c",
+d/Prime/Asylum/rooms/grounds6.c line 24: Undefined variable 'grnds7' before ,
+d/Prime/Asylum/rooms/grounds6.c line 24: parse error before ,
+d/Prime/Asylum/rooms/grnds1.c line 20: End of file in text block before /25 by Truilkan to d
+d/Prime/Asylum/rooms/grnds1.c line 20: parse error before /25 by Truilkan to d
+u/p/panzergiest/mon/grik.c line 3: Cannot #include central.h before the end of line
+u/p/panzergiest/mon/grik.c line 31: Undefined variable 'M_WEAP' before "magnumrev.c", "magn
+u/p/panzergiest/mon/grik.c line 53: Undefined variable 'M_MON' before "copbot.c");
+u/p/panzergiest/room/bank.c line 6: Cannot #include central.h before #include <money.h>
+u/p/panzergiest/room/bank.c line 6: Cannot #include central.h before #include <money.h>
+u/p/panzergiest/room/bank.c line 14: Undefined variable 'CITY_NAME' before " Branch") ;
+u/p/panzergiest/room/bank.c line 22: Undefined variable 'M_ROOM' before "road2_0.c",

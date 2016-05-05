@@ -1,0 +1,413 @@
+u/d/darkgoth/workroom.c line 22: parse error before ("item_desc", ([
+u/d/darkgoth/workroom.c line 22: parse error before ("item_desc", ([
+u/d/darkgoth/std.c line 3: Cannot #include area.h before the end of line
+u/d/darkgoth/std.c line 12: parse error before ( "long", @EndText
+u/d/darkgoth/room/porn.c line 4: parse error before  ROOM;
+u/d/darkgoth/room/porn.c line 21: Undefined variable 'Home' before  East
+u/d/darkgoth/room/porn.c line 21: parse error before  East
+u/d/darkgoth/room/porn.c line 22: parse error before ) );
+u/d/darkgoth/room/porn.c line 22: parse error before ) );
+u/d/darkgoth/room/porn.c line 22: parse error before ) );
+u/d/darkgoth/room/porn.c line 22: parse error before ) );
+u/d/darkgoth/room/porn.c line 22: parse error before ) );
+u/d/darkgoth/room/porn.c line 22: parse error before ) );
+u/d/darkgoth/room/porn.c line 22: parse error before ) );
+u/d/darkgoth/room/sexden.c line 6: parse error before  create()
+u/d/darkgoth/room/sexden.c line 9: Undefined function seteid before ;
+u/d/darkgoth/room/sexden.c line 18: Undefined function Set before ;
+u/d/darkgoth/room/sexden.c line 18: Undefined function Set before ;
+u/d/darkgoth/monsters/slave.c line 10: parse error before ", 	"Lori, the sex s
+u/d/darkgoth/monsters/slave.c line 10: parse error before ", 	"Lori, the sex s
+u/d/darkgoth/monsters/slave.c line 28: parse error before );
+u/d/darkgoth/monsters/slave.c line 38: End of file in string before (reboot_time[i] - se
+u/d/darkgoth/monsters/slave.c line 28: parse error before );
+u/d/darkgoth/monsters/slave.c line 38: End of file in string before -)
+u/d/darkgoth/monsters/slave.c line 33: Undefined variable 'chat_ch' before chat_output", ({
+u/d/darkgoth/monsters/slave.c line 33: parse error before chat_output", ({
+u/d/darkgoth/monsters/slave.c line 38: End of file in string before the end of line
+u/d/darkgoth/monsters/slave.c line 33: Undefined variable 'chat_chance' before chat_output", ({
+u/d/darkgoth/monsters/slave.c line 33: parse error before chat_output", ({
+u/d/darkgoth/monsters/slave.c line 38: End of file in string before  hold = "Trace: " + 
+u/d/darkgoth/room/sexden.c line 10: Undefined variable 'lori' before  sex slave = clone_o
+u/d/darkgoth/room/sexden.c line 10: parse error before  sex slave = clone_o
+u/d/darkgoth/room/sexden.c line 10: Illegal LHS before the end of line
+u/d/darkgoth/room/sexden.c line 10: Undefined variable 'lori' before  clone_object("/u/d/
+u/d/darkgoth/room/sexden.c line 11: parse error before ->move(this_object()
+u/d/darkgoth/room/sexden.c line 10: Undefined variable 'lori' before  clone_object("/u/d/
+u/d/darkgoth/room/sexden.c line 12: parse error before ->move(this_object()
+u/d/darkgoth/room/sexden.c line 10: Undefined variable 'lori' before  clone_object("/u/d/
+u/d/darkgoth/room/sexden.c line 10: Undefined variable 'lori' before  clone_object("/u/d/
+u/d/darkgoth/room/sexden.c line 10: parse error before  "/u/d/darkgoth/mons
+u/d/darkgoth/room/sexden.c line 10: parse error before  "/u/d/darkgoth/mons
+u/d/darkgoth/room/sexden.c line 10: parse error before  "/u/d/darkgoth/mons
+u/d/darkgoth/room/sexden.c line 10: parse error before  "/u/d/darkgoth/mons
+u/d/darkgoth/room/sexden.c line 10: Undefined variable 'lori' before  clone_object("/u/d/
+u/d/darkgoth/room/sexden.c line 11: Undefined variable 'lori' before  clone_object('/u/d/
+u/d/darkgoth/room/sexden.c line 11: Illegal character constant before u/d/darkgoth/monster
+u/d/darkgoth/room/sexden.c line 11: parse error before /d/darkgoth/monsters
+u/d/darkgoth/room/sexden.c line 34: End of file in string before "wall",        \
+u/d/darkgoth/room/sexden.c line 11: Undefined variable 'lori' before  clone_object("/u/d/
+u/d/darkgoth/room/sexden.c line 11: Undefined variable 'lori' before  clone_object("/u/d/
+u/d/darkgoth/room/sexden.c line 11: Undefined variable 'lori' before  clone_object("/u/d/
+u/d/darkgoth/room/sexden.c line 11: Undefined variable 'lori' before  clone_object("/u/d/
+u/d/darkgoth/room/sexden.c line 11: Undefined variable 'lori' before  clone_object("/u/d/
+u/d/darkgoth/room/town/street1.c line 12: parse error before the end of file
+u/d/darkgoth/room/town/street1.c line 13: "#pragma strict_types" requires type of function before "light", 1 );
+u/d/darkgoth/room/town/street1.c line 13: parse error before , 1 );
+u/d/darkgoth/room/town/street2.c line 12: parse error before the end of line
+u/d/darkgoth/room/town/street4.c line 7: parse error before  create()
+u/d/darkgoth/room/town/street7.c line 16: Illegal to redefine 'nomask' function "query" before the end of line
+u/d/darkgoth/room/town/street7.c line 16: Illegal to redefine 'nomask' function "set" before the end of line
+u/d/darkgoth/room/town/street7.c line 16: Illegal to redefine 'nomask' function "_query" before the end of line
+u/d/darkgoth/room/town/street7.c line 16: Illegal to redefine 'nomask' function "_delete" before the end of line
+u/d/darkgoth/room/town/street7.c line 16: Illegal to redefine 'nomask' function "_set" before the end of line
+u/d/darkgoth/room/town/street7.c line 16: Illegal to redefine 'nomask' function "query_temp" before the end of line
+u/d/darkgoth/room/town/street7.c line 16: Illegal to redefine 'nomask' function "query" before the end of line
+u/d/darkgoth/room/town/street7.c line 16: Illegal to redefine 'nomask' function "set" before the end of line
+u/d/darkgoth/room/town/street7.c line 16: Illegal to redefine 'nomask' function "_query" before the end of line
+u/d/darkgoth/room/town/street7.c line 16: Illegal to redefine 'nomask' function "_delete" before the end of line
+u/d/darkgoth/room/town/street7.c line 16: Illegal to redefine 'nomask' function "_set" before the end of line
+u/d/darkgoth/room/town/street7.c line 16: Illegal to redefine 'nomask' function "query_temp" before the end of line
+u/d/darkgoth/room/town/street16.c line 7: parse error before the end of line
+u/d/darkgoth/room/town/street18.c line 12: parse error before  "/u/d/darkgoth/room
+u/d/darkgoth/room/town/guild.c line 10: parse error before  );
+u/d/darkgoth/room/town/weapshop.c line 16: parse error before the end of line
+u/d/darkgoth/room/town/street16.c line 13: parse error before  AROOM+"street17.c",
+u/d/darkgoth/room/town/street16.c line 13: parse error before  AROOM+"street17.c",
+u/d/darkgoth/room/town/street16.c line 13: parse error before  AROOM+"street17.c",
+u/d/darkgoth/room/town/street16.c line 13: parse error before  AROOM+"street17.c",
+u/d/darkgoth/room/town/street11.c line 13: parse error before  AROOM+"street18.c",
+u/d/darkgoth/room/town/street11.c line 13: parse error before  AROOM+"street18.c",
+u/d/darkgoth/room/town/armor.c line 13: parse error before  AROOM+"street12.c",
+u/d/darkgoth/room/town/armor.c line 13: parse error before  AROOM+"street12.c",
+u/d/darkgoth/room/town/armor.c line 13: parse error before  AROOM+"street12.c",
+u/d/darkgoth/room/town/armor.c line 13: parse error before  AROOM+"street12.c",
+u/d/darkgoth/room/town/street1.c line 13: parse error before  AROOM+"street2.c",
+u/d/darkgoth/room/town/street1.c line 13: parse error before  AROOM+"street2.c",
+u/d/darkgoth/room/town/street1.c line 13: parse error before  AROOM+"street2.c",
+u/d/darkgoth/weapon/unholy.c line 6: Undefined function setuid before ;
+u/d/darkgoth/weapon/unholy.c line 9: parse error before the end of file
+u/d/darkgoth/weapon/unholy.c line 6: Undefined function setuid before ;
+u/d/darkgoth/weapon/unholy.c line 14: Undefined variable 'The' before  metal itself emits 
+u/d/darkgoth/weapon/unholy.c line 14: parse error before  metal itself emits 
+u/d/darkgoth/weapon/unholy.c line 6: Undefined function setuid before ;
+u/d/darkgoth/weapon/unholy.c line 22: "#pragma strict_types" requires type of function before ({ "pound", "smash",
+u/d/darkgoth/weapon/unholy.c line 22: parse error before  "pound", "smash", "
+tmp/darkgoth.u_d_darkgoth_weapon_unholy.c line 19: parse error before ) );
+u/d/darkgoth/workroom.c line 3: Cannot #include fuckstick.h before the end of line
+u/d/darkgoth/workroom.c line 24: parse error before the end of line
+u/d/darkgoth/workroom.c line 3: Cannot #include fuckstick.h before the end of line
+u/d/darkgoth/workroom.c line 24: parse error before the end of line
+u/d/darkgoth/workroom.c line 3: Cannot #include fuckstick.h before the end of line
+u/d/darkgoth/workroom.c line 24: parse error before the end of line
+u/d/darkgoth/workroom.c line 3: Cannot #include fuckstick.h before the end of line
+u/d/darkgoth/workroom.c line 24: parse error before the end of line
+u/d/darkgoth/workroom.c line 3: Cannot #include fuckstick.h before the end of line
+u/d/darkgoth/workroom.c line 24: parse error before the end of line
+u/d/darkgoth/workroom.c line 23: parse error before the end of line
+u/d/darkgoth/workroom.c line 23: parse error before the end of line
+u/d/darkgoth/workroom.c line 23: parse error before the end of line
+u/d/darkgoth/weapon/titanmaul.c line 14: parse error before ("id", ({ "maul of t
+u/d/darkgoth/weapon/titanmaul.c line 14: parse error before ("id", ({ "maul of t
+u/d/darkgoth/room/town/street29.c line 13: Undefined variable 'AROOM' before "street28.c",
+u/d/darkgoth/room/town/street28.c line 15: Undefined variable 'Aroom' before "street29.c",
+u/d/darkgoth/room/rose.c line 6: Undefined variable 'set' before , ({ "skull", "flami
+u/d/darkgoth/room/rose.c line 6: parse error before , ({ "skull", "flami
+u/d/darkgoth/room/rose.c line 55: End of file in string before g)this_player()->que
+u/d/darkgoth/room/rose.c line 18: Undefined variable 'value' before prevent_drop", 1);
+u/d/darkgoth/room/rose.c line 18: parse error before prevent_drop", 1);
+u/d/darkgoth/room/rose.c line 23: Illegal character constant before ub", "rub");
+u/d/darkgoth/room/rose.c line 23: parse error before ", "rub");
+u/d/darkgoth/room/rose.c line 48: End of file in string before               //Redu
+u/d/darkgoth/room/rose.c line 39: Warning: Value of conditional expression is unused before  {
+u/d/darkgoth/room/rose.c line 39: Warning: Value of conditional expression is unused before  {
+u/d/darkgoth/room/rose.c line 39: parse error before    write ("Your body
+u/d/darkgoth/room/rose.c line 45: Warning: Value of conditional expression is unused before  1;
+u/d/darkgoth/workroom.c line 5: parse error before ;
+u/d/darkgoth/room/town/street32.c line 17: parse error before ) )
+u/d/darkgoth/room/town/street32.c line 18: parse error before the end of line
+u/d/darkgoth/room/town/street36.c line 13: parse error before the end of line
+u/d/darkgoth/room/town/street36.c line 13: parse error before the end of line
+u/d/darkgoth/room/town/street36.c line 13: parse error before the end of line
+u/d/darkgoth/room/town/street36.c line 13: parse error before the end of line
+u/d/darkgoth/room/town/street36.c line 13: parse error before the end of line
+u/d/darkgoth/room/town/street36.c line 13: parse error before the end of line
+u/d/darkgoth/stdrm.c line 2: Cannot #include fuckstick.h before the end of line
+u/d/darkgoth/stdrm.c line 19: End of file in text block before , "standard uncoded 
+u/d/darkgoth/stdrm.c line 19: parse error before , "standard uncoded 
+u/d/darkgoth/stdrm.c line 2: Cannot #include fuckstick.h before the end of line
+u/d/darkgoth/stdrm.c line 20: End of file in text block before e dead stuff...
+u/d/darkgoth/stdrm.c line 20: parse error before e dead stuff...
+u/d/darkgoth/room/town/stdrm.c line 20: End of file in text block before  query_lock_object(s
+u/d/darkgoth/room/town/stdrm.c line 20: parse error before  query_lock_object(s
+u/d/darkgoth/room/town/stdrm.c line 19: End of file in text block before the end of line
+u/d/darkgoth/room/town/stdrm.c line 19: parse error before the end of line
+u/d/darkgoth/room/town/stdrm.c line 19: End of file in text block before dm/daemons/virtual_d
+u/d/darkgoth/room/town/stdrm.c line 19: parse error before dm/daemons/virtual_d
+u/d/darkgoth/room/town/street36.c line 13: parse error before the end of line
+u/d/darkgoth/room/town/street36.c line 13: parse error before the end of line
+u/d/darkgoth/room/town/street36.c line 13: parse error before the end of line
+u/d/darkgoth/room/town/street36.c line 13: parse error before the end of line
+u/d/darkgoth/room/town/street36.c line 13: parse error before the end of line
+u/d/darkgoth/room/town/tavern2.c line 12: parse error before  & T's Tavern.");
+u/d/darkgoth/room/town/tavern2.c line 12: Illegal character constant before  Tavern.");
+u/d/darkgoth/room/town/tavern2.c line 21: End of file in string before ne SYNTAX "Syntax: t
+u/d/darkgoth/room/town/tavern2.c line 12: parse error before  & T's Tavern.");
+u/d/darkgoth/room/town/tavern2.c line 12: Illegal character constant before  Tavern.");
+u/d/darkgoth/room/town/tavern2.c line 21: End of file in string before ne SYNTAX "Syntax: t
+u/d/darkgoth/workroom.c line 4: parse error before ;
+u/d/darkgoth/workroom.c line 4: parse error before ;
+u/d/darkgoth/workroom.c line 27: End of file in text block before the end of line
+u/d/darkgoth/workroom.c line 27: parse error before the end of line
+u/d/darkgoth/workroom.c line 27: End of file in text block before t, string);
+u/d/darkgoth/workroom.c line 27: parse error before t, string);
+u/d/darkgoth/workroom.c line 27: End of file in text block before t, string);
+u/d/darkgoth/workroom.c line 27: parse error before t, string);
+u/d/darkgoth/workroom.c line 27: End of file in text block before t, string);
+u/d/darkgoth/workroom.c line 27: parse error before t, string);
+u/d/darkgoth/room/town/street12.c line 23: End of file in text block before living"
+u/d/darkgoth/room/town/street12.c line 23: parse error before living"
+u/d/darkgoth/room/town/chapel.c line 13: Illegal character constant before ong", @ENDTEXT
+u/d/darkgoth/room/town/chapel.c line 13: parse error before ", @ENDTEXT
+u/d/darkgoth/room/town/chapel.c line 24: End of file in string before remote
+u/d/darkgoth/room/town/equip.c line 23: parse error before " : "Yup it's a lant
+u/d/darkgoth/room/town/equip.c line 23: Illegal character constant before  a lantern...nothing
+u/d/darkgoth/room/town/equip.c line 30: End of file in string before weapon.",
+u/d/darkgoth/room/town/street1.c line 23: End of file in text block before ty",10000000, MASTER
+u/d/darkgoth/room/town/street1.c line 23: parse error before ty",10000000, MASTER
+u/d/darkgoth/room/town/tavern.c line 21: End of file in text block before                     
+u/d/darkgoth/room/town/tavern.c line 21: parse error before                     
+u/d/darkgoth/room/town/street15.c line 17: parse error before  AROOM+"street16.c",
+u/d/darkgoth/room/town/street10.c line 13: Undefined variable 'ENDTEXT' before  children play in th
+u/d/darkgoth/room/town/street10.c line 13: parse error before  children play in th
+u/d/darkgoth/room/town/street16.c line 18: Undefined variable 'x' before d
+u/d/darkgoth/room/town/street16.c line 18: parse error before d
+u/d/darkgoth/room/town/street17.c line 24: End of file in text block before ulk", 100000, MASTER
+u/d/darkgoth/room/town/street17.c line 24: parse error before ulk", 100000, MASTER
+u/d/darkgoth/monsters/blacksmith.c line 1: Missing leading " or < in #include before inherit MONSTER;
+u/d/darkgoth/monsters/blacksmith.c line 27: parse error before the end of line
+u/d/darkgoth/monsters/blacksmith.c line 33: parse error before  () {
+u/d/darkgoth/monsters/blacksmith.c line 1: Unrecognised # directive before inherit MONSTER;
+u/d/darkgoth/monsters/blacksmith.c line 30: parse error before , "Strength");
+u/d/darkgoth/monsters/blacksmith.c line 1: Unrecognised # directive before inherit MONSTER;
+u/d/darkgoth/weapon/hammer.c line 4: Illegal to redefine 'nomask' function "query" before the end of line
+u/d/darkgoth/weapon/hammer.c line 4: Illegal to redefine 'nomask' function "set" before the end of line
+u/d/darkgoth/weapon/hammer.c line 4: Illegal to redefine 'nomask' function "_query" before the end of line
+u/d/darkgoth/weapon/hammer.c line 4: Illegal to redefine 'nomask' function "_delete" before the end of line
+u/d/darkgoth/weapon/hammer.c line 4: Illegal to redefine 'nomask' function "_set" before the end of line
+u/d/darkgoth/weapon/hammer.c line 4: Illegal to redefine 'nomask' function "query_temp" before the end of line
+u/d/darkgoth/monsters/slave.c line 36: parse error before  live to obey only D
+u/d/darkgoth/monsters/slave.c line 36: parse error before  live to obey only D
+u/d/darkgoth/room/town/plain1.c line 2: Cannot #include baator.h before the end of line
+u/d/darkgoth/room/town/plain1.c line 21: Undefined variable 'BAATOR' before "avernus/plain5.c",
+u/d/darkgoth/room/town/plain1.c line 16: Undefined variable 'BAATOR' before "avernus/plain5.c",
+u/d/darkgoth/room/town/plain1.c line 17: parse error before  AROOM+"avernus/plai
+u/d/darkgoth/room/town/plain1.c line 17: parse error before  AROOM+"/plain2.c"])
+u/d/darkgoth/room/town/plain3.c line 2: Cannot #include baator.h before the end of line
+u/d/darkgoth/monsters/blacksmith.c line 1: Unrecognised # directive before inherit MONSTER;
+u/d/darkgoth/monsters/blacksmith.c line 1: Unrecognised # directive before inherit MONSTER;
+u/d/darkgoth/room/town/weapshop.c line 12: parse error before ()
+u/d/darkgoth/room/town/weapshop.c line 12: parse error before ();
+u/d/darkgoth/private/knight/rooms/knightguild.c line 9: Cannot #include c_knights.h before #include <config.h>
+u/d/darkgoth/private/knight/rooms/knightguild.c line 40: Undefined variable 'WARRIOR_XP' before ;
+u/d/darkgoth/private/knight/rooms/knightguild.c line 119: Undefined variable 'KNIGHT' before "obj/helm.c");
+u/d/darkgoth/private/knight/rooms/knightguild.c line 178: Undefined variable 'WAR_HP_ROLL' before the end of line
+u/d/darkgoth/private/knight/rooms/knightguild.c line 9: Cannot #include c_knight.h before #include <config.h>
+u/d/darkgoth/private/knight/rooms/knightguild.c line 40: Undefined variable 'WARRIOR_XP' before ;
+u/d/darkgoth/private/knight/rooms/knightguild.c line 118: Undefined variable 'hp' before  WAR_HP_ROLL;
+u/d/darkgoth/private/knight/rooms/knightguild.c line 118: Undefined variable 'WAR_HP_ROLL' before the end of line
+u/d/darkgoth/private/knight/rooms/knightguild.c line 121: Undefined variable 'KNIGHT' before "obj/helm.c");
+u/d/darkgoth/private/knight/rooms/knightguild.c line 180: Undefined variable 'WAR_HP_ROLL' before the end of line
+u/d/darkgoth/private/knight/rooms/knightguild.c line 9: Cannot #include c_knight.h before #include <config.h>
+u/d/darkgoth/private/knight/rooms/knightguild.c line 40: Undefined variable 'WARRIOR_XP' before ;
+u/d/darkgoth/private/knight/rooms/knightguild.c line 118: Undefined variable 'hp' before  WAR_HP_ROLL;
+u/d/darkgoth/private/knight/rooms/knightguild.c line 118: Undefined variable 'WAR_HP_ROLL' before the end of line
+u/d/darkgoth/private/knight/rooms/knightguild.c line 121: Undefined variable 'KNIGHT' before "obj/helm.c");
+u/d/darkgoth/private/knight/rooms/knightguild.c line 180: Undefined variable 'WAR_HP_ROLL' before the end of line
+u/d/darkgoth/private/knight/rooms/knightguild.c line 10: Cannot #include c_knight.h before #include <uid.h>  
+u/d/darkgoth/private/knight/rooms/knightguild.c line 40: Undefined variable 'WARRIOR_XP' before ;
+u/d/darkgoth/private/knight/rooms/knightguild.c line 118: Undefined variable 'hp' before  WAR_HP_ROLL;
+u/d/darkgoth/private/knight/rooms/knightguild.c line 118: Undefined variable 'WAR_HP_ROLL' before the end of line
+u/d/darkgoth/private/knight/rooms/knightguild.c line 121: Undefined variable 'KNIGHT' before "obj/helm.c");
+u/d/darkgoth/private/knight/rooms/knightguild.c line 180: Undefined variable 'WAR_HP_ROLL' before the end of line
+u/d/darkgoth/private/knight/rooms/knightguild.c line 118: Undefined variable 'hp' before  WAR_HP_ROLL;
+u/d/darkgoth/private/knight/rooms/knightguild.c line 155: Reserved type name unexpected. before , title, spell;
+u/d/darkgoth/private/knight/rooms/knightguild.c line 155: parse error before , title, spell;
+u/d/darkgoth/private/knight/rooms/knightguild.c line 157: Illegal LHS before the end of line
+u/d/darkgoth/private/knight/rooms/knightguild.c line 158: Undefined variable 'level' before 30){
+u/d/darkgoth/private/knight/rooms/knightguild.c line 171: Undefined variable 'tp' before  PRIEST_TP[level];
+u/d/darkgoth/private/knight/rooms/knightguild.c line 176: Undefined variable 'spell' before  learn_spell();
+u/d/darkgoth/private/knight/rooms/knightguild.c line 28: parse error before ", 1 );
+u/d/darkgoth/private/knight/rooms/knightguild.c line 19: parse error before  query_bonus_tp (obj
+u/d/darkgoth/private/knight/rooms/knightguild.c line 19: parse error before  query_bonus_tp (obj
+u/d/darkgoth/private/knight/rooms/knightguild.c line 17: parse error before ;
+u/d/darkgoth/private/knight/rooms/knightguild.c line 17: parse error before the end of line
+u/d/darkgoth/private/knight/rooms/knightguild.c line 129: parse error before OB
+u/d/darkgoth/private/knight/rooms/knightguild.c line 131: Illegal LHS before the end of line
+u/d/darkgoth/private/knight/obj/solplate.c line 12: Illegal to redefine 'nomask' function "query" before the end of line
+u/d/darkgoth/private/knight/obj/solplate.c line 12: Illegal to redefine 'nomask' function "set" before the end of line
+u/d/darkgoth/private/knight/obj/solplate.c line 12: Illegal to redefine 'nomask' function "_query" before the end of line
+u/d/darkgoth/private/knight/obj/solplate.c line 12: Illegal to redefine 'nomask' function "_delete" before the end of line
+u/d/darkgoth/private/knight/obj/solplate.c line 12: Illegal to redefine 'nomask' function "_set" before the end of line
+u/d/darkgoth/private/knight/obj/solplate.c line 12: Illegal to redefine 'nomask' function "query_temp" before the end of line
+u/d/darkgoth/monsters/freexp.c line 9: parse error before ", ({ "kiss", "tiny"
+u/d/darkgoth/monsters/freexp.c line 23: End of file in string before ....................
+u/d/darkgoth/private/knight/obj/solplate.c line 33: Redeclaration of function init. before the end of line
+u/d/darkgoth/private/knight/obj/solplate.c line 18: Undefined function enviroment before ->query.
+u/d/darkgoth/private/knight/obj/solplate.c line 18: Left argument of -> is not a class before the end of line
+u/d/darkgoth/private/knight/obj/solplate.c line 18: parse error before the end of line
+u/d/darkgoth/private/knight/obj/solplate.c line 38: Redeclaration of function init. before the end of line
+u/d/darkgoth/private/knight/obj/solplate.c line 38: Undefined function enviroment before ->query_level("knigh
+u/d/darkgoth/private/knight/obj/solplate.c line 50: Redeclaration of function init. before the end of line
+u/d/darkgoth/private/knight/obj/solplate.c line 56: Undefined variable 'path' before  GENERAL_PRIEST_PATH
+d/Prime/Toril/Arabel/rooms/tower/grave1.c line 22: parse error before d/Prime/Toril/Arabel
+d/Prime/Toril/Arabel/rooms/tower/grave1.c line 27: Illegal character constant before  under you.\n",
+d/Prime/Toril/Arabel/rooms/tower/grave1.c line 30: End of file in string before t ("stat/dexterity",
+u/d/darkgoth/room/town/monster/blacksmith.c line 38: Undefined variable 'AWEAP' before "/hammer.c") ;
+u/d/darkgoth/room/town/monster/blacksmith.c line 3: Cannot #include fuckstick.h before inherit MONSTER;
+u/d/darkgoth/room/town/monster/blacksmith.c line 41: Undefined variable 'AWEAP' before "/hammer.c") ;
+u/d/darkgoth/room/town/monster/blacksmith.c line 43: Undefined variable 'ARM' before "/plate.c") ;
+u/d/darkgoth/room/town/monster/blacksmith.c line 4: Cannot #include fuckstick.h before  
+u/d/darkgoth/room/town/monster/blacksmith.c line 41: Undefined variable 'AWEAP' before "/hammer.c") ;
+u/d/darkgoth/room/town/monster/blacksmith.c line 43: Undefined variable 'ARM' before "/plate.c") ;
+u/d/darkgoth/room/town/monster/blacksmith.c line 2: Cannot #include fuckstick.h before  
+u/d/darkgoth/room/town/monster/blacksmith.c line 39: Undefined variable 'AWEAP' before "/hammer.c") ;
+u/d/darkgoth/room/town/monster/blacksmith.c line 41: Undefined variable 'ARM' before "/plate.c") ;
+u/m/moltar/volcano/cave1.c line 2: Illegal character constant before include <mudlib.h>
+u/m/moltar/volcano/cave1.c line 2: parse error before include <mudlib.h>
+u/m/moltar/volcano/cave1.c line 19: parse error before  AROOM+"cave2.c",
+u/m/moltar/volcano/cave1.c line 21: parse error before the end of line
+u/m/moltar/volcano/cave2.c line 11: Illegal character constant before        set("short", 
+u/m/moltar/volcano/cave2.c line 11: parse error before ("short", "Into the 
+u/m/moltar/volcano/cave3.c line 23: End of file in text block before .c",
+u/m/moltar/volcano/cave3.c line 23: parse error before .c",
+u/m/moltar/volcano/cave3.c line 23: End of file in text block before c",
+u/m/moltar/volcano/cave3.c line 23: parse error before c",
+u/m/moltar/volcano/cave3.c line 24: End of file in text block before if (file_size(server
+u/m/moltar/volcano/cave3.c line 24: parse error before if (file_size(server
+u/m/moltar/volcano/cave3.c line 24: End of file in text block before ing str, int wiz) {
+u/m/moltar/volcano/cave3.c line 24: parse error before ing str, int wiz) {
+u/m/moltar/volcano/cave3.c line 22: End of file in text block before ) );
+u/m/moltar/volcano/cave3.c line 22: parse error before ) );
+u/m/moltar/volcano/cave3.c line 24: End of file in text block before ing str, int wiz) {
+u/m/moltar/volcano/cave3.c line 24: parse error before ing str, int wiz) {
+u/m/moltar/rooms/stdrm.c line 3: Cannot #include volcano.h before inherit ROOM;
+u/d/darkgoth/private/knight/obj/solplate.c line 38: Undefined function enviroment before ->query_level("knigh
+u/d/darkgoth/private/knight/obj/solplate.c line 50: Redeclaration of function init. before the end of line
+u/d/darkgoth/private/knight/obj/solplate.c line 56: Undefined variable 'path' before  GENERAL_PRIEST_PATH
+u/d/darkgoth/private/knight/obj/solplate.c line 32: parse error before ()->set("armor",(TP-
+u/d/darkgoth/private/knight/obj/solplate.c line 41: Undefined variable 'path' before  GENERAL_PRIEST_PATH
+u/d/darkgoth/private/knight/obj/solplate.c line 20: parse error before  ("short", "Solamnic
+u/d/darkgoth/private/knight/obj/solplate.c line 34: parse error before ()->set("armor",(TP-
+u/d/darkgoth/private/knight/obj/solplate.c line 43: Undefined variable 'path' before  GENERAL_PRIEST_PATH
+u/d/darkgoth/private/knight/obj/solplate.c line 20: parse error before  ("short", "Solamnic
+u/d/darkgoth/private/knight/obj/solplate.c line 34: parse error before ()->set("armor",(TP-
+u/d/darkgoth/private/knight/obj/solplate.c line 43: Undefined variable 'path' before  GENERAL_PRIEST_PATH
+u/d/darkgoth/private/knight/obj/solplate.c line 33: parse error before ()->set("armor",(TP-
+u/d/darkgoth/private/knight/obj/solplate.c line 42: Undefined variable 'path' before  GENERAL_PRIEST_PATH
+u/d/darkgoth/private/knight/obj/solplate.c line 33: parse error before ()->set("armor",(TP-
+u/d/darkgoth/private/knight/obj/solplate.c line 42: Undefined variable 'path' before  GENERAL_PRIEST_PATH
+u/d/darkgoth/private/knight/obj/solplate.c line 33: parse error before ()->set("armor",(TP-
+u/d/darkgoth/private/knight/obj/solplate.c line 42: Undefined variable 'path' before  GENERAL_PRIEST_PATH
+u/d/darkgoth/private/knight/obj/solplate.c line 33: parse error before ()->set("armor",(TP-
+u/d/darkgoth/private/knight/obj/solplate.c line 42: Undefined variable 'path' before  GENERAL_PRIEST_PATH
+u/d/darkgoth/private/knight/obj/solplate.c line 33: parse error before ()->set("armor",(TP-
+u/d/darkgoth/private/knight/obj/solplate.c line 42: Undefined variable 'path' before  GENERAL_PRIEST_PATH
+u/d/darkgoth/private/knight/obj/solplate.c line 41: Undefined variable 'path' before  GENERAL_PRIEST_PATH
+u/d/darkgoth/private/knight/obj/solplate.c line 42: Undefined variable 'verb' before  query_verb();
+u/d/darkgoth/private/knight/obj/solplate.c line 45: Undefined variable 'file' before  (string)CMD_D->find
+u/d/darkgoth/private/knight/obj/solplate.c line 33: Reserved type name unexpected. before ;
+u/d/darkgoth/private/knight/obj/solplate.c line 33: parse error before ;
+u/d/darkgoth/private/knight/obj/solplate.c line 36: Undefined function enviroment before ->query_level("knigh
+u/d/darkgoth/private/knight/obj/solplate.c line 36: Illegal LHS before the end of line
+u/d/darkgoth/private/knight/obj/solplate.c line 38: Undefined variable 'level' before {
+u/d/darkgoth/private/knight/obj/solplate.c line 39: Undefined variable 'type' before "leather"; break;
+u/d/darkgoth/private/knight/obj/solplate.c line 35: Undefined function enviroment before ->query_level("knigh
+u/d/darkgoth/private/knight/obj/solplate.c line 44: "#pragma strict_types" requires type of function before "cmd_hook", "", 1);
+u/d/darkgoth/private/knight/obj/solplate.c line 44: parse error before , "", 1);
+u/d/darkgoth/private/knight/obj/solplate.c line 35: Undefined function enviroment before ->query_level("knigh
+u/d/darkgoth/private/knight/obj/solplate.c line 44: "#pragma strict_types" requires type of function before "cmd_hook", "", 1);
+u/d/darkgoth/private/knight/obj/solplate.c line 44: parse error before , "", 1);
+u/d/darkgoth/private/knight/obj/solplate.c line 34: Undefined function enviroment before ->query_level("knigh
+u/d/darkgoth/private/knight/obj/solplate.c line 43: "#pragma strict_types" requires type of function before "cmd_hook", "", 1);
+u/d/darkgoth/private/knight/obj/solplate.c line 43: parse error before , "", 1);
+u/d/darkgoth/private/knight/obj/solplate.c line 34: Undefined function enviroment before ->query_level("knigh
+u/d/darkgoth/private/knight/obj/solplate.c line 43: "#pragma strict_types" requires type of function before "cmd_hook", "", 1);
+u/d/darkgoth/private/knight/obj/solplate.c line 43: parse error before , "", 1);
+u/d/darkgoth/private/knight/obj/solplate.c line 34: Undefined function enviroment before ->query_level("knigh
+u/d/darkgoth/private/knight/obj/solplate.c line 43: "#pragma strict_types" requires type of function before "cmd_hook", "", 1);
+u/d/darkgoth/private/knight/obj/solplate.c line 43: parse error before , "", 1);
+u/d/darkgoth/private/knight/obj/solplate.c line 31: No such inherited function ::init before ;
+u/d/darkgoth/private/knight/obj/solplate.c line 35: "#pragma strict_types" requires type of function before "cmd_hook", "", 1);
+u/d/darkgoth/private/knight/obj/solplate.c line 35: parse error before , "", 1);
+u/d/darkgoth/private/knight/obj/solplate.c line 35: "#pragma strict_types" requires type of function before "cmd_hook", "", 1);
+u/d/darkgoth/private/knight/obj/solplate.c line 35: parse error before , "", 1);
+u/d/darkgoth/room/castle/castle1.c line 20: parse error before the end of file
+u/k/kyako/john.c line 53: parse error before  = clone_object ("/d
+u/k/kyako/john.c line 53: Illegal LHS before the end of line
+u/d/darkgoth/private/castle/castle1.c line 24: parse error before the end of line
+u/d/darkgoth/private/castle/castle1.c line 19: Undefined variable 'AROOM' before  "castle2.c",
+u/d/darkgoth/private/castle/castle2.c line 28: Undefined function create_door before ;
+u/d/darkgoth/private/castle/castle2.c line 35: End of file in string before ()
+u/d/darkgoth/private/castle/castle2.c line 35: parse error before ()
+u/d/darkgoth/private/castle/castle2.c line 28: Undefined function create_door before ;
+u/d/darkgoth/private/castle/castle5.c line 2: Cannot #include fuckstick.h before the end of line
+u/d/darkgoth/private/pornomag.c line 31: Warning: clean_up() inherited from both std/cmd_m.c and std/object/ob.c; using the definition in std/object/ob.c. before the end of file
+u/d/darkgoth/private/castle/monsters/zombie.c line 56: Undefined variable 'ob1' before  clone_object ("/d/O
+u/d/darkgoth/private/castle/monsters/zombie.c line 58: Undefined variable 'ob2' before  clone_object ("/d/O
+d/Inner/Kyako/ElemPlane/obj/panel.c line 44: parse error before var);
+d/Inner/Kyako/ElemPlane/obj/panel.c line 45: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 52: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 59: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 66: Illegal LHS before the end of line
+d/Inner/Kyako/ElemPlane/obj/panel.c line 73: Illegal LHS before the end of line
+u/d/darkgoth/private/monsters/chimera.c line 97: End of file in text block before the end of line
+u/d/darkgoth/private/monsters/chimera.c line 97: parse error before the end of line
+u/d/darkgoth/private/monsters/chimera.c line 97: End of file in text block before the end of line
+u/d/darkgoth/private/monsters/chimera.c line 97: parse error before the end of line
+u/d/darkgoth/private/monsters/chimera.c line 97: End of file in text block before the end of file
+u/d/darkgoth/private/monsters/chimera.c line 97: parse error before the end of file
+u/d/darkgoth/private/monsters/chimera.c line 99: End of file in text block before return 0;
+u/d/darkgoth/private/monsters/chimera.c line 99: parse error before return 0;
+u/d/darkgoth/private/monsters/beholder.c line 51: Undefined variable 'a' before ->query_current_atta
+u/d/darkgoth/private/monsters/beholder.c line 51: Too many arguments to this_object before ->query_current_atta
+u/d/darkgoth/private/monsters/beholder.c line 57: parse error before  (random(3) == 0) {
+u/d/darkgoth/private/dknight.c line 5: Cannot #include area.h before inherit MONSTER ;
+u/d/darkgoth/private/dknight.c line 35: Undefined variable 'ARM' before "dplate.c");
+u/d/darkgoth/private/monsters/beholder.c line 54: parse error before  (random(3) == 0) {
+u/d/darkgoth/private/monsters/beholder.c line 58: parse error before  (random(3) == 0) {
+u/d/darkgoth/private/monsters/beholder.c line 106: parse error before the end of file
+u/d/darkgoth/private/monsters/beholder.c line 106: parse error before the end of line
+u/d/darkgoth/private/monsters/beholder.c line 107: parse error before the end of file
+u/d/darkgoth/private/monsters/beholder.c line 108: parse error before the end of file
+u/d/darkgoth/private/monsters/beholder.c line 108: parse error before the end of file
+u/d/darkgoth/private/monsters/beholder.c line 42: Undefined variable 'wizard_ob' before )->move(TO) ;
+u/d/darkgoth/private/monsters/beholder.c line 42: Undefined function OBJ before )->move(TO) ;
+u/d/darkgoth/private/monsters/beholder.c line 43: Undefined variable 'priest_ob' before )->move(TO) ;
+u/d/darkgoth/private/monsters/beholder2.c line 40: Undefined variable 'wizard_ob' before )->move(TO) ;
+u/d/darkgoth/private/monsters/beholder2.c line 40: Undefined function OBJ before )->move(TO) ;
+u/d/darkgoth/private/monsters/beholder2.c line 41: Undefined variable 'priest_ob' before )->move(TO) ;
+u/d/darkgoth/private/monsters/beholder2.c line 70: parse error before the end of file
+u/d/darkgoth/private/monsters/beholder2.c line 40: Undefined variable 'wizard_ob' before )->move(TO) ;
+u/d/darkgoth/private/monsters/beholder2.c line 40: Undefined function OBJ before )->move(TO) ;
+u/d/darkgoth/private/monsters/beholder2.c line 41: Undefined variable 'priest_ob' before )->move(TO) ;
+u/d/darkgoth/private/monsters/beholder2.c line 70: parse error before the end of file
+u/d/darkgoth/private/monsters/beholder2.c line 41: Undefined variable 'priest_ob' before )->move(TO) ;
+u/d/darkgoth/private/monsters/beholder2.c line 41: Undefined function OBJ before )->move(TO) ;
+u/d/darkgoth/private/monsters/beholder2.c line 71: parse error before the end of file
+u/d/darkgoth/private/monsters/beholder.c line 5: parse error before  "/std/monster" ;
+u/d/darkgoth/private/monsters/beholder.c line 36: Wrong number of arguments to wear
+    Expected: 2  Got: 1 before ;
+u/d/darkgoth/private/pornomag.c line 31: Warning: clean_up() inherited from both std/cmd_m.c and std/object/ob.c; using the definition in std/object/ob.c. before the end of file
+u/d/darkgoth/private/monsters/beholder.c line 36: Wrong number of arguments to wear
+    Expected: 2  Got: 1 before ;
+u/d/darkgoth/private/monsters/beholder.c line 36: Wrong number of arguments to wear
+    Expected: 2  Got: 1 before ;
+u/d/darkgoth/private/monsters/beholder.c line 36: Wrong number of arguments to wear
+    Expected: 2  Got: 1 before ;
+u/d/darkgoth/private/monsters/beholder.c line 36: Wrong number of arguments to wear
+    Expected: 2  Got: 1 before ;
+u/d/darkgoth/private/monsters/beholder.c line 36: Wrong number of arguments to wear
+    Expected: 2  Got: 1 before ;
+u/d/darkgoth/private/monsters/beholder.c line 36: Wrong number of arguments to wear
+    Expected: 2  Got: 1 before ;

@@ -1,0 +1,230 @@
+u/g/grull/generic/monsters/orc.c line 9: parse error before the end of line
+u/g/grull/generic/monsters/orc.c line 9: parse error before the end of line
+u/g/grull/generic/monsters/orc.c line 10: Undefined function geuid before );
+u/g/grull/generic/monsters/orc.c line 10: Undefined function setuid before ;
+u/g/grull/generic/monsters/orc.c line 10: Undefined function setuid before ;
+u/g/grull/generic/monsters/ghoul.c line 5: Cannot #include /u/c/cattt/grull/GrullLib.h before void create(){
+u/g/grull/generic/monsters/ghoul.c line 12: parse error before the end of line
+u/g/grull/generic/monsters/ghoul.c line 5: Cannot #include ../../GrullLib.h before void create(){
+u/g/grull/generic/monsters/ghoul.c line 12: parse error before the end of line
+u/g/grull/generic/monsters/ghoul.c line 4: Cannot #include ../../GrullLib.h before the end of line
+u/g/grull/generic/monsters/ghoul.c line 13: parse error before the end of line
+u/g/grull/generic/monsters/ghoul.c line 13: parse error before the end of line
+u/g/grull/generic/lib/equip_generic_monster.c line 87: Undefined function set_armour_type before ;
+u/g/grull/generic/lib/equip_generic_monster.c line 88: Undefined function crate_equip_ac before );
+u/g/grull/generic/lib/equip_generic_monster.c line 90: parse error before the end of line
+u/g/grull/generic/lib/equip_generic_monster.c line 96: Illegal LHS before the end of line
+u/g/grull/generic/lib/equip_generic_monster.c line 96: parse error before the end of line
+u/g/grull/generic/lib/equip_generic_monster.c line 98: Illegal LHS before the end of line
+u/g/grull/generic/lib/equip_generic_monster.c line 87: Undefined function set_armour_type before ;
+u/g/grull/generic/lib/equip_generic_monster.c line 88: Undefined function crate_equip_ac before );
+u/g/grull/generic/lib/equip_generic_monster.c line 90: parse error before the end of line
+u/g/grull/generic/lib/equip_generic_monster.c line 96: Illegal LHS before the end of line
+u/g/grull/generic/lib/equip_generic_monster.c line 96: parse error before the end of line
+u/g/grull/generic/lib/equip_generic_monster.c line 98: Illegal LHS before the end of line
+u/g/grull/generic/lib/equip_generic_monster.c line 88: Undefined variable 'extern' before (lower_case(equip_ty
+u/g/grull/generic/lib/equip_generic_monster.c line 88: parse error before (lower_case(equip_ty
+u/g/grull/generic/lib/equip_generic_monster.c line 89: Undefined function crate_equip_ac before );
+u/g/grull/generic/lib/equip_generic_monster.c line 91: parse error before the end of line
+u/g/grull/generic/lib/equip_generic_monster.c line 97: Illegal LHS before the end of line
+u/g/grull/generic/lib/equip_generic_monster.c line 97: parse error before the end of line
+u/g/grull/generic/lib/equip_generic_monster.c line 99: Illegal LHS before the end of line
+u/g/grull/generic/lib/equip_generic_monster.c line 100: Illegal LHS before the end of line
+u/g/grull/generic/lib/equip_generic_monster.c line 91: parse error before the end of line
+u/g/grull/generic/lib/equip_generic_monster.c line 97: Illegal LHS before the end of line
+u/g/grull/generic/lib/equip_generic_monster.c line 97: parse error before the end of line
+u/g/grull/generic/lib/equip_generic_monster.c line 99: Illegal LHS before the end of line
+u/g/grull/generic/lib/equip_generic_monster.c line 100: Illegal LHS before the end of line
+u/g/grull/generic/lib/equip_generic_monster.c line 107: Illegal LHS before the end of line
+u/g/grull/generic/lib/equip_generic_monster.c line 91: parse error before the end of line
+u/g/grull/generic/lib/equip_generic_monster.c line 97: Illegal LHS before the end of line
+u/g/grull/generic/lib/equip_generic_monster.c line 97: parse error before the end of line
+u/g/grull/generic/lib/equip_generic_monster.c line 99: Illegal LHS before the end of line
+u/g/grull/generic/lib/equip_generic_monster.c line 100: Illegal LHS before the end of line
+u/g/grull/generic/lib/equip_generic_monster.c line 107: Illegal LHS before the end of line
+u/g/grull/generic/lib/equip_generic_monster.c line 94: parse error before the end of line
+u/g/grull/generic/lib/equip_generic_monster.c line 100: Illegal LHS before the end of line
+u/g/grull/generic/lib/equip_generic_monster.c line 100: parse error before the end of line
+u/g/grull/generic/lib/equip_generic_monster.c line 102: Illegal LHS before the end of line
+u/g/grull/generic/lib/equip_generic_monster.c line 103: Illegal LHS before the end of line
+u/g/grull/generic/lib/equip_generic_monster.c line 110: Illegal LHS before the end of line
+u/g/grull/generic/lib/equip_generic_monster.c line 98: parse error before the end of line
+u/g/grull/generic/lib/equip_generic_monster.c line 104: Illegal LHS before the end of line
+u/g/grull/generic/lib/equip_generic_monster.c line 104: parse error before the end of line
+u/g/grull/generic/lib/equip_generic_monster.c line 106: Illegal LHS before the end of line
+u/g/grull/generic/lib/equip_generic_monster.c line 107: Illegal LHS before the end of line
+u/g/grull/generic/lib/equip_generic_monster.c line 114: Illegal LHS before the end of line
+u/g/grull/generic/armour/generic_armour.c line 4: Illegal to redefine 'nomask' function "query" before the end of line
+u/g/grull/generic/armour/generic_armour.c line 4: Illegal to redefine 'nomask' function "set" before the end of line
+u/g/grull/generic/armour/generic_armour.c line 4: Illegal to redefine 'nomask' function "_query" before the end of line
+u/g/grull/generic/armour/generic_armour.c line 4: Illegal to redefine 'nomask' function "_delete" before the end of line
+u/g/grull/generic/armour/generic_armour.c line 4: Illegal to redefine 'nomask' function "_set" before the end of line
+u/g/grull/generic/armour/generic_armour.c line 4: Illegal to redefine 'nomask' function "query_temp" before the end of line
+u/g/grull/generic/armour/generic_armour.c line 4: Illegal to redefine 'nomask' function "query" before the end of line
+u/g/grull/generic/armour/generic_armour.c line 4: Illegal to redefine 'nomask' function "set" before the end of line
+u/g/grull/generic/armour/generic_armour.c line 4: Illegal to redefine 'nomask' function "_query" before the end of line
+u/g/grull/generic/armour/generic_armour.c line 4: Illegal to redefine 'nomask' function "_delete" before the end of line
+u/g/grull/generic/armour/generic_armour.c line 4: Illegal to redefine 'nomask' function "_set" before the end of line
+u/g/grull/generic/armour/generic_armour.c line 4: Illegal to redefine 'nomask' function "query_temp" before the end of line
+u/g/grull/generic/armour/generic_armour.c line 4: Illegal to redefine 'nomask' function "query" before the end of line
+u/g/grull/generic/armour/generic_armour.c line 4: Illegal to redefine 'nomask' function "set" before the end of line
+u/g/grull/generic/armour/generic_armour.c line 4: Illegal to redefine 'nomask' function "_query" before the end of line
+u/g/grull/generic/armour/generic_armour.c line 4: Illegal to redefine 'nomask' function "_delete" before the end of line
+u/g/grull/generic/armour/generic_armour.c line 4: Illegal to redefine 'nomask' function "_set" before the end of line
+u/g/grull/generic/armour/generic_armour.c line 4: Illegal to redefine 'nomask' function "query_temp" before the end of line
+u/g/grull/generic/armour/generic_armour.c line 5: Illegal to redefine 'nomask' function "query" before the end of line
+u/g/grull/generic/armour/generic_armour.c line 5: Illegal to redefine 'nomask' function "set" before the end of line
+u/g/grull/generic/armour/generic_armour.c line 5: Illegal to redefine 'nomask' function "_query" before the end of line
+u/g/grull/generic/armour/generic_armour.c line 5: Illegal to redefine 'nomask' function "_delete" before the end of line
+u/g/grull/generic/armour/generic_armour.c line 5: Illegal to redefine 'nomask' function "_set" before the end of line
+u/g/grull/generic/armour/generic_armour.c line 5: Illegal to redefine 'nomask' function "query_temp" before the end of line
+u/g/grull/generic/armour/generic_armour.c line 8: parse error before the end of line
+u/g/grull/generic/armour/generic_armour.c line 8: Undefined variable 'id' before );
+u/g/grull/generic/armour/generic_armour.c line 8: Undefined function get_id before ));
+u/g/grull/generic/armour/generic_armour.c line 8: Bad argument 1 to efun lower_case() before );
+u/g/grull/generic/lib/equip_generic_monster.c line 90: Undefined variable 'aValue_array' before  ({value, "silver"})
+u/g/grull/generic/armour/generic_armour.c line 8: Undefined variable 'sIds' before  query("id");
+u/g/grull/generic/armour/generic_armour.c line 10: parse error before ;
+u/g/grull/generic/armour/generic_armour.c line 10: parse error before ;
+u/g/grull/generic/armour/generic_armour.c line 8: Undefined variable 'equip_type' before ;
+u/g/grull/generic/lib/arm_generic_monster.c line 3: Missing leading " or < in #include before the end of line
+u/g/grull/generic/lib/arm_generic_monster.c line 3: Missing leading " or < in #include before the end of line
+u/g/grull/generic/lib/arm_generic_monster.c line 21: Undefined variable 'NUMBER_OF_WEAPON_TYPES' before ;
+u/g/grull/generic/lib/arm_generic_monster.c line 42: Undefined variable 'NUMBER_OF_WEAPON_MATERIALS' before ;
+u/g/grull/generic/lib/arm_generic_monster.c line 62: Undefined function create_weapon_name before ;
+u/g/grull/generic/lib/arm_generic_monster.c line 62: Bad assignment ( unknown vs string ). before the end of line
+u/g/grull/generic/lib/arm_generic_monster.c line 65: Undefined function create_weapon_alias before );
+u/g/grull/generic/lib/arm_generic_monster.h line 4: parse error before (string command);
+u/g/grull/generic/weapons/generic_weapon.c line 8: Reserved type name unexpected. before ;
+u/g/grull/generic/weapons/generic_weapon.c line 8: parse error before ;
+u/g/grull/generic/weapons/generic_weapon.c line 10: Illegal LHS before the end of line
+u/g/grull/generic/weapons/generic_weapon.c line 11: Undefined variable 'weapon_material' before  random_weapon_mater
+u/g/grull/generic/weapons/generic_weapon.c line 12: Undefined variable 'weapon_type' before  weapon_material);
+u/g/grull/generic/weapons/generic_weapon.c line 8: Reserved type name unexpected. before ;
+u/g/grull/generic/weapons/generic_weapon.c line 8: parse error before ;
+u/g/grull/generic/weapons/generic_weapon.c line 10: Illegal LHS before the end of line
+u/g/grull/generic/weapons/generic_weapon.c line 11: Undefined variable 'generic_weapon_material' before  random_weapon_mater
+u/g/grull/generic/weapons/generic_weapon.c line 12: Undefined variable 'generic_weapon_type' before  generic_weapon_mate
+u/g/grull/ulga.c line 4: Cannot #include where.h before the end of line
+u/g/grull/ulga.c line 44: Undefined variable 'M_WEAP' before "nails","nails");
+u/g/grull/ulga.c line 45: Undefined variable 'M_ARM' before "dress","dress");
+u/g/grull/orc.c line 3: Cannot #include where.h before inherit MONSTER ;
+u/g/grull/collar.c line 2: Cannot #include where.h before the end of line
+u/g/grull/ulga.c line 4: Cannot #include where.h before the end of line
+u/g/grull/ulga.c line 4: Cannot #include where.h before the end of line
+u/g/grull/ulga.c line 44: Undefined variable 'M_WEAP' before "nails","nails");
+u/g/grull/ulga.c line 45: Undefined variable 'M_ARM' before "dress","dress");
+u/g/grull/collar.c line 2: Cannot #include where.h before the end of line
+u/g/grull/collar.c line 2: Cannot #include where.h before the end of line
+u/g/grull/orc.c line 3: Cannot #include where.h before inherit MONSTER ;
+u/g/grull/generic/lib/populate_generic_monsters.c line 3: Missing leading " or < in #include before the end of line
+u/g/grull/generic/lib/populate_generic_monsters.c line 3: Missing leading " or < in #include before the end of line
+u/g/grull/generic/lib/populate_generic_monsters.c line 3: Missing leading " or < in #include before the end of line
+u/g/grull/generic/lib/populate_generic_monsters.c line 3: Missing leading " or < in #include before the end of line
+u/g/grull/generic/lib/populate_generic_monsters.c line 3: Missing leading " or < in #include before the end of line
+u/g/grull/generic/lib/populate_generic_monsters.c line 6: Illegal to redefine 'nomask' function "query" before the end of line
+u/g/grull/generic/lib/populate_generic_monsters.c line 6: Illegal to redefine 'nomask' function "set" before the end of line
+u/g/grull/generic/lib/populate_generic_monsters.c line 6: Illegal to redefine 'nomask' function "_query" before the end of line
+u/g/grull/generic/lib/populate_generic_monsters.c line 6: Illegal to redefine 'nomask' function "_delete" before the end of line
+u/g/grull/generic/lib/populate_generic_monsters.c line 6: Illegal to redefine 'nomask' function "_set" before the end of line
+u/g/grull/generic/lib/populate_generic_monsters.c line 3: Missing leading " or < in #include before the end of line
+u/g/grull/generic/lib/populate_generic_monsters.c line 6: Illegal to redefine 'nomask' function "query" before the end of line
+u/g/grull/generic/lib/populate_generic_monsters.c line 6: Illegal to redefine 'nomask' function "set" before the end of line
+u/g/grull/generic/lib/populate_generic_monsters.c line 6: Illegal to redefine 'nomask' function "_query" before the end of line
+u/g/grull/generic/lib/populate_generic_monsters.c line 6: Illegal to redefine 'nomask' function "_delete" before the end of line
+u/g/grull/generic/lib/populate_generic_monsters.c line 6: Illegal to redefine 'nomask' function "_set" before the end of line
+u/g/grull/generic/lib/populate_generic_monsters.c line 3: Cannot #include POPULATE_GENERIC_MONSTERS_HEADER before the end of line
+u/g/grull/generic/lib/populate_generic_monsters.c line 6: Illegal to redefine 'nomask' function "query" before the end of line
+u/g/grull/generic/lib/populate_generic_monsters.c line 6: Illegal to redefine 'nomask' function "set" before the end of line
+u/g/grull/generic/lib/populate_generic_monsters.c line 6: Illegal to redefine 'nomask' function "_query" before the end of line
+u/g/grull/generic/lib/populate_generic_monsters.c line 6: Illegal to redefine 'nomask' function "_delete" before the end of line
+u/g/grull/generic/lib/populate_generic_monsters.c line 6: Illegal to redefine 'nomask' function "_set" before the end of line
+u/g/grull/generic/lib/populate_generic_monsters.c line 3: Cannot #include /u/g/grull/generic/populate_generic_monsters.h before the end of line
+u/g/grull/generic/lib/populate_generic_monsters.c line 6: Illegal to redefine 'nomask' function "query" before the end of line
+u/g/grull/generic/lib/populate_generic_monsters.c line 6: Illegal to redefine 'nomask' function "set" before the end of line
+u/g/grull/generic/lib/populate_generic_monsters.c line 6: Illegal to redefine 'nomask' function "_query" before the end of line
+u/g/grull/generic/lib/populate_generic_monsters.c line 6: Illegal to redefine 'nomask' function "_delete" before the end of line
+u/g/grull/generic/lib/populate_generic_monsters.c line 6: Illegal to redefine 'nomask' function "_set" before the end of line
+u/g/grull/generic/lib/populate_generic_monsters.c line 3: Cannot #include POPULATE_GENERIC_MONSTERS_HEADER before the end of line
+u/g/grull/generic/lib/populate_generic_monsters.c line 6: Illegal to redefine 'nomask' function "query" before the end of line
+u/g/grull/generic/lib/populate_generic_monsters.c line 6: Illegal to redefine 'nomask' function "set" before the end of line
+u/g/grull/generic/lib/populate_generic_monsters.c line 6: Illegal to redefine 'nomask' function "_query" before the end of line
+u/g/grull/generic/lib/populate_generic_monsters.c line 6: Illegal to redefine 'nomask' function "_delete" before the end of line
+u/g/grull/generic/lib/populate_generic_monsters.c line 6: Illegal to redefine 'nomask' function "_set" before the end of line
+u/g/grull/generic/armour/generic_armour.c line 5: Illegal to redefine 'nomask' function "query" before the end of line
+u/g/grull/generic/armour/generic_armour.c line 5: Illegal to redefine 'nomask' function "set" before the end of line
+u/g/grull/generic/armour/generic_armour.c line 5: Illegal to redefine 'nomask' function "_query" before the end of line
+u/g/grull/generic/armour/generic_armour.c line 5: Illegal to redefine 'nomask' function "_delete" before the end of line
+u/g/grull/generic/armour/generic_armour.c line 5: Illegal to redefine 'nomask' function "_set" before the end of line
+u/g/grull/generic/armour/generic_armour.c line 5: Illegal to redefine 'nomask' function "query_temp" before the end of line
+u/g/grull/generic/lib/equip_generic_monster.c line 97: Undefined function set before ;
+u/g/grull/generic/weapons/generic_weapon.c line 5: Illegal to redefine 'nomask' function "set" before the end of line
+u/g/grull/generic/weapons/generic_weapon.c line 5: Illegal to redefine 'nomask' function "query" before the end of line
+u/g/grull/generic/weapons/generic_weapon.c line 5: Illegal to redefine 'nomask' function "_query" before the end of line
+u/g/grull/generic/weapons/generic_weapon.c line 5: Illegal to redefine 'nomask' function "_delete" before the end of line
+u/g/grull/generic/weapons/generic_weapon.c line 5: Illegal to redefine 'nomask' function "_set" before the end of line
+u/g/grull/generic/weapons/generic_weapon.c line 5: Illegal to redefine 'nomask' function "query_temp" before the end of line
+u/g/grull/generic/weapons/generic_weapon.c line 5: Illegal to redefine 'nomask' function "query" before the end of line
+u/g/grull/generic/weapons/generic_weapon.c line 5: Illegal to redefine 'nomask' function "set" before the end of line
+u/g/grull/generic/weapons/generic_weapon.c line 5: Illegal to redefine 'nomask' function "_query" before the end of line
+u/g/grull/generic/weapons/generic_weapon.c line 5: Illegal to redefine 'nomask' function "_delete" before the end of line
+u/g/grull/generic/weapons/generic_weapon.c line 5: Illegal to redefine 'nomask' function "_set" before the end of line
+u/g/grull/generic/weapons/generic_weapon.c line 5: Illegal to redefine 'nomask' function "query_temp" before the end of line
+u/g/grull/generic/weapons/generic_weapon.c line 5: Illegal to redefine 'nomask' function "set" before the end of line
+u/g/grull/generic/weapons/generic_weapon.c line 5: Illegal to redefine 'nomask' function "query" before the end of line
+u/g/grull/generic/weapons/generic_weapon.c line 5: Illegal to redefine 'nomask' function "_query" before the end of line
+u/g/grull/generic/weapons/generic_weapon.c line 5: Illegal to redefine 'nomask' function "_delete" before the end of line
+u/g/grull/generic/weapons/generic_weapon.c line 5: Illegal to redefine 'nomask' function "_set" before the end of line
+u/g/grull/generic/weapons/generic_weapon.c line 5: Illegal to redefine 'nomask' function "query_temp" before the end of line
+u/g/grull/generic/weapons/generic_weapon.c line 5: Illegal to redefine 'nomask' function "set" before the end of line
+u/g/grull/generic/weapons/generic_weapon.c line 5: Illegal to redefine 'nomask' function "query" before the end of line
+u/g/grull/generic/weapons/generic_weapon.c line 5: Illegal to redefine 'nomask' function "_query" before the end of line
+u/g/grull/generic/weapons/generic_weapon.c line 5: Illegal to redefine 'nomask' function "_delete" before the end of line
+u/g/grull/generic/weapons/generic_weapon.c line 5: Illegal to redefine 'nomask' function "_set" before the end of line
+u/g/grull/generic/weapons/generic_weapon.c line 5: Illegal to redefine 'nomask' function "query_temp" before the end of line
+u/g/grull/generic/lib/arm_generic_monster.c line 65: Undefined function set_weapon_type before ;
+u/g/grull/generic/lib/arm_generic_monster.c line 66: Undefined function set_material_type before ;
+u/g/grull/generic/lib/populate_generic_monsters.c line 3: Cannot #include /u/g/grull/generic/populate_generic_monsters.h before the end of line
+u/g/grull/generic/lib/populate_generic_monsters.c line 12: Undefined function random_generic_monster before ;
+u/g/grull/generic/lib/populate_generic_monsters.c line 12: Bad assignment ( unknown vs object * ). before the end of line
+u/g/grull/generic/lib/populate_generic_monsters.c line 23: Undefined variable 'MAX_GENERIC_MONSTERS' before ;
+u/g/grull/generic/lib/populate_generic_monsters.c line 25: Undefined function create_generic_monster before ;
+u/g/grull/generic/lib/populate_generic_monsters.c line 25: Bad assignment ( unknown vs object ). before the end of line
+u/g/grull/generic/lib/populate_generic_monsters.h line 4: Cannot #include ../../GenericlLib.h before the end of line
+u/g/grull/generic/lib/populate_generic_monsters.c line 13: Undefined function random_generic_monster before ;
+u/g/grull/generic/lib/populate_generic_monsters.c line 13: Bad assignment ( unknown vs object * ). before the end of line
+u/g/grull/generic/lib/populate_generic_monsters.c line 32: Redeclaration of function random_generic_monster. before the end of line
+u/g/grull/generic/lib/populate_generic_monsters.h line 4: Cannot #include ../../GenericlLib.h before the end of line
+u/g/grull/generic/lib/populate_generic_monsters.c line 13: Undefined function random_generic_monster before ;
+u/g/grull/generic/lib/populate_generic_monsters.c line 13: Bad assignment ( unknown vs object * ). before the end of line
+u/g/grull/generic/lib/populate_generic_monsters.c line 32: Redeclaration of function random_generic_monster. before the end of line
+u/g/grull/generic/lib/populate_generic_monsters.c line 3: Cannot #include /u/g/grull/generic/populate_generic_monsters.h before the end of line
+u/g/grull/generic/lib/populate_generic_monsters.c line 12: Undefined function random_generic_monster before ;
+u/g/grull/generic/lib/populate_generic_monsters.c line 12: Bad assignment ( unknown vs object * ). before the end of line
+u/g/grull/generic/lib/populate_generic_monsters.c line 23: Undefined variable 'MAX_GENERIC_MONSTERS' before ;
+u/g/grull/generic/lib/populate_generic_monsters.c line 25: Undefined function create_generic_monster before ;
+u/g/grull/generic/lib/populate_generic_monsters.c line 25: Bad assignment ( unknown vs object ). before the end of line
+u/g/grull/generic/lib/populate_generic_monsters.c line 12: Undefined function random_generic_monster before ;
+u/g/grull/generic/lib/populate_generic_monsters.c line 12: Bad assignment ( unknown vs object * ). before the end of line
+u/g/grull/generic/lib/populate_generic_monsters.c line 31: Redeclaration of function random_generic_monster. before the end of line
+u/g/grull/workroom.c line 34: Undefined function populate_generic_monsters before ;
+u/g/grull/workroom.c line 12: Cannot #include GenericLib.h before the end of line
+u/g/grull/workroom.c line 15: parse error before +"populate_generic_m
+u/g/grull/generic_room.c line 30: Undefined variable 'workroom' before c,
+u/g/grull/generic_room.c line 30: parse error before c,
+u/c/cattt/generic_room.c line 30: Undefined variable 'workroom' before c,
+u/c/cattt/generic_room.c line 30: parse error before c,
+u/g/grull/generic/lib/arm_generic_monster.c line 10: Reserved type name unexpected. before  ;
+u/g/grull/generic/lib/arm_generic_monster.c line 10: parse error before  ;
+u/g/grull/generic/lib/arm_generic_monster.c line 12: Undefined variable 'weapon' before query("name") ;
+u/g/grull/generic/lib/arm_generic_monster.c line 12: Illegal LHS before the end of line
+u/g/grull/generic/lib/arm_generic_monster.c line 13: Undefined variable 'monster' before command("wield "+str
+u/g/grull/generic/lib/arm_generic_monster.c line 13: Undefined variable 'str' before ;
+u/g/grull/generic/lib/arm_generic_monster.c line 10: Reserved type name unexpected. before ;
+u/g/grull/generic/lib/arm_generic_monster.c line 10: parse error before ;
+u/g/grull/generic/lib/arm_generic_monster.c line 12: Undefined variable 'weapon' before query("name") ;
+u/g/grull/generic/lib/arm_generic_monster.c line 12: Illegal LHS before the end of line
+u/g/grull/generic/lib/arm_generic_monster.c line 13: Undefined variable 'monster' before command("wield "+sWe
+u/g/grull/generic/lib/arm_generic_monster.c line 13: Undefined variable 'sWeapName' before ;
+open/human.c line 4: Cannot #include ../GenericLib.h before the end of line
+open/human.c line 4: Cannot #include ../GenericLib.h before the end of line

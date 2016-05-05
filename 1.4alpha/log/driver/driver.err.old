@@ -1,0 +1,101 @@
+using config file: config.tmi2
+----------------------------------------------------------------------------
+Mortal Remains (MudOS v21.7a10) starting up on Linux - Tue Jun 27 09:00:03 2000
+
+
+Connected to address server on 127.0.0.1 port 2993
+
+Loading preloaded files ...
+]Preloading : /adm/daemons/channels...]
+]Preloading : /adm/daemons/emoted...]
+]Preloading : /adm/daemons/event...]
+]Preloading : /adm/daemons/logind...]
+]Preloading : /adm/daemons/rebootd...]
+]Preloading : /adm/daemons/usage_d...]
+]Preloading : /adm/obj/mail_purger...]
+]Preloading : /adm/daemons/doc_d...]
+Initializations complete.
+
+Accepting connections on port 1313.
+]Global Dest: Permission denied.
+get_user_data: read on fd 12
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 13
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 12
+System Error: get_user_data: read:Connection reset by peer
+Heart beat in d/Prime/Cyanide/monsters/topiarymon#277 turned off.
+Heart beat in d/Prime/Macrosoft/mon/gunner#426 turned off.
+Heart beat in d/Prime/Cyanide/monsters/shadow_warr#433 turned off.
+Heart beat in d/Prime/Cyanide/monsters/shadow_warr#438 turned off.
+get_user_data: read on fd 15
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 11
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 14
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 15
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 14
+System Error: get_user_data: read:Connection reset by peer
+Heart beat in d/Planar/Abyss/Nazi/mon/soldiers2#1588 turned off.
+Heart beat in d/Planar/Abyss/Nazi/mon/soldiers2#1811 turned off.
+Heart beat in d/Planar/Abyss/Nazi/mon/soldiers2#1814 turned off.
+Heart beat in d/Planar/Abyss/monsters/marilith#1807 turned off.
+Heart beat in d/Planar/Abyss/Nazi/mon/soldiers2#1820 turned off.
+Heart beat in d/Prime/Cyanide/monsters/shambler#1810 turned off.
+Heart beat in d/Prime/Cyanide/monsters/shambler#1823 turned off.
+Heart beat in d/Planar/Abyss/monsters/marilith#2040 turned off.
+Heart beat in u/n/nsd/clown/clown_jack#2043 turned off.
+Heart beat in d/Planar/Abyss/Nazi/mon/soldiers2#2096 turned off.
+get_user_data: read on fd 14
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 12
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 15
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 14
+System Error: get_user_data: read:Connection reset by peer
+Heart beat in d/Prime/Cyanide/monsters/shambler#2103 turned off.
+Heart beat in d/Prime/Cyanide/monsters/shambler#2164 turned off.
+Heart beat in d/Planar/Abyss/Nazi/mon/soldiers2#2180 turned off.
+get_user_data: read on fd 16
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 11
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 12
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 11
+System Error: get_user_data: read:Connection reset by peer
+object /std/user#2857: eval_cost too big 500000
+object /std/user#2857: eval_cost too big 500000
+object /d/Planar/Baator/monsters/black_abishai#2618: eval_cost too big 500000
+object /d/Planar/Baator/monsters/black_abishai#2522: eval_cost too big 500000
+object /std/user#2857: eval_cost too big 500000
+Heart beat in u/n/nsd/clown/clown_jack#3006 turned off.
+Heart beat in d/Planar/Abyss/Nazi/mon/soldiers2#3147 turned off.
+Heart beat in d/Prime/Macrosoft/mon/gunner#3152 turned off.
+Heart beat in std/user#2784 turned off.
+get_user_data: read on fd 11
+System Error: get_user_data: read:Broken pipe
+get_user_data: read on fd 13
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 13
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 11
+System Error: get_user_data: read:No route to host
+get_user_data: read on fd 12
+System Error: get_user_data: read:No route to host
+get_user_data: read on fd 9
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 9
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 9
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 9
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 9
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 9
+System Error: get_user_data: read:Connection reset by peer
+closed external ports

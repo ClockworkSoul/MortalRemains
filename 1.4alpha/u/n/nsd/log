@@ -1,0 +1,435 @@
+u/n/nsd/clown/jack_box.c line 11: No such inherited function ::create before ;
+u/n/nsd/clown/jack_box.c line 11: No such inherited function ::create before ;
+u/n/nsd/private/test_hunk.c line 5: Cannot #include nazi.h before #include <mudlib.h>
+u/n/nsd/private/test_hunk.c line 50: Undefined variable 'NAZI_OBJ' before "lustsword.c");
+u/n/nsd/private/test_hunk.c line 49: Undefined variable 'NAZI_OBJ' before "lustsword.c");
+std/private_room.c line 312: parse error before the end of line
+std/private_room.c line 317: Illegal LHS before the end of line
+std/private_room.c line 317: parse error before the end of line
+std/private_room.c line 332: Illegal LHS before the end of line
+std/private_room.c line 332: parse error before the end of line
+std/private_room.c line 350: Illegal LHS before the end of line
+open/lav1.c line 1: Cannot #include mall.h before #include <mudlib.h>
+open/lav1.c line 28: Reserved type name unexpected. before (){
+open/lav1.c line 28: parse error before (){
+open/lav1.c line 31: Undefined variable 'MALL' before "mons/teen.c");
+open/lav1.c line 31: Illegal LHS before the end of line
+open/lav1.c line 32: Undefined variable 'ob' before move(TO);
+open/lav1.c line 2: Cannot #include mall.h before the end of line
+open/lav1.c line 28: Reserved type name unexpected. before (){
+open/lav1.c line 28: parse error before (){
+open/lav1.c line 31: Undefined variable 'MALL' before "mons/teen.c");
+open/lav1.c line 31: Illegal LHS before the end of line
+open/lav1.c line 32: Undefined variable 'ob' before move(TO);
+open/lav1.c line 3: Cannot #include mall.h before the end of line
+open/lav1.c line 29: Reserved type name unexpected. before (){
+open/lav1.c line 29: parse error before (){
+open/lav1.c line 32: Undefined variable 'MALL' before "mons/teen.c");
+open/lav1.c line 32: Illegal LHS before the end of line
+open/lav1.c line 33: Undefined variable 'ob' before move(TO);
+open/lav1.c line 1: Cannot #include mall.h before #include <config.h>
+open/lav1.c line 29: Reserved type name unexpected. before (){
+open/lav1.c line 29: parse error before (){
+open/lav1.c line 32: Undefined variable 'MALL' before "mons/teen.c");
+open/lav1.c line 32: Illegal LHS before the end of line
+open/lav1.c line 33: Undefined variable 'ob' before move(TO);
+open/lav1.c line 1: Cannot #include mall.h before #include <config.h>
+open/lav1.c line 33: Undefined variable 'MALL' before "mons/teen.c");
+open/lav1.c line 39: "#pragma strict_types" requires type of function before "exits", ([
+open/lav1.c line 39: parse error before , ([
+open/lav1.c line 1: Cannot #include mall.h before #include <mudlib.h>
+open/lav1.c line 32: Undefined variable 'MALL' before "mons/teen.c");
+open/lav1.c line 38: "#pragma strict_types" requires type of function before "exits", ([
+open/lav1.c line 38: parse error before , ([
+open/lav1.c line 38: "#pragma strict_types" requires type of function before "exits", ([
+open/lav1.c line 38: parse error before , ([
+u/n/nsd/private/wpcream.c line 58: parse error before the end of line
+u/n/nsd/private/wpcream.c line 67: Illegal LHS before the end of line
+u/n/nsd/private/wpcream.c line 67: parse error before the end of line
+u/n/nsd/private/wpcream.c line 90: Illegal LHS before the end of line
+u/n/nsd/private/wpcream.c line 90: parse error before the end of line
+u/n/nsd/private/bed.c line 177: parse error before the end of line
+u/n/nsd/private/bed.c line 182: Illegal LHS before the end of line
+u/n/nsd/private/bed.c line 182: parse error before the end of line
+u/n/nsd/private/package.c line 24: Reserved type name unexpected. before  = environment(this_
+u/n/nsd/private/package.c line 24: parse error before  = environment(this_
+u/n/nsd/private/package.c line 24: Illegal LHS before the end of line
+u/n/nsd/private/package.c line 26: Undefined variable 'ob' before ) call_out("remove",
+u/n/nsd/private/package.c line 29: Redeclaration of function init. before the end of line
+open/path1.c line 32: Undefined variable 'rat' before  "/u/s/shallar/monst
+u/n/nsd/clown/jack_box.c line 55: Undefined variable 'lid' before  {
+open/library.c line 8: Cannot #include nazi.h before #include <config.h>
+open/library.c line 137: Undefined variable 'NAZI_ROOM' before "nazy1.c"; break;
+open/library.c line 140: Undefined variable 'LIBRARY' before "cyberparty/pool.c";
+open/library.c line 152: Undefined variable 'NAZI_MON' before "binder.c");
+u/n/nsd/private/arvandor/room/branches.c line 53: Undefined variable 'butterfy_flag' before  0;
+u/n/nsd/private/oil2.c line 15: "#pragma strict_types" requires type of function before );
+u/n/nsd/private/oil2.c line 15: Warning: Return type doesn't match prototype ( unknown vs void ) before ;
+u/n/nsd/private/oil2.c line 32: Undefined variable 'body_part' before  PART[i];
+u/n/nsd/private/oil2.c line 46: Undefined variable 'body_part' before +" "+body_part+
+u/n/nsd/private/oil2.c line 56: parse error before );
+u/n/nsd/private/oil2.c line 58: parse error before );
+u/n/nsd/private/oil2.c line 48: Undefined function noun before +" "+body_part+
+u/n/nsd/private/oil2.c line 48: Invalid argument types to '+' ( string vs unknown ) before " "+body_part+
+u/n/nsd/private/oil2.c line 48: Undefined function name before +" "+body_part+
+open/oil2.c line 40: Undefined variable 'body_part' before the end of line
+open/oil2.c line 69: Reserved type name unexpected. before the end of line
+open/oil2.c line 69: parse error before the end of line
+open/oil2.c line 41: Reserved type name unexpected. before ();+
+open/oil2.c line 41: parse error before ();+
+open/oil2.c line 59: Illegal LHS before the end of line
+open/oil2.c line 59: parse error before the end of line
+open/oil2.c line 41: parse error before +
+open/oil2.c line 59: Illegal LHS before the end of line
+open/oil2.c line 59: parse error before the end of line
+open/oil2.c line 69: Reserved type name unexpected. before the end of line
+open/oil2.c line 69: parse error before the end of line
+open/oil2.c line 69: Reserved type name unexpected. before (string str) {
+open/oil2.c line 69: parse error before (string str) {
+open/oil2.c line 68: Type of returned value doesn't match function return type ( int vs string ). before the end of line
+open/oil2.c line 70: Reserved type name unexpected. before (string str) {
+open/oil2.c line 70: parse error before (string str) {
+open/oil2.c line 70: Reserved type name unexpected. before (string str) {
+open/oil2.c line 70: parse error before (string str) {
+u/n/nsd/private/towel.c line 40: Undefined variable 'name' before TP->query("name")) {
+u/n/nsd/private/towel.c line 40: Undefined variable 'name' before TP->query("name")) {
+u/n/nsd/private/soap.c line 33: Undefined variable 'name' before TP->query("name") ) 
+u/n/nsd/private/soap.c line 33: Undefined variable 'name' before TP->query("name") ) 
+u/n/nsd/private/soap.c line 23: Undefined variable 'str' before  return 0;
+u/n/nsd/private/soap.c line 33: Undefined variable 'name' before TP->query("name") ) 
+u/n/nsd/private/soap.c line 33: Undefined variable 'name' before TP->query("name") ) 
+u/n/nsd/examples/handcuffs.c line 86: Undefined function reset before ;1
+u/n/nsd/examples/handcuffs.c line 87: parse error before the end of line
+u/n/nsd/private/soap.c line 33: Undefined variable 'name' before TP->query("name") ) 
+u/n/nsd/private/soap.c line 33: Undefined variable 'name' before TP->query("name") ) 
+u/n/nsd/private/soap.c line 33: Undefined variable 'name' before TP->query("name") ) 
+u/n/nsd/private/soap.c line 33: Undefined variable 'name' before TP->query("name") ) 
+u/n/nsd/private/soap.c line 33: Undefined variable 'name' before TP->query("name") ) 
+u/n/nsd/private/soap.c line 33: Undefined variable 'name' before TP->query("name") ) 
+u/n/nsd/private/soap.c line 33: Undefined variable 'name' before TP->query("name") ) 
+u/n/nsd/private/soap.c line 33: Undefined variable 'name' before TP->query("name") ) 
+u/n/nsd/private/soap.c line 33: Undefined variable 'name' before TP->query("name") ) 
+u/n/nsd/private/test_hottie.c line 37: Undefined function set_damage before ;
+u/n/nsd/private/test_hottie.c line 37: Undefined function set_damage before ;
+open/path.c line 43: Missing type for argument before  string){
+open/path.c line 43: parse error before ){
+open/path1.c line 43: parse error before the end of line
+d/Planar/Abyss/Nazi/library/cyberparty/sewer.c line 38: parse error before ;
+d/Planar/Abyss/Nazi/library/cyberparty/sewer.c line 72: Illegal LHS before  i<5; i++) {
+d/Planar/Abyss/Nazi/library/cyberparty/sewer.c line 74: Illegal LHS before the end of line
+d/Planar/Abyss/Nazi/library/cyberparty/sewer.c line 74: parse error before the end of line
+d/Planar/Abyss/Nazi/library/cyberparty/sewer.c line 38: parse error before ,
+d/Planar/Abyss/Nazi/library/cyberparty/sewer.c line 72: Illegal LHS before  i<5; i++) {
+d/Planar/Abyss/Nazi/library/cyberparty/sewer.c line 74: Illegal LHS before the end of line
+d/Planar/Abyss/Nazi/library/cyberparty/sewer.c line 74: parse error before the end of line
+u/n/nsd/clown/jack_box.c line 56: Undefined variable 'turn' before  {
+u/n/nsd/clown/jack_box.c line 60: Reserved type name unexpected. before ;
+u/n/nsd/clown/jack_box.c line 60: parse error before ;
+u/n/nsd/clown/jack_box.c line 61: Illegal LHS before the end of line
+u/n/nsd/clown/jack_box.c line 62: Undefined variable 'jack' before  jack_flag) {
+u/n/nsd/clown/jack_box.c line 60: Reserved type name unexpected. before ;
+u/n/nsd/clown/jack_box.c line 60: parse error before ;
+u/n/nsd/clown/jack_box.c line 61: Illegal LHS before the end of line
+u/n/nsd/clown/jack_box.c line 62: Undefined variable 'jack' before  jack_flag) {
+u/n/nsd/clown/jack_box.c line 76: No such inherited function ::reset before ;
+u/n/nsd/clown/jack_box.c line 59: Reserved type name unexpected. before ;
+u/n/nsd/clown/jack_box.c line 59: parse error before ;
+u/n/nsd/clown/jack_box.c line 60: Illegal LHS before the end of line
+u/n/nsd/clown/jack_box.c line 61: Undefined variable 'jack' before  jack_flag) {
+u/n/nsd/clown/jack_box.c line 72: Reserved type name unexpected. before () {
+u/n/nsd/clown/jack_box.c line 72: parse error before () {
+u/n/nsd/clown/jack_box.c line 76: No such inherited function ::reset before ;
+d/Planar/Abyss/Nazi/mon/soldiers.c line 52: Undefined variable 'nazi' before force_me(protect"+ob
+d/Planar/Abyss/Nazi/mon/soldiers.c line 52: Undefined variable 'protect' before nazi"));
+d/Planar/Abyss/Nazi/mon/soldiers.c line 52: parse error before nazi"));
+d/Planar/Abyss/Nazi/mon/soldiers.c line 59: End of file in string before DOMAIN_D->query_doma
+d/Planar/Abyss/Nazi/mon/soldiers.c line 52: Undefined variable 'nazi' before force_me("protect"+o
+d/Planar/Abyss/Nazi/mon/soldiers.c line 52: Undefined variable 'ob' before query("nazi"));
+d/Planar/Abyss/Nazi/mon/soldiers.c line 53: Undefined variable 'name' before  environment(this_ob
+d/Planar/Abyss/Nazi/mon/soldiers.c line 53: Too many arguments to this_object before  ));
+d/Planar/Abyss/Nazi/mon/soldiers.c line 53: Bad argument 1 to efun environment() before );
+d/Planar/Abyss/Nazi/mon/soldiers.c line 54: Undefined variable 'nazi' before force_me("protect"+o
+d/Planar/Abyss/Nazi/mon/soldiers.c line 53: Undefined variable 'NAZI_MON' before "soldiers.c");
+d/Planar/Abyss/Nazi/mon/soldiers.c line 55: Undefined variable 'monster' before force_me("protect"+o
+d/Planar/Abyss/Nazi/mon/soldiers.c line 55: Undefined variable 'nazi' before force_me("protect"+o
+d/Planar/Abyss/Nazi/mon/soldiers.c line 55: Undefined variable 'nazi' before force_me("protect"+o
+d/Planar/Abyss/Nazi/mon/soldiers.c line 55: Undefined variable 'nazi' before  this_object(TO->que
+d/Planar/Abyss/Nazi/mon/soldiers.c line 55: Too many arguments to this_object before ;
+d/Planar/Abyss/Nazi/mon/soldiers.c line 55: Undefined variable 'nazi' before  this_object()->quer
+d/Planar/Abyss/Nazi/mon/soldiers.c line 53: Undefined variable 'monster' before force_me("protect "+
+d/Planar/Abyss/Nazi/mon/soldiers.c line 53: Undefined variable 'ob' before query("name"));
+d/Planar/Abyss/Nazi/mon/soldiers.c line 54: Too many arguments to this_object before ;
+d/Planar/Abyss/Nazi/mon/soldiers.c line 55: Bad assignment ( string vs object ). before ()->force_me("protec
+d/Planar/Abyss/Nazi/mon/soldiers.c line 55: parse error before ()->force_me("protec
+u/n/nsd/clown/fair/moonwalk.c line 49: Redeclaration of function walk. before the end of line
+u/n/nsd/clown/fair/moonwalk.c line 49: Redeclaration of function walk. before the end of line
+u/n/nsd/clown/fair/spoiled.c line 29: parse error before [C
+u/n/nsd/clown/fair/spoiled.c line 47: parse error before the end of file
+u/n/nsd/clown/fair/premoon.c line 36: parse error before  the ticket dispense
+u/n/nsd/clown/fair/premoon.c line 38: Undefined function berry before ){
+u/n/nsd/clown/fair/premoon.c line 37: Too many arguments to this_object before ;
+u/n/nsd/clown/fair/premoon.c line 37: Bad assignment ( unknown vs object ). before the end of line
+u/n/nsd/clown/fair/premoon.c line 40: Undefined function berry before ){
+u/n/nsd/clown/fair/premoon.c line 37: Bad assignment ( string vs object ). before the end of line
+u/n/nsd/clown/fair/premoon.c line 38: parse error before  (!str || str != "en
+u/n/nsd/clown/fair/premoon.c line 37: Bad assignment ( string vs object ). before the end of line
+u/n/nsd/clown/fair/premoon.c line 38: parse error before  (!str || str != "en
+u/n/nsd/clown/fair/premoon.c line 37: Bad assignment ( string vs object ). before the end of line
+u/n/nsd/clown/fair/premoon.c line 38: parse error before  (!str || str != "en
+u/n/nsd/clown/fair/premoon.c line 37: Bad assignment ( string vs object ). before the end of line
+u/n/nsd/clown/fair/premoon.c line 38: parse error before  (!str || str != "en
+u/n/nsd/clown/fair/premoon.c line 37: Bad assignment ( string vs object ). before the end of line
+u/n/nsd/clown/fair/premoon.c line 38: parse error before  (!str || str != "en
+u/n/nsd/clown/fair/premoon.c line 37: Bad assignment ( string vs object ). before the end of line
+u/n/nsd/clown/fair/premoon.c line 38: parse error before  (!str || str != "en
+u/n/nsd/clown/fair/premoon.c line 37: Bad assignment ( string vs object ). before the end of line
+u/n/nsd/clown/fair/premoon.c line 38: parse error before  (!str || str != "en
+u/n/nsd/clown/fair/premoon.c line 48: Undefined function strawberry before  && !told) {
+u/n/nsd/clown/fair/premoon.c line 52: No such inherited function ::heart_beat before ; 
+u/n/nsd/clown/fair/premoon.c line 61: Redeclaration of function strawberry. before the end of line
+u/n/nsd/clown/fair/premoon.c line 62: parse error before  0 ;
+u/n/nsd/clown/fair/premoon.c line 48: Undefined variable 'strawberry' before  this_object();
+u/n/nsd/clown/fair/premoon.c line 49: Undefined function strawberry before  && !told) {
+u/n/nsd/clown/fair/premoon.c line 53: No such inherited function ::heart_beat before ; 
+u/n/nsd/clown/fair/premoon.c line 62: Redeclaration of function strawberry. before the end of line
+u/n/nsd/clown/fair/premoon.c line 63: parse error before  0 ;
+u/n/nsd/clown/fair/premoon.c line 48: Undefined variable 'berry' before  this_object();
+u/n/nsd/clown/fair/premoon.c line 53: No such inherited function ::heart_beat before ; 
+u/n/nsd/clown/fair/premoon.c line 63: parse error before  0 ;
+u/n/nsd/clown/fair/premoon.c line 52: No such inherited function ::heart_beat before ; 
+u/n/nsd/clown/fair/premoon.c line 62: parse error before  0 ;
+u/n/nsd/clown/fair/premoon.c line 52: Reserved type name unexpected. before () {
+u/n/nsd/clown/fair/premoon.c line 52: parse error before () {
+u/n/nsd/clown/fair/premoon.c line 52: Reserved type name unexpected. before () {
+u/n/nsd/clown/fair/premoon.c line 52: parse error before () {
+u/n/nsd/clown/fair/premoon.c line 52: No such inherited function ::heart_beat before ; 
+u/n/nsd/clown/fair/premoon.c line 53: Reserved type name unexpected. before () {
+u/n/nsd/clown/fair/premoon.c line 53: parse error before () {
+u/n/nsd/clown/fair/premoon.c line 52: No such inherited function ::heart_beat before ; 
+u/n/nsd/clown/fair/premoon.c line 53: Reserved type name unexpected. before () {
+u/n/nsd/clown/fair/premoon.c line 53: parse error before () {
+u/n/nsd/clown/fair/halfman.c line 42: parse error before the end of line
+u/n/nsd/clown/fair/halfman.c line 42: parse error before the end of line
+u/n/nsd/clown/fair/halfman.c line 42: parse error before the end of line
+d/Planar/Abyss/Nazi/room/nazi10.c line 72: parse error before the end of file
+d/Planar/Abyss/Nazi/room/nazi10.c line 71: parse error before the end of file
+d/Planar/Abyss/Nazi/room/nazi10.c line 70: parse error before the end of file
+d/Planar/Abyss/Nazi/room/nazi10.c line 59: parse error before the end of line
+d/Planar/Abyss/Nazi/room/nazi10.c line 70: parse error before the end of file
+d/Planar/Abyss/Nazi/room/nazi10.c line 71: parse error before the end of file
+d/Planar/Abyss/Nazi/room/nazi10.c line 51: Reserved type name unexpected. before ()
+d/Planar/Abyss/Nazi/room/nazi10.c line 51: parse error before ()
+d/Planar/Abyss/Nazi/room/nazi10.c line 81: parse error before the end of file
+d/Planar/Abyss/Nazi/room/nazi10.c line 81: parse error before the end of file
+d/Planar/Abyss/Nazi/room/nazi10.c line 80: parse error before the end of file
+d/Planar/Abyss/Nazi/room/nazi10.c line 79: parse error before the end of line
+d/Planar/Abyss/Nazi/room/nazi11.c line 51: Reserved type name unexpected. before () {
+d/Planar/Abyss/Nazi/room/nazi11.c line 51: parse error before () {
+d/Planar/Abyss/Nazi/room/nazi7.c line 51: Reserved type name unexpected. before () {
+d/Planar/Abyss/Nazi/room/nazi7.c line 51: parse error before () {
+u/n/nsd/clown/fair/moonwalk.c line 127: parse error before =="sodomize" str=="s
+u/n/nsd/clown/fair/moonwalk.c line 143: Illegal LHS before i<5;i++) {
+u/n/nsd/clown/fair/moonwalk.c line 144: Illegal LHS before the end of line
+u/n/nsd/clown/fair/moonwalk.c line 144: parse error before the end of line
+u/n/nsd/clown/fair/moonwalk.c line 149: Illegal LHS before the end of line
+u/n/nsd/clown/fair/moonwalk.c line 158: Illegal LHS before the end of line
+u/n/nsd/clown/fair/halfman.c line 42: parse error before the end of line
+open/nazi10.c line 6: Cannot #include nazi.h before #include <config.h>
+open/nazi10.c line 41: Undefined variable 'NAZI_MON' before "soldiers.c");
+u/n/nsd/clown/fair/halfman.c line 42: parse error before the end of line
+u/n/nsd/clown/fair/halfman.c line 42: parse error before ) );
+u/n/nsd/clown/fair/moonwalk.c line 103: parse error before the end of line
+u/n/nsd/private/gag.c line 32: Undefined variable 'busy' before  {
+u/n/nsd/private/gag.c line 35: parse error before ("look" && "tell" &&
+d/Planar/Abyss/Nazi/room/nazi13.c line 61: parse error before the end of file
+u/n/nsd/fair/room/premoon.c line 26: Undefined variable 'FAIR_ROOM' before "moonwalk.c",
+u/n/nsd/fair/room/premoon.c line 31: Undefined variable 'FAIR_MON' before "tkguy.c",
+open/mare7.c line 28: Undefined variable 'LUST' before "mare6.c",
+open/mare7.c line 34: Undefined variable 'NAZI_MON' before "edrich.c",
+u/n/nsd/toherself.c line 53: Undefined variable 'MOUT' before  Clown jumps $D.);
+u/n/nsd/toherself.c line 53: Undefined variable 'Clown' before  $D.);
+u/n/nsd/toherself.c line 53: parse error before  $D.);
+u/n/nsd/toherself.c line 53: $var illegal outside of function pointer. before D.);
+u/n/nsd/fair/room/prefreak.c line 60: Undefined variable 'ticket' before  {
+u/n/nsd/fair/room/prefreak.c line 71: parse error before  0;
+u/n/nsd/fair/room/prefreak.c line 60: Undefined variable 'ticket' before  {
+u/n/nsd/fair/room/prefreak.c line 71: parse error before  0;
+u/n/nsd/fair/room/prefreak.c line 60: Undefined variable 'ticket' before  {
+u/n/nsd/fair/room/prefreak.c line 71: parse error before  0;
+open/cave13.c line 4: Cannot #include insane.h before the end of line
+open/cave13.c line 24: Undefined variable 'INS_ROOM' before "cave12.c",
+open/cave13.c line 33: Undefined variable 'INS_MON' before "janice.c");
+open/cave13.c line 44: parse error before the end of file
+open/cave13.c line 44: parse error before the end of file
+u/n/nsd/fair/mon/image.c line 46: Invalid argument types to '+' ( string vs object ) before query_current_attack
+u/n/nsd/fair/mon/image.c line 46: parse error before query_current_attack
+u/n/nsd/fair/mon/image.c line 46: Invalid argument types to '+' ( string vs object ) before query_current_attack
+u/n/nsd/fair/mon/image.c line 46: parse error before query_current_attack
+u/n/nsd/fair/mon/image.c line 46: Invalid argument types to '+' ( string vs object ) before ""
+u/n/nsd/fair/mon/image.c line 47: parse error before the end of line
+u/n/nsd/fair/mon/image.c line 46: parse error before ()""
+open/sewer.c line 8: Cannot #include nazi.h before int rat_flag = 0; //
+open/sewer.c line 31: Undefined variable 'POOL' before "pool.c",
+open/sewer.c line 61: Undefined variable 'NAZI_MON' before "mudrat2.c",
+open/sewer.c line 78: Undefined variable 'NAZI_MON' before "mudrat.c");
+open/spcave19.c line 5: parse error before the end of line
+open/spcave20.c line 68: Undefined variable 'u' before t/tyran/spsword.c");
+open/spcave20.c line 68: Bad argument 1 to '/': "string " before t/tyran/spsword.c");
+open/spcave20.c line 68: Undefined variable 't' before tyran/spsword.c");
+open/spcave20.c line 68: Undefined variable 'tyran' before spsword.c");
+open/spcave20.c line 68: Bad argument 2 to '/': "object " before c");
+open/spcave20.c line 68: parse error before c");
+open/spcave20.c line 67: Reserved type name unexpected. before ;
+open/spcave20.c line 67: parse error before ;
+open/spcave20.c line 68: Illegal LHS before the end of line
+open/spcave20.c line 69: Undefined variable 'spsword' before move(this_object());
+open/spcave20.c line 67: Reserved type name unexpected. before ;
+open/spcave20.c line 67: parse error before ;
+open/spcave20.c line 68: Illegal LHS before the end of line
+open/spcave20.c line 69: Undefined variable 'spsword' before move(this_object());
+open/spcave20.c line 64: Reserved type name unexpected. before ;
+open/spcave20.c line 64: parse error before ;
+open/spcave20.c line 68: Illegal LHS before the end of line
+open/spcave20.c line 69: Undefined variable 'spsword' before move(this_object());
+open/spcave20.c line 64: Reserved type name unexpected. before ;
+open/spcave20.c line 64: parse error before ;
+open/spcave20.c line 65: Illegal LHS before the end of line
+open/spcave20.c line 69: Undefined variable 'spsword' before move(this_object());
+u/n/nsd/fair/mon/image.c line 46: parse error before ()""
+u/n/nsd/fair/room/mirrors1.c line 28: Undefined variable 'FAIR_MOON' before "premirror.c",
+u/n/nsd/fair/room/mirrors3.c line 52: parse error before ".\n");
+u/n/nsd/fair/room/mirrors3.c line 56: Illegal LHS before  }
+u/n/nsd/fair/room/mirrors3.c line 52: parse error before ".\n");
+u/n/nsd/fair/room/mirrors3.c line 56: Illegal LHS before  }
+d/Planar/Abyss/Nazi/room/nazi1.c line 30: Undefined variable 'NAZI_ROOM' before "nazi5.c",
+d/Planar/Abyss/Nazi/room/nazi1.c line 11: parse error before the end of line
+open/image.c line 65: parse error before  (i=1; i<=2; i++) {
+open/image.c line 66: Undefined variable 'i' before 1; i<=2; i++) {
+open/image.c line 67: Undefined variable 'targ' before query("weapon"+i);
+open/image.c line 73: Reserved type name unexpected. before () {
+open/image.c line 73: parse error before () {
+open/image.c line 64: Undefined variable 'i' before 1; i<=2; i++) {
+open/image.c line 65: Illegal to redeclare local name 'ob' before  = (object)targ->que
+open/image.c line 65: Undefined variable 'targ' before query("weapon"+i);
+open/image.c line 71: Reserved type name unexpected. before () {
+open/image.c line 71: parse error before () {
+open/image.c line 64: parse error before  (i=1; i<=2; i++) {
+open/spcave20.c line 82: Reserved type name unexpected. before () {
+open/spcave20.c line 82: parse error before () {
+open/spcave20.c line 83: Illegal LHS before the end of line
+d/Planar/Abyss/Nazi/room/nazi3.c line 28: Undefined variable 'NAZI_ROOM' before "nazi5.c",
+u/n/nsd/private/glove.c line 85: End of file in text block before cwf");
+u/n/nsd/private/glove.c line 85: parse error before cwf");
+u/n/nsd/ragevortex/entrance.c line 42: parse error before ,
+u/n/nsd/ragevortex/entrance.c line 42: parse error before ;
+open/spider.h line 8: parse error before the end of line
+open/anvil.c line 54: Undefined variable 'wizardtp' before  {
+u/n/nsd/fair/room/ticketsell.c line 39: End of file in text block before ecial_attack() {
+u/n/nsd/fair/room/ticketsell.c line 39: parse error before ecial_attack() {
+u/n/nsd/fair/mon/tkseller.c line 43: parse error before the end of line
+u/n/nsd/fair/room/ticketsell.c line 39: End of file in text block before er seller says: Com 
+u/n/nsd/fair/room/ticketsell.c line 39: parse error before er seller says: Com 
+u/n/nsd/fair/obj/nacho.c line 22: Undefined variable 'nacho' before  {
+u/n/nsd/fair/obj/nacho.c line 26: Undefined variable 'bowl' before  {
+u/n/nsd/fair/obj/nacho.c line 22: Undefined variable 'nacho' before  {
+u/n/nsd/fair/obj/nacho.c line 26: Undefined variable 'bowl' before  {
+u/n/nsd/fair/obj/nachobowl.c line 24: Undefined variable 'FAIR_OBJ' before "nacho.c");
+u/n/nsd/fair/obj/nacho.c line 23: Undefined function enviornnment before );
+u/n/nsd/fair/obj/nacho.c line 27: "#pragma strict_types" requires type of function before "You dip your nacho 
+u/n/nsd/fair/obj/nacho.c line 27: parse error before );
+u/n/nsd/fair/obj/nacho.c line 23: Undefined function enviornnment before );
+u/n/nsd/fair/obj/nacho.c line 27: "#pragma strict_types" requires type of function before "You dip your nacho 
+u/n/nsd/fair/obj/nacho.c line 27: parse error before );
+u/n/nsd/fair/room/junkfood.c line 31: parse error before );
+u/n/nsd/fair/mon/candyman.c line 14: Undefined variable 'told' before  0;
+u/n/nsd/fair/obj/beer.c line 24: parse error before ;
+u/n/nsd/fair/obj/beer.c line 24: parse error before ;
+u/n/nsd/fair/obj/beer.c line 26: parse error before );
+u/n/nsd/ragevortex/mon/minocow.c line 68: Undefined variable 'MINA_OBJ' before "milk.c");
+u/n/nsd/ragevortex/mon/minotaurwar.c line 112: Undefined variable 'MINA_OBJ' before "hornaxe.c");
+open/galin.c line 34: parse error before the end of line
+open/galin.c line 39: parse error before [A[B);
+open/galin.c line 15: Illegal character constant before hort", "Galin");
+open/galin.c line 15: parse error before ", "Galin");
+open/galin.c line 37: Illegal character constant before  solve a crap. I'm a
+open/galin.c line 37: Illegal character constant before  an ornament.\n",
+open/galin.c line 46: End of file in string before cmd_m";
+open/wolf.c line 44: Undefined variable 'female' before  {
+u/n/nsd/private/wolf.c line 61: Reserved type name unexpected. before () {
+u/n/nsd/private/wolf.c line 61: parse error before () {
+u/n/nsd/private/wolf.c line 61: Reserved type name unexpected. before () {
+u/n/nsd/private/wolf.c line 61: parse error before () {
+u/n/nsd/private/wolf.c line 80: parse error before the end of file
+u/n/nsd/private/wolf.c line 92: parse error before the end of line
+u/n/nsd/private/wolf.c line 77: Undefined variable 'nsd' before  {
+u/n/nsd/private/wolf.c line 94: parse error before  (TO->query("name") 
+u/n/nsd/private/wolf.c line 94: parse error before (!TO) return 1;
+u/n/nsd/private/wolf.c line 93: parse error before the end of line
+u/n/nsd/private/wolf.c line 93: parse error before  {
+u/n/nsd/private/wolf.c line 90: parse error before  (TP->query("gender"
+u/n/nsd/private/wolf.c line 90: parse error before  (TP->query("gender"
+u/n/nsd/private/wolf.c line 89: parse error before  (TP->query("gender"
+u/n/nsd/private/wolf.c line 87: parse error before ;
+u/n/nsd/private/wolf.c line 116: parse error before the end of file
+u/n/nsd/private/wolf.c line 109: parse error before  (TP->query("name") 
+u/n/nsd/private/wolf.c line 110: Illegal lvalue before  "nsd") {
+u/n/nsd/private/wolf.c line 118: parse error before the end of line
+u/n/nsd/private/wolf.c line 110: Illegal lvalue before  "nsd") {
+u/n/nsd/private/wolf.c line 110: Illegal lvalue before  "nsd") {
+u/n/nsd/private/wolf.c line 124: End of file in a comment before the end of file
+u/n/nsd/ragevortex/mon/minocow.c line 13: No such inherited function ::create before ;
+u/n/nsd/ragevortex/mon/minocow.c line 18: Undefined function set before ;
+u/n/nsd/ragevortex/mon/minocow.c line 28: Undefined function set_size before ;
+u/n/nsd/ragevortex/mon/minocow.c line 29: Undefined function set_name before ;
+u/n/nsd/ragevortex/mon/minocow.c line 38: Undefined function set_verbs before  ;
+u/n/nsd/ragevortex/mon/minocow.c line 63: Undefined function set_level before ;
+u/n/nsd/ragevortex/mon/minocow.c line 13: No such inherited function ::create before ;
+u/n/nsd/ragevortex/mon/minocow.c line 16: Undefined function set before ;
+u/n/nsd/ragevortex/mon/minocow.c line 26: Undefined function set_size before ;
+u/n/nsd/ragevortex/mon/minocow.c line 27: Undefined function set_name before ;
+u/n/nsd/ragevortex/mon/minocow.c line 36: Undefined function set_verbs before  ;
+u/n/nsd/ragevortex/mon/minocow.c line 57: Undefined function set_level before ;
+u/n/nsd/ragevortex/mon/minocow.c line 15: Undefined variable 'horn' before  clone_object(MINA_O
+open/lpelt.c line 15: End of file in text block before  with a player objec
+open/lpelt.c line 15: parse error before  with a player objec
+open/lpelt.c line 16: End of file in text block before ta"
+open/lpelt.c line 16: parse error before ta"
+open/lpelt.c line 5: No such inherited function ::create before ;
+open/lpelt.c line 18: End of file in text block before rd
+open/lpelt.c line 18: parse error before rd
+open/lpelt.c line 15: parse error before the end of line
+u/n/nsd/ragevortex/room/entrancebk.c line 41: parse error before the end of line
+u/n/nsd/ragevortex/room/room2.c line 42: parse error before " in flashy letters.
+u/n/nsd/obj/toys/razor.c line 45: Reserved type name unexpected. before (string str) {
+u/n/nsd/obj/toys/razor.c line 45: parse error before (string str) {
+u/n/nsd/obj/toys/razor.c line 51: Undefined variable 'str' before  ;
+u/n/nsd/obj/toys/razor.c line 51: Type mismatch ( unknown vs object ) when initializing target before the end of line
+u/n/nsd/obj/toys/razor.c line 51: Missing type before the end of line
+u/n/nsd/obj/toys/razor.c line 52: parse error before  (!target || target-
+u/n/nsd/obj/toys/razor.c line 44: Reserved type name unexpected. before (string str) {
+u/n/nsd/obj/toys/razor.c line 44: parse error before (string str) {
+u/n/nsd/obj/toys/razor.c line 50: Undefined variable 'str' before  ;
+u/n/nsd/obj/toys/razor.c line 50: Type mismatch ( unknown vs object ) when initializing target before the end of line
+u/n/nsd/obj/toys/razor.c line 50: Missing type before the end of line
+u/n/nsd/obj/toys/razor.c line 51: parse error before  (!target || target-
+u/n/nsd/obj/toys/razor.c line 44: Reserved type name unexpected. before  (string str) {
+u/n/nsd/obj/toys/razor.c line 44: parse error before  (string str) {
+u/n/nsd/obj/toys/razor.c line 50: Undefined variable 'str' before  ;
+u/n/nsd/obj/toys/razor.c line 50: Type mismatch ( unknown vs object ) when initializing target before the end of line
+u/n/nsd/obj/toys/razor.c line 50: Missing type before the end of line
+u/n/nsd/obj/toys/razor.c line 51: parse error before  (!target || target-
+open/sign.c line 34: Illegal lvalue before  "sebastian") {
+open/sign.c line 31: Illegal lvalue before  "sebastian") {
+open/sign.c line 35: Reserved type name unexpected. before ;
+open/sign.c line 35: parse error before ;
+open/sign.c line 31: Illegal lvalue before  "sebastian") {
+open/sign.c line 35: Reserved type name unexpected. before ;
+open/sign.c line 35: parse error before ;
+open/sign.c line 35: Reserved type name unexpected. before ;
+open/sign.c line 35: parse error before ;
+open/sign2.c line 72: parse error before  (TPN==!"Tyran") ret
+open/sign2.c line 77: parse error before the end of file
+u/n/nsd/obj/toys/razor.c line 32: parse error before the end of line
+u/n/nsd/obj/toys/razor.c line 31: parse error before the end of line
+u/n/nsd/obj/toys/razor.c line 80: Undefined variable 'face' before  ;
+open/bathroom.c line 43: No such inherited function ::init before ;
